@@ -343,12 +343,6 @@
     <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
       <title>Experimentation Hub</title>
     </bookmark>
-    <folder id="167">
-      <title>Typescript</title>
-      <bookmark href="https://www.totaltypescript.com/articles" id="166">
-        <title>TypeScript Articles by Matt Pocock | Total TypeScript</title>
-      </bookmark>
-    </folder>
   </folder>
   <folder id="322">
     <title>Work</title>
@@ -957,6 +951,12 @@
     <title>SOLO leveling</title>
     <bookmark href="https://duckduckgo.com/?q=solo+leveling+guide&amp;t=ffab&amp;ia=web" id="197">
       <title>solo leveling guide at DuckDuckGo</title>
+    </bookmark>
+  </folder>
+  <folder id="167">
+    <title>Typescript</title>
+    <bookmark href="https://www.totaltypescript.com/articles" id="166">
+      <title>TypeScript Articles by Matt Pocock | Total TypeScript</title>
     </bookmark>
   </folder>
 </folder>
