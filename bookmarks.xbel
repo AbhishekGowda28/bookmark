@@ -102,36 +102,6 @@
     <title>Floccus (Primary)</title>
     <folder id="12">
       <title>🗑️</title>
-      <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
-        <title>Becoming Data Driven, From First Principles - Commoncog</title>
-      </bookmark>
-      <bookmark href="https://miro.com/app/board/uXjVNCjx6ns=/?userEmail=sravanth.jasti@vista.com&amp;openComment=3458764575962202834&amp;mid=2456617&amp;utm_source=notification&amp;utm_medium=email&amp;utm_campaign=mentions&amp;utm_content=header-to-thread" id="68">
-        <title>Q3 FY24 DIY-Studio Roadm, Visual Workspace for Innovation</title>
-      </bookmark>
-      <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
-        <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VKB/pages/3296788558/Snyk+Basics" id="70">
-        <title>Snyk Basics - VSec Knowledge Base - Confluence</title>
-      </bookmark>
-      <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="71">
-        <title>Custom Signs, Business Signage Printing | VistaPrint</title>
-      </bookmark>
-      <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
-        <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
-      </bookmark>
-      <bookmark href="https://www.svgviewer.dev/" id="73">
-        <title>SVG Viewer - View, edit, and optimize SVGs</title>
-      </bookmark>
-      <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
-        <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
-      </bookmark>
-      <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
-        <title>The FOUC Problem | WebKit</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2557707184/PR3+Front-End+Engineer+Training+-+Pooja+Hwang" id="76">
-        <title>PR3 Front-End Engineer Training - Pooja Hwang - Design Technology Domain - Confluence</title>
-      </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SCV/pages/3436085341/RFC+-+Spell+check+validation" id="132">
         <title>RFC - Spell check validation - Spell Check Validation - Confluence</title>
       </bookmark>
@@ -528,6 +498,18 @@
     </bookmark>
     <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
       <title>Cortex | Home</title>
+    </bookmark>
+    <bookmark href="https://miro.com/app/board/uXjVNCjx6ns=/?userEmail=sravanth.jasti@vista.com&amp;openComment=3458764575962202834&amp;mid=2456617&amp;utm_source=notification&amp;utm_medium=email&amp;utm_campaign=mentions&amp;utm_content=header-to-thread" id="68">
+      <title>Q3 FY24 DIY-Studio Roadm, Visual Workspace for Innovation</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VKB/pages/3296788558/Snyk+Basics" id="70">
+      <title>Snyk Basics - VSec Knowledge Base - Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="71">
+      <title>Custom Signs, Business Signage Printing | VistaPrint</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2557707184/PR3+Front-End+Engineer+Training+-+Pooja+Hwang" id="76">
+      <title>PR3 Front-End Engineer Training - Pooja Hwang - Design Technology Domain - Confluence</title>
     </bookmark>
   </folder>
   <folder id="168">
@@ -936,6 +918,24 @@
     </bookmark>
     <bookmark href="https://github.com/course-one" id="66">
       <title>course-one · GitHub</title>
+    </bookmark>
+    <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
+      <title>Becoming Data Driven, From First Principles - Commoncog</title>
+    </bookmark>
+    <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
+      <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
+    </bookmark>
+    <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
+      <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
+    </bookmark>
+    <bookmark href="https://www.svgviewer.dev/" id="73">
+      <title>SVG Viewer - View, edit, and optimize SVGs</title>
+    </bookmark>
+    <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
+      <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
+    </bookmark>
+    <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
+      <title>The FOUC Problem | WebKit</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
