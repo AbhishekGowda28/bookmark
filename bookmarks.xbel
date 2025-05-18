@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :347: for Floccus bookmark sync browser extension -->
+<!--- highestId :348: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -929,6 +929,9 @@
       </bookmark>
       <bookmark href="https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1" id="332">
         <title>🤯 30DaysChallenge - 30 Days Extreme HTML &amp; CSS CHALLENGE 🤯 - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://kettanaito.com/blog/why-fetch-promise-doesnt-reject-on-error-responses" id="348">
+        <title>Why Fetch Promise Doesn&apos;t Reject on Error Responses - kettanaito.com</title>
       </bookmark>
     </folder>
   </folder>
