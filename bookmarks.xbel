@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :397: for Floccus bookmark sync browser extension -->
+<!--- highestId :400: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1072,6 +1072,9 @@
     <bookmark href="https://tooling.github.io/book-of-modern-frontend-tooling/" id="397">
       <title>Book of Modern frontend tooling</title>
     </bookmark>
+    <bookmark href="https://www.nngroup.com/articles/author/alita-kendrick/" id="398">
+      <title>Articles and Videos by Alita Kendrick - NN/g</title>
+    </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
     <title>Live updates of stocks, corporate actions and business updates</title>
@@ -1110,6 +1113,12 @@
     </bookmark>
     <bookmark href="https://www.reddit.com/r/Piracy/comments/17ozvil/sliderkz_alternative/" id="355">
       <title>Slider.kz alternative : r/Piracy</title>
+    </bookmark>
+  </folder>
+  <folder id="399">
+    <title>Finance</title>
+    <bookmark href="https://sovrenn.com/knowledge" id="400">
+      <title>Sovrenn Knowledge</title>
     </bookmark>
   </folder>
 </folder>
