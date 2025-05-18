@@ -1,13 +1,496 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4: for Floccus bookmark sync browser extension -->
+<!--- highestId :165: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
   <folder id="4">
     <title>Floccus (Primary)</title>
   </folder>
+  <folder id="5">
+    <title>Learning</title>
+    <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="17">
+      <title>Cimpress India</title>
+    </bookmark>
+    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="18">
+      <title>Cimpress &amp; Vista</title>
+    </bookmark>
+    <bookmark href="https://learn.acloud.guru/dashboard" id="19">
+      <title>Dashboard - A Cloud Guru</title>
+    </bookmark>
+    <bookmark href="https://learn.acloud.guru/course/aws-certified-developer-associate/overview" id="20">
+      <title>AWS Certified Developer - Associate (DVA-C02) - A Cloud Guru</title>
+    </bookmark>
+    <bookmark href="https://learn.acloud.guru/custom-learning-path/7f9711ef-d0f2-4498-a694-04568a63b0de" id="21">
+      <title>Fundamentals @ Cimpress - A Cloud Guru</title>
+    </bookmark>
+    <bookmark href="https://cimpressindia.udemy.com/home/my-courses/learning/?progress_filter=in-progress" id="22">
+      <title>My learning | Udemy Business</title>
+    </bookmark>
+    <bookmark href="https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969" id="23">
+      <title>How the browser renders a web page? — DOM, CSSOM, and Rendering | by Uday Hiwarale | JsPoint | Medium</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/learning/?u=270841162" id="24">
+      <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
+    </bookmark>
+    <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
+      <title>Live updates of stocks, corporate actions and business updates</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/1788" id="26">
+      <title>DTD Support - Incident Board</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253" id="106">
+      <title>8 Frontend Tools to Become a Better Developer | by Mohit Vaswani | Medium</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/" id="107">
+      <title>Explore 3000+ Free UI Elements: CSS &amp; Tailwind</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/elements?page=3" id="108">
+      <title>5005 UI elements: CSS &amp; Tailwind</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
+      <title>CSS Logical Properties | CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="110">
+      <title>HTML Standard</title>
+    </bookmark>
+    <bookmark href="https://book.inclusive-components.design/" id="111">
+      <title>Inclusive Components: The Book</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>Vista</title>
+    <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP" id="27">
+      <title>SuccessFactors: Home</title>
+    </bookmark>
+    <bookmark href="https://vimeo.com/user/135782719/folder/15453705" id="28">
+      <title>Vista on Vimeo</title>
+    </bookmark>
+    <bookmark href="https://ess.hgsbs.com/Login" id="29">
+      <title>HGS</title>
+    </bookmark>
+    <bookmark href="https://nexus.cimpress.net/" id="30">
+      <title>Nexus</title>
+    </bookmark>
+    <bookmark href="https://us2.concursolutions.com/home.asp" id="31">
+      <title>Concur</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>Resources</title>
+    <bookmark href="https://developer.cimpress.io/software-catalog" id="32">
+      <title>Software Catalog</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/" id="33">
+      <title>VistaPrint </title>
+    </bookmark>
+    <bookmark href="https://live.browserstack.com/" id="34">
+      <title>New Tab</title>
+    </bookmark>
+    <bookmark href="https://app.optimizely.com/v2/projects/15682510889/experiments" id="35">
+      <title>Vista | Optimizely Experiments</title>
+    </bookmark>
+    <bookmark href="https://renderrush.digital.vistaprint.io/demo" id="36">
+      <title>RenderRush Demo</title>
+    </bookmark>
+    <bookmark href="https://cimpress.eu.looker.com/browse/favorites" id="37">
+      <title>Looker</title>
+    </bookmark>
+    <bookmark href="https://one.newrelic.com/nr1-core?account=2429158&amp;state=70844d98-9526-09fe-d985-9e756b84c957" id="38">
+      <title>New Relic </title>
+    </bookmark>
+    <bookmark href="https://vistaprint.quantummetric.com/#/shared_dashboards/2c91c346-deb5-4f50-be65-d0112bb5dd5e" id="39">
+      <title>Vistaprint | Quantum Metric</title>
+    </bookmark>
+    <bookmark href="https://vista.design/swan/components/responsive-system/" id="40">
+      <title>Responsive System | Components</title>
+    </bookmark>
+    <bookmark href="https://vista.pagerduty.com/users/PQNBSQ5/on-call/month" id="41">
+      <title>Users - On-Call - PagerDuty</title>
+    </bookmark>
+    <bookmark href="https://pim.products.cimpress.io/merchant/products/PRD-WHVSX0JNJ/versions/32/details/property" id="112">
+      <title>MCP PIM</title>
+    </bookmark>
+    <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="113">
+      <title>Studio-Calcifer - Production | Software Catalog</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="114">
+      <title>VistaPrint | Upload your design</title>
+    </bookmark>
+    <bookmark href="https://packages.developer.cimpress.io/" id="115">
+      <title>Cimpress Package Explorer</title>
+    </bookmark>
+    <bookmark href="https://manage-access.pdw.cimpress.io/" id="116">
+      <title>PDW Access Management</title>
+    </bookmark>
+    <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
+      <title>Product Grouping</title>
+    </bookmark>
+    <bookmark href="https://cimpressindia.zendesk.com/hc/en-us" id="118">
+      <title>Home</title>
+    </bookmark>
+    <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
+      <title>front end Interview</title>
+    </bookmark>
+    <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="120">
+      <title>Snippets in Visual Studio Code</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/overview?homepageId=1508579391" id="121">
+      <title>Product Development - Confluence</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>Localhost</title>
+    <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-US&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="42">
+      <title>Standard BC</title>
+    </bookmark>
+    <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=fr-ca&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="43">
+      <title>SBC - fr-CA</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-WHVSX0JNJ&amp;productVersion=32&amp;locale=en-us&amp;selectedOptions=%7B%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=mailingServicesPostcard&amp;qty=50" id="44">
+      <title>Mailing Services Postcards</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-ENRS4XZIS&amp;productVersion=25&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=postcards&amp;qty=50" id="45">
+      <title>Postcards</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/studio5/?key=PRD-IWMH1LKZ&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Decoration+Area%22%3A%22Full+Front%22%2C%22Substrate+Color%22%3A%22%23D2D6D9%22%2C%22Decoration+Technology%22%3A%22Single+Color%22%7D&amp;fullBleedElected=true&amp;mpvId=caBasicTShirts&amp;qty=6" id="46">
+      <title>T-shirt : Screen printing</title>
+    </bookmark>
+    <bookmark href="https://uploads.documents.cimpress.io/furl/" id="47">
+      <title>uploads.documents.cimpress.io/furl/</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>Confluence</title>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYP/overview?homepageId=2746254670" id="48">
+      <title>DIY Print - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2658403269/Job+Postings#What-You-Will-Do%3A" id="49">
+      <title>Job Postings - Design Technology Domain - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3286307258/DIY+Core+Platform" id="50">
+      <title>DIY Core Platform - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CimpressIndia/pages/10176234156/Lightning+Talks-Technology" id="51">
+      <title>Lightning Talks-Technology - Cimpress India - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1418429209/Compensation" id="52">
+      <title>Compensation - Remote-First Handbook - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DCR/pages/570230228/CDIF+Proposed+Features" id="53">
+      <title>CDIF Proposed Features - CT Artwork Processing - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2892859566/Vista+Engineering+Academy" id="54">
+      <title>Vista Engineering Academy - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/MT/pages/848167048/Product+Page+v2+Testing+Guide" id="55">
+      <title>Product Page v2 Testing Guide - Foundations Technology - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/FSDT/pages/3207038583/Typings+with+Module+Federation" id="56">
+      <title>Typings with Module Federation - Design and Service Technology - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3258844093/Studio+Item+Plug-in+API" id="57">
+      <title>Studio Item Plug-in API - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/8028127929/Looker+Access+Management+UI" id="122">
+      <title>Looker Access Management UI - Cimpress Documentation - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DCR/pages/15176728588/Sherbert+FAQ" id="123">
+      <title>Sherbert FAQ - CT Artwork Processing - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/overview" id="124">
+      <title>DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3274544867/Consolidated+Q1+FY24+OKRs+for+All+Domains#%F0%9F%9B%A0%EF%B8%8F-DIY-Content" id="125">
+      <title>Consolidated Q1 FY24 OKRs for All Domains - Product Development - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="126">
+      <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3274544867/Consolidated+Q1+FY24+OKRs+for+All+Domains#%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-DIY-Editor" id="127">
+      <title>Consolidated Q1 FY24 OKRs for All Domains - Product Development - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/pages/3348727792/FY23+Q1" id="128">
+      <title>FY23 Q1 - Abhishek Gowda - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYC/overview" id="129">
+      <title>DIY Content - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/blogs" id="130">
+      <title>Blogs - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3388539990/Empowered+Product+Teams+-+Glossary+of+Terms" id="131">
+      <title>Empowered Product Teams - Glossary of Terms - Product Development - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3484026118/SVG+Recolorization+SIM+decide+on+content+discovery+interface" id="144">
+      <title>SVG Recolorization SIM: decide on content discovery interface - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3370420928/Add+White+Border+Validation+to+QUAD+-+Learning+Agenda" id="145">
+      <title>Add White Border Validation to QUAD - Learning Agenda - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2501017942/How+to+use+the+Revenue+Path" id="146">
+      <title>How to use the Revenue Path? - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PA1/pages/3322019841/Learning+Agendas+Template+2.1" id="147">
+      <title>Learning Agendas Template 2.1 - Product Analytics - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2935063729/How+to+get+a+custom+event+for+your+metric" id="148">
+      <title>How to get a custom event for your metric? - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/FDOM/pages/3120596201/How+to+check+if+an+experiment+is+set+up+correctly#Step-4.-The-Experiment-Viewed-event-is-fired-and-the-data-landed-Optimizely-results%2C-but-one-(or-several)-of-the-metrics-isn%E2%80%99t-working" id="149">
+      <title>How to check if an experiment is set up correctly - Domain: Foundations - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3109322875/O+Reilly+for+Vista+Engineering" id="150">
+      <title>O&apos;Reilly for Vista Engineering - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VSC/pages/2549909217/The+Vista+Behaviors#Relentlessly-learn-and-improve" id="151">
+      <title>The Vista Behaviors - Vista Strategy Center - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3277750706/Accessibility+Champion" id="152">
+      <title>Accessibility Champion - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://myjwt.cimpress.io/#/" id="153">
+      <title>My JWT</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>👀</title>
+    <bookmark href="http://1.22.220.238/budget" id="58">
+      <title>Actual</title>
+    </bookmark>
+    <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
+      <title>React App</title>
+    </bookmark>
+    <bookmark href="https://pairdrop.net/" id="60">
+      <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/44008766/Ramon+s+Rambles" id="61">
+      <title>Ramon&apos;s Rambles - Design Technology Domain - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/REC/pages/2965046925/Computer+setup" id="62">
+      <title>Computer setup - Recommendations - Confluence</title>
+    </bookmark>
+    <bookmark href="https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c?ref=dailydev" id="63">
+      <title>Open Source alternatives to tools you Pay for - DEV Community</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>🧍‍♂️</title>
+    <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
+      <title>Cortex | Home</title>
+    </bookmark>
+    <bookmark href="https://ilya.grigorik.com/" id="65">
+      <title>Ilya Grigorik</title>
+    </bookmark>
+    <bookmark href="https://github.com/course-one" id="66">
+      <title>course-one · GitHub</title>
+    </bookmark>
+  </folder>
+  <folder id="12">
+    <title>🗑️</title>
+    <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
+      <title>Becoming Data Driven, From First Principles - Commoncog</title>
+    </bookmark>
+    <bookmark href="https://miro.com/app/board/uXjVNCjx6ns=/?userEmail=sravanth.jasti@vista.com&amp;openComment=3458764575962202834&amp;mid=2456617&amp;utm_source=notification&amp;utm_medium=email&amp;utm_campaign=mentions&amp;utm_content=header-to-thread" id="68">
+      <title>Q3 FY24 DIY-Studio Roadm, Visual Workspace for Innovation</title>
+    </bookmark>
+    <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
+      <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VKB/pages/3296788558/Snyk+Basics" id="70">
+      <title>Snyk Basics - VSec Knowledge Base - Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="71">
+      <title>Custom Signs, Business Signage Printing | VistaPrint</title>
+    </bookmark>
+    <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
+      <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
+    </bookmark>
+    <bookmark href="https://www.svgviewer.dev/" id="73">
+      <title>SVG Viewer - View, edit, and optimize SVGs</title>
+    </bookmark>
+    <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
+      <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
+    </bookmark>
+    <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
+      <title>The FOUC Problem | WebKit</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2557707184/PR3+Front-End+Engineer+Training+-+Pooja+Hwang" id="76">
+      <title>PR3 Front-End Engineer Training - Pooja Hwang - Design Technology Domain - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SCV/pages/3436085341/RFC+-+Spell+check+validation" id="132">
+      <title>RFC - Spell check validation - Spell Check Validation - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3730278473/Spell+Check+in+Studio+6+Product+Brief" id="133">
+      <title>Spell Check in Studio 6 | Product Brief - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html#type-only-imports-and-export" id="134">
+      <title>TypeScript: Documentation - TypeScript 3.8</title>
+    </bookmark>
+    <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
+      <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>ON-CALL</title>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/QS/pages/3640918181/FY24+Q2+Sticker+DEX+Merge+to+Studio+6+Enabling+the+Experience+for+New+Products" id="77">
+      <title>FY24 Q2 | Sticker DEX Merge to Studio 6 | Enabling the Experience for New Products - DIY Design Personalization - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/overview" id="78">
+      <title>DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3266578519/On-Call+Process" id="79">
+      <title>On-Call Process - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/1251049934/AILS+Remediation+Scripts+for+Fixing+Stuck+Orders" id="80">
+      <title>[AILS] Remediation Scripts for Fixing Stuck Orders - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpressvista.cloud.looker.com/dashboards/6872" id="81">
+      <title>Albelli Metrics</title>
+    </bookmark>
+    <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="82">
+      <title>Sherbert-swagger</title>
+    </bookmark>
+  </folder>
+  <folder id="14">
+    <title>Weekly Read</title>
+    <bookmark href="https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/" id="83">
+      <title>11.01 Introduction • Johnny.Decimal</title>
+    </bookmark>
+    <bookmark href="https://www.svpg.com/empowered-product-teams/" id="84">
+      <title>Empowered Product Teams - Silicon Valley Product Group : Silicon Valley Product Group</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/3471640504/How+to+use+Statsig+Warehouse+Native+WHN" id="85">
+      <title>How to use Statsig Warehouse Native (WHN)? - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/why-so-many-software-engineers-are-that-bad-9ab5f29ee47a" id="86">
+      <title>Why so many software engineers are that bad? | by Victor Ronin | Jan, 2024 | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/one-companys-lousy-engineer-is-another-company-s-good-architect-3ff14cc8c96d" id="87">
+      <title>One company&apos;s lousy engineer is another company&apos;s good architect. | by Victor Ronin | Medium</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3310454295/Documenting+technical+decisions" id="88">
+      <title>Documenting technical decisions - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+    <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="89">
+      <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
+    </bookmark>
+    <bookmark href="https://miro.com/app/board/uXjVNyKcj48=/" id="90">
+      <title>DIY Advanced Editor Ownership, Visual Workspace for Innovation</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3587973807/Q4+FY24+Ideas+List" id="91">
+      <title>Q4 FY24 Ideas List - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3620865870/Studio6+and+the+Vista+Rendering+Service" id="92">
+      <title>Studio6 and the Vista Rendering Service - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PI/pages/3212316063/Vista+Rendering+Service" id="136">
+      <title>Vista Rendering Service - Platform Infrastructure - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PI/pages/3359148592/RFC+Vista+Rendering+Service+-+Micro-frontend+Evolution" id="137">
+      <title>[RFC] Vista Rendering Service - Micro-frontend Evolution - Platform Infrastructure - Confluence</title>
+    </bookmark>
+    <bookmark href="https://miro.com/app/board/uXjVNoEQnp0=/" id="138">
+      <title>Story Points, Visual Workspace for Innovation</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6215d366347c690072f6f038/pages/3565063376/VistaPrint+Sitespeed" id="139">
+      <title>VistaPrint Sitespeed - Todd Brannam - Confluence</title>
+    </bookmark>
+    <bookmark href="https://web.dev/blog/inp-cwv-march-12" id="140">
+      <title>Interaction to Next Paint becomes a Core Web Vital on March 12  |  Blog  |  web.dev</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PD/pages/2456846337/Font+Strategy+for+Vista" id="141">
+      <title>Font Strategy for Vista - Product Creation &amp; Experience - Confluence</title>
+    </bookmark>
+    <bookmark href="https://tanstack.com/query/latest" id="142">
+      <title>TanStack | High Quality Open-Source Software for Web Developers</title>
+    </bookmark>
+  </folder>
+  <folder id="15">
+    <title>🧪 Experiment Resources</title>
+    <bookmark href="https://app.segment.com/vistaprint/protocols/tracking-plans/tp_1Uvr61BNMBevpcQKkG6rsrudeME?name=des&amp;type=Track&amp;page=1" id="93">
+      <title>Protocols - Segment</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/3359442550/How+to+start+learning+about+Statsig" id="94">
+      <title>How to start learning about Statsig - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb17b05b4e3e7dab7428/pages/3370492752/Optimizely+to+Statsig+migration+Quad" id="95">
+      <title>Optimizely to Statsig migration Quad - Devjit Neogi - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2466349090/Creating+custom+events+in+EMA" id="96">
+      <title>Creating custom events in EMA - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2411430399/How+to+create+a+custom+event+in+EMA" id="97">
+      <title>How to create a custom event in EMA? - Experimentation Hub - Confluence</title>
+    </bookmark>
+    <bookmark href="https://event-manager.exp.vpsvc.com/" id="98">
+      <title>EMA - Event Manager</title>
+    </bookmark>
+    <bookmark href="https://console.statsig.com/2W2bEgnMhUJyUkgwwfDPZA/experiments" id="99">
+      <title>Experiments | Statsig</title>
+    </bookmark>
+    <bookmark href="https://console.statsig.com/5Yx4xlMFVM9VTFvZaUwBnI/experiments/packaging_vs_studio6_templateflow_s5/results" id="100">
+      <title>packaging_vs_studio6_templateflow_s5 | Statsig</title>
+    </bookmark>
+    <bookmark href="https://console.statsig.com/5Yx4xlMFVM9VTFvZaUwBnI/experiments/packaging_fullbleedv1/results" id="101">
+      <title>packaging_fullbleedv1 | Statsig</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/961741064/Debugging+Studio+Errors" id="102">
+      <title>Debugging Studio Errors - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.app.box.com/s/x2toacb6btap9kfgp6ojyhk286hpmlre" id="143">
+      <title>PPAG products Studio 6 migration.xlsx | Powered by Box</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>⚜️</title>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3268747842/Design+Validations" id="103">
+      <title>Design Validations - DIY - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15488782763/Validation+System+Architecture+Proposals" id="104">
+      <title>Validation System Architecture Proposals - Artwork Design - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/qr-code-generator/builder" id="105">
+      <title>QR Code Builder | VistaPrint</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
+    <title>DDSC board - Agile board - Your Weekly Report</title>
+  </bookmark>
+  <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
+    <title>Presonal</title>
+  </bookmark>
+  <bookmark href="https://mermaid.js.org/syntax/stateDiagram.html" id="156">
+    <title>State diagrams | Mermaid</title>
+  </bookmark>
+  <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~64216af00e6828ab2026e731/pages/3982590166/Gaurav+Abhishek+Discussion" id="157">
+    <title>Gaurav &amp; Abhishek Discussion - Gaurav Bhardwaj - Confluence</title>
+  </bookmark>
+  <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
+    <title>Experimentation Hub</title>
+  </bookmark>
+  <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3171910819/Software+Engineering+Learning+Map+FY24-FY25" id="159">
+    <title>Software Engineering Learning Map FY24-FY25 - Vista Engineering (Org) - Confluence</title>
+  </bookmark>
+  <bookmark href="https://promptspellsmith.com/" id="160">
+    <title>Explore Top Featured GPTs - Discover top GPTs in ChatGPT GPTs Store | Prompt Spell Smith</title>
+  </bookmark>
+  <bookmark href="https://vista.pagerduty.com/schedules/PSTIQOM" id="161">
+    <title>DIY Editor Shadowers - PagerDuty</title>
+  </bookmark>
+  <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/studio-configuration-editor/latest/" id="162">
+    <title>PIM studio configuration editor</title>
+  </bookmark>
+  <bookmark href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html" id="163">
+    <title>ARCHITECTURE.md</title>
+  </bookmark>
+  <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="164">
+    <title>Budget Templates | Actual Budget Documentation</title>
+  </bookmark>
+  <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4796564055/Engineering+Productivity+MBR+-+2025+-+04" id="165">
+    <title>Engineering Productivity MBR - 2025 - 04 - Vista Engineering (Org) - Confluence</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
