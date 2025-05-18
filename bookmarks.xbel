@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :400: for Floccus bookmark sync browser extension -->
+<!--- highestId :401: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -808,6 +808,15 @@
     <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=goodnewsnetrowk&amp;ia=web" id="395">
       <title>goodnewsnetrowk at DuckDuckGo</title>
     </bookmark>
+    <folder id="399">
+      <title>Finance</title>
+      <bookmark href="https://sovrenn.com/knowledge" id="400">
+        <title>Sovrenn Knowledge</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://letterstoanewdeveloper.com/2022/01/" id="401">
+      <title>January 2022 – Letters To A New Developer</title>
+    </bookmark>
   </folder>
   <folder id="171">
     <title>SOLO leveling</title>
@@ -1113,12 +1122,6 @@
     </bookmark>
     <bookmark href="https://www.reddit.com/r/Piracy/comments/17ozvil/sliderkz_alternative/" id="355">
       <title>Slider.kz alternative : r/Piracy</title>
-    </bookmark>
-  </folder>
-  <folder id="399">
-    <title>Finance</title>
-    <bookmark href="https://sovrenn.com/knowledge" id="400">
-      <title>Sovrenn Knowledge</title>
     </bookmark>
   </folder>
 </folder>
