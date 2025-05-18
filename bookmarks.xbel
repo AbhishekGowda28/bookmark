@@ -102,17 +102,8 @@
     <title>Floccus (Primary)</title>
     <folder id="14">
       <title>Weekly Read</title>
-      <bookmark href="https://medium.com/@victor.ronin/why-so-many-software-engineers-are-that-bad-9ab5f29ee47a" id="86">
-        <title>Why so many software engineers are that bad? | by Victor Ronin | Jan, 2024 | Medium</title>
-      </bookmark>
-      <bookmark href="https://medium.com/@victor.ronin/one-companys-lousy-engineer-is-another-company-s-good-architect-3ff14cc8c96d" id="87">
-        <title>One company&apos;s lousy engineer is another company&apos;s good architect. | by Victor Ronin | Medium</title>
-      </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3310454295/Documenting+technical+decisions" id="88">
         <title>Documenting technical decisions - Vista Engineering (Org) - Confluence</title>
-      </bookmark>
-      <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="89">
-        <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
       </bookmark>
       <bookmark href="https://miro.com/app/board/uXjVNyKcj48=/" id="90">
         <title>DIY Advanced Editor Ownership, Visual Workspace for Innovation</title>
@@ -924,6 +915,15 @@
     </bookmark>
     <bookmark href="https://www.svpg.com/empowered-product-teams/" id="84">
       <title>Empowered Product Teams - Silicon Valley Product Group : Silicon Valley Product Group</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/why-so-many-software-engineers-are-that-bad-9ab5f29ee47a" id="86">
+      <title>Why so many software engineers are that bad? | by Victor Ronin | Jan, 2024 | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/one-companys-lousy-engineer-is-another-company-s-good-architect-3ff14cc8c96d" id="87">
+      <title>One company&apos;s lousy engineer is another company&apos;s good architect. | by Victor Ronin | Medium</title>
+    </bookmark>
+    <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="89">
+      <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
