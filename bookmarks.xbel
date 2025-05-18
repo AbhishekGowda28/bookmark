@@ -22,15 +22,6 @@
   </folder>
   <folder id="361">
     <title>Unsorted</title>
-    <bookmark href="https://www.youtube.com/results?search_query=one+nation+one+language+" id="374">
-      <title>Results</title>
-    </bookmark>
-    <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
-      <title>Padma Purana – Vyasa Mahabharata</title>
-    </bookmark>
-    <bookmark href="https://kanbanize.com/lean-management" id="376">
-      <title>Lean Management</title>
-    </bookmark>
   </folder>
   <folder id="362">
     <title>Website - Bookmark</title>
@@ -62,30 +53,9 @@
       <title>Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]</title>
     </bookmark>
   </folder>
-  <folder id="366">
-    <title>Comments</title>
-    <bookmark href="https://www.reddit.com/r/ProgrammerHumor/comments/o06vj9/Who_can_relate%3F/h1u17v6/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="385">
-      <title>Who can relate?</title>
-    </bookmark>
-    <bookmark href="https://www.reddit.com/r/learnjavascript/comments/p3lcui/How_to_detect_dates_with_different_formats/h8sj1d8/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="386">
-      <title>How to detect dates with different formats</title>
-    </bookmark>
-    <bookmark href="https://www.reddit.com/r/AskReddit/comments/p5y3j0/What_is_a_simple_thing_everyone_should_know%3F/h99bpwf/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="387">
-      <title>What is a simple thing everyone should know?</title>
-    </bookmark>
-    <bookmark href="https://www.reddit.com/r/programminghorror/comments/irfigv/A_close_coworker_passed_away_from_cancer_recently_and_I%27ve_been_promoted_to_fill_his_place._This_is_the_website_I%27ve_inherited./g4zx883/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="388">
-      <title>A close coworker passed away from cancer recently and I&apos;ve been...</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <folder id="420">
-    <title>Personal</title>
-    <bookmark href="https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law" id="458">
-      <title>Possession is nine-tenths of the law - Wikipedia</title>
-    </bookmark>
-  </folder>
   <folder id="421">
     <title>Cimpress Technical Docs</title>
     <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="460">
@@ -1896,6 +1866,33 @@
     </bookmark>
     <bookmark href="https://hbr.org/2021/06/why-you-need-multiple-mentors" id="404">
       <title>Why You Need Multiple Mentors</title>
+    </bookmark>
+    <folder id="366">
+      <title>Comments</title>
+      <bookmark href="https://www.reddit.com/r/ProgrammerHumor/comments/o06vj9/Who_can_relate%3F/h1u17v6/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="385">
+        <title>Who can relate?</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/learnjavascript/comments/p3lcui/How_to_detect_dates_with_different_formats/h8sj1d8/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="386">
+        <title>How to detect dates with different formats</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/AskReddit/comments/p5y3j0/What_is_a_simple_thing_everyone_should_know%3F/h99bpwf/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="387">
+        <title>What is a simple thing everyone should know?</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/programminghorror/comments/irfigv/A_close_coworker_passed_away_from_cancer_recently_and_I%27ve_been_promoted_to_fill_his_place._This_is_the_website_I%27ve_inherited./g4zx883/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="388">
+        <title>A close coworker passed away from cancer recently and I&apos;ve been...</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law" id="458">
+      <title>Possession is nine-tenths of the law - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/results?search_query=one+nation+one+language+" id="374">
+      <title>Results</title>
+    </bookmark>
+    <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
+      <title>Padma Purana – Vyasa Mahabharata</title>
+    </bookmark>
+    <bookmark href="https://kanbanize.com/lean-management" id="376">
+      <title>Lean Management</title>
     </bookmark>
   </folder>
   <folder id="169">
