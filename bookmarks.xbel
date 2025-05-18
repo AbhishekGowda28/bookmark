@@ -100,12 +100,6 @@
   <title>Bookmarks Bar</title>
   <folder id="4">
     <title>Floccus (Primary)</title>
-    <folder id="12">
-      <title>🗑️</title>
-      <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
-        <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
-      </bookmark>
-    </folder>
     <folder id="10">
       <title>👀</title>
       <bookmark href="http://1.22.220.238/budget" id="58">
@@ -936,6 +930,9 @@
     </bookmark>
     <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
       <title>The FOUC Problem | WebKit</title>
+    </bookmark>
+    <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
+      <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
