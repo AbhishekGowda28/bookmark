@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :358: for Floccus bookmark sync browser extension -->
+<!--- highestId :359: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -960,6 +960,9 @@
     </bookmark>
     <bookmark href="https://www.amazon.com/exec/obidos/tg/detail/-/0596006624" id="358">
       <title>Hackers &amp; Painters: Big Ideas from the Computer Age: Graham, Paul: 9780596006624: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/programming/comments/1aqkw7n/why_most_developers_stop_learning_sql_at/" id="359">
+      <title>Why most developers stop learning SQL at subqueries - a 5-minute guide for PARTITION BY and CTEs : r/programming</title>
     </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
