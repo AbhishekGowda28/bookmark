@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :325: for Floccus bookmark sync browser extension -->
+<!--- highestId :343: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
+  <folder id="326">
+    <title>Mozilla Firefox</title>
+    <bookmark href="https://support.mozilla.org/products/firefox" id="333">
+      <title>Get Help</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="334">
+      <title>Customize Firefox</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/contribute/" id="335">
+      <title>Get Involved</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/about/" id="336">
+      <title>About Us</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -589,9 +604,6 @@
     <bookmark href="https://abhigowda28.blogspot.com/" id="213">
       <title>About Me</title>
     </bookmark>
-    <bookmark href="https://pairdrop.net/" id="60">
-      <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
-    </bookmark>
     <bookmark href="https://app.strem.io/#/" id="212">
       <title>Stremio - Freedom to Stream</title>
     </bookmark>
@@ -925,6 +937,48 @@
   </bookmark>
   <bookmark href="https://arund.in/home/education" id="235">
     <title>Impresive Resume</title>
+  </bookmark>
+  <folder id="327">
+    <title>Portfolio</title>
+    <bookmark href="https://kapil987.github.io/contactKapil.github.io/" id="337">
+      <title>Kapil&apos;s Portfolio Website</title>
+    </bookmark>
+    <bookmark href="https://eager-williams-af0d00.netlify.app/?#contact" id="338">
+      <title>Jane Doe | Web Developer</title>
+    </bookmark>
+  </folder>
+  <folder id="328">
+    <title>conference 🤝</title>
+    <bookmark href="https://portal.gitnation.org/" id="339">
+      <title>Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://gitlab.com/" id="329">
+    <title>Projects · GitLab</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/" id="330">
+    <title>Stack Overflow - Where Developers Learn, Share, &amp; Build Careers</title>
+  </bookmark>
+  <folder id="331">
+    <title>💓</title>
+    <bookmark href="https://github.com/photoview/photoview/tree/master" id="340">
+      <title>GitHub - photoview/photoview: Photo gallery for self-hosted personal servers</title>
+    </bookmark>
+    <bookmark href="https://photoview.github.io/en/docs/usage-nextcloud/" id="341">
+      <title>Using with Nextcloud - Photoview Documentation</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/" id="342">
+      <title>YouTube</title>
+    </bookmark>
+    <bookmark href="https://harendra21.substack.com/p/how-i-am-using-a-lifetime-100-free" id="343">
+      <title>How I Am Using a Lifetime 100% Free Server</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1" id="332">
+    <title>🤯 30DaysChallenge - 30 Days Extreme HTML &amp; CSS CHALLENGE 🤯 - DEV Community</title>
+  </bookmark>
+  <bookmark href="https://pairdrop.net/" id="60">
+    <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
   </bookmark>
 </folder>
 <folder id="1">
