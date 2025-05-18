@@ -132,24 +132,6 @@
       <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/1788" id="26">
         <title>DTD Support - Incident Board</title>
       </bookmark>
-      <bookmark href="https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253" id="106">
-        <title>8 Frontend Tools to Become a Better Developer | by Mohit Vaswani | Medium</title>
-      </bookmark>
-      <bookmark href="https://uiverse.io/" id="107">
-        <title>Explore 3000+ Free UI Elements: CSS &amp; Tailwind</title>
-      </bookmark>
-      <bookmark href="https://uiverse.io/elements?page=3" id="108">
-        <title>5005 UI elements: CSS &amp; Tailwind</title>
-      </bookmark>
-      <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
-        <title>CSS Logical Properties | CSS-Tricks</title>
-      </bookmark>
-      <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="110">
-        <title>HTML Standard</title>
-      </bookmark>
-      <bookmark href="https://book.inclusive-components.design/" id="111">
-        <title>Inclusive Components: The Book</title>
-      </bookmark>
     </folder>
     <folder id="7">
       <title>Resources</title>
@@ -951,6 +933,24 @@
     </bookmark>
     <bookmark href="https://promptspellsmith.com/" id="160">
       <title>Explore Top Featured GPTs - Discover top GPTs in ChatGPT GPTs Store | Prompt Spell Smith</title>
+    </bookmark>
+    <bookmark href="https://book.inclusive-components.design/" id="111">
+      <title>Inclusive Components: The Book</title>
+    </bookmark>
+    <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="110">
+      <title>HTML Standard</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
+      <title>CSS Logical Properties | CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/elements?page=3" id="108">
+      <title>5005 UI elements: CSS &amp; Tailwind</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/" id="107">
+      <title>Explore 3000+ Free UI Elements: CSS &amp; Tailwind</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253" id="106">
+      <title>8 Frontend Tools to Become a Better Developer | by Mohit Vaswani | Medium</title>
     </bookmark>
   </folder>
   <folder id="171">
