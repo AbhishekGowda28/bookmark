@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :167: for Floccus bookmark sync browser extension -->
+<!--- highestId :321: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -339,9 +339,6 @@
       <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
         <title>React App</title>
       </bookmark>
-      <bookmark href="https://pairdrop.net/" id="60">
-        <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
-      </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/44008766/Ramon+s+Rambles" id="61">
         <title>Ramon&apos;s Rambles - Design Technology Domain - Confluence</title>
       </bookmark>
@@ -497,11 +494,476 @@
   <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4796564055/Engineering+Productivity+MBR+-+2025+-+04" id="165">
     <title>Engineering Productivity MBR - 2025 - 04 - Vista Engineering (Org) - Confluence</title>
   </bookmark>
+  <folder id="168">
+    <title>Thing</title>
+    <bookmark href="https://archive.org/" id="180">
+      <title>Internet Archive: Digital Library of Free &amp; Borrowable Books, Movies, Music &amp; Wayback Machine</title>
+    </bookmark>
+    <bookmark href="https://reactnative.dev/" id="181">
+      <title>React Native · Learn once, write anywhere</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="182">
+      <title>learning android development with react native at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="183">
+      <title>how to keep field notes as software engineer at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+keep+work+notes&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="184">
+      <title>how to keep work notes at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=anki+plugin+for+obsidian&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="185">
+      <title>anki plugin for obsidian at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://github.com/LSPosed/LSPosed/wiki/How-to-use-it#install--activate-modules" id="186">
+      <title>How to use it · LSPosed/LSPosed Wiki</title>
+    </bookmark>
+    <bookmark href="https://forum.xda-developers.com/t/lsposed-xposed-framework-8-1-13-0-simple-magisk-module.4228973/" id="187">
+      <title>Attention Required! | Cloudflare</title>
+    </bookmark>
+    <bookmark href="https://github.com/M66B/XPrivacyLua" id="188">
+      <title>M66B/XPrivacyLua: Really simple to use privacy manager for Android 6.0 Marshmallow and later</title>
+    </bookmark>
+    <bookmark href="https://forum.xda-developers.com/f/xposed-general.3094/" id="189">
+      <title>Attention Required! | Cloudflare</title>
+    </bookmark>
+    <bookmark href="https://github.com/HackerNews/API" id="198">
+      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/archives/" id="199">
+      <title>Archives | CSS-Tricks - CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/History/pushState" id="200">
+      <title>History: pushState() method - Web APIs | MDN</title>
+    </bookmark>
+    <bookmark href="https://v5.reactrouter.com/web/api/match" id="201">
+      <title>React Router: Declarative Routing for React.js</title>
+    </bookmark>
+    <bookmark href="https://reactrouter.com/en/main/start/concepts" id="202">
+      <title>Main Concepts v6.15.0 | React Router</title>
+    </bookmark>
+    <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
+      <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
+    </bookmark>
+    <bookmark href="https://teachyourselfcs.com/#math" id="204">
+      <title>Teach Yourself Computer Science</title>
+    </bookmark>
+    <bookmark href="https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/" id="205">
+      <title>Zen and the Art of File and Folder Organization</title>
+    </bookmark>
+    <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="206">
+      <title>Libraries - TinEye API - TinEye developer documentation</title>
+    </bookmark>
+    <bookmark href="https://www.translate.com/english-kannada" id="207">
+      <title>ENG ➡ KAN </title>
+    </bookmark>
+    <bookmark href="https://tineye.com/" id="216">
+      <title>TinEye Reverse Image Search</title>
+    </bookmark>
+    <bookmark href="https://www.bookswagon.com/" id="217">
+      <title>Online Bookstore | Buy Books Online | Read Books Online</title>
+    </bookmark>
+    <bookmark href="https://goldenaudiobooks.com/" id="218">
+      <title>+1700 Audiobooks Online (Listen Free)</title>
+    </bookmark>
+    <bookmark href="https://hbr.org/2021/06/why-you-need-multiple-mentors?ab=ascendhero-article-1" id="219">
+      <title>Why You Need Multiple Mentors</title>
+    </bookmark>
+    <bookmark href="https://tin.tin.nsdl.com/pan2" id="220">
+      <title>PAN Card Application</title>
+    </bookmark>
+    <bookmark href="https://etc.usf.edu/lit2go/118/the-woman-in-white/" id="221">
+      <title>The Woman in White | Wilkie Collins | Lit2Go ETC</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/audiobooks/wiki/_/wiki/sources/" id="222">
+      <title>_/wiki/sources - audiobooks</title>
+    </bookmark>
+    <bookmark href="https://www.taxsmile.com/returnfiling/TaxSmile/Pages/Tools/CTCTakeHome/CTCTakeHomeCal.aspx" id="223">
+      <title>CTC Take Home Calculator</title>
+    </bookmark>
+    <bookmark href="https://templesinindiainfo.com/" id="224">
+      <title>Temples In India Info - Slokas, Mantras, Temples, Tourist Places</title>
+    </bookmark>
+    <bookmark href="https://www.iconfinder.com/" id="225">
+      <title>5,300,000+ free and premium vector icons - Iconfinder</title>
+    </bookmark>
+    <bookmark href="https://www.lifehack.org/articles/lifestyle/42-practical-ways-to-improve-yourself.html" id="245">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://thepiratebay.org/index.html" id="246">
+      <title>Download music, movies, games, software! The Pirate Bay - The galaxy&apos;s most resilient BitTorrent site</title>
+    </bookmark>
+    <bookmark href="https://libgen.is/" id="247">
+      <title>Library Genesis</title>
+    </bookmark>
+    <bookmark href="https://manga4life.com/" id="248">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://ww8.readonepiece.com/" id="249">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://youtubemultidownloader.net/playlists.html" id="250">
+      <title>Youtube Multi Downloader Online Free</title>
+    </bookmark>
+    <bookmark href="https://theindex.moe/" id="251">
+      <title>The Index</title>
+    </bookmark>
+    <bookmark href="https://goodbudget.com/home" id="252">
+      <title>Home | Goodbudget</title>
+    </bookmark>
+    <bookmark href="https://mangadex.org/title/9123/one-punch-man-webcomic-original" id="253">
+      <title>One Punch Man (Webcomic/Original) (Title) - MangaDex</title>
+    </bookmark>
+    <bookmark href="https://audiobookbay.li/" id="254">
+      <title>Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)</title>
+    </bookmark>
+    <bookmark href="https://youtubemultidownloader.net/playlists.html" id="266">
+      <title>youtubemultidownloader.net | 522: Connection timed out</title>
+    </bookmark>
+    <bookmark href="https://www.drikpanchang.com/" id="267">
+      <title>Online Panchang, Panchangam and Hindu Calendar for the world</title>
+    </bookmark>
+    <bookmark href="https://www.iconfinder.com/" id="268">
+      <title>5,300,000+ free and premium vector icons - Iconfinder</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry" id="269">
+      <title>Windows Sidebar | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://itbook.store/" id="270">
+      <title>IT Bookstore - More than 10,000 books for IT, Programming and Computer Science</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="271">
+      <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
+    </bookmark>
+    <bookmark href="https://api.stackexchange.com/docs" id="272">
+      <title>Stack Exchange API</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
+      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.alyssawestring.com/" id="274">
+      <title>Alyssa Westring, PhD</title>
+    </bookmark>
+    <bookmark href="https://streamblasters.co/genre/kannada/" id="275">
+      <title>Kannada – StreamBlasters</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="276">
+      <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver" id="277">
+      <title>MutationObserver - Web APIs | MDN</title>
+    </bookmark>
+    <bookmark href="https://regex101.com/" id="278">
+      <title>regex101: build, test, and debug regex</title>
+    </bookmark>
+    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="279">
+      <title>Hackernews-CodeSandbox</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="280">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="281">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://yasio.dev/" id="282">
+      <title>&lt;Yasio/&gt; Portfolio | Front-end Developer/Fullstack Designer</title>
+    </bookmark>
+    <bookmark href="https://astexplorer.net/" id="283">
+      <title>AST explorer</title>
+    </bookmark>
+    <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="284">
+      <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="285">
+      <title>Learning React Native.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/principles-of-finance-171147052x/" id="286">
+      <title>Principles of Finance.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="287">
+      <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
+    </bookmark>
+    <bookmark href="https://mediamodifier.com/svg-editor#" id="288">
+      <title>SVG Editor - Mediamodifier</title>
+    </bookmark>
+    <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="289">
+      <title>ES6 Proxy Traps in Depth</title>
+    </bookmark>
+    <bookmark href="https://linuxhint.com/" id="290">
+      <title>Linux Hint</title>
+    </bookmark>
+    <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="291">
+      <title>JavaScript Debounce Function</title>
+    </bookmark>
+    <bookmark href="https://isellsoap.github.io/specificity-visualizer/" id="292">
+      <title>Specificity Visualizer</title>
+    </bookmark>
+    <bookmark href="https://api.coingecko.com/api/v3/coins/list?include_platform=false" id="293">
+      <title>https://api.coingecko.com/api/v3/coins/list?include_platform=false</title>
+    </bookmark>
+    <bookmark href="https://www.coingecko.com/api/documentations/v3#/" id="294">
+      <title>CoinGecko API (V3)</title>
+    </bookmark>
+    <bookmark href="https://www.coingecko.com/en/api#explore-api" id="295">
+      <title>Most Powerful Cryptocurrency Data API | CoinGecko</title>
+    </bookmark>
+    <bookmark href="https://codesandbox.io/s/stupefied-voice-bf5hg?fontsize=14" id="296">
+      <title>Q-56576286-SO - CodeSandbox</title>
+    </bookmark>
+    <bookmark href="https://www.joelonsoftware.com/buy-the-books/" id="297">
+      <title>Buy the books – Joel on Software</title>
+    </bookmark>
+    <bookmark href="https://www.reduceimages.com/" id="298">
+      <title>Resize Images Online - Reduce JPG, BMP, GIF, PNG images</title>
+    </bookmark>
+    <bookmark href="https://coveryourtracks.eff.org/learn" id="299">
+      <title>Cover Your Tracks</title>
+    </bookmark>
+    <bookmark href="https://saurabhkumar23.github.io/Awesome-Bots/" id="300">
+      <title>Puppeteer Scripts</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/" id="301">
+      <title>A Beginner’s Guide to Git — What is a Changelog and How to Generate it</title>
+    </bookmark>
+    <bookmark href="https://apkdone.com/" id="302">
+      <title>#1 The Best Downloader for MOD APK files - APKdone</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/redux-redux-thunk" id="303">
+      <title>Understanding Asynchronous Redux Actions with Redux Thunk | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="304">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://apkdone.com/" id="305">
+      <title>#1 The Best Downloader for MOD APK files - APKdone</title>
+    </bookmark>
+    <bookmark href="https://it-ebooks.info/" id="306">
+      <title>IT eBooks - Free Download - New Releases</title>
+    </bookmark>
+    <bookmark href="https://packagephobia.com/" id="307">
+      <title>Package Phobia</title>
+    </bookmark>
+    <bookmark href="https://css-irl.info/" id="308">
+      <title>CSS { In Real Life }</title>
+    </bookmark>
+    <bookmark href="https://9xbuddy.xyz/en-1cd" id="309">
+      <title>9xbuddy : Online video download helper</title>
+    </bookmark>
+    <bookmark href="https://fullstack.gumroad.com/?affiliate_id=567063667" id="310">
+      <title>\newline (formerly Fullstack.io)</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/" id="311">
+      <title>dBooks - Free download open books</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer" id="312">
+      <title>The Adventures of Tom Sawyer - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://zorox.to/home" id="313">
+      <title>Watch Anime Online, Free Anime Streaming | Zoro to Anime</title>
+    </bookmark>
+    <bookmark href="https://github.com/josephearl/awesome-retrospectives" id="314">
+      <title>josephearl/awesome-retrospectives: A curated list of resources for facilitating and learning about retrospectives</title>
+    </bookmark>
+    <bookmark href="https://app.rawgraphs.io/" id="315">
+      <title>RAWGraphs 2.0</title>
+    </bookmark>
+    <bookmark href="https://github.com/test-mile/arjuna-java" id="316">
+      <title>test-mile/arjuna-java: Java Requester/Client library for Arjuna based test automation.</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@SunKnudsen" id="317">
+      <title>Sun Knudsen - YouTube</title>
+    </bookmark>
+    <bookmark href="https://piratehaven.xyz/search.php?q=top100:102" id="318">
+      <title>PirateHaven.xyz - The galaxy&apos;s most resilient The Pirate Bay site</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/hacker" id="319">
+      <title>Hack The Box: Hacking Training For The Best | Individuals &amp; Companies</title>
+    </bookmark>
+    <bookmark href="https://i.pinimg.com/originals/4a/69/e4/4a69e41c467f208c6ef3c9ce711a39ed.jpg" id="320">
+      <title>4a69e41c467f208c6ef3c9ce711a39ed.jpg (JPEG Image, 853 × 1200 pixels) — Scaled (78%)</title>
+    </bookmark>
+    <bookmark href="https://i.pinimg.com/736x/3d/66/2e/3d662e3fb7e7e3290af1df027ba86bb6.jpg" id="321">
+      <title>3d662e3fb7e7e3290af1df027ba86bb6.jpg (JPEG Image, 736 × 983 pixels) — Scaled (95%)</title>
+    </bookmark>
+  </folder>
+  <folder id="169">
+    <title>Local Servers</title>
+    <bookmark href="http://127.0.0.1:8384/" id="190">
+      <title>🌐 Syncthing</title>
+    </bookmark>
+    <bookmark href="http://127.0.0.1:5006/" id="191">
+      <title>Actual</title>
+    </bookmark>
+    <bookmark href="http://localhost:8787/" id="192">
+      <title>Readarr</title>
+    </bookmark>
+    <bookmark href="http://localhost:5600/#/activity/DESKTOP-VK5G65E/view/" id="193">
+      <title>ActivityWatch</title>
+    </bookmark>
+  </folder>
+  <folder id="170">
+    <title>🔐 - Personal</title>
+    <bookmark href="https://abhishekgowda28.github.io/advent-of-code-docs/" id="194">
+      <title>Hello from Advent of code docs | Advent of code docs</title>
+    </bookmark>
+    <bookmark href="https://github.com/abhishekgowda28" id="195">
+      <title>AbhishekGowda28 (Abhishek Gowda)</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/AbhishekGowda28/advent-of-code" id="196">
+      <title>Abhishek Gowda / advent-of-code · GitLab</title>
+    </bookmark>
+  </folder>
+  <folder id="171">
+    <title>SOLO leveling</title>
+    <bookmark href="https://duckduckgo.com/?q=solo+leveling+guide&amp;t=ffab&amp;ia=web" id="197">
+      <title>solo leveling guide at DuckDuckGo</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://chat.openai.com/" id="172">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://archive.org/details/RigvedaSamhithaAudioAndTextBhashyam_KannadaLanguafe/A1A1.mp3" id="173">
+    <title>Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Free Download, Borrow, and Streaming : Internet Archive</title>
+  </bookmark>
+  <bookmark href="https://archive.org/details/RigvedaSamhitha/Rigveda-Samhitha_01/page/n37/mode/2up" id="174">
+    <title>Rigveda Samhitha : Free Download, Borrow, and Streaming : Internet Archive</title>
+  </bookmark>
+  <bookmark href="https://archive.org/details/booksbylanguage_kannada" id="175">
+    <title>Kannada : Books by Language : Free Texts : Free Download, Borrow and Streaming : Internet Archive</title>
+  </bookmark>
+  <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
+    <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
+  </bookmark>
+  <bookmark href="https://720pflix.work/category/kannada-movies/" id="177">
+    <title>Kannada Movies Archives | 720pflix.work</title>
+  </bookmark>
+  <bookmark href="https://www.swami-krishnananda.org/vishnu/vishnu_dhyanam.html" id="178">
+    <title>Dhyanam - Sri Vishnu Sahasaranama Stotram - Sanskrit, Transliteration and English Translation</title>
+  </bookmark>
+  <bookmark href="https://vedicheritage.gov.in/" id="179">
+    <title>Vedic Heritage Portal | Vedic Heritage Portal</title>
+  </bookmark>
+  <bookmark href="https://archive.org/details/neon-genesis-evangelion-adv-dvd-iso/NEON+GENESIS+EVANGELION+PERFECT+COLLECTION+2002+ADV/Disc+01/NGE+Disc+01.ISO" id="208">
+    <title>Neon Genesis Evangelion ADV DVD ISO : adv : Free Download, Borrow, and Streaming : Internet Archive</title>
+  </bookmark>
+  <bookmark href="https://notes.zturk.com/2016/02/synchronizing-moon-books-on-android.html" id="209">
+    <title>Updated! Synchronizing Moon+ Books on Android</title>
+  </bookmark>
+  <bookmark href="https://en.wikipedia.org/wiki/Red_velvet_cake" id="210">
+    <title>Red velvet cake - Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://www.1tamilmv.legal/" id="211">
+    <title>https://www.1tamilmv.legal/</title>
+  </bookmark>
+  <bookmark href="https://app.strem.io/#/" id="212">
+    <title>Stremio - Freedom to Stream</title>
+  </bookmark>
+  <bookmark href="https://abhigowda28.blogspot.com/" id="213">
+    <title>About Me</title>
+  </bookmark>
+  <bookmark href="https://pairdrop.net/" id="60">
+    <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
     <title>Calendar</title>
   </bookmark>
+</folder>
+<folder id="214">
+  <title>Bookmarks Menu</title>
+  <folder id="226">
+    <title>Bookmarks</title>
+    <folder id="236">
+      <title>WEB</title>
+      <bookmark href="https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop" id="255">
+        <title>NodeJS Archeture</title>
+      </bookmark>
+      <bookmark href="http://todomvc.com/examples/react/#/" id="256">
+        <title>TODO MVC</title>
+      </bookmark>
+      <bookmark href="https://google.github.io/styleguide/jsguide.html" id="257">
+        <title>Google Javascript Styleguid</title>
+      </bookmark>
+      <bookmark href="https://www5.watchseries.movie/" id="258">
+        <title>watchseries | Watch Series Online free full episode</title>
+      </bookmark>
+      <bookmark href="https://eztv.io/search/?q1=&amp;q2=1910&amp;search=Search" id="259">
+        <title>EZTV - TV Torrents Online Series Download | Official</title>
+      </bookmark>
+    </folder>
+    <folder id="237">
+      <title>Bookmarks</title>
+      <bookmark href="https://equinusocio.dev/" id="260">
+        <title>Mattia Astorino</title>
+      </bookmark>
+      <bookmark href="https://testing-library.com/docs/react-testing-library/faq" id="261">
+        <title>FAQ · Testing Library</title>
+      </bookmark>
+      <bookmark href="https://www.pokemonteambuilder.net/" id="262">
+        <title>Pokemon Team Builder | Team planner</title>
+      </bookmark>
+      <bookmark href="https://animenetwork.net/anime/1082-one-outs/" id="263">
+        <title>One Outs | Anime Network</title>
+      </bookmark>
+      <bookmark href="https://gowatchseries.online/johnny-test-season-5-episode-26" id="264">
+        <title>Watch Johnny Test - Season 5 Episode 26 English subbed - Watchseries</title>
+      </bookmark>
+      <bookmark href="https://tamilblasters.wiki/" id="265">
+        <title>TamilBlasters | Latest Tamil Telugu Malayalam Kannada Hindi English Movies Download</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.iconfinder.com/families/orange-series" id="238">
+      <title>Icons</title>
+    </bookmark>
+    <bookmark href="https://cubari.moe/read/gist/OPM/" id="239">
+      <title>Read One Punch Man | Cubari</title>
+    </bookmark>
+    <bookmark href="https://torrents-proxy.org/torrentgalaxy/" id="240">
+      <title>TorrentGalaxy Proxy: *100% Working* List to Unblock TorrentGalaxy - Torrents Proxy</title>
+    </bookmark>
+    <bookmark href="https://zoro.se/anime-watch/one-piece/episode-1017.html" id="241">
+      <title>Watch One Piece (1999) Full Anime on Zoro.se</title>
+    </bookmark>
+  </folder>
+  <folder id="227">
+    <title>research-papers</title>
+    <bookmark href="https://www.rand.org/content/dam/rand/pubs/research_memoranda/2009/RM727.1.pdf" id="242">
+      <title>An expermental application of the Delphi method to the us of experts</title>
+    </bookmark>
+    <bookmark href="http://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" id="243">
+      <title>The throry of Fads, Fashion, Custom and Cultural Change as Informational Cascades</title>
+    </bookmark>
+  </folder>
+  <folder id="228">
+    <title>anime</title>
+    <bookmark href="https://horriblesubs.info/shows/one-punch-man-s2/" id="244">
+      <title>Horriblesubs</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.thebalancecareers.com/how-to-write-a-resume-summary-statement-2061034" id="229">
+    <title>resume-summary</title>
+  </bookmark>
+  <bookmark href="https://www.resume.com/dashboard" id="230">
+    <title>Resume Dashboard</title>
+  </bookmark>
+  <bookmark href="http://www.ncbc.nic.in/User_Panel/CentralListStateView.aspx" id="231">
+    <title>National Commission for Backward Classes</title>
+  </bookmark>
+  <bookmark href="https://www.bindassbros.com/" id="232">
+    <title>Home</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004" id="233">
+    <title>Help &amp; Support</title>
+  </bookmark>
+  <bookmark href="https://ethical.net/" id="234">
+    <title>Home - ethical.net</title>
+  </bookmark>
+  <bookmark href="https://arund.in/home/education" id="235">
+    <title>Impresive Resume</title>
+  </bookmark>
+</folder>
+<folder id="215">
+  <title>Mobile Bookmarks</title>
 </folder>
 </xbel>
