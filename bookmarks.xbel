@@ -920,24 +920,6 @@
       <title>Developer learning AWS accounts – Cimpress Cloud Engineering</title>
     </bookmark>
   </folder>
-  <folder id="418">
-    <title>Repos</title>
-    <bookmark href="https://gitlab.com/vistaprint-org/design-technology/upload-and-print/nitro/quick-upload-and-design-spa/-/tree/development" id="448">
-      <title>Files · development · Vista / Design Technology / Upload and Print / Nitro / Quick Upload And Design SPA · GitLab</title>
-    </bookmark>
-    <bookmark href="https://artifactory.cimpress.io/ui/packages" id="449">
-      <title>Packages - artifactory</title>
-    </bookmark>
-    <bookmark href="https://vistaprint.jfrog.io/ui/packages" id="450">
-      <title>Packages - vistaprint.jfrog.io</title>
-    </bookmark>
-    <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2127?selectedIssue=DT-11424" id="451">
-      <title>DIY-Upload-Nitro - Agile Board - Your Weekly Report</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio" id="452">
-      <title>Studio 5 Repo</title>
-    </bookmark>
-  </folder>
   <folder id="419">
     <title>HR</title>
     <bookmark href="https://performancemanager4.successfactors.com/sf/start?_s.crb=J05w3CFXdiyv5Q5qBvcWV1e9VtQCmovYXs97QIVyNX4%253d" id="453">
@@ -1393,6 +1375,24 @@
     <bookmark href="https://www.vistaprint.com/qr-code-generator/builder" id="105">
       <title>QR Code Builder | VistaPrint</title>
     </bookmark>
+    <folder id="418">
+      <title>Repos</title>
+      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/upload-and-print/nitro/quick-upload-and-design-spa/-/tree/development" id="448">
+        <title>Files · development · Vista / Design Technology / Upload and Print / Nitro / Quick Upload And Design SPA · GitLab</title>
+      </bookmark>
+      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="449">
+        <title>Packages - artifactory</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.jfrog.io/ui/packages" id="450">
+        <title>Packages - vistaprint.jfrog.io</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2127?selectedIssue=DT-11424" id="451">
+        <title>DIY-Upload-Nitro - Agile Board - Your Weekly Report</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio" id="452">
+        <title>Studio 5 Repo</title>
+      </bookmark>
+    </folder>
   </folder>
   <bookmark href="https://swc.rs/" id="425">
     <title>Rust-based platform for the Web – SWC</title>
