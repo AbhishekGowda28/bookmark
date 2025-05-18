@@ -5,21 +5,6 @@
 
 <folder id="214">
   <title>Bookmarks Menu</title>
-  <folder id="326">
-    <title>Mozilla Firefox</title>
-    <bookmark href="https://support.mozilla.org/products/firefox" id="333">
-      <title>Get Help</title>
-    </bookmark>
-    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="334">
-      <title>Customize Firefox</title>
-    </bookmark>
-    <bookmark href="https://www.mozilla.org/contribute/" id="335">
-      <title>Get Involved</title>
-    </bookmark>
-    <bookmark href="https://www.mozilla.org/about/" id="336">
-      <title>About Us</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
