@@ -214,27 +214,6 @@
         <title>Product Development - Confluence</title>
       </bookmark>
     </folder>
-    <folder id="8">
-      <title>Localhost</title>
-      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-US&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="42">
-        <title>Standard BC</title>
-      </bookmark>
-      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=fr-ca&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="43">
-        <title>SBC - fr-CA</title>
-      </bookmark>
-      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-WHVSX0JNJ&amp;productVersion=32&amp;locale=en-us&amp;selectedOptions=%7B%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=mailingServicesPostcard&amp;qty=50" id="44">
-        <title>Mailing Services Postcards</title>
-      </bookmark>
-      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-ENRS4XZIS&amp;productVersion=25&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=postcards&amp;qty=50" id="45">
-        <title>Postcards</title>
-      </bookmark>
-      <bookmark href="https://www.vistaprint.com/studio5/?key=PRD-IWMH1LKZ&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Decoration+Area%22%3A%22Full+Front%22%2C%22Substrate+Color%22%3A%22%23D2D6D9%22%2C%22Decoration+Technology%22%3A%22Single+Color%22%7D&amp;fullBleedElected=true&amp;mpvId=caBasicTShirts&amp;qty=6" id="46">
-        <title>T-shirt : Screen printing</title>
-      </bookmark>
-      <bookmark href="https://uploads.documents.cimpress.io/furl/" id="47">
-        <title>uploads.documents.cimpress.io/furl/</title>
-      </bookmark>
-    </folder>
     <folder id="11">
       <title>🧍‍♂️</title>
       <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
@@ -557,6 +536,27 @@
       </bookmark>
       <bookmark href="https://vistaprint.app.box.com/s/x2toacb6btap9kfgp6ojyhk286hpmlre" id="143">
         <title>PPAG products Studio 6 migration.xlsx | Powered by Box</title>
+      </bookmark>
+    </folder>
+    <folder id="8">
+      <title>Localhost</title>
+      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-US&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="42">
+        <title>Standard BC</title>
+      </bookmark>
+      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=fr-ca&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="43">
+        <title>SBC - fr-CA</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-WHVSX0JNJ&amp;productVersion=32&amp;locale=en-us&amp;selectedOptions=%7B%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=mailingServicesPostcard&amp;qty=50" id="44">
+        <title>Mailing Services Postcards</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-ENRS4XZIS&amp;productVersion=25&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=postcards&amp;qty=50" id="45">
+        <title>Postcards</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/studio5/?key=PRD-IWMH1LKZ&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Decoration+Area%22%3A%22Full+Front%22%2C%22Substrate+Color%22%3A%22%23D2D6D9%22%2C%22Decoration+Technology%22%3A%22Single+Color%22%7D&amp;fullBleedElected=true&amp;mpvId=caBasicTShirts&amp;qty=6" id="46">
+        <title>T-shirt : Screen printing</title>
+      </bookmark>
+      <bookmark href="https://uploads.documents.cimpress.io/furl/" id="47">
+        <title>uploads.documents.cimpress.io/furl/</title>
       </bookmark>
     </folder>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
