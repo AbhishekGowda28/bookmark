@@ -904,6 +904,12 @@
         <title>Jane Doe | Web Developer</title>
       </bookmark>
     </folder>
+    <folder id="328">
+      <title>conference 🤝</title>
+      <bookmark href="https://portal.gitnation.org/" id="339">
+        <title>Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation</title>
+      </bookmark>
+    </folder>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
     <title>Live updates of stocks, corporate actions and business updates</title>
@@ -950,12 +956,6 @@
   <bookmark href="https://arund.in/home/education" id="235">
     <title>Impresive Resume</title>
   </bookmark>
-  <folder id="328">
-    <title>conference 🤝</title>
-    <bookmark href="https://portal.gitnation.org/" id="339">
-      <title>Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://gitlab.com/" id="329">
     <title>Projects · GitLab</title>
   </bookmark>
