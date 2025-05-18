@@ -661,62 +661,17 @@
     <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="271">
       <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
     </bookmark>
-    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
-      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
-    </bookmark>
     <bookmark href="https://www.alyssawestring.com/" id="274">
       <title>Alyssa Westring, PhD</title>
     </bookmark>
     <bookmark href="https://streamblasters.co/genre/kannada/" id="275">
       <title>Kannada – StreamBlasters</title>
     </bookmark>
-    <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="276">
-      <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
-    </bookmark>
     <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver" id="277">
       <title>MutationObserver - Web APIs | MDN</title>
     </bookmark>
-    <bookmark href="https://regex101.com/" id="278">
-      <title>regex101: build, test, and debug regex</title>
-    </bookmark>
-    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="279">
-      <title>Hackernews-CodeSandbox</title>
-    </bookmark>
-    <bookmark href="https://ezprompt.net/" id="280">
-      <title>Easy Bash Prompt Generator</title>
-    </bookmark>
-    <bookmark href="https://mystery.knightlab.com/" id="281">
-      <title>The SQL Murder Mystery</title>
-    </bookmark>
-    <bookmark href="https://yasio.dev/" id="282">
-      <title>&lt;Yasio/&gt; Portfolio | Front-end Developer/Fullstack Designer</title>
-    </bookmark>
-    <bookmark href="https://astexplorer.net/" id="283">
-      <title>AST explorer</title>
-    </bookmark>
-    <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="284">
-      <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
-    </bookmark>
-    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="285">
-      <title>Learning React Native.pdf - Free download books</title>
-    </bookmark>
     <bookmark href="https://www.dbooks.org/principles-of-finance-171147052x/" id="286">
       <title>Principles of Finance.pdf - Free download books</title>
-    </bookmark>
-    <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="287">
-      <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
-    </bookmark>
-    <bookmark href="https://mediamodifier.com/svg-editor#" id="288">
-      <title>SVG Editor - Mediamodifier</title>
-    </bookmark>
-    <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="289">
-      <title>ES6 Proxy Traps in Depth</title>
-    </bookmark>
-    <bookmark href="https://linuxhint.com/" id="290">
-      <title>Linux Hint</title>
-    </bookmark>
-    <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="291">
-      <title>JavaScript Debounce Function</title>
     </bookmark>
     <bookmark href="https://isellsoap.github.io/specificity-visualizer/" id="292">
       <title>Specificity Visualizer</title>
@@ -732,9 +687,6 @@
     </bookmark>
     <bookmark href="https://codesandbox.io/s/stupefied-voice-bf5hg?fontsize=14" id="296">
       <title>Q-56576286-SO - CodeSandbox</title>
-    </bookmark>
-    <bookmark href="https://www.joelonsoftware.com/buy-the-books/" id="297">
-      <title>Buy the books – Joel on Software</title>
     </bookmark>
     <bookmark href="https://www.reduceimages.com/" id="298">
       <title>Resize Images Online - Reduce JPG, BMP, GIF, PNG images</title>
@@ -957,6 +909,54 @@
     </bookmark>
     <bookmark href="https://api.stackexchange.com/docs" id="272">
       <title>Stack Exchange API</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
+      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="276">
+      <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://regex101.com/" id="278">
+      <title>regex101: build, test, and debug regex</title>
+    </bookmark>
+    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="279">
+      <title>Hackernews-CodeSandbox</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="280">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="281">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://yasio.dev/" id="282">
+      <title>&lt;Yasio/&gt; Portfolio | Front-end Developer/Fullstack Designer</title>
+    </bookmark>
+    <bookmark href="https://astexplorer.net/" id="283">
+      <title>AST explorer</title>
+    </bookmark>
+    <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="284">
+      <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="285">
+      <title>Learning React Native.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="287">
+      <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
+    </bookmark>
+    <bookmark href="https://mediamodifier.com/svg-editor#" id="288">
+      <title>SVG Editor - Mediamodifier</title>
+    </bookmark>
+    <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="289">
+      <title>ES6 Proxy Traps in Depth</title>
+    </bookmark>
+    <bookmark href="https://linuxhint.com/" id="290">
+      <title>Linux Hint</title>
+    </bookmark>
+    <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="291">
+      <title>JavaScript Debounce Function</title>
+    </bookmark>
+    <bookmark href="https://www.joelonsoftware.com/buy-the-books/" id="297">
+      <title>Buy the books – Joel on Software</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
