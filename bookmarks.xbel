@@ -1262,9 +1262,21 @@
       <title>Developer learning AWS accounts – Cimpress Cloud Engineering</title>
     </bookmark>
   </folder>
-  <bookmark href="https://swc.rs/" id="425">
-    <title>Rust-based platform for the Web – SWC</title>
-  </bookmark>
+  <folder id="169">
+    <title>FF - PC - Local Servers</title>
+    <bookmark href="http://127.0.0.1:8384/" id="190">
+      <title>🌐 Syncthing</title>
+    </bookmark>
+    <bookmark href="http://127.0.0.1:5006/" id="191">
+      <title>Actual</title>
+    </bookmark>
+    <bookmark href="http://localhost:8787/" id="192">
+      <title>Readarr</title>
+    </bookmark>
+    <bookmark href="http://localhost:5600/#/activity/DESKTOP-VK5G65E/view/" id="193">
+      <title>ActivityWatch</title>
+    </bookmark>
+  </folder>
   <folder id="227">
     <title>research-papers</title>
     <bookmark href="https://www.rand.org/content/dam/rand/pubs/research_memoranda/2009/RM727.1.pdf" id="242">
@@ -1684,6 +1696,9 @@
     <bookmark href="https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="382">
       <title>Make a Discord bot in just 30 lines of code.</title>
     </bookmark>
+    <bookmark href="https://swc.rs/" id="425">
+      <title>Rust-based platform for the Web – SWC</title>
+    </bookmark>
   </folder>
   <folder id="171">
     <title>SOLO leveling</title>
@@ -1866,21 +1881,6 @@
     </bookmark>
     <bookmark href="https://www.joelonsoftware.com/2002/03/04/nothing-is-as-simple-as-it-seems/" id="381">
       <title>Nothing is as Simple as it Seems</title>
-    </bookmark>
-  </folder>
-  <folder id="169">
-    <title>FF - PC - Local Servers</title>
-    <bookmark href="http://127.0.0.1:8384/" id="190">
-      <title>🌐 Syncthing</title>
-    </bookmark>
-    <bookmark href="http://127.0.0.1:5006/" id="191">
-      <title>Actual</title>
-    </bookmark>
-    <bookmark href="http://localhost:8787/" id="192">
-      <title>Readarr</title>
-    </bookmark>
-    <bookmark href="http://localhost:5600/#/activity/DESKTOP-VK5G65E/view/" id="193">
-      <title>ActivityWatch</title>
     </bookmark>
   </folder>
   <folder id="168">
