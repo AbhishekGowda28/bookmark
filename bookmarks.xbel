@@ -637,9 +637,6 @@
     <bookmark href="https://theindex.moe/" id="251">
       <title>The Index</title>
     </bookmark>
-    <bookmark href="https://goodbudget.com/home" id="252">
-      <title>Home | Goodbudget</title>
-    </bookmark>
     <bookmark href="https://mangadex.org/title/9123/one-punch-man-webcomic-original" id="253">
       <title>One Punch Man (Webcomic/Original) (Title) - MangaDex</title>
     </bookmark>
@@ -663,9 +660,6 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="271">
       <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
-    </bookmark>
-    <bookmark href="https://api.stackexchange.com/docs" id="272">
-      <title>Stack Exchange API</title>
     </bookmark>
     <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
       <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
@@ -961,7 +955,13 @@
     <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="206">
       <title>Libraries - TinEye API - TinEye developer documentation</title>
     </bookmark>
+    <bookmark href="https://api.stackexchange.com/docs" id="272">
+      <title>Stack Exchange API</title>
+    </bookmark>
   </folder>
+  <bookmark href="https://goodbudget.com/home" id="252">
+    <title>Home | Goodbudget</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
