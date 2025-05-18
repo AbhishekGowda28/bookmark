@@ -8,27 +8,6 @@
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <folder id="421">
-    <title>Cimpress Technical Docs</title>
-    <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="460">
-      <title>Calendar Design Experience</title>
-    </bookmark>
-    <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="461">
-      <title>Packaging Design Experience</title>
-    </bookmark>
-    <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="462">
-      <title>@design-stack</title>
-    </bookmark>
-    <bookmark href="https://developer.cimpress.io/" id="463">
-      <title>Developer Portal</title>
-    </bookmark>
-    <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="464">
-      <title>Print Design Experience</title>
-    </bookmark>
-    <bookmark href="https://artifactory.cimpress.io/ui/packages" id="465">
-      <title>Packages - artifactory</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2193" id="422">
     <title>Agile Board - Your Weekly Report</title>
   </bookmark>
@@ -247,6 +226,27 @@
     <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="18">
       <title>Cimpress &amp; Vista</title>
     </bookmark>
+    <folder id="421">
+      <title>Cimpress Technical Docs</title>
+      <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="460">
+        <title>Calendar Design Experience</title>
+      </bookmark>
+      <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="461">
+        <title>Packaging Design Experience</title>
+      </bookmark>
+      <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="462">
+        <title>@design-stack</title>
+      </bookmark>
+      <bookmark href="https://developer.cimpress.io/" id="463">
+        <title>Developer Portal</title>
+      </bookmark>
+      <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="464">
+        <title>Print Design Experience</title>
+      </bookmark>
+      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="465">
+        <title>Packages - artifactory</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://learn.acloud.guru/dashboard" id="19">
       <title>Dashboard - A Cloud Guru</title>
     </bookmark>
