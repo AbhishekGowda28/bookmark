@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :355: for Floccus bookmark sync browser extension -->
+<!--- highestId :356: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -951,6 +951,9 @@
     </bookmark>
     <bookmark href="https://www.rafa.ee/articles/resolve-syncthing-conflicts-using-three-way-merge/" id="354">
       <title>Automatically resolve Syncthing conflicts using a three-way merge · Rafael Epplée</title>
+    </bookmark>
+    <bookmark href="https://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html" id="356">
+      <title>Sensemaking: 2012: My Year of Code</title>
     </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
