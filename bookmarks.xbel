@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :735: for Floccus bookmark sync browser extension -->
+<!--- highestId :736: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1321,9 +1321,6 @@
         <title>Case Closed Filler List | The Ultimate Anime Filler Guide</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.youtube.com/watch?v=igNVdlXhKcI&amp;list=TLPQMDUwOTIwMjHL2VLOzhg3mw&amp;index=2" id="383">
-      <title>Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]</title>
-    </bookmark>
     <folder id="734">
       <title>Movies</title>
       <bookmark href="https://www.1tamilmv.legal/" id="211">
@@ -1370,6 +1367,12 @@
       </bookmark>
       <bookmark href="https://piratehaven.xyz/search.php?q=top100:102" id="318">
         <title>PirateHaven.xyz - The galaxy&apos;s most resilient The Pirate Bay site</title>
+      </bookmark>
+    </folder>
+    <folder id="736">
+      <title>YOUTUBE</title>
+      <bookmark href="https://www.youtube.com/watch?v=igNVdlXhKcI&amp;list=TLPQMDUwOTIwMjHL2VLOzhg3mw&amp;index=2" id="383">
+        <title>Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]</title>
       </bookmark>
     </folder>
   </folder>
