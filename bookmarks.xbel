@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :402: for Floccus bookmark sync browser extension -->
+<!--- highestId :403: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -513,9 +513,6 @@
     </bookmark>
     <bookmark href="https://libgen.is/" id="247">
       <title>Library Genesis</title>
-    </bookmark>
-    <bookmark href="https://ww8.readonepiece.com/" id="249">
-      <title></title>
     </bookmark>
     <bookmark href="https://youtubemultidownloader.net/playlists.html" id="250">
       <title>Youtube Multi Downloader Online Free</title>
@@ -1125,6 +1122,9 @@
     </bookmark>
     <bookmark href="https://theindex.moe/" id="251">
       <title>The Index</title>
+    </bookmark>
+    <bookmark href="https://ww11.readonepiece.com/" id="403">
+      <title>Read One Piece Manga Online</title>
     </bookmark>
   </folder>
 </folder>
