@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :324: for Floccus bookmark sync browser extension -->
+<!--- highestId :325: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -102,27 +102,6 @@
     <title>Floccus (Primary)</title>
     <folder id="7">
       <title>Resources</title>
-      <bookmark href="https://pim.products.cimpress.io/merchant/products/PRD-WHVSX0JNJ/versions/32/details/property" id="112">
-        <title>MCP PIM</title>
-      </bookmark>
-      <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="113">
-        <title>Studio-Calcifer - Production | Software Catalog</title>
-      </bookmark>
-      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="114">
-        <title>VistaPrint | Upload your design</title>
-      </bookmark>
-      <bookmark href="https://packages.developer.cimpress.io/" id="115">
-        <title>Cimpress Package Explorer</title>
-      </bookmark>
-      <bookmark href="https://manage-access.pdw.cimpress.io/" id="116">
-        <title>PDW Access Management</title>
-      </bookmark>
-      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
-        <title>Product Grouping</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.zendesk.com/hc/en-us" id="118">
-        <title>Home</title>
-      </bookmark>
       <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
         <title>front end Interview</title>
       </bookmark>
@@ -546,6 +525,27 @@
     </bookmark>
     <bookmark href="https://vista.pagerduty.com/users/PQNBSQ5/on-call/month" id="41">
       <title>Users - On-Call - PagerDuty</title>
+    </bookmark>
+    <bookmark href="https://pim.products.cimpress.io/merchant/products/" id="325">
+      <title>MCP PIM</title>
+    </bookmark>
+    <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="113">
+      <title>Studio-Calcifer - Production | Software Catalog</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="114">
+      <title>VistaPrint | Upload your design</title>
+    </bookmark>
+    <bookmark href="https://packages.developer.cimpress.io/" id="115">
+      <title>Cimpress Package Explorer</title>
+    </bookmark>
+    <bookmark href="https://manage-access.pdw.cimpress.io/" id="116">
+      <title>PDW Access Management</title>
+    </bookmark>
+    <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
+      <title>Product Grouping</title>
+    </bookmark>
+    <bookmark href="https://cimpressindia.zendesk.com/hc/en-us" id="118">
+      <title>Home</title>
     </bookmark>
   </folder>
   <folder id="168">
