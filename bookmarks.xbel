@@ -100,12 +100,6 @@
   <title>Bookmarks Bar</title>
   <folder id="4">
     <title>Floccus (Primary)</title>
-    <folder id="11">
-      <title>🧍‍♂️</title>
-      <bookmark href="https://github.com/course-one" id="66">
-        <title>course-one · GitHub</title>
-      </bookmark>
-    </folder>
     <folder id="12">
       <title>🗑️</title>
       <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
@@ -939,6 +933,9 @@
     </bookmark>
     <bookmark href="https://ilya.grigorik.com/" id="65">
       <title>Ilya Grigorik</title>
+    </bookmark>
+    <bookmark href="https://github.com/course-one" id="66">
+      <title>course-one · GitHub</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
