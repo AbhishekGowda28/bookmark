@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :389: for Floccus bookmark sync browser extension -->
+<!--- highestId :390: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -792,6 +792,9 @@
     </bookmark>
     <folder id="389">
       <title>Shopping</title>
+      <bookmark href="https://www.amazon.in/stores/SHURE/page/51585BE9-2BC1-4163-ABD6-8E36801C5411" id="390">
+        <title>Amazon.in: SHURE</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="171">
