@@ -1387,9 +1387,6 @@
     <bookmark href="https://forum.xda-developers.com/f/xposed-general.3094/" id="189">
       <title>Attention Required! | Cloudflare</title>
     </bookmark>
-    <bookmark href="https://teachyourselfcs.com/#math" id="204">
-      <title>Teach Yourself Computer Science</title>
-    </bookmark>
     <bookmark href="https://www.translate.com/english-kannada" id="207">
       <title>ENG ➡ KAN</title>
     </bookmark>
@@ -2025,6 +2022,9 @@
     </bookmark>
     <bookmark href="https://swc.rs/" id="425">
       <title>Rust-based platform for the Web – SWC</title>
+    </bookmark>
+    <bookmark href="https://teachyourselfcs.com/#math" id="204">
+      <title>Teach Yourself Computer Science</title>
     </bookmark>
   </folder>
   <folder id="399">
