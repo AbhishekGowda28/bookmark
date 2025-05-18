@@ -102,12 +102,6 @@
     <title>Floccus (Primary)</title>
     <folder id="10">
       <title>👀</title>
-      <bookmark href="http://1.22.220.238/budget" id="58">
-        <title>Actual</title>
-      </bookmark>
-      <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
-        <title>React App</title>
-      </bookmark>
     </folder>
     <folder id="14">
       <title>Weekly Read</title>
@@ -940,6 +934,9 @@
   </bookmark>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
     <title>Live updates of stocks, corporate actions and business updates</title>
+  </bookmark>
+  <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
+    <title>React App</title>
   </bookmark>
 </folder>
 <folder id="1">
