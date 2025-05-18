@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :343: for Floccus bookmark sync browser extension -->
+<!--- highestId :344: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -925,6 +925,9 @@
     <bookmark href="https://ethical.net/" id="234">
       <title>Home - ethical.net</title>
     </bookmark>
+    <bookmark href="https://www.thebalancecareers.com/how-to-write-a-resume-summary-statement-2061034" id="229">
+      <title>resume-summary</title>
+    </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
     <title>Live updates of stocks, corporate actions and business updates</title>
@@ -950,12 +953,12 @@
       <title>Horriblesubs</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.thebalancecareers.com/how-to-write-a-resume-summary-statement-2061034" id="229">
-    <title>resume-summary</title>
-  </bookmark>
   <bookmark href="https://pairdrop.net/" id="60">
     <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
   </bookmark>
+  <folder id="344">
+    <title>Entertainment</title>
+  </folder>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
