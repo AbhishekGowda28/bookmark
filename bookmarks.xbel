@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :350: for Floccus bookmark sync browser extension -->
+<!--- highestId :351: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -938,6 +938,9 @@
       </bookmark>
       <bookmark href="https://blog.bytebytego.com/" id="350">
         <title>ByteByteGo Newsletter | Alex Xu | Substack</title>
+      </bookmark>
+      <bookmark href="https://dev.to/uuuuuulala/coding-an-interactive-and-damn-satisfying-cursor-7-simple-steps-2kb-of-code-1c8b" id="351">
+        <title>Coding an Interactive (and Damn Satisfying) Cursor: 7 Simple Steps + 2kb of Code - DEV Community</title>
       </bookmark>
     </folder>
   </folder>
