@@ -896,45 +896,6 @@
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <folder id="417">
-    <title>Links</title>
-    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
-      <title>360 Learning</title>
-    </bookmark>
-    <bookmark href="https://cimpress.ent.box.com/folder/0" id="442">
-      <title>Box</title>
-    </bookmark>
-    <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="443">
-      <title>Udemy - Cimpress</title>
-    </bookmark>
-    <bookmark href="https://learn.acloud.guru/dashboard" id="444">
-      <title>Dashboard - A Cloud Guru</title>
-    </bookmark>
-    <bookmark href="https://visage.prod.merch.vpsvc.com/" id="445">
-      <title>Vista Design System</title>
-    </bookmark>
-    <bookmark href="https://learning.oreilly.com/home/" id="446">
-      <title>Home</title>
-    </bookmark>
-    <bookmark href="https://support.cimpress.cloud/hc/en-us/articles/360035997654-Developer-learning-AWS-accounts" id="447">
-      <title>Developer learning AWS accounts – Cimpress Cloud Engineering</title>
-    </bookmark>
-  </folder>
-  <folder id="419">
-    <title>HR</title>
-    <bookmark href="https://performancemanager4.successfactors.com/sf/start?_s.crb=J05w3CFXdiyv5Q5qBvcWV1e9VtQCmovYXs97QIVyNX4%253d" id="453">
-      <title>Blueprint - SuccessFactors: Home</title>
-    </bookmark>
-    <bookmark href="http://expense.cimpress.net/" id="454">
-      <title>SAP Concur Home</title>
-    </bookmark>
-    <bookmark href="https://cipl.veris.in/meeting-room/find-resource" id="455">
-      <title>Veris | Powering Future Workplaces</title>
-    </bookmark>
-    <bookmark href="https://ess.hgsbs.com/Login" id="29">
-      <title>HGS-login</title>
-    </bookmark>
-  </folder>
   <folder id="420">
     <title>Personal</title>
     <bookmark href="https://gowatchseries.ch/" id="456">
@@ -1345,6 +1306,39 @@
         <title>Studio 5 Repo</title>
       </bookmark>
     </folder>
+    <bookmark href="https://performancemanager4.successfactors.com/sf/start?_s.crb=J05w3CFXdiyv5Q5qBvcWV1e9VtQCmovYXs97QIVyNX4%253d" id="453">
+      <title>Blueprint - SuccessFactors: Home</title>
+    </bookmark>
+    <bookmark href="http://expense.cimpress.net/" id="454">
+      <title>SAP Concur Home</title>
+    </bookmark>
+    <bookmark href="https://cipl.veris.in/meeting-room/find-resource" id="455">
+      <title>Veris | Powering Future Workplaces</title>
+    </bookmark>
+    <bookmark href="https://ess.hgsbs.com/Login" id="29">
+      <title>HGS-login</title>
+    </bookmark>
+    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
+      <title>360 Learning</title>
+    </bookmark>
+    <bookmark href="https://cimpress.ent.box.com/folder/0" id="442">
+      <title>Box</title>
+    </bookmark>
+    <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="443">
+      <title>Udemy - Cimpress</title>
+    </bookmark>
+    <bookmark href="https://learn.acloud.guru/dashboard" id="444">
+      <title>Dashboard - A Cloud Guru</title>
+    </bookmark>
+    <bookmark href="https://visage.prod.merch.vpsvc.com/" id="445">
+      <title>Vista Design System</title>
+    </bookmark>
+    <bookmark href="https://learning.oreilly.com/home/" id="446">
+      <title>Home</title>
+    </bookmark>
+    <bookmark href="https://support.cimpress.cloud/hc/en-us/articles/360035997654-Developer-learning-AWS-accounts" id="447">
+      <title>Developer learning AWS accounts – Cimpress Cloud Engineering</title>
+    </bookmark>
   </folder>
   <folder id="6">
     <title>Vista</title>
