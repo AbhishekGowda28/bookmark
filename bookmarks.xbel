@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :359: for Floccus bookmark sync browser extension -->
+<!--- highestId :388: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
+  <folder id="360">
+    <title>Mozilla Firefox</title>
+    <bookmark href="https://support.mozilla.org/products/firefox" id="370">
+      <title>Get Help</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="371">
+      <title>Customize Firefox</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/contribute/" id="372">
+      <title>Get Involved</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/about/" id="373">
+      <title>About Us</title>
+    </bookmark>
+  </folder>
+  <folder id="361">
+    <title>Unsorted</title>
+    <bookmark href="https://www.youtube.com/results?search_query=one+nation+one+language+" id="374">
+      <title>Results</title>
+    </bookmark>
+    <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
+      <title>Padma Purana – Vyasa Mahabharata</title>
+    </bookmark>
+    <bookmark href="https://kanbanize.com/lean-management" id="376">
+      <title>Lean Management</title>
+    </bookmark>
+  </folder>
+  <folder id="362">
+    <title>Website - Bookmark</title>
+    <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="377">
+      <title>Introduction to Systems Thinking - The Systems Thinker</title>
+    </bookmark>
+    <bookmark href="https://librivox.org/search?q=war%20and%20peace&amp;search_form=advanced" id="378">
+      <title>LibriVox</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="379">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://free-mp3-download.net/" id="380">
+      <title>Free MP3 Download - Free 320kbps MP3 and FLAC Downloads</title>
+    </bookmark>
+    <bookmark href="https://www.joelonsoftware.com/2002/03/04/nothing-is-as-simple-as-it-seems/" id="381">
+      <title>Nothing is as Simple as it Seems</title>
+    </bookmark>
+  </folder>
+  <folder id="363">
+    <title>Articles</title>
+    <bookmark href="https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="382">
+      <title>Make a Discord bot in just 30 lines of code.</title>
+    </bookmark>
+  </folder>
+  <folder id="364">
+    <title>Songs</title>
+    <bookmark href="https://www.youtube.com/watch?v=igNVdlXhKcI&amp;list=TLPQMDUwOTIwMjHL2VLOzhg3mw&amp;index=2" id="383">
+      <title>Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]</title>
+    </bookmark>
+  </folder>
+  <folder id="365">
+    <title>Bookmark</title>
+    <bookmark href="https://youtube.com/user/GreatestAudioBooks/videos" id="384">
+      <title>Greatest AudioBooks</title>
+    </bookmark>
+  </folder>
+  <folder id="366">
+    <title>Comments</title>
+    <bookmark href="https://www.reddit.com/r/ProgrammerHumor/comments/o06vj9/Who_can_relate%3F/h1u17v6/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="385">
+      <title>Who can relate?</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/learnjavascript/comments/p3lcui/How_to_detect_dates_with_different_formats/h8sj1d8/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="386">
+      <title>How to detect dates with different formats</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/AskReddit/comments/p5y3j0/What_is_a_simple_thing_everyone_should_know%3F/h99bpwf/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="387">
+      <title>What is a simple thing everyone should know?</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/programminghorror/comments/irfigv/A_close_coworker_passed_away_from_cancer_recently_and_I%27ve_been_promoted_to_fill_his_place._This_is_the_website_I%27ve_inherited./g4zx883/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="388">
+      <title>A close coworker passed away from cancer recently and I&apos;ve been...</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -1001,6 +1079,15 @@
       <title>Slider.kz alternative : r/Piracy</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.vyasaonline.com/" id="367">
+    <title>Vyasa Mahabharata – Kannada translations from the original Sanskrit text</title>
+  </bookmark>
+  <bookmark href="https://84.46.254.230/" id="368">
+    <title>480p, 720p, &amp; 1080p HQ Movies Download Mkvking - Mkvking.com Official</title>
+  </bookmark>
+  <bookmark href="https://ndl.iitkgp.ac.in/" id="369">
+    <title>National Digital Library of India</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
