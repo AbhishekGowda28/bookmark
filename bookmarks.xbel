@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :405: for Floccus bookmark sync browser extension -->
+<!--- highestId :406: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1128,6 +1128,9 @@
     </bookmark>
     <bookmark href="https://new-123movies.net/" id="405">
       <title>123Movies - Watch Movies Online Free</title>
+    </bookmark>
+    <bookmark href="https://hindilinks4u.yoga/" id="406">
+      <title>hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u</title>
     </bookmark>
   </folder>
 </folder>
