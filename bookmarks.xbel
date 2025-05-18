@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :411: for Floccus bookmark sync browser extension -->
+<!--- highestId :414: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1146,6 +1146,15 @@
     </bookmark>
     <bookmark href="https://cineb.world/series/family-law-49244/3-1/" id="411">
       <title>Watch Family Law (2021) for free on Cineb</title>
+    </bookmark>
+    <bookmark href="https://www.animefillerlist.com/shows/detective-conan" id="412">
+      <title>Case Closed Filler List | The Ultimate Anime Filler Guide</title>
+    </bookmark>
+    <bookmark href="https://www.imdb.com/title/tt33091601/" id="413">
+      <title>The Mystery of Moksha Island (TV Series 2024– ) - IMDb</title>
+    </bookmark>
+    <bookmark href="https://9anime.vip/" id="414">
+      <title>Watch Anime Online, Free Anime Streaming Online on 9anime.vip Anime Website</title>
     </bookmark>
   </folder>
 </folder>
