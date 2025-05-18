@@ -898,17 +898,8 @@
   <title>Bookmarks Bar</title>
   <folder id="420">
     <title>Personal</title>
-    <bookmark href="https://gowatchseries.ch/" id="456">
-      <title>GoWatchseries</title>
-    </bookmark>
-    <bookmark href="https://animixplay.to/" id="457">
-      <title>AniMixPlay - Watch HD Anime for Free</title>
-    </bookmark>
     <bookmark href="https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law" id="458">
       <title>Possession is nine-tenths of the law - Wikipedia</title>
-    </bookmark>
-    <bookmark href="https://app.thestorygraph.com/" id="459">
-      <title>The StoryGraph</title>
     </bookmark>
   </folder>
   <folder id="421">
@@ -1440,6 +1431,12 @@
     </bookmark>
     <bookmark href="https://piratebayproxy.net/" id="407">
       <title>Pirate Bay Proxy - Unblock Piratebay &amp; Download Torrents</title>
+    </bookmark>
+    <bookmark href="https://gowatchseries.ch/" id="456">
+      <title>GoWatchseries</title>
+    </bookmark>
+    <bookmark href="https://animixplay.to/" id="457">
+      <title>AniMixPlay - Watch HD Anime for Free</title>
     </bookmark>
   </folder>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
