@@ -77,822 +77,6 @@
       <title>A close coworker passed away from cancer recently and I&apos;ve been...</title>
     </bookmark>
   </folder>
-  <folder id="415">
-    <title>Mozilla Firefox</title>
-    <bookmark href="https://support.mozilla.org/en-US/products/firefox" id="427">
-      <title>Get Help</title>
-    </bookmark>
-    <bookmark href="https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="428">
-      <title>Customize Firefox</title>
-    </bookmark>
-    <bookmark href="https://www.mozilla.org/en-US/contribute/" id="429">
-      <title>Get Involved</title>
-    </bookmark>
-    <bookmark href="https://www.mozilla.org/en-US/about/" id="430">
-      <title>About Us</title>
-    </bookmark>
-  </folder>
-  <folder id="416">
-    <title>Bookmarks Toolbar</title>
-    <bookmark href="https://www.mozilla.org/en-US/firefox/central/" id="431">
-      <title>Getting Started</title>
-    </bookmark>
-    <folder id="432">
-      <title>CSS</title>
-      <bookmark href="https://www.digitalocean.com/community/tutorials/css-cursor-property" id="466">
-        <title>Change the Mouse Cursor in CSS With the cursor Property | DigitalOcean</title>
-      </bookmark>
-    </folder>
-    <folder id="433">
-      <title>JS|TS</title>
-      <bookmark href="https://typescript.tv/error-ts/" id="467">
-        <title>TypeScript Errors – TypeScript TV</title>
-      </bookmark>
-      <bookmark href="https://astexplorer.net/" id="468">
-        <title>AST explorer</title>
-      </bookmark>
-    </folder>
-    <folder id="434">
-      <title>VSCode</title>
-      <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="469">
-        <title>Theme Color | Visual Studio Code Extension API</title>
-      </bookmark>
-      <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="470">
-        <title>Commands | Visual Studio Code Extension API</title>
-      </bookmark>
-    </folder>
-    <folder id="435">
-      <title>Cimpress Technical Docs</title>
-      <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="471">
-        <title>Calendar Design Experience</title>
-      </bookmark>
-      <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="472">
-        <title>Packaging Design Experience</title>
-      </bookmark>
-      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="473">
-        <title>Packages - artifactory</title>
-      </bookmark>
-      <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="474">
-        <title>@design-stack</title>
-      </bookmark>
-      <bookmark href="https://developer.cimpress.io/" id="475">
-        <title>Developer Portal</title>
-      </bookmark>
-      <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="476">
-        <title>Print Design Experience</title>
-      </bookmark>
-    </folder>
-    <folder id="436">
-      <title>Reference sites</title>
-      <bookmark href="https://packlane.com/#choose-style" id="477">
-        <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/" id="478">
-        <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="479">
-        <title>Packola | Design Your Packaging Online</title>
-      </bookmark>
-      <bookmark href="https://www.canva.com/" id="480">
-        <title>Canva</title>
-      </bookmark>
-      <bookmark href="https://www.packm.com/mailer-boxes" id="481">
-        <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
-      </bookmark>
-      <bookmark href="https://tools-utils.com/" id="482">
-        <title>JSON Editor Online | Tools &amp; Utils</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="483">
-        <title>Blue Team · GitLab</title>
-      </bookmark>
-      <bookmark href="https://github.com/pmndrs/use-gesture" id="484">
-        <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
-      </bookmark>
-      <bookmark href="https://www.motorola.in/motorola-edge-30-ultra-1/p" id="485">
-        <title>Motorola Edge 30 Ultra - motorola IN| Smartphones, Accessories &amp; Smart Home Devices</title>
-      </bookmark>
-    </folder>
-    <folder id="437">
-      <title>Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="486">
-        <title>Decotechs - CT Content Management</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/glossary.html" id="487">
-        <title>Glossary · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="488">
-        <title>Panels and Projections · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="489">
-        <title>Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="490">
-        <title>3D Previews (Vortex) - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="491">
-        <title>Packaging DEX- Requirements By Version - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="492">
-        <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="493">
-        <title>The 3D Model Inspector - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="494">
-        <title>Utility Document Source - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="495">
-        <title>Getting Started with Cimpress - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="529">
-        <title>Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="530">
-        <title>Artwork Technology</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="531">
-        <title>Recruiting - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="532">
-        <title>OKRs - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="533">
-        <title>Panning improvement in design experience - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="534">
-        <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="535">
-        <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="536">
-        <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="537">
-        <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="538">
-        <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
-      </bookmark>
-    </folder>
-    <folder id="438">
-      <title>HR</title>
-      <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="496">
-        <title>Blueprint - Home</title>
-      </bookmark>
-      <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="497">
-        <title>Team A&amp;A - Google Sheets</title>
-      </bookmark>
-      <bookmark href="https://nexus.cimpress.net/" id="498">
-        <title>Nexus</title>
-      </bookmark>
-      <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="499">
-        <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
-      </bookmark>
-      <bookmark href="https://www.concursolutions.com/home.asp" id="500">
-        <title>SAP Concur Home</title>
-      </bookmark>
-      <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="501">
-        <title>Dashboard</title>
-      </bookmark>
-    </folder>
-    <folder id="439">
-      <title>Leaning</title>
-      <bookmark href="https://easings.net/#easeInOutSine" id="502">
-        <title>Easing Functions Cheat Sheet</title>
-      </bookmark>
-      <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="503">
-        <title>CSS Nesting Module</title>
-      </bookmark>
-      <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="504">
-        <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="505">
-        <title>Cimpress India</title>
-      </bookmark>
-      <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="506">
-        <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
-      </bookmark>
-      <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="507">
-        <title>Mocking React hooks when unit testing using Jest</title>
-      </bookmark>
-      <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="508">
-        <title>Is it Pokémon or Big Data ?</title>
-      </bookmark>
-      <bookmark href="https://github.com/mattdesl/extract-svg-path" id="509">
-        <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
-      </bookmark>
-      <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="510">
-        <title>extract specific path from svg at DuckDuckGo</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="511">
-        <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="539">
-        <title>TypeScript for Professionals</title>
-      </bookmark>
-      <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="540">
-        <title>https://cimpress-vistaprint.360learning.com/home</title>
-      </bookmark>
-    </folder>
-    <folder id="440">
-      <title>Bookmarks</title>
-      <bookmark href="https://console.documents.cimpress.io/" id="512">
-        <title>Document Console</title>
-      </bookmark>
-      <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="513">
-        <title>Template Maker</title>
-      </bookmark>
-      <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="514">
-        <title>Cimpress - Artwork – Figma</title>
-      </bookmark>
-    </folder>
-    <folder id="515">
-      <title>Nitro - Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="521">
-        <title>design-experiences-core package separation - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="522">
-        <title>Terms - Cimpress Technology Internal - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="523">
-        <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="524">
-        <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="525">
-        <title>Things we want to Learn - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="526">
-        <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="527">
-        <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="528">
-        <title>Planning and Discussions - Artwork Design - Confluence</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="546">
-      <title>Git commit Descriptions</title>
-    </bookmark>
-    <bookmark href="https://cork.cimpress.cloud/accounts/" id="547">
-      <title>AWS Linked Accounts</title>
-    </bookmark>
-    <bookmark href="https://search.cimpress.io/" id="548">
-      <title>Cimpress Search</title>
-    </bookmark>
-    <bookmark href="https://fusion.documents.cimpress.io/" id="549">
-      <title>Fusion</title>
-    </bookmark>
-    <bookmark href="https://dspe.ddt.cimpress.io/" id="550">
-      <title>Design Stack Package Explorer</title>
-    </bookmark>
-    <bookmark href="https://generic-selector.products.cimpress.io/" id="551">
-      <title>Generic Selector Demo</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="552">
-      <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="553">
-      <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
-    </bookmark>
-    <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="554">
-      <title>Component Migration Guide | interactive-design-engine-core</title>
-    </bookmark>
-    <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="555">
-      <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
-    </bookmark>
-    <folder id="556">
-      <title>Design-Stack-Resources</title>
-      <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="563">
-        <title>Design Engine | design-stack-docs</title>
-      </bookmark>
-      <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="564">
-        <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
-      </bookmark>
-      <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="565">
-        <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
-      </bookmark>
-    </folder>
-    <folder id="557">
-      <title>VSCode</title>
-      <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="566">
-        <title>Theme Color | Visual Studio Code Extension API</title>
-      </bookmark>
-      <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="567">
-        <title>Commands | Visual Studio Code Extension API</title>
-      </bookmark>
-    </folder>
-    <folder id="558">
-      <title>Reference sites</title>
-      <bookmark href="https://packlane.com/#choose-style" id="568">
-        <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/" id="569">
-        <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="570">
-        <title>Packola | Design Your Packaging Online</title>
-      </bookmark>
-      <bookmark href="https://www.canva.com/" id="571">
-        <title>Canva</title>
-      </bookmark>
-      <bookmark href="https://www.packm.com/mailer-boxes" id="572">
-        <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
-      </bookmark>
-      <bookmark href="https://tools-utils.com/" id="573">
-        <title>JSON Editor Online | Tools &amp; Utils</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="574">
-        <title>Blue Team · GitLab</title>
-      </bookmark>
-      <bookmark href="https://github.com/pmndrs/use-gesture" id="575">
-        <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
-      </bookmark>
-    </folder>
-    <folder id="559">
-      <title>Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="576">
-        <title>Decotechs - CT Content Management</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/glossary.html" id="577">
-        <title>Glossary · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="578">
-        <title>Panels and Projections · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="579">
-        <title>Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="580">
-        <title>3D Previews (Vortex) - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="581">
-        <title>Packaging DEX- Requirements By Version - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="582">
-        <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="583">
-        <title>The 3D Model Inspector - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="584">
-        <title>Utility Document Source - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="585">
-        <title>Getting Started with Cimpress - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="619">
-        <title>Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="620">
-        <title>Artwork Technology</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="621">
-        <title>Recruiting - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="622">
-        <title>OKRs - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="623">
-        <title>Panning improvement in design experience - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="624">
-        <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="625">
-        <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="626">
-        <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="627">
-        <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="628">
-        <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
-      </bookmark>
-    </folder>
-    <folder id="560">
-      <title>HR</title>
-      <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="586">
-        <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
-      </bookmark>
-      <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="587">
-        <title>Blueprint - Home</title>
-      </bookmark>
-      <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="588">
-        <title>Team A&amp;A - Google Sheets</title>
-      </bookmark>
-      <bookmark href="https://nexus.cimpress.net/" id="589">
-        <title>Nexus</title>
-      </bookmark>
-      <bookmark href="https://www.concursolutions.com/home.asp" id="590">
-        <title>SAP Concur Home</title>
-      </bookmark>
-      <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="591">
-        <title>Dashboard</title>
-      </bookmark>
-    </folder>
-    <folder id="561">
-      <title>Leaning</title>
-      <bookmark href="https://easings.net/#easeInOutSine" id="592">
-        <title>Easing Functions Cheat Sheet</title>
-      </bookmark>
-      <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="593">
-        <title>CSS Nesting Module</title>
-      </bookmark>
-      <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="594">
-        <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="595">
-        <title>Cimpress India</title>
-      </bookmark>
-      <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="596">
-        <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
-      </bookmark>
-      <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="597">
-        <title>Mocking React hooks when unit testing using Jest</title>
-      </bookmark>
-      <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="598">
-        <title>Is it Pokémon or Big Data ?</title>
-      </bookmark>
-      <bookmark href="https://github.com/mattdesl/extract-svg-path" id="599">
-        <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
-      </bookmark>
-      <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="600">
-        <title>extract specific path from svg at DuckDuckGo</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="601">
-        <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="629">
-        <title>TypeScript for Professionals</title>
-      </bookmark>
-      <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="630">
-        <title>https://cimpress-vistaprint.360learning.com/home</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="562">
-      <title>Cimpress - Artwork – Figma</title>
-    </bookmark>
-    <folder id="605">
-      <title>Bookmarks</title>
-      <bookmark href="https://console.documents.cimpress.io/" id="609">
-        <title>Document Console</title>
-      </bookmark>
-      <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="610">
-        <title>Template Maker</title>
-      </bookmark>
-    </folder>
-    <folder id="606">
-      <title>Nitro - Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="611">
-        <title>design-experiences-core package separation - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="612">
-        <title>Terms - Cimpress Technology Internal - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="613">
-        <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="614">
-        <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="615">
-        <title>Things we want to Learn - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="616">
-        <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="617">
-        <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="618">
-        <title>Planning and Discussions - Artwork Design - Confluence</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="607">
-      <title>Git commit Descriptions</title>
-    </bookmark>
-    <bookmark href="https://typescript.tv/error-ts/" id="608">
-      <title>TypeScript Errors – TypeScript TV</title>
-    </bookmark>
-    <bookmark href="https://astexplorer.net/" id="631">
-      <title>AST explorer</title>
-    </bookmark>
-    <bookmark href="https://cork.cimpress.cloud/accounts/" id="632">
-      <title>AWS Linked Accounts</title>
-    </bookmark>
-    <bookmark href="https://search.cimpress.io/" id="633">
-      <title>Cimpress Search</title>
-    </bookmark>
-    <bookmark href="https://fusion.documents.cimpress.io/" id="634">
-      <title>Fusion</title>
-    </bookmark>
-    <bookmark href="https://dspe.ddt.cimpress.io/" id="635">
-      <title>Design Stack Package Explorer</title>
-    </bookmark>
-    <bookmark href="https://generic-selector.products.cimpress.io/" id="636">
-      <title>Generic Selector Demo</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="637">
-      <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="638">
-      <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
-    </bookmark>
-    <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="639">
-      <title>Component Migration Guide | interactive-design-engine-core</title>
-    </bookmark>
-    <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="640">
-      <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
-    </bookmark>
-    <folder id="641">
-      <title>Design-Stack-Resources</title>
-      <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="649">
-        <title>Design Engine | design-stack-docs</title>
-      </bookmark>
-      <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="650">
-        <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
-      </bookmark>
-      <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="651">
-        <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
-      </bookmark>
-    </folder>
-    <folder id="642">
-      <title>VSCode</title>
-      <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="652">
-        <title>Theme Color | Visual Studio Code Extension API</title>
-      </bookmark>
-      <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="653">
-        <title>Commands | Visual Studio Code Extension API</title>
-      </bookmark>
-    </folder>
-    <folder id="643">
-      <title>Cimpress Technical Docs</title>
-      <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="655">
-        <title>Calendar Design Experience</title>
-      </bookmark>
-      <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="656">
-        <title>Packaging Design Experience</title>
-      </bookmark>
-      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="657">
-        <title>Packages - artifactory</title>
-      </bookmark>
-      <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="658">
-        <title>@design-stack</title>
-      </bookmark>
-      <bookmark href="https://developer.cimpress.io/" id="659">
-        <title>Developer Portal</title>
-      </bookmark>
-      <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="660">
-        <title>Print Design Experience</title>
-      </bookmark>
-    </folder>
-    <folder id="644">
-      <title>Reference sites</title>
-      <bookmark href="https://packlane.com/#choose-style" id="661">
-        <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/" id="662">
-        <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
-      </bookmark>
-      <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="663">
-        <title>Packola | Design Your Packaging Online</title>
-      </bookmark>
-      <bookmark href="https://www.canva.com/" id="664">
-        <title>Canva</title>
-      </bookmark>
-      <bookmark href="https://www.packm.com/mailer-boxes" id="665">
-        <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
-      </bookmark>
-      <bookmark href="https://tools-utils.com/" id="666">
-        <title>JSON Editor Online | Tools &amp; Utils</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="667">
-        <title>Blue Team · GitLab</title>
-      </bookmark>
-      <bookmark href="https://github.com/pmndrs/use-gesture" id="668">
-        <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
-      </bookmark>
-    </folder>
-    <folder id="645">
-      <title>Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="669">
-        <title>Decotechs - CT Content Management</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/glossary.html" id="670">
-        <title>Glossary · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="671">
-        <title>Panels and Projections · Cimpress Open Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="672">
-        <title>Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="673">
-        <title>3D Previews (Vortex) - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="674">
-        <title>Packaging DEX- Requirements By Version - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="675">
-        <title>The 3D Model Inspector - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="676">
-        <title>Utility Document Source - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="677">
-        <title>Getting Started with Cimpress - Cimpress Documentation</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="678">
-        <title>Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="707">
-        <title>Artwork Technology</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="708">
-        <title>Recruiting - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="709">
-        <title>OKRs - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="710">
-        <title>Panning improvement in design experience - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="711">
-        <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="712">
-        <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="713">
-        <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="714">
-        <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="715">
-        <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="126">
-        <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
-      </bookmark>
-    </folder>
-    <folder id="646">
-      <title>HR</title>
-      <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="679">
-        <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
-      </bookmark>
-      <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="680">
-        <title>Blueprint - Home</title>
-      </bookmark>
-      <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="681">
-        <title>Team A&amp;A - Google Sheets</title>
-      </bookmark>
-      <bookmark href="https://www.concursolutions.com/home.asp" id="682">
-        <title>SAP Concur Home</title>
-      </bookmark>
-      <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="683">
-        <title>Dashboard</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CimpressIndia/pages/10176004748/Employee+Benefits#Flexi-Holiday-Calendar" id="684">
-        <title>Employee Benefits - Cimpress India - Cimpress Technology</title>
-      </bookmark>
-      <bookmark href="https://nexus.cimpress.net/" id="30">
-        <title>Nexus</title>
-      </bookmark>
-    </folder>
-    <folder id="647">
-      <title>Leaning</title>
-      <bookmark href="https://easings.net/#easeInOutSine" id="685">
-        <title>Easing Functions Cheat Sheet</title>
-      </bookmark>
-      <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="686">
-        <title>CSS Nesting Module</title>
-      </bookmark>
-      <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="687">
-        <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="688">
-        <title>Cimpress India</title>
-      </bookmark>
-      <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="689">
-        <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
-      </bookmark>
-      <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="690">
-        <title>Mocking React hooks when unit testing using Jest</title>
-      </bookmark>
-      <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="691">
-        <title>Is it Pokémon or Big Data ?</title>
-      </bookmark>
-      <bookmark href="https://github.com/mattdesl/extract-svg-path" id="692">
-        <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
-      </bookmark>
-      <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="693">
-        <title>extract specific path from svg at DuckDuckGo</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="694">
-        <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="716">
-        <title>TypeScript for Professionals</title>
-      </bookmark>
-      <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="717">
-        <title>https://cimpress-vistaprint.360learning.com/home</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="648">
-      <title>Cimpress - Artwork – Figma</title>
-    </bookmark>
-    <folder id="654">
-      <title>Bookmarks</title>
-      <bookmark href="https://console.documents.cimpress.io/" id="696">
-        <title>Document Console</title>
-      </bookmark>
-      <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="697">
-        <title>Template Maker</title>
-      </bookmark>
-    </folder>
-    <folder id="695">
-      <title>Nitro - Confluence</title>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="699">
-        <title>design-experiences-core package separation - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="700">
-        <title>Terms - Cimpress Technology Internal - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="701">
-        <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="702">
-        <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="703">
-        <title>Things we want to Learn - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="704">
-        <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="705">
-        <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
-      </bookmark>
-      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="706">
-        <title>Planning and Discussions - Artwork Design - Confluence</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="698">
-      <title>Git commit Descriptions</title>
-    </bookmark>
-    <bookmark href="https://typescript.tv/error-ts/" id="718">
-      <title>TypeScript Errors – TypeScript TV</title>
-    </bookmark>
-    <bookmark href="https://astexplorer.net/" id="719">
-      <title>AST explorer</title>
-    </bookmark>
-    <bookmark href="https://cork.cimpress.cloud/accounts/" id="720">
-      <title>AWS Linked Accounts</title>
-    </bookmark>
-    <bookmark href="https://search.cimpress.io/" id="721">
-      <title>Cimpress Search</title>
-    </bookmark>
-    <bookmark href="https://fusion.documents.cimpress.io/" id="722">
-      <title>Fusion</title>
-    </bookmark>
-    <bookmark href="https://dspe.ddt.cimpress.io/" id="723">
-      <title>Design Stack Package Explorer</title>
-    </bookmark>
-    <bookmark href="https://generic-selector.products.cimpress.io/" id="724">
-      <title>Generic Selector Demo</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="725">
-      <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="726">
-      <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
-    </bookmark>
-    <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="727">
-      <title>Component Migration Guide | interactive-design-engine-core</title>
-    </bookmark>
-    <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="728">
-      <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
-    </bookmark>
-    <folder id="729">
-      <title>Design-Stack-Resources</title>
-      <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="730">
-        <title>Design Engine | design-stack-docs</title>
-      </bookmark>
-      <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="731">
-        <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
-      </bookmark>
-      <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="732">
-        <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
-      </bookmark>
-    </folder>
-  </folder>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -1351,6 +535,807 @@
     <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/Tutorials/Design%20Stack%20Workshop/" id="518">
       <title>Design Stack Workshop | design-stack-docs</title>
     </bookmark>
+    <folder id="416">
+      <title>Bookmarks Toolbar</title>
+      <bookmark href="https://www.mozilla.org/en-US/firefox/central/" id="431">
+        <title>Getting Started</title>
+      </bookmark>
+      <folder id="432">
+        <title>CSS</title>
+        <bookmark href="https://www.digitalocean.com/community/tutorials/css-cursor-property" id="466">
+          <title>Change the Mouse Cursor in CSS With the cursor Property | DigitalOcean</title>
+        </bookmark>
+      </folder>
+      <folder id="433">
+        <title>JS|TS</title>
+        <bookmark href="https://typescript.tv/error-ts/" id="467">
+          <title>TypeScript Errors – TypeScript TV</title>
+        </bookmark>
+        <bookmark href="https://astexplorer.net/" id="468">
+          <title>AST explorer</title>
+        </bookmark>
+      </folder>
+      <folder id="434">
+        <title>VSCode</title>
+        <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="469">
+          <title>Theme Color | Visual Studio Code Extension API</title>
+        </bookmark>
+        <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="470">
+          <title>Commands | Visual Studio Code Extension API</title>
+        </bookmark>
+      </folder>
+      <folder id="435">
+        <title>Cimpress Technical Docs</title>
+        <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="471">
+          <title>Calendar Design Experience</title>
+        </bookmark>
+        <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="472">
+          <title>Packaging Design Experience</title>
+        </bookmark>
+        <bookmark href="https://artifactory.cimpress.io/ui/packages" id="473">
+          <title>Packages - artifactory</title>
+        </bookmark>
+        <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="474">
+          <title>@design-stack</title>
+        </bookmark>
+        <bookmark href="https://developer.cimpress.io/" id="475">
+          <title>Developer Portal</title>
+        </bookmark>
+        <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="476">
+          <title>Print Design Experience</title>
+        </bookmark>
+      </folder>
+      <folder id="436">
+        <title>Reference sites</title>
+        <bookmark href="https://packlane.com/#choose-style" id="477">
+          <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/" id="478">
+          <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="479">
+          <title>Packola | Design Your Packaging Online</title>
+        </bookmark>
+        <bookmark href="https://www.canva.com/" id="480">
+          <title>Canva</title>
+        </bookmark>
+        <bookmark href="https://www.packm.com/mailer-boxes" id="481">
+          <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+        </bookmark>
+        <bookmark href="https://tools-utils.com/" id="482">
+          <title>JSON Editor Online | Tools &amp; Utils</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="483">
+          <title>Blue Team · GitLab</title>
+        </bookmark>
+        <bookmark href="https://github.com/pmndrs/use-gesture" id="484">
+          <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
+        </bookmark>
+        <bookmark href="https://www.motorola.in/motorola-edge-30-ultra-1/p" id="485">
+          <title>Motorola Edge 30 Ultra - motorola IN| Smartphones, Accessories &amp; Smart Home Devices</title>
+        </bookmark>
+      </folder>
+      <folder id="437">
+        <title>Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="486">
+          <title>Decotechs - CT Content Management</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/glossary.html" id="487">
+          <title>Glossary · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="488">
+          <title>Panels and Projections · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="489">
+          <title>Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="490">
+          <title>3D Previews (Vortex) - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="491">
+          <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="492">
+          <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="493">
+          <title>The 3D Model Inspector - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="494">
+          <title>Utility Document Source - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="495">
+          <title>Getting Started with Cimpress - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="529">
+          <title>Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="530">
+          <title>Artwork Technology</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="531">
+          <title>Recruiting - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="532">
+          <title>OKRs - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="533">
+          <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="534">
+          <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="535">
+          <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="536">
+          <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="537">
+          <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="538">
+          <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+        </bookmark>
+      </folder>
+      <folder id="438">
+        <title>HR</title>
+        <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="496">
+          <title>Blueprint - Home</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="497">
+          <title>Team A&amp;A - Google Sheets</title>
+        </bookmark>
+        <bookmark href="https://nexus.cimpress.net/" id="498">
+          <title>Nexus</title>
+        </bookmark>
+        <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="499">
+          <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+        </bookmark>
+        <bookmark href="https://www.concursolutions.com/home.asp" id="500">
+          <title>SAP Concur Home</title>
+        </bookmark>
+        <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="501">
+          <title>Dashboard</title>
+        </bookmark>
+      </folder>
+      <folder id="439">
+        <title>Leaning</title>
+        <bookmark href="https://easings.net/#easeInOutSine" id="502">
+          <title>Easing Functions Cheat Sheet</title>
+        </bookmark>
+        <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="503">
+          <title>CSS Nesting Module</title>
+        </bookmark>
+        <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="504">
+          <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="505">
+          <title>Cimpress India</title>
+        </bookmark>
+        <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="506">
+          <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+        </bookmark>
+        <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="507">
+          <title>Mocking React hooks when unit testing using Jest</title>
+        </bookmark>
+        <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="508">
+          <title>Is it Pokémon or Big Data ?</title>
+        </bookmark>
+        <bookmark href="https://github.com/mattdesl/extract-svg-path" id="509">
+          <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+        </bookmark>
+        <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="510">
+          <title>extract specific path from svg at DuckDuckGo</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="511">
+          <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="539">
+          <title>TypeScript for Professionals</title>
+        </bookmark>
+        <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="540">
+          <title>https://cimpress-vistaprint.360learning.com/home</title>
+        </bookmark>
+      </folder>
+      <folder id="440">
+        <title>Bookmarks</title>
+        <bookmark href="https://console.documents.cimpress.io/" id="512">
+          <title>Document Console</title>
+        </bookmark>
+        <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="513">
+          <title>Template Maker</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="514">
+          <title>Cimpress - Artwork – Figma</title>
+        </bookmark>
+      </folder>
+      <folder id="515">
+        <title>Nitro - Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="521">
+          <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="522">
+          <title>Terms - Cimpress Technology Internal - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="523">
+          <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="524">
+          <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="525">
+          <title>Things we want to Learn - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="526">
+          <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="527">
+          <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="528">
+          <title>Planning and Discussions - Artwork Design - Confluence</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="546">
+        <title>Git commit Descriptions</title>
+      </bookmark>
+      <bookmark href="https://cork.cimpress.cloud/accounts/" id="547">
+        <title>AWS Linked Accounts</title>
+      </bookmark>
+      <bookmark href="https://search.cimpress.io/" id="548">
+        <title>Cimpress Search</title>
+      </bookmark>
+      <bookmark href="https://fusion.documents.cimpress.io/" id="549">
+        <title>Fusion</title>
+      </bookmark>
+      <bookmark href="https://dspe.ddt.cimpress.io/" id="550">
+        <title>Design Stack Package Explorer</title>
+      </bookmark>
+      <bookmark href="https://generic-selector.products.cimpress.io/" id="551">
+        <title>Generic Selector Demo</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="552">
+        <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="553">
+        <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+      </bookmark>
+      <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="554">
+        <title>Component Migration Guide | interactive-design-engine-core</title>
+      </bookmark>
+      <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="555">
+        <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+      </bookmark>
+      <folder id="556">
+        <title>Design-Stack-Resources</title>
+        <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="563">
+          <title>Design Engine | design-stack-docs</title>
+        </bookmark>
+        <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="564">
+          <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+        </bookmark>
+        <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="565">
+          <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+        </bookmark>
+      </folder>
+      <folder id="557">
+        <title>VSCode</title>
+        <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="566">
+          <title>Theme Color | Visual Studio Code Extension API</title>
+        </bookmark>
+        <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="567">
+          <title>Commands | Visual Studio Code Extension API</title>
+        </bookmark>
+      </folder>
+      <folder id="558">
+        <title>Reference sites</title>
+        <bookmark href="https://packlane.com/#choose-style" id="568">
+          <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/" id="569">
+          <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="570">
+          <title>Packola | Design Your Packaging Online</title>
+        </bookmark>
+        <bookmark href="https://www.canva.com/" id="571">
+          <title>Canva</title>
+        </bookmark>
+        <bookmark href="https://www.packm.com/mailer-boxes" id="572">
+          <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+        </bookmark>
+        <bookmark href="https://tools-utils.com/" id="573">
+          <title>JSON Editor Online | Tools &amp; Utils</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="574">
+          <title>Blue Team · GitLab</title>
+        </bookmark>
+        <bookmark href="https://github.com/pmndrs/use-gesture" id="575">
+          <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
+        </bookmark>
+      </folder>
+      <folder id="559">
+        <title>Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="576">
+          <title>Decotechs - CT Content Management</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/glossary.html" id="577">
+          <title>Glossary · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="578">
+          <title>Panels and Projections · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="579">
+          <title>Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="580">
+          <title>3D Previews (Vortex) - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="581">
+          <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="582">
+          <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="583">
+          <title>The 3D Model Inspector - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="584">
+          <title>Utility Document Source - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="585">
+          <title>Getting Started with Cimpress - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="619">
+          <title>Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="620">
+          <title>Artwork Technology</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="621">
+          <title>Recruiting - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="622">
+          <title>OKRs - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="623">
+          <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="624">
+          <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="625">
+          <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="626">
+          <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="627">
+          <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="628">
+          <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+        </bookmark>
+      </folder>
+      <folder id="560">
+        <title>HR</title>
+        <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="586">
+          <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+        </bookmark>
+        <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="587">
+          <title>Blueprint - Home</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="588">
+          <title>Team A&amp;A - Google Sheets</title>
+        </bookmark>
+        <bookmark href="https://nexus.cimpress.net/" id="589">
+          <title>Nexus</title>
+        </bookmark>
+        <bookmark href="https://www.concursolutions.com/home.asp" id="590">
+          <title>SAP Concur Home</title>
+        </bookmark>
+        <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="591">
+          <title>Dashboard</title>
+        </bookmark>
+      </folder>
+      <folder id="561">
+        <title>Leaning</title>
+        <bookmark href="https://easings.net/#easeInOutSine" id="592">
+          <title>Easing Functions Cheat Sheet</title>
+        </bookmark>
+        <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="593">
+          <title>CSS Nesting Module</title>
+        </bookmark>
+        <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="594">
+          <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="595">
+          <title>Cimpress India</title>
+        </bookmark>
+        <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="596">
+          <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+        </bookmark>
+        <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="597">
+          <title>Mocking React hooks when unit testing using Jest</title>
+        </bookmark>
+        <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="598">
+          <title>Is it Pokémon or Big Data ?</title>
+        </bookmark>
+        <bookmark href="https://github.com/mattdesl/extract-svg-path" id="599">
+          <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+        </bookmark>
+        <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="600">
+          <title>extract specific path from svg at DuckDuckGo</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="601">
+          <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="629">
+          <title>TypeScript for Professionals</title>
+        </bookmark>
+        <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="630">
+          <title>https://cimpress-vistaprint.360learning.com/home</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="562">
+        <title>Cimpress - Artwork – Figma</title>
+      </bookmark>
+      <folder id="605">
+        <title>Bookmarks</title>
+        <bookmark href="https://console.documents.cimpress.io/" id="609">
+          <title>Document Console</title>
+        </bookmark>
+        <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="610">
+          <title>Template Maker</title>
+        </bookmark>
+      </folder>
+      <folder id="606">
+        <title>Nitro - Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="611">
+          <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="612">
+          <title>Terms - Cimpress Technology Internal - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="613">
+          <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="614">
+          <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="615">
+          <title>Things we want to Learn - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="616">
+          <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="617">
+          <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="618">
+          <title>Planning and Discussions - Artwork Design - Confluence</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="607">
+        <title>Git commit Descriptions</title>
+      </bookmark>
+      <bookmark href="https://typescript.tv/error-ts/" id="608">
+        <title>TypeScript Errors – TypeScript TV</title>
+      </bookmark>
+      <bookmark href="https://astexplorer.net/" id="631">
+        <title>AST explorer</title>
+      </bookmark>
+      <bookmark href="https://cork.cimpress.cloud/accounts/" id="632">
+        <title>AWS Linked Accounts</title>
+      </bookmark>
+      <bookmark href="https://search.cimpress.io/" id="633">
+        <title>Cimpress Search</title>
+      </bookmark>
+      <bookmark href="https://fusion.documents.cimpress.io/" id="634">
+        <title>Fusion</title>
+      </bookmark>
+      <bookmark href="https://dspe.ddt.cimpress.io/" id="635">
+        <title>Design Stack Package Explorer</title>
+      </bookmark>
+      <bookmark href="https://generic-selector.products.cimpress.io/" id="636">
+        <title>Generic Selector Demo</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="637">
+        <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="638">
+        <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+      </bookmark>
+      <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="639">
+        <title>Component Migration Guide | interactive-design-engine-core</title>
+      </bookmark>
+      <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="640">
+        <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+      </bookmark>
+      <folder id="641">
+        <title>Design-Stack-Resources</title>
+        <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="649">
+          <title>Design Engine | design-stack-docs</title>
+        </bookmark>
+        <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="650">
+          <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+        </bookmark>
+        <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="651">
+          <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+        </bookmark>
+      </folder>
+      <folder id="642">
+        <title>VSCode</title>
+        <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="652">
+          <title>Theme Color | Visual Studio Code Extension API</title>
+        </bookmark>
+        <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="653">
+          <title>Commands | Visual Studio Code Extension API</title>
+        </bookmark>
+      </folder>
+      <folder id="643">
+        <title>Cimpress Technical Docs</title>
+        <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="655">
+          <title>Calendar Design Experience</title>
+        </bookmark>
+        <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="656">
+          <title>Packaging Design Experience</title>
+        </bookmark>
+        <bookmark href="https://artifactory.cimpress.io/ui/packages" id="657">
+          <title>Packages - artifactory</title>
+        </bookmark>
+        <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="658">
+          <title>@design-stack</title>
+        </bookmark>
+        <bookmark href="https://developer.cimpress.io/" id="659">
+          <title>Developer Portal</title>
+        </bookmark>
+        <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="660">
+          <title>Print Design Experience</title>
+        </bookmark>
+      </folder>
+      <folder id="644">
+        <title>Reference sites</title>
+        <bookmark href="https://packlane.com/#choose-style" id="661">
+          <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/" id="662">
+          <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+        </bookmark>
+        <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="663">
+          <title>Packola | Design Your Packaging Online</title>
+        </bookmark>
+        <bookmark href="https://www.canva.com/" id="664">
+          <title>Canva</title>
+        </bookmark>
+        <bookmark href="https://www.packm.com/mailer-boxes" id="665">
+          <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+        </bookmark>
+        <bookmark href="https://tools-utils.com/" id="666">
+          <title>JSON Editor Online | Tools &amp; Utils</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="667">
+          <title>Blue Team · GitLab</title>
+        </bookmark>
+        <bookmark href="https://github.com/pmndrs/use-gesture" id="668">
+          <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
+        </bookmark>
+      </folder>
+      <folder id="645">
+        <title>Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="669">
+          <title>Decotechs - CT Content Management</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/glossary.html" id="670">
+          <title>Glossary · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="671">
+          <title>Panels and Projections · Cimpress Open Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="672">
+          <title>Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="673">
+          <title>3D Previews (Vortex) - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="674">
+          <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="675">
+          <title>The 3D Model Inspector - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="676">
+          <title>Utility Document Source - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="677">
+          <title>Getting Started with Cimpress - Cimpress Documentation</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="678">
+          <title>Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="707">
+          <title>Artwork Technology</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="708">
+          <title>Recruiting - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="709">
+          <title>OKRs - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="710">
+          <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="711">
+          <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="712">
+          <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="713">
+          <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="714">
+          <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="715">
+          <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="126">
+          <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+        </bookmark>
+      </folder>
+      <folder id="646">
+        <title>HR</title>
+        <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="679">
+          <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+        </bookmark>
+        <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="680">
+          <title>Blueprint - Home</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="681">
+          <title>Team A&amp;A - Google Sheets</title>
+        </bookmark>
+        <bookmark href="https://www.concursolutions.com/home.asp" id="682">
+          <title>SAP Concur Home</title>
+        </bookmark>
+        <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="683">
+          <title>Dashboard</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CimpressIndia/pages/10176004748/Employee+Benefits#Flexi-Holiday-Calendar" id="684">
+          <title>Employee Benefits - Cimpress India - Cimpress Technology</title>
+        </bookmark>
+        <bookmark href="https://nexus.cimpress.net/" id="30">
+          <title>Nexus</title>
+        </bookmark>
+      </folder>
+      <folder id="647">
+        <title>Leaning</title>
+        <bookmark href="https://easings.net/#easeInOutSine" id="685">
+          <title>Easing Functions Cheat Sheet</title>
+        </bookmark>
+        <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="686">
+          <title>CSS Nesting Module</title>
+        </bookmark>
+        <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="687">
+          <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="688">
+          <title>Cimpress India</title>
+        </bookmark>
+        <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="689">
+          <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+        </bookmark>
+        <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="690">
+          <title>Mocking React hooks when unit testing using Jest</title>
+        </bookmark>
+        <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="691">
+          <title>Is it Pokémon or Big Data ?</title>
+        </bookmark>
+        <bookmark href="https://github.com/mattdesl/extract-svg-path" id="692">
+          <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+        </bookmark>
+        <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="693">
+          <title>extract specific path from svg at DuckDuckGo</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="694">
+          <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="716">
+          <title>TypeScript for Professionals</title>
+        </bookmark>
+        <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="717">
+          <title>https://cimpress-vistaprint.360learning.com/home</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="648">
+        <title>Cimpress - Artwork – Figma</title>
+      </bookmark>
+      <folder id="654">
+        <title>Bookmarks</title>
+        <bookmark href="https://console.documents.cimpress.io/" id="696">
+          <title>Document Console</title>
+        </bookmark>
+        <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="697">
+          <title>Template Maker</title>
+        </bookmark>
+      </folder>
+      <folder id="695">
+        <title>Nitro - Confluence</title>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="699">
+          <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="700">
+          <title>Terms - Cimpress Technology Internal - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="701">
+          <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="702">
+          <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="703">
+          <title>Things we want to Learn - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="704">
+          <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="705">
+          <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+        </bookmark>
+        <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="706">
+          <title>Planning and Discussions - Artwork Design - Confluence</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="698">
+        <title>Git commit Descriptions</title>
+      </bookmark>
+      <bookmark href="https://typescript.tv/error-ts/" id="718">
+        <title>TypeScript Errors – TypeScript TV</title>
+      </bookmark>
+      <bookmark href="https://astexplorer.net/" id="719">
+        <title>AST explorer</title>
+      </bookmark>
+      <bookmark href="https://cork.cimpress.cloud/accounts/" id="720">
+        <title>AWS Linked Accounts</title>
+      </bookmark>
+      <bookmark href="https://search.cimpress.io/" id="721">
+        <title>Cimpress Search</title>
+      </bookmark>
+      <bookmark href="https://fusion.documents.cimpress.io/" id="722">
+        <title>Fusion</title>
+      </bookmark>
+      <bookmark href="https://dspe.ddt.cimpress.io/" id="723">
+        <title>Design Stack Package Explorer</title>
+      </bookmark>
+      <bookmark href="https://generic-selector.products.cimpress.io/" id="724">
+        <title>Generic Selector Demo</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="725">
+        <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="726">
+        <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+      </bookmark>
+      <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="727">
+        <title>Component Migration Guide | interactive-design-engine-core</title>
+      </bookmark>
+      <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="728">
+        <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+      </bookmark>
+      <folder id="729">
+        <title>Design-Stack-Resources</title>
+        <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="730">
+          <title>Design Engine | design-stack-docs</title>
+        </bookmark>
+        <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="731">
+          <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+        </bookmark>
+        <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="732">
+          <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+        </bookmark>
+      </folder>
+    </folder>
   </folder>
   <bookmark href="https://swc.rs/" id="425">
     <title>Rust-based platform for the Web – SWC</title>
