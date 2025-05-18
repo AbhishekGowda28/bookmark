@@ -1286,12 +1286,6 @@
       <title>The throry of Fads, Fashion, Custom and Cultural Change as Informational Cascades</title>
     </bookmark>
   </folder>
-  <bookmark href="https://pairdrop.net/" id="60">
-    <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
-  </bookmark>
-  <bookmark href="https://ndl.iitkgp.ac.in/" id="369">
-    <title>National Digital Library of India</title>
-  </bookmark>
   <folder id="344">
     <title>Entertainment</title>
     <folder id="228">
@@ -1694,9 +1688,6 @@
       <title>Nothing is as Simple as it Seems</title>
     </bookmark>
   </folder>
-  <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
-    <title>Calendar</title>
-  </bookmark>
   <folder id="323">
     <title>Programming</title>
     <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
@@ -2066,6 +2057,15 @@
       <title>Padma Purana – Vyasa Mahabharata</title>
     </bookmark>
   </folder>
+  <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
+    <title>Calendar</title>
+  </bookmark>
+  <bookmark href="https://pairdrop.net/" id="60">
+    <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
+  </bookmark>
+  <bookmark href="https://ndl.iitkgp.ac.in/" id="369">
+    <title>National Digital Library of India</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
