@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :401: for Floccus bookmark sync browser extension -->
+<!--- highestId :402: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -804,18 +804,27 @@
       <bookmark href="https://www.amazon.in/stores/SHURE/page/51585BE9-2BC1-4163-ABD6-8E36801C5411" id="390">
         <title>Amazon.in: SHURE</title>
       </bookmark>
+      <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=soundcore+space+one&amp;ia=web" id="402">
+        <title>soundcore space one at DuckDuckGo</title>
+      </bookmark>
     </folder>
     <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=goodnewsnetrowk&amp;ia=web" id="395">
       <title>goodnewsnetrowk at DuckDuckGo</title>
     </bookmark>
-    <folder id="399">
-      <title>Finance</title>
-      <bookmark href="https://sovrenn.com/knowledge" id="400">
-        <title>Sovrenn Knowledge</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://letterstoanewdeveloper.com/2022/01/" id="401">
       <title>January 2022 – Letters To A New Developer</title>
+    </bookmark>
+  </folder>
+  <folder id="399">
+    <title>Finance</title>
+    <bookmark href="https://sovrenn.com/knowledge" id="400">
+      <title>Sovrenn Knowledge</title>
+    </bookmark>
+    <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
+      <title>React App</title>
+    </bookmark>
+    <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
+      <title>Live updates of stocks, corporate actions and business updates</title>
     </bookmark>
   </folder>
   <folder id="171">
@@ -1085,12 +1094,6 @@
       <title>Articles and Videos by Alita Kendrick - NN/g</title>
     </bookmark>
   </folder>
-  <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
-    <title>Live updates of stocks, corporate actions and business updates</title>
-  </bookmark>
-  <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
-    <title>React App</title>
-  </bookmark>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
     <title>Calendar</title>
   </bookmark>
