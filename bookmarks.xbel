@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :388: for Floccus bookmark sync browser extension -->
+<!--- highestId :389: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -790,6 +790,9 @@
     <bookmark href="https://www.vyasaonline.com/" id="367">
       <title>Vyasa Mahabharata – Kannada translations from the original Sanskrit text</title>
     </bookmark>
+    <folder id="389">
+      <title>Shopping</title>
+    </folder>
   </folder>
   <folder id="171">
     <title>SOLO leveling</title>
