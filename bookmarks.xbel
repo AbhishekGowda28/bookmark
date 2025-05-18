@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :394: for Floccus bookmark sync browser extension -->
+<!--- highestId :397: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -805,6 +805,9 @@
         <title>Amazon.in: SHURE</title>
       </bookmark>
     </folder>
+    <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=goodnewsnetrowk&amp;ia=web" id="395">
+      <title>goodnewsnetrowk at DuckDuckGo</title>
+    </bookmark>
   </folder>
   <folder id="171">
     <title>SOLO leveling</title>
@@ -1062,6 +1065,12 @@
     </bookmark>
     <bookmark href="https://webaim.org/" id="394">
       <title>WebAIM: Web Accessibility In Mind</title>
+    </bookmark>
+    <bookmark href="https://github.com/tooling/book-of-modern-frontend-tooling" id="396">
+      <title>GitHub - tooling/book-of-modern-frontend-tooling: The Front-end Tooling Book</title>
+    </bookmark>
+    <bookmark href="https://tooling.github.io/book-of-modern-frontend-tooling/" id="397">
+      <title>Book of Modern frontend tooling</title>
     </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
