@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :404: for Floccus bookmark sync browser extension -->
+<!--- highestId :405: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1125,6 +1125,9 @@
     </bookmark>
     <bookmark href="https://ww11.readonepiece.com/" id="403">
       <title>Read One Piece Manga Online</title>
+    </bookmark>
+    <bookmark href="https://new-123movies.net/" id="405">
+      <title>123Movies - Watch Movies Online Free</title>
     </bookmark>
   </folder>
 </folder>
