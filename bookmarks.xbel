@@ -184,12 +184,6 @@
         <title>QR Code Builder | VistaPrint</title>
       </bookmark>
     </folder>
-    <bookmark href="https://mermaid.js.org/syntax/stateDiagram.html" id="156">
-      <title>State diagrams | Mermaid</title>
-    </bookmark>
-    <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
-      <title>Experimentation Hub</title>
-    </bookmark>
   </folder>
   <folder id="322">
     <title>Work</title>
@@ -382,6 +376,9 @@
         <title>uploads.documents.cimpress.io/furl/</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
+      <title>Experimentation Hub</title>
+    </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
       <title>Presonal</title>
     </bookmark>
@@ -787,6 +784,144 @@
   </folder>
   <folder id="323">
     <title>Programming</title>
+    <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
+      <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
+    </bookmark>
+    <bookmark href="https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/" id="205">
+      <title>Zen and the Art of File and Folder Organization</title>
+    </bookmark>
+    <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="206">
+      <title>Libraries - TinEye API - TinEye developer documentation</title>
+    </bookmark>
+    <bookmark href="https://reactrouter.com/en/main/start/concepts" id="202">
+      <title>Main Concepts v6.15.0 | React Router</title>
+    </bookmark>
+    <bookmark href="https://v5.reactrouter.com/web/api/match" id="201">
+      <title>React Router: Declarative Routing for React.js</title>
+    </bookmark>
+    <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/History/pushState" id="200">
+      <title>History: pushState() method - Web APIs | MDN</title>
+    </bookmark>
+    <bookmark href="https://api.stackexchange.com/docs" id="272">
+      <title>Stack Exchange API</title>
+    </bookmark>
+    <bookmark href="https://regex101.com/" id="278">
+      <title>regex101: build, test, and debug regex</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="280">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://yasio.dev/" id="282">
+      <title>&lt;Yasio/&gt; Portfolio | Front-end Developer/Fullstack Designer</title>
+    </bookmark>
+    <bookmark href="https://astexplorer.net/" id="283">
+      <title>AST explorer</title>
+    </bookmark>
+    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="279">
+      <title>Hackernews-CodeSandbox</title>
+    </bookmark>
+    <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="284">
+      <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
+    </bookmark>
+    <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="287">
+      <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
+    </bookmark>
+    <bookmark href="https://mediamodifier.com/svg-editor#" id="288">
+      <title>SVG Editor - Mediamodifier</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="285">
+      <title>Learning React Native.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="276">
+      <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="291">
+      <title>JavaScript Debounce Function</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/" id="301">
+      <title>A Beginner’s Guide to Git — What is a Changelog and How to Generate it</title>
+    </bookmark>
+    <bookmark href="https://www.joelonsoftware.com/buy-the-books/" id="297">
+      <title>Buy the books – Joel on Software</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/redux-redux-thunk" id="303">
+      <title>Understanding Asynchronous Redux Actions with Redux Thunk | DigitalOcean</title>
+    </bookmark>
+    <bookmark href="https://linuxhint.com/" id="290">
+      <title>Linux Hint</title>
+    </bookmark>
+    <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="289">
+      <title>ES6 Proxy Traps in Depth</title>
+    </bookmark>
+    <bookmark href="https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969" id="23">
+      <title>How the browser renders a web page? — DOM, CSSOM, and Rendering | by Uday Hiwarale | JsPoint | Medium</title>
+    </bookmark>
+    <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="120">
+      <title>Snippets in Visual Studio Code</title>
+    </bookmark>
+    <bookmark href="https://github.com/test-mile/arjuna-java" id="316">
+      <title>test-mile/arjuna-java: Java Requester/Client library for Arjuna based test automation.</title>
+    </bookmark>
+    <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
+      <title>front end Interview</title>
+    </bookmark>
+    <bookmark href="https://css-irl.info/" id="308">
+      <title>CSS { In Real Life }</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="281">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://ilya.grigorik.com/" id="65">
+      <title>Ilya Grigorik</title>
+    </bookmark>
+    <bookmark href="https://packagephobia.com/" id="307">
+      <title>Package Phobia</title>
+    </bookmark>
+    <bookmark href="https://github.com/course-one" id="66">
+      <title>course-one · GitHub</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="304">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
+      <title>Becoming Data Driven, From First Principles - Commoncog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
+      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
+      <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/archives/" id="199">
+      <title>Archives | CSS-Tricks - CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
+      <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
+    </bookmark>
+    <bookmark href="https://github.com/HackerNews/API" id="198">
+      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
+    </bookmark>
+    <bookmark href="https://www.svgviewer.dev/" id="73">
+      <title>SVG Viewer - View, edit, and optimize SVGs</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="183">
+      <title>how to keep field notes as software engineer at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
+      <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="182">
+      <title>learning android development with react native at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
+      <title>The FOUC Problem | WebKit</title>
+    </bookmark>
+    <bookmark href="https://reactnative.dev/" id="181">
+      <title>React Native · Learn once, write anywhere</title>
+    </bookmark>
+    <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
+      <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
+    </bookmark>
     <folder id="167">
       <title>Typescript</title>
       <bookmark href="https://www.totaltypescript.com/articles" id="166">
@@ -796,143 +931,8 @@
         <title>TypeScript: Documentation - TypeScript 3.8</title>
       </bookmark>
     </folder>
-    <bookmark href="https://reactnative.dev/" id="181">
-      <title>React Native · Learn once, write anywhere</title>
-    </bookmark>
-    <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="182">
-      <title>learning android development with react native at DuckDuckGo</title>
-    </bookmark>
-    <bookmark href="https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="183">
-      <title>how to keep field notes as software engineer at DuckDuckGo</title>
-    </bookmark>
-    <bookmark href="https://github.com/HackerNews/API" id="198">
-      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
-    </bookmark>
-    <bookmark href="https://css-tricks.com/archives/" id="199">
-      <title>Archives | CSS-Tricks - CSS-Tricks</title>
-    </bookmark>
-    <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/History/pushState" id="200">
-      <title>History: pushState() method - Web APIs | MDN</title>
-    </bookmark>
-    <bookmark href="https://v5.reactrouter.com/web/api/match" id="201">
-      <title>React Router: Declarative Routing for React.js</title>
-    </bookmark>
-    <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
-      <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
-    </bookmark>
-    <bookmark href="https://reactrouter.com/en/main/start/concepts" id="202">
-      <title>Main Concepts v6.15.0 | React Router</title>
-    </bookmark>
-    <bookmark href="https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/" id="205">
-      <title>Zen and the Art of File and Folder Organization</title>
-    </bookmark>
-    <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="206">
-      <title>Libraries - TinEye API - TinEye developer documentation</title>
-    </bookmark>
-    <bookmark href="https://api.stackexchange.com/docs" id="272">
-      <title>Stack Exchange API</title>
-    </bookmark>
-    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
-      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
-    </bookmark>
-    <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="276">
-      <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
-    </bookmark>
-    <bookmark href="https://regex101.com/" id="278">
-      <title>regex101: build, test, and debug regex</title>
-    </bookmark>
-    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="279">
-      <title>Hackernews-CodeSandbox</title>
-    </bookmark>
-    <bookmark href="https://ezprompt.net/" id="280">
-      <title>Easy Bash Prompt Generator</title>
-    </bookmark>
-    <bookmark href="https://mystery.knightlab.com/" id="281">
-      <title>The SQL Murder Mystery</title>
-    </bookmark>
-    <bookmark href="https://yasio.dev/" id="282">
-      <title>&lt;Yasio/&gt; Portfolio | Front-end Developer/Fullstack Designer</title>
-    </bookmark>
-    <bookmark href="https://astexplorer.net/" id="283">
-      <title>AST explorer</title>
-    </bookmark>
-    <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="284">
-      <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
-    </bookmark>
-    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="285">
-      <title>Learning React Native.pdf - Free download books</title>
-    </bookmark>
-    <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="287">
-      <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
-    </bookmark>
-    <bookmark href="https://mediamodifier.com/svg-editor#" id="288">
-      <title>SVG Editor - Mediamodifier</title>
-    </bookmark>
-    <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="289">
-      <title>ES6 Proxy Traps in Depth</title>
-    </bookmark>
-    <bookmark href="https://linuxhint.com/" id="290">
-      <title>Linux Hint</title>
-    </bookmark>
-    <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="291">
-      <title>JavaScript Debounce Function</title>
-    </bookmark>
-    <bookmark href="https://www.joelonsoftware.com/buy-the-books/" id="297">
-      <title>Buy the books – Joel on Software</title>
-    </bookmark>
-    <bookmark href="https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/" id="301">
-      <title>A Beginner’s Guide to Git — What is a Changelog and How to Generate it</title>
-    </bookmark>
-    <bookmark href="https://www.digitalocean.com/community/tutorials/redux-redux-thunk" id="303">
-      <title>Understanding Asynchronous Redux Actions with Redux Thunk | DigitalOcean</title>
-    </bookmark>
-    <bookmark href="https://mystery.knightlab.com/" id="304">
-      <title>The SQL Murder Mystery</title>
-    </bookmark>
-    <bookmark href="https://packagephobia.com/" id="307">
-      <title>Package Phobia</title>
-    </bookmark>
-    <bookmark href="https://css-irl.info/" id="308">
-      <title>CSS { In Real Life }</title>
-    </bookmark>
-    <bookmark href="https://github.com/test-mile/arjuna-java" id="316">
-      <title>test-mile/arjuna-java: Java Requester/Client library for Arjuna based test automation.</title>
-    </bookmark>
-    <bookmark href="https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969" id="23">
-      <title>How the browser renders a web page? — DOM, CSSOM, and Rendering | by Uday Hiwarale | JsPoint | Medium</title>
-    </bookmark>
-    <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="120">
-      <title>Snippets in Visual Studio Code</title>
-    </bookmark>
-    <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
-      <title>front end Interview</title>
-    </bookmark>
-    <bookmark href="https://ilya.grigorik.com/" id="65">
-      <title>Ilya Grigorik</title>
-    </bookmark>
-    <bookmark href="https://github.com/course-one" id="66">
-      <title>course-one · GitHub</title>
-    </bookmark>
-    <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="67">
-      <title>Becoming Data Driven, From First Principles - Commoncog</title>
-    </bookmark>
-    <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
-      <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
-    </bookmark>
-    <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
-      <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
-    </bookmark>
-    <bookmark href="https://www.svgviewer.dev/" id="73">
-      <title>SVG Viewer - View, edit, and optimize SVGs</title>
-    </bookmark>
-    <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
-      <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
-    </bookmark>
-    <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
-      <title>The FOUC Problem | WebKit</title>
-    </bookmark>
-    <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
-      <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
+    <bookmark href="https://mermaid.js.org/syntax/stateDiagram.html" id="156">
+      <title>State diagrams | Mermaid</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
