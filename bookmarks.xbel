@@ -652,9 +652,6 @@
     <bookmark href="https://www.swami-krishnananda.org/vishnu/vishnu_dhyanam.html" id="178">
       <title>Dhyanam - Sri Vishnu Sahasaranama Stotram - Sanskrit, Transliteration and English Translation</title>
     </bookmark>
-    <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="164">
-      <title>Budget Templates | Actual Budget Documentation</title>
-    </bookmark>
     <bookmark href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html" id="163">
       <title>ARCHITECTURE.md</title>
     </bookmark>
@@ -775,9 +772,6 @@
     <bookmark href="https://piratebayproxy.net/" id="407">
       <title>Pirate Bay Proxy - Unblock Piratebay &amp; Download Torrents</title>
     </bookmark>
-    <bookmark href="https://uiverse.io/elements?page=3" id="108">
-      <title>5005 UI elements: CSS &amp; Tailwind</title>
-    </bookmark>
   </folder>
   <folder id="399">
     <title>Finance</title>
@@ -789,6 +783,9 @@
     </bookmark>
     <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
       <title>Live updates of stocks, corporate actions and business updates</title>
+    </bookmark>
+    <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="164">
+      <title>Budget Templates | Actual Budget Documentation</title>
     </bookmark>
   </folder>
   <folder id="171">
@@ -903,6 +900,9 @@
     </bookmark>
     <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
       <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/elements?page=3" id="108">
+      <title>5005 UI elements: CSS &amp; Tailwind</title>
     </bookmark>
     <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="69">
       <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
