@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :352: for Floccus bookmark sync browser extension -->
+<!--- highestId :353: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -946,6 +946,9 @@
         <title>How to Make Your Awesome GitHub Profile - DEV Community</title>
       </bookmark>
     </folder>
+    <bookmark href="https://esbench.com/" id="353">
+      <title>ESBench</title>
+    </bookmark>
   </folder>
   <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
     <title>Live updates of stocks, corporate actions and business updates</title>
