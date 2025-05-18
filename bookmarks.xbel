@@ -100,26 +100,8 @@
   <title>Bookmarks Bar</title>
   <folder id="4">
     <title>Floccus (Primary)</title>
-    <folder id="7">
-      <title>Resources</title>
-      <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
-        <title>front end Interview</title>
-      </bookmark>
-      <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="120">
-        <title>Snippets in Visual Studio Code</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/overview?homepageId=1508579391" id="121">
-        <title>Product Development - Confluence</title>
-      </bookmark>
-    </folder>
     <folder id="11">
       <title>🧍‍♂️</title>
-      <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
-        <title>Cortex | Home</title>
-      </bookmark>
-      <bookmark href="https://ilya.grigorik.com/" id="65">
-        <title>Ilya Grigorik</title>
-      </bookmark>
       <bookmark href="https://github.com/course-one" id="66">
         <title>course-one · GitHub</title>
       </bookmark>
@@ -547,6 +529,12 @@
     <bookmark href="https://cimpressindia.zendesk.com/hc/en-us" id="118">
       <title>Home</title>
     </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/overview?homepageId=1508579391" id="121">
+      <title>Product Development - Confluence</title>
+    </bookmark>
+    <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
+      <title>Cortex | Home</title>
+    </bookmark>
   </folder>
   <folder id="168">
     <title>Thing</title>
@@ -942,6 +930,15 @@
     </bookmark>
     <bookmark href="https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969" id="23">
       <title>How the browser renders a web page? — DOM, CSSOM, and Rendering | by Uday Hiwarale | JsPoint | Medium</title>
+    </bookmark>
+    <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="120">
+      <title>Snippets in Visual Studio Code</title>
+    </bookmark>
+    <bookmark href="https://www.thatjsdude.com/interview/index.html" id="119">
+      <title>front end Interview</title>
+    </bookmark>
+    <bookmark href="https://ilya.grigorik.com/" id="65">
+      <title>Ilya Grigorik</title>
     </bookmark>
   </folder>
   <bookmark href="https://goodbudget.com/home" id="252">
