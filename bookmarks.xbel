@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :741: for Floccus bookmark sync browser extension -->
+<!--- highestId :742: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2076,6 +2076,9 @@
     </bookmark>
     <bookmark href="https://simonwillison.net/2020/Oct/9/git-scraping/" id="741">
       <title>Git scraping: track changes over time by scraping to a Git repository</title>
+    </bookmark>
+    <bookmark href="https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file" id="742">
+      <title>GitHub - gautamkrishnar/blog-post-workflow: Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed</title>
     </bookmark>
   </folder>
 </folder>
