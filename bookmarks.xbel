@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :752: for Floccus bookmark sync browser extension -->
+<!--- highestId :753: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1685,6 +1685,9 @@
       <title>Nothing is as Simple as it Seems</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.youtube.com/watch?v=9fvETktnaRw" id="753">
+    <title>An old mans advice</title>
+  </bookmark>
   <folder id="391">
     <title>Book</title>
     <bookmark href="https://www.amazon.in/Actionable-Gamification-Beyond-Points-Leaderboards/dp/9395741686/258-8775663-1551166?pd_rd_w=EKGDE&amp;content-id=amzn1.sym.f8d8b87f-14aa-4c03-ad0d-380a0108b532&amp;pf_rd_p=f8d8b87f-14aa-4c03-ad0d-380a0108b532&amp;pf_rd_r=9MGN96NERJQJ7ZJ26J73&amp;pd_rd_wg=PQhsh&amp;pd_rd_r=ae9f8c37-d020-44b3-a4a0-39f037aeeef0&amp;pd_rd_i=9395741686&amp;psc=1" id="392">
