@@ -1663,9 +1663,6 @@
     <bookmark href="https://kanbanize.com/lean-management" id="376">
       <title>Lean Management</title>
     </bookmark>
-    <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="377">
-      <title>Introduction to Systems Thinking - The Systems Thinker</title>
-    </bookmark>
     <bookmark href="https://librivox.org/search?q=war%20and%20peace&amp;search_form=advanced" id="378">
       <title>LibriVox</title>
     </bookmark>
@@ -1698,6 +1695,9 @@
     <title>Tech</title>
     <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
       <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
+    </bookmark>
+    <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="377">
+      <title>Introduction to Systems Thinking - The Systems Thinker</title>
     </bookmark>
     <bookmark href="https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/" id="205">
       <title>Zen and the Art of File and Folder Organization</title>
