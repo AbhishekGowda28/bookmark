@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :754: for Floccus bookmark sync browser extension -->
+<!--- highestId :755: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1462,9 +1462,6 @@
     <bookmark href="https://itbook.store/" id="270">
       <title>IT Bookstore - More than 10,000 books for IT, Programming and Computer Science</title>
     </bookmark>
-    <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="271">
-      <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
-    </bookmark>
     <bookmark href="https://www.alyssawestring.com/" id="274">
       <title>Alyssa Westring, PhD</title>
     </bookmark>
@@ -2051,6 +2048,9 @@
       </bookmark>
       <bookmark href="https://www.youtube.com/watch?v=ngdoUQBvAjo" id="752">
         <title>Setup a monorepo with PNPM workspaces and add Nx for speed - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="755">
+        <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
       </bookmark>
     </folder>
   </folder>
