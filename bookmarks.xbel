@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :753: for Floccus bookmark sync browser extension -->
+<!--- highestId :754: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1326,6 +1326,12 @@
       <bookmark href="https://mangareader.to/home" id="743">
         <title>MangaReader - Read Manga website</title>
       </bookmark>
+      <bookmark href="https://mangadex.org/title/9123/one-punch-man-webcomic-original" id="253">
+        <title>One Punch Man (Webcomic/Original) (Title) - MangaDex</title>
+      </bookmark>
+      <bookmark href="https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e" id="754">
+        <title>https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e</title>
+      </bookmark>
     </folder>
     <folder id="734">
       <title>Movies</title>
@@ -1437,9 +1443,6 @@
     </bookmark>
     <bookmark href="https://youtubemultidownloader.net/playlists.html" id="250">
       <title>Youtube Multi Downloader Online Free</title>
-    </bookmark>
-    <bookmark href="https://mangadex.org/title/9123/one-punch-man-webcomic-original" id="253">
-      <title>One Punch Man (Webcomic/Original) (Title) - MangaDex</title>
     </bookmark>
     <bookmark href="https://audiobookbay.li/" id="254">
       <title>Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)</title>
