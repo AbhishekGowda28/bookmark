@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :747: for Floccus bookmark sync browser extension -->
+<!--- highestId :749: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1290,6 +1290,12 @@
     <title>Entertainment</title>
     <folder id="747">
       <title>Other YT</title>
+      <bookmark href="https://www.youtube.com/watch?v=IDj1OBG5Tpw" id="748">
+        <title>Harvard negotiator explains how to argue | Dan Shapiro - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Fnt6P7Rnho8" id="749">
+        <title>Jordan Peterson Teaches a Shy Kid How to Communicate - YouTube</title>
+      </bookmark>
     </folder>
     <folder id="228">
       <title>anime</title>
