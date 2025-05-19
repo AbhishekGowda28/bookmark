@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :742: for Floccus bookmark sync browser extension -->
+<!--- highestId :744: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1314,6 +1314,9 @@
       <bookmark href="https://www.animefillerlist.com/shows/detective-conan" id="412">
         <title>Case Closed Filler List | The Ultimate Anime Filler Guide</title>
       </bookmark>
+      <bookmark href="https://mangareader.to/home" id="743">
+        <title>MangaReader - Read Manga website</title>
+      </bookmark>
     </folder>
     <folder id="734">
       <title>Movies</title>
@@ -2055,6 +2058,9 @@
     </bookmark>
     <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
       <title>Padma Purana – Vyasa Mahabharata</title>
+    </bookmark>
+    <bookmark href="https://stotranidhi.com/kn/stotras-list-kannada/" id="744">
+      <title>ಸ್ತೋತ್ರನಿಧಿ - Stotra Nidhi</title>
     </bookmark>
   </folder>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
