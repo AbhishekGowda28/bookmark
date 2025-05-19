@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :749: for Floccus bookmark sync browser extension -->
+<!--- highestId :751: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2044,6 +2044,12 @@
     <bookmark href="https://blog.invidelabs.com/" id="745">
       <title>Remote Dev Diary by Invide</title>
     </bookmark>
+    <folder id="750">
+      <title>Youtube</title>
+      <bookmark href="https://www.youtube.com/watch?v=vWerXJrNw2g" id="751">
+        <title>From Zero to Cloud Engineer in 6 months - YouTube</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="399">
     <title>Finance</title>
