@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :755: for Floccus bookmark sync browser extension -->
+<!--- highestId :756: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2109,6 +2109,9 @@
     </bookmark>
     <bookmark href="https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file" id="742">
       <title>GitHub - gautamkrishnar/blog-post-workflow: Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed</title>
+    </bookmark>
+    <bookmark href="https://github.com/gautamkrishnar/github-pages-gallery?tab=readme-ov-file" id="756">
+      <title>gautamkrishnar/github-pages-gallery: A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.</title>
     </bookmark>
   </folder>
 </folder>
