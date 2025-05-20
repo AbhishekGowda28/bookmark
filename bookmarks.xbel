@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :756: for Floccus bookmark sync browser extension -->
+<!--- highestId :757: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2089,6 +2089,9 @@
   </folder>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
     <title>Calendar</title>
+  </bookmark>
+  <bookmark href="https://www.rsslookup.com/" id="757">
+    <title>RSS Lookup - Find RSS feeds on any URL</title>
   </bookmark>
   <bookmark href="https://pairdrop.net/" id="60">
     <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
