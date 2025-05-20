@@ -1685,9 +1685,6 @@
   <bookmark href="https://www.youtube.com/watch?v=9fvETktnaRw" id="753">
     <title>An old mans advice</title>
   </bookmark>
-  <bookmark href="https://excalidraw.com/#token=H-tZiqd3V5gBGFXbFvk05" id="762">
-    <title>Excalidraw - Sharable</title>
-  </bookmark>
   <bookmark href="https://excalidraw.com/#room=5754f7b335cf33a8c378,s2A8EfesHzltcpHJEZatwQ" id="763">
     <title>Shared Exc</title>
   </bookmark>
@@ -1708,6 +1705,9 @@
   </folder>
   <folder id="323">
     <title>Tech</title>
+    <bookmark href="https://www.rsslookup.com/" id="757">
+      <title>RSS Lookup - Find RSS feeds on any URL</title>
+    </bookmark>
     <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
       <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
     </bookmark>
@@ -2098,9 +2098,6 @@
   </folder>
   <bookmark href="https://calendar.google.com/calendar/u/0/r" id="3">
     <title>Calendar</title>
-  </bookmark>
-  <bookmark href="https://www.rsslookup.com/" id="757">
-    <title>RSS Lookup - Find RSS feeds on any URL</title>
   </bookmark>
   <bookmark href="https://pairdrop.net/" id="60">
     <title>PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.</title>
