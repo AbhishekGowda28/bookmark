@@ -214,9 +214,6 @@
           <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="471">
             <title>Calendar Design Experience</title>
           </bookmark>
-          <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="472">
-            <title>Packaging Design Experience</title>
-          </bookmark>
           <bookmark href="https://artifactory.cimpress.io/ui/packages" id="473">
             <title>Packages - artifactory</title>
           </bookmark>
@@ -723,9 +720,6 @@
           <title>Cimpress Technical Docs</title>
           <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="655">
             <title>Calendar Design Experience</title>
-          </bookmark>
-          <bookmark href="https://packaging.dex.designassets.cimpress.io/" id="656">
-            <title>Packaging Design Experience</title>
           </bookmark>
           <bookmark href="https://artifactory.cimpress.io/ui/packages" id="657">
             <title>Packages - artifactory</title>
