@@ -1664,6 +1664,9 @@
       </folder>
       <folder id="774">
         <title>React</title>
+        <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
+          <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
+        </bookmark>
       </folder>
       <bookmark href="https://alexkondov.com/tao-of-react/" id="203">
         <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
@@ -1815,9 +1818,6 @@
     </bookmark>
     <bookmark href="https://www.svgviewer.dev/" id="73">
       <title>SVG Viewer - View, edit, and optimize SVGs</title>
-    </bookmark>
-    <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
-      <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
     </bookmark>
     <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="182">
       <title>learning android development with react native at DuckDuckGo</title>
