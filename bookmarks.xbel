@@ -1746,15 +1746,15 @@
       <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
         <title>CSS Logical Properties | CSS-Tricks</title>
       </bookmark>
+      <bookmark href="https://github.com/tooling/book-of-modern-frontend-tooling" id="396">
+        <title>GitHub - tooling/book-of-modern-frontend-tooling: The Front-end Tooling Book</title>
+      </bookmark>
+      <bookmark href="https://esbench.com/" id="353">
+        <title>ESBench</title>
+      </bookmark>
     </folder>
     <bookmark href="https://www.rsslookup.com/" id="757">
       <title>RSS Lookup - Find RSS feeds on any URL</title>
-    </bookmark>
-    <bookmark href="https://github.com/tooling/book-of-modern-frontend-tooling" id="396">
-      <title>GitHub - tooling/book-of-modern-frontend-tooling: The Front-end Tooling Book</title>
-    </bookmark>
-    <bookmark href="https://esbench.com/" id="353">
-      <title>ESBench</title>
     </bookmark>
     <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="377">
       <title>Introduction to Systems Thinking - The Systems Thinker</title>
@@ -1815,9 +1815,6 @@
     </bookmark>
     <bookmark href="https://www.svgviewer.dev/" id="73">
       <title>SVG Viewer - View, edit, and optimize SVGs</title>
-    </bookmark>
-    <bookmark href="https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="183">
-      <title>how to keep field notes as software engineer at DuckDuckGo</title>
     </bookmark>
     <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
       <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
