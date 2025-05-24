@@ -1795,6 +1795,45 @@
         <title>How to Make Your Awesome GitHub Profile - DEV Community</title>
       </bookmark>
     </folder>
+    <folder id="365">
+      <title>Bookmark</title>
+      <bookmark href="https://youtube.com/user/GreatestAudioBooks/videos" id="384">
+        <title>Greatest AudioBooks</title>
+      </bookmark>
+      <bookmark href="https://semver.npmjs.com/" id="519">
+        <title>npm semantic version calculator</title>
+      </bookmark>
+      <bookmark href="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/" id="520">
+        <title>CSS Flexible Box Layout Module Level 1</title>
+      </bookmark>
+      <bookmark href="https://www.joshwcomeau.com/css/the-importance-of-learning-css/" id="541">
+        <title>The Importance of Learning CSS</title>
+      </bookmark>
+      <bookmark href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/" id="542">
+        <title>How To Learn CSS — Smashing Magazine</title>
+      </bookmark>
+      <bookmark href="https://webkit.org/blog/13096/css-has-pseudo-class/" id="543">
+        <title>Using :has() as a CSS Parent Selector and much more | WebKit</title>
+      </bookmark>
+      <bookmark href="https://codesandbox.io/s/understanding-flexbox-gsyros?file=/index.html" id="544">
+        <title>Understanding Flexbox - CodeSandbox</title>
+      </bookmark>
+      <bookmark href="https://www.freecodecamp.org/news/css-flexbox-complete-guide/" id="545">
+        <title>CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items</title>
+      </bookmark>
+    </folder>
+    <folder id="750">
+      <title>Youtube</title>
+      <bookmark href="https://www.youtube.com/watch?v=vWerXJrNw2g" id="751">
+        <title>From Zero to Cloud Engineer in 6 months - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ngdoUQBvAjo" id="752">
+        <title>Setup a monorepo with PNPM workspaces and add Nx for speed - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="755">
+        <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://www.rsslookup.com/" id="757">
       <title>RSS Lookup - Find RSS feeds on any URL</title>
     </bookmark>
@@ -1882,6 +1921,9 @@
     <bookmark href="https://arund.in/home/education" id="235">
       <title>Impresive Resume</title>
     </bookmark>
+    <bookmark href="https://swc.rs/" id="425">
+      <title>Rust-based platform for the Web – SWC</title>
+    </bookmark>
     <bookmark href="https://www.resume.com/dashboard" id="230">
       <title>Resume Dashboard</title>
     </bookmark>
@@ -1903,33 +1945,6 @@
     <bookmark href="https://www.paulgraham.com/gh.html" id="357">
       <title>Great Hackers</title>
     </bookmark>
-    <folder id="365">
-      <title>Bookmark</title>
-      <bookmark href="https://youtube.com/user/GreatestAudioBooks/videos" id="384">
-        <title>Greatest AudioBooks</title>
-      </bookmark>
-      <bookmark href="https://semver.npmjs.com/" id="519">
-        <title>npm semantic version calculator</title>
-      </bookmark>
-      <bookmark href="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/" id="520">
-        <title>CSS Flexible Box Layout Module Level 1</title>
-      </bookmark>
-      <bookmark href="https://www.joshwcomeau.com/css/the-importance-of-learning-css/" id="541">
-        <title>The Importance of Learning CSS</title>
-      </bookmark>
-      <bookmark href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/" id="542">
-        <title>How To Learn CSS — Smashing Magazine</title>
-      </bookmark>
-      <bookmark href="https://webkit.org/blog/13096/css-has-pseudo-class/" id="543">
-        <title>Using :has() as a CSS Parent Selector and much more | WebKit</title>
-      </bookmark>
-      <bookmark href="https://codesandbox.io/s/understanding-flexbox-gsyros?file=/index.html" id="544">
-        <title>Understanding Flexbox - CodeSandbox</title>
-      </bookmark>
-      <bookmark href="https://www.freecodecamp.org/news/css-flexbox-complete-guide/" id="545">
-        <title>CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://www.reddit.com/r/programming/comments/1aqkw7n/why_most_developers_stop_learning_sql_at/" id="359">
       <title>Why most developers stop learning SQL at subqueries - a 5-minute guide for PARTITION BY and CTEs : r/programming</title>
     </bookmark>
@@ -1969,27 +1984,12 @@
     <bookmark href="https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="382">
       <title>Make a Discord bot in just 30 lines of code.</title>
     </bookmark>
-    <bookmark href="https://swc.rs/" id="425">
-      <title>Rust-based platform for the Web – SWC</title>
-    </bookmark>
     <bookmark href="https://teachyourselfcs.com/#math" id="204">
       <title>Teach Yourself Computer Science</title>
     </bookmark>
     <bookmark href="https://blog.invidelabs.com/" id="745">
       <title>Remote Dev Diary by Invide</title>
     </bookmark>
-    <folder id="750">
-      <title>Youtube</title>
-      <bookmark href="https://www.youtube.com/watch?v=vWerXJrNw2g" id="751">
-        <title>From Zero to Cloud Engineer in 6 months - YouTube</title>
-      </bookmark>
-      <bookmark href="https://www.youtube.com/watch?v=ngdoUQBvAjo" id="752">
-        <title>Setup a monorepo with PNPM workspaces and add Nx for speed - YouTube</title>
-      </bookmark>
-      <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="755">
-        <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://medium.com/@abhishekpandey_15530/building-an-ai-powered-pr-reviewer-with-openai-and-gitlab-49089070ccc7" id="766">
       <title>PR review - With LLM</title>
     </bookmark>
