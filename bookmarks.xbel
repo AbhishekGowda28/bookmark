@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :769: for Floccus bookmark sync browser extension -->
+<!--- highestId :770: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1673,9 +1673,6 @@
       <title>2025-Week-22</title>
     </folder>
   </folder>
-  <bookmark href="https://excalidraw.com/#room=5754f7b335cf33a8c378,s2A8EfesHzltcpHJEZatwQ" id="764">
-    <title>Sharable Mindmap</title>
-  </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=9fvETktnaRw" id="753">
     <title>An old mans advice</title>
   </bookmark>
@@ -2123,6 +2120,9 @@
       <title>Getting Started | Jules</title>
     </bookmark>
   </folder>
+  <bookmark href="https://excalidraw.com/#room=9474bee826ffa56837d6,vDlK94rS955WgK6VcN4Zog" id="770">
+    <title>Sharable Link</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
