@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :771: for Floccus bookmark sync browser extension -->
+<!--- highestId :772: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1645,9 +1645,6 @@
   </bookmark>
   <folder id="391">
     <title>Book</title>
-    <bookmark href="https://www.amazon.in/Actionable-Gamification-Beyond-Points-Leaderboards/dp/9395741686/258-8775663-1551166?pd_rd_w=EKGDE&amp;content-id=amzn1.sym.f8d8b87f-14aa-4c03-ad0d-380a0108b532&amp;pf_rd_p=f8d8b87f-14aa-4c03-ad0d-380a0108b532&amp;pf_rd_r=9MGN96NERJQJ7ZJ26J73&amp;pd_rd_wg=PQhsh&amp;pd_rd_r=ae9f8c37-d020-44b3-a4a0-39f037aeeef0&amp;pd_rd_i=9395741686&amp;psc=1" id="392">
-      <title>Buy Actionable Gamification - Beyond Points, Badges, and Leaderboards Book Online at Low Prices in India | Actionable Gamification - Beyond Points, Badges, and Leaderboards Reviews &amp; Ratings - Amazon.in</title>
-    </bookmark>
     <bookmark href="https://book.inclusive-components.design/" id="111">
       <title>Inclusive Components: The Book</title>
     </bookmark>
@@ -1659,6 +1656,9 @@
     </bookmark>
     <bookmark href="https://www.amazon.in/Design-Storytelling-Ellen-Lupton/dp/194230319X/258-8775663-1551166" id="771">
       <title>Buy Design is Storytelling Book Online at Low Prices in India | Design is Storytelling Reviews &amp; Ratings - Amazon.in</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.in/Actionable-Gamification-Beyond-Points-Leaderboards/dp/9395741686/258-8775663-1551166" id="772">
+      <title>Buy Actionable Gamification - Beyond Points, Badges, and Leaderboards Book Online at Low Prices in India | Actionable Gamification - Beyond Points, Badges, and Leaderboards Reviews &amp; Ratings - Amazon.in</title>
     </bookmark>
   </folder>
   <folder id="323">
