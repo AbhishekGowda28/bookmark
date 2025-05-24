@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :774: for Floccus bookmark sync browser extension -->
+<!--- highestId :775: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1843,9 +1843,6 @@
     <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="377">
       <title>Introduction to Systems Thinking - The Systems Thinker</title>
     </bookmark>
-    <bookmark href="https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/" id="205">
-      <title>Zen and the Art of File and Folder Organization</title>
-    </bookmark>
     <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="206">
       <title>Libraries - TinEye API - TinEye developer documentation</title>
     </bookmark>
@@ -1995,6 +1992,9 @@
     </bookmark>
     <bookmark href="https://isellsoap.github.io/specificity-visualizer/" id="292">
       <title>Specificity Visualizer</title>
+    </bookmark>
+    <bookmark href="https://www.howtogeek.com/15677/zen-and-the-art-of-file-and-folder-organization/" id="775">
+      <title>Zen and the Art of File and Folder Organization</title>
     </bookmark>
   </folder>
   <folder id="399">
