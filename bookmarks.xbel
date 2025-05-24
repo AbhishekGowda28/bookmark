@@ -2044,6 +2044,9 @@
         <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
       </bookmark>
     </folder>
+    <bookmark href="https://medium.com/@abhishekpandey_15530/building-an-ai-powered-pr-reviewer-with-openai-and-gitlab-49089070ccc7" id="766">
+      <title>PR review - With LLM</title>
+    </bookmark>
   </folder>
   <folder id="399">
     <title>Finance</title>
@@ -2061,9 +2064,6 @@
     </bookmark>
     <bookmark href="http://192.168.0.117:5006/budget" id="765">
       <title>Actual</title>
-    </bookmark>
-    <bookmark href="https://medium.com/@abhishekpandey_15530/building-an-ai-powered-pr-reviewer-with-openai-and-gitlab-49089070ccc7" id="766">
-      <title># Building an AI-Powered PR Reviewer with OpenAI and GitLab | by Abhishek Pandey | Apr, 2025 | Medium</title>
     </bookmark>
   </folder>
   <folder id="733">
