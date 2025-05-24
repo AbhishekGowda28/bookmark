@@ -1755,6 +1755,9 @@
       <bookmark href="https://esbench.com/" id="353">
         <title>ESBench</title>
       </bookmark>
+      <bookmark href="https://swc.rs/" id="425">
+        <title>Rust-based platform for the Web – SWC</title>
+      </bookmark>
     </folder>
     <folder id="327">
       <title>Portfolio</title>
@@ -1920,9 +1923,6 @@
     </bookmark>
     <bookmark href="https://arund.in/home/education" id="235">
       <title>Impresive Resume</title>
-    </bookmark>
-    <bookmark href="https://swc.rs/" id="425">
-      <title>Rust-based platform for the Web – SWC</title>
     </bookmark>
     <bookmark href="https://www.resume.com/dashboard" id="230">
       <title>Resume Dashboard</title>
