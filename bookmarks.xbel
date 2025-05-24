@@ -1719,6 +1719,33 @@
       <bookmark href="https://css-tricks.com/archives/" id="199">
         <title>Archives | CSS-Tricks - CSS-Tricks</title>
       </bookmark>
+      <bookmark href="https://uiverse.io/elements?page=3" id="108">
+        <title>5005 UI elements: CSS &amp; Tailwind</title>
+      </bookmark>
+      <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="110">
+        <title>HTML Standard</title>
+      </bookmark>
+      <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
+        <title>The FOUC Problem | WebKit</title>
+      </bookmark>
+      <bookmark href="https://reactnative.dev/" id="181">
+        <title>React Native · Learn once, write anywhere</title>
+      </bookmark>
+      <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="89">
+        <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
+      </bookmark>
+      <bookmark href="https://web.dev/blog/inp-cwv-march-12" id="140">
+        <title>Interaction to Next Paint becomes a Core Web Vital on March 12  |  Blog  |  web.dev</title>
+      </bookmark>
+      <bookmark href="https://tanstack.com/query/latest" id="142">
+        <title>TanStack | High Quality Open-Source Software for Web Developers</title>
+      </bookmark>
+      <bookmark href="https://webaim.org/" id="394">
+        <title>WebAIM: Web Accessibility In Mind</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
+        <title>CSS Logical Properties | CSS-Tricks</title>
+      </bookmark>
     </folder>
     <bookmark href="https://www.rsslookup.com/" id="757">
       <title>RSS Lookup - Find RSS feeds on any URL</title>
@@ -1771,9 +1798,6 @@
     <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="273">
       <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
     </bookmark>
-    <bookmark href="https://uiverse.io/elements?page=3" id="108">
-      <title>5005 UI elements: CSS &amp; Tailwind</title>
-    </bookmark>
     <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="72">
       <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
     </bookmark>
@@ -1789,20 +1813,11 @@
     <bookmark href="https://duckduckgo.com/?q=how+to+keep+field+notes+as+software+engineer&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="183">
       <title>how to keep field notes as software engineer at DuckDuckGo</title>
     </bookmark>
-    <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="110">
-      <title>HTML Standard</title>
-    </bookmark>
     <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="74">
       <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
     </bookmark>
     <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="182">
       <title>learning android development with react native at DuckDuckGo</title>
-    </bookmark>
-    <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="75">
-      <title>The FOUC Problem | WebKit</title>
-    </bookmark>
-    <bookmark href="https://reactnative.dev/" id="181">
-      <title>React Native · Learn once, write anywhere</title>
     </bookmark>
     <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
       <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
@@ -1824,15 +1839,6 @@
     </bookmark>
     <bookmark href="https://medium.com/@victor.ronin/one-companys-lousy-engineer-is-another-company-s-good-architect-3ff14cc8c96d" id="87">
       <title>One company&apos;s lousy engineer is another company&apos;s good architect. | by Victor Ronin | Medium</title>
-    </bookmark>
-    <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="89">
-      <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
-    </bookmark>
-    <bookmark href="https://web.dev/blog/inp-cwv-march-12" id="140">
-      <title>Interaction to Next Paint becomes a Core Web Vital on March 12  |  Blog  |  web.dev</title>
-    </bookmark>
-    <bookmark href="https://tanstack.com/query/latest" id="142">
-      <title>TanStack | High Quality Open-Source Software for Web Developers</title>
     </bookmark>
     <folder id="327">
       <title>Portfolio</title>
@@ -1930,9 +1936,6 @@
     <bookmark href="https://www.reddit.com/r/programming/comments/1aqkw7n/why_most_developers_stop_learning_sql_at/" id="359">
       <title>Why most developers stop learning SQL at subqueries - a 5-minute guide for PARTITION BY and CTEs : r/programming</title>
     </bookmark>
-    <bookmark href="https://webaim.org/" id="394">
-      <title>WebAIM: Web Accessibility In Mind</title>
-    </bookmark>
     <bookmark href="https://github.com/tooling/book-of-modern-frontend-tooling" id="396">
       <title>GitHub - tooling/book-of-modern-frontend-tooling: The Front-end Tooling Book</title>
     </bookmark>
@@ -1959,9 +1962,6 @@
     </bookmark>
     <bookmark href="https://uiverse.io/" id="107">
       <title>Explore 3000+ Free UI Elements: CSS &amp; Tailwind</title>
-    </bookmark>
-    <bookmark href="https://css-tricks.com/css-logical-properties/" id="109">
-      <title>CSS Logical Properties | CSS-Tricks</title>
     </bookmark>
     <bookmark href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html" id="163">
       <title>ARCHITECTURE.md</title>
