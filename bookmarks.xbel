@@ -1492,9 +1492,6 @@
     <bookmark href="https://archive.org/details/booksbylanguage_kannada" id="175">
       <title>Kannada : Books by Language : Free Texts : Free Download, Borrow and Streaming : Internet Archive</title>
     </bookmark>
-    <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
-      <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
-    </bookmark>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -2085,6 +2082,9 @@
     </bookmark>
     <bookmark href="https://jules-documentation.web.app/" id="759">
       <title>Getting Started | Jules</title>
+    </bookmark>
+    <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
+      <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
     </bookmark>
   </folder>
 </folder>
