@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :766: for Floccus bookmark sync browser extension -->
+<!--- highestId :767: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1663,6 +1663,9 @@
     <bookmark href="https://www.joelonsoftware.com/2002/03/04/nothing-is-as-simple-as-it-seems/" id="381">
       <title>Nothing is as Simple as it Seems</title>
     </bookmark>
+  </folder>
+  <folder id="767">
+    <title>Week End Projects</title>
   </folder>
   <bookmark href="https://excalidraw.com/#room=5754f7b335cf33a8c378,s2A8EfesHzltcpHJEZatwQ" id="764">
     <title>Sharable Mindmap</title>
