@@ -1650,6 +1650,15 @@
       <bookmark href="https://google.github.io/styleguide/jsguide.html" id="257">
         <title>Google Javascript Styleguid</title>
       </bookmark>
+      <folder id="167">
+        <title>Typescript</title>
+        <bookmark href="https://www.totaltypescript.com/articles" id="166">
+          <title>TypeScript Articles by Matt Pocock | Total TypeScript</title>
+        </bookmark>
+        <bookmark href="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html#type-only-imports-and-export" id="134">
+          <title>TypeScript: Documentation - TypeScript 3.8</title>
+        </bookmark>
+      </folder>
     </folder>
     <bookmark href="https://www.rsslookup.com/" id="757">
       <title>RSS Lookup - Find RSS feeds on any URL</title>
@@ -1798,15 +1807,6 @@
     <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="135">
       <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
     </bookmark>
-    <folder id="167">
-      <title>Typescript</title>
-      <bookmark href="https://www.totaltypescript.com/articles" id="166">
-        <title>TypeScript Articles by Matt Pocock | Total TypeScript</title>
-      </bookmark>
-      <bookmark href="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html#type-only-imports-and-export" id="134">
-        <title>TypeScript: Documentation - TypeScript 3.8</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://mermaid.js.org/syntax/stateDiagram.html" id="156">
       <title>State diagrams | Mermaid</title>
     </bookmark>
