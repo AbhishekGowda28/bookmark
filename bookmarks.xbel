@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :777: for Floccus bookmark sync browser extension -->
+<!--- highestId :778: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1611,6 +1611,9 @@
     <title>Week End Projects</title>
     <folder id="768">
       <title>2025-Week-22</title>
+      <bookmark href="https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow" id="778">
+        <title>https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="391">
