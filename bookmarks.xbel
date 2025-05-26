@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :778: for Floccus bookmark sync browser extension -->
+<!--- highestId :779: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1613,6 +1613,9 @@
       <title>2025-Week-22</title>
       <bookmark href="https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow" id="778">
         <title>https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow</title>
+      </bookmark>
+      <bookmark href="https://gist.github.com/noghartt/70e4ebb9af58df3b66b8efb856cc1ef5#file-rss-opml" id="779">
+        <title>My current list containing all RSS feeds that I think that is useful</title>
       </bookmark>
     </folder>
   </folder>
