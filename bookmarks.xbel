@@ -1610,9 +1610,6 @@
       <title>National Commission for Backward Classes</title>
     </bookmark>
   </folder>
-  <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="781">
-    <title>Daily dev Bookmar</title>
-  </bookmark>
   <folder id="767">
     <title>Week End Projects</title>
     <folder id="768">
@@ -1622,6 +1619,9 @@
       </bookmark>
       <bookmark href="https://gist.github.com/noghartt/70e4ebb9af58df3b66b8efb856cc1ef5#file-rss-opml" id="779">
         <title>My current list containing all RSS feeds that I think that is useful</title>
+      </bookmark>
+      <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="781">
+        <title>Daily dev Bookmar</title>
       </bookmark>
     </folder>
   </folder>
