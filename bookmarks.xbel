@@ -1610,6 +1610,9 @@
       <title>National Commission for Backward Classes</title>
     </bookmark>
   </folder>
+  <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="781">
+    <title>Daily dev Bookmar</title>
+  </bookmark>
   <folder id="767">
     <title>Week End Projects</title>
     <folder id="768">
@@ -2072,9 +2075,6 @@
       <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
     </bookmark>
   </folder>
-  <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="781">
-    <title>api.daily.dev</title>
-  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
