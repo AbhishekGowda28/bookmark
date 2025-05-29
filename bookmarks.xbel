@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :782: for Floccus bookmark sync browser extension -->
+<!--- highestId :783: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1614,6 +1614,9 @@
     <title>Week End Projects</title>
     <folder id="768">
       <title>2025-Week-22</title>
+      <bookmark href="https://swizec.com/blog/principles-of-high-output-engineering-teams/?ref=dailydev" id="782">
+        <title>Principles of high output engineering teams | Swizec Teller</title>
+      </bookmark>
       <bookmark href="https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow" id="778">
         <title>https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow</title>
       </bookmark>
@@ -1623,7 +1626,7 @@
       <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="781">
         <title>Daily dev Bookmar</title>
       </bookmark>
-      <bookmark href="https://swizec.com/blog/principles-of-high-output-engineering-teams/?ref=dailydev" id="782">
+      <bookmark href="https://swizec.com/blog/principles-of-high-output-engineering-teams/" id="783">
         <title>Principles of high output engineering teams | Swizec Teller</title>
       </bookmark>
     </folder>
