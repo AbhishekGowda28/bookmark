@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :787: for Floccus bookmark sync browser extension -->
+<!--- highestId :788: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1641,6 +1641,9 @@
           <title>Strawhats_IA_Phase_3 - Panel Switcher - Miro</title>
         </bookmark>
       </folder>
+      <bookmark href="https://newsletter.manager.dev/p/the-time-zones-of-engineering-managers" id="788">
+        <title>The time zones of Engineering Managers - by Anton Zaides</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="391">
