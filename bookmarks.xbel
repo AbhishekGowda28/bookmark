@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :786: for Floccus bookmark sync browser extension -->
+<!--- highestId :787: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1633,9 +1633,12 @@
         <title>cheahjs/free-llm-api-resources: A list of free LLM inference resources accessible via API.</title>
       </bookmark>
       <folder id="786">
-        <title>Work </title>
+        <title>Work</title>
         <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4563140670/Studio+IA+Implementation+Planning+Overview" id="785">
           <title>Studio IA Implementation Planning Overview - DIY Design Editing - Confluence</title>
+        </bookmark>
+        <bookmark href="https://miro.com/app/board/uXjVIvNNFkc=/" id="787">
+          <title>Strawhats_IA_Phase_3 - Panel Switcher - Miro</title>
         </bookmark>
       </folder>
     </folder>
