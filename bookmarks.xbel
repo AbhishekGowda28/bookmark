@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :794: for Floccus bookmark sync browser extension -->
+<!--- highestId :795: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
+  <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning" id="794">
+    <title>r/FREEMEDIAHECKYEAH Wiki: Learn Anything</title>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:8384/" id="190">
+    <title>why-do-you-need-this | Syncthing</title>
+  </bookmark>
   <folder id="322">
     <title>Work</title>
     <folder id="13">
@@ -1684,6 +1690,9 @@
     <bookmark href="https://www.amazon.com/exec/obidos/tg/detail/-/0596006624" id="358">
       <title>Hackers &amp; Painters: Big Ideas from the Computer Age: Graham, Paul: 9780596006624: Amazon.com: Books</title>
     </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="795">
+      <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
+    </bookmark>
   </folder>
   <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
     <title>Sharable Link</title>
@@ -2108,12 +2117,6 @@
       <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning" id="794">
-    <title>r/FREEMEDIAHECKYEAH Wiki: Learn Anything</title>
-  </bookmark>
-  <bookmark href="http://127.0.0.1:8384/" id="190">
-    <title>why-do-you-need-this | Syncthing</title>
-  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
