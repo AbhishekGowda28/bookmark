@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :797: for Floccus bookmark sync browser extension -->
+<!--- highestId :798: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1667,6 +1667,9 @@
       </bookmark>
       <bookmark href="https://www.wearedevelopers.com/en/magazine/156/software-development-blogs" id="797">
         <title>The Best Software Developer Blogs to Read</title>
+      </bookmark>
+      <bookmark href="https://www.techradar.com/how-to/techradar-rss" id="798">
+        <title>TechRadar RSS | TechRadar</title>
       </bookmark>
     </folder>
   </folder>
