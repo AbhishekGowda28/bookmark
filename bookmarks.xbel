@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :798: for Floccus bookmark sync browser extension -->
+<!--- highestId :799: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2119,6 +2119,9 @@
     <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
       <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
     </bookmark>
+  </folder>
+  <folder id="799">
+    <title>QuickSaves</title>
   </folder>
 </folder>
 <folder id="1">
