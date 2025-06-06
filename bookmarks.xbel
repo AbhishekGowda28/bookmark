@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :799: for Floccus bookmark sync browser extension -->
+<!--- highestId :802: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2122,6 +2122,15 @@
   </folder>
   <folder id="799">
     <title>QuickSaves</title>
+    <bookmark href="https://smigle-hugo-theme.netlify.app/" id="800">
+      <title>Blog Title</title>
+    </bookmark>
+    <bookmark href="https://iansmcb.com/" id="801">
+      <title>Ian S. McBride</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme" id="802">
+      <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="1">
