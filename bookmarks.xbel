@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :803: for Floccus bookmark sync browser extension -->
+<!--- highestId :806: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1666,6 +1666,18 @@
         <title>The Best Software Developer Blogs to Read</title>
       </bookmark>
     </folder>
+    <folder id="804">
+      <title>2025-Week-24</title>
+      <folder id="805">
+        <title>New folder</title>
+      </folder>
+      <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
+        <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
+      </bookmark>
+      <bookmark href="https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93" id="806">
+        <title>How I Make Learning New Things Feel Easy and Avoid Burnout | by Jordan B. | ILLUMINATION | Medium</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="391">
     <title>Book</title>
@@ -2130,9 +2142,6 @@
     </bookmark>
     <bookmark href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme" id="802">
       <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
-      <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
     </bookmark>
   </folder>
 </folder>
