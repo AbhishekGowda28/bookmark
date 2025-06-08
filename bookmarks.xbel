@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :806: for Floccus bookmark sync browser extension -->
+<!--- highestId :807: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1676,6 +1676,9 @@
       </bookmark>
       <bookmark href="https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93" id="806">
         <title>How I Make Learning New Things Feel Easy and Avoid Burnout | by Jordan B. | ILLUMINATION | Medium</title>
+      </bookmark>
+      <bookmark href="https://zapier.com/blog/eat-that-frog/" id="807">
+        <title>Eat the frog: a practical approach to reaching your goals | Zapier</title>
       </bookmark>
     </folder>
   </folder>
