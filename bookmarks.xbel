@@ -1669,7 +1669,10 @@
     <folder id="804">
       <title>2025-Week-24</title>
       <folder id="805">
-        <title>New folder</title>
+        <title>Work</title>
+        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4275438972/RFC+Vista+Tech+Radar" id="810">
+          <title>[RFC] Vista Tech Radar - Developer Resource Center - Confluence</title>
+        </bookmark>
       </folder>
       <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
         <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
@@ -1685,9 +1688,6 @@
       </bookmark>
       <bookmark href="https://phauer.com/2018/code-review-guidelines/" id="809">
         <title>Code Review Guidelines for Humans</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4275438972/RFC+Vista+Tech+Radar" id="810">
-        <title>[RFC] Vista Tech Radar - Developer Resource Center - Confluence</title>
       </bookmark>
     </folder>
   </folder>
