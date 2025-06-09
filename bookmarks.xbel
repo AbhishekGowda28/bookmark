@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :808: for Floccus bookmark sync browser extension -->
+<!--- highestId :809: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1682,6 +1682,9 @@
       </bookmark>
       <bookmark href="https://medium.com/lets-code-future/how-i-made-my-react-app-lightning-fast-with-just-one-hook-8fcf96398c31" id="808">
         <title>How I Made My React App Lightning Fast ⚡With Just One Hook | by Let&apos;s Code Future | Let’s Code Future | Apr, 2025 | Medium</title>
+      </bookmark>
+      <bookmark href="https://phauer.com/2018/code-review-guidelines/" id="809">
+        <title>Code Review Guidelines for Humans</title>
       </bookmark>
     </folder>
   </folder>
