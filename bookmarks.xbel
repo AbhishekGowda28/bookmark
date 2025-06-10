@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :810: for Floccus bookmark sync browser extension -->
+<!--- highestId :811: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1672,6 +1672,9 @@
         <title>Work</title>
         <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4275438972/RFC+Vista+Tech+Radar" id="810">
           <title>[RFC] Vista Tech Radar - Developer Resource Center - Confluence</title>
+        </bookmark>
+        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4747069089/Agenda+2025.05.14+-+Understanding+Aria+from+Level+Access" id="811">
+          <title>Agenda 2025.05.14 - Understanding Aria from Level Access - Developer Resource Center - Confluence</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
