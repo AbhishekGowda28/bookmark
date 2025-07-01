@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :815: for Floccus bookmark sync browser extension -->
+<!--- highestId :816: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2088,6 +2088,9 @@
     </bookmark>
     <bookmark href="https://www.howtogeek.com/15677/zen-and-the-art-of-file-and-folder-organization/" id="775">
       <title>Zen and the Art of File and Folder Organization</title>
+    </bookmark>
+    <bookmark href="https://ebook-hunter.org/" id="816">
+      <title>free ebooks download - ebook-hunter.org</title>
     </bookmark>
   </folder>
   <folder id="399">
