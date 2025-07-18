@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :817: for Floccus bookmark sync browser extension -->
+<!--- highestId :818: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2094,6 +2094,9 @@
     </bookmark>
     <bookmark href="https://duckduckgo.com/?q=lenny+rachi&amp;ia=web" id="817">
       <title>lenny rachi at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://visualgo.net/en" id="818">
+      <title>visualising data structures and algorithms through animation - VisuAlgo</title>
     </bookmark>
   </folder>
   <folder id="399">
