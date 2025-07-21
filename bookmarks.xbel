@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :819: for Floccus bookmark sync browser extension -->
+<!--- highestId :820: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1701,6 +1701,9 @@
     </folder>
     <folder id="819">
       <title>App Project</title>
+      <bookmark href="https://supabase.com/dashboard/project/nygwhmmhqpbrizwpmhqr" id="820">
+        <title>JnaynaKalaSangama | AbhishekGowda | Supabase</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="391">
