@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :822: for Floccus bookmark sync browser extension -->
+<!--- highestId :823: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2106,6 +2106,9 @@
     </bookmark>
     <bookmark href="https://visualgo.net/en" id="818">
       <title>visualising data structures and algorithms through animation - VisuAlgo</title>
+    </bookmark>
+    <bookmark href="https://toolfinder.co/" id="823">
+      <title>Find Productivity Tools &amp; Browse Stacks | Tool Finder</title>
     </bookmark>
   </folder>
   <folder id="399">
