@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :821: for Floccus bookmark sync browser extension -->
+<!--- highestId :822: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1619,6 +1619,9 @@
       <title>National Commission for Backward Classes</title>
     </bookmark>
   </folder>
+  <bookmark href="https://freedium.cfd/" id="822">
+    <title>Breaking Medium paywall! - Freedium</title>
+  </bookmark>
   <folder id="767">
     <title>Week End Projects</title>
     <folder id="768">
