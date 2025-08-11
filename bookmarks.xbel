@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :825: for Floccus bookmark sync browser extension -->
+<!--- highestId :826: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1257,6 +1257,9 @@
     </bookmark>
     <bookmark href="https://athenacreate.ai.cimpress.io/" id="821">
       <title>ATHENA</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/1396190299/DDIF+Schema+-+V2" id="826">
+      <title>DDIF Schema - V2 - Design Technology Domain - Confluence</title>
     </bookmark>
   </folder>
   <folder id="169">
