@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :828: for Floccus bookmark sync browser extension -->
+<!--- highestId :829: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1266,6 +1266,9 @@
     </bookmark>
     <bookmark href="https://sdk-sherbert.ui.sherbert.cimpress.io/introduction" id="828">
       <title>Introduction | Sherbert SDK</title>
+    </bookmark>
+    <bookmark href="https://developer.rendering.cimpress.io/" id="829">
+      <title>Hello from Rendering | Rendering</title>
     </bookmark>
   </folder>
   <folder id="169">
