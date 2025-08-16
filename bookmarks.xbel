@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :830: for Floccus bookmark sync browser extension -->
+<!--- highestId :831: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1728,6 +1728,9 @@
     </bookmark>
     <bookmark href="https://newsletter.francofernando.com/p/what-to-look-for-in-code-reviews" id="830">
       <title>What to Look for in Code Reviews - by Franco Fernando</title>
+    </bookmark>
+    <bookmark href="https://newsletter.francofernando.com/p/how-to-become-a-confident-software?ref=dailydev" id="831">
+      <title>How to Become a Confident Software Engineer</title>
     </bookmark>
   </folder>
   <folder id="391">
