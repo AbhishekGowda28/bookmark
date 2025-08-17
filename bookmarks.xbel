@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :831: for Floccus bookmark sync browser extension -->
+<!--- highestId :836: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1731,6 +1731,21 @@
     </bookmark>
     <bookmark href="https://newsletter.francofernando.com/p/how-to-become-a-confident-software?ref=dailydev" id="831">
       <title>How to Become a Confident Software Engineer</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+create+level+up+document+in+organization+for+self&amp;ia=web" id="832">
+      <title>how to create level up document in organization for self at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=the+art+of+math+book&amp;ia=web" id="833">
+      <title>the art of math book at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Art-More-Mathematics-Created-Civilization/dp/1524748994" id="834">
+      <title>The Art of More: How Mathematics Created Civilization: Brooks, Michael: 9781524748999: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/2197458.The_Art_of_Mathematics" id="835">
+      <title>The Art of Mathematics by Jerry P. King | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/205977642-learning-systems-thinking" id="836">
+      <title>Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals by Diana Montalion | Goodreads</title>
     </bookmark>
   </folder>
   <folder id="391">
