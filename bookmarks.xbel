@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :836: for Floccus bookmark sync browser extension -->
+<!--- highestId :838: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1746,6 +1746,12 @@
     </bookmark>
     <bookmark href="https://www.goodreads.com/book/show/205977642-learning-systems-thinking" id="836">
       <title>Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals by Diana Montalion | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.gameenginebook.com/" id="837">
+      <title>Game Engine Architecture</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20120523075820if_/http://www.gameenginebook.com/Fig-RuntimeArch.jpg" id="838">
+      <title>Fig-RuntimeArch.jpg (958×1270)</title>
     </bookmark>
   </folder>
   <folder id="391">
