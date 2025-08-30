@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :839: for Floccus bookmark sync browser extension -->
+<!--- highestId :840: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1006,21 +1006,6 @@
         <title>uploads.documents.cimpress.io/furl/</title>
       </bookmark>
     </folder>
-    <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
-      <title>DDSC board - Agile board - Your Weekly Report</title>
-    </bookmark>
-    <bookmark href="https://learning.oreilly.com/certifications/guides/Linux-Foundation-Certified-System-Administrator-(LFCS)/0636920428190/" id="424">
-      <title>Linux Foundation</title>
-    </bookmark>
-    <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
-      <title>Experimentation Hub</title>
-    </bookmark>
-    <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2193" id="422">
-      <title>Agile Board - Your Weekly Report</title>
-    </bookmark>
-    <bookmark href="https://siteflow.sandbox.merch.vpsvc.com/v2/multinextstep/vistaprint/en-US/ProductPage/PRD-1O%5B%E2%80%A6%5D0x%202.70%22%20x%201.10%22&amp;requestor=product-page-v2" id="426">
-      <title>https://siteflow.sandbox.merch.vpsvc.com/v2/multinextstep/vistaprint/en-US/ProductPage/PRD-1O%5B%E2%80%A6%5D0x%202.70%22%20x%201.10%22&amp;requestor=product-page-v2</title>
-    </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
       <title>Presonal Space</title>
     </bookmark>
@@ -1270,6 +1255,15 @@
     <bookmark href="https://developer.rendering.cimpress.io/" id="829">
       <title>Hello from Rendering | Rendering</title>
     </bookmark>
+    <folder id="840">
+      <title>DIY</title>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
+        <title>DDSC board </title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/experimentation/qa" id="158">
+        <title>Experimentation Hub</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="169">
     <title>FF - PC - Local Servers</title>
