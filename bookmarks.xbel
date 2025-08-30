@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :840: for Floccus bookmark sync browser extension -->
+<!--- highestId :841: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1204,9 +1204,6 @@
     <bookmark href="https://cipl.veris.in/meeting-room/find-resource" id="455">
       <title>Veris | Powering Future Workplaces</title>
     </bookmark>
-    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
-      <title>360 Learning</title>
-    </bookmark>
     <bookmark href="https://cimpress.ent.box.com/folder/0" id="442">
       <title>Box</title>
     </bookmark>
@@ -1250,6 +1247,12 @@
       <title>DIY</title>
       <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
         <title>DDSC board</title>
+      </bookmark>
+    </folder>
+    <folder id="841">
+      <title>Learning Resources</title>
+      <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
+        <title>360 Learning</title>
       </bookmark>
     </folder>
   </folder>
