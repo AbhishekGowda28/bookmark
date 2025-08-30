@@ -1044,6 +1044,9 @@
       <bookmark href="https://artifactory.cimpress.io/ui/packages" id="465">
         <title>Packages - artifactory</title>
       </bookmark>
+      <bookmark href="https://manage-access.pdw.cimpress.io/" id="116">
+        <title>PDW Access Management</title>
+      </bookmark>
     </folder>
     <bookmark href="https://developer.cimpress.io/software-catalog" id="32">
       <title>Software Catalog</title>
@@ -1059,9 +1062,6 @@
     </bookmark>
     <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="113">
       <title>Studio-Calcifer - Production | Software Catalog</title>
-    </bookmark>
-    <bookmark href="https://manage-access.pdw.cimpress.io/" id="116">
-      <title>PDW Access Management</title>
     </bookmark>
     <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
       <title>Product Grouping</title>
