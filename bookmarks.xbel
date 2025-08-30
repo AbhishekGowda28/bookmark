@@ -1063,9 +1063,6 @@
     <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="113">
       <title>Studio-Calcifer - Production | Software Catalog</title>
     </bookmark>
-    <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
-      <title>Product Grouping</title>
-    </bookmark>
     <bookmark href="https://cimpressindia.zendesk.com/hc/en-us" id="118">
       <title>Home</title>
     </bookmark>
@@ -1208,6 +1205,9 @@
       <title>DIY</title>
       <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
         <title>DDSC board</title>
+      </bookmark>
+      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
+        <title>Product Grouping</title>
       </bookmark>
     </folder>
     <folder id="841">
