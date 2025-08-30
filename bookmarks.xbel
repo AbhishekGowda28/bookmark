@@ -30,9 +30,6 @@
       <bookmark href="https://cimpressvista.cloud.looker.com/dashboards/6872" id="81">
         <title>Albelli Metrics</title>
       </bookmark>
-      <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="82">
-        <title>Sherbert-swagger</title>
-      </bookmark>
       <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/studio-configuration-editor/latest/" id="162">
         <title>PIM studio configuration editor</title>
       </bookmark>
@@ -1203,6 +1200,9 @@
     </bookmark>
     <bookmark href="https://mcpapis.cimpress.io/" id="842">
       <title>MCP APIs</title>
+    </bookmark>
+    <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="82">
+      <title>Sherbert-swagger</title>
     </bookmark>
   </folder>
   <folder id="169">
