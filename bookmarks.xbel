@@ -1069,15 +1069,33 @@
         <title>uploads.documents.cimpress.io/furl/</title>
       </bookmark>
     </folder>
-    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
-      <title>Presonal Space</title>
-    </bookmark>
-    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~64216af00e6828ab2026e731/pages/3982590166/Gaurav+Abhishek+Discussion" id="157">
-      <title>Gaurav &amp; Abhishek Discussion - Gaurav Bhardwaj - Confluence</title>
-    </bookmark>
-    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="18">
-      <title>Cimpress &amp; Vista</title>
-    </bookmark>
+    <folder id="418">
+      <title>Repos</title>
+      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/upload-and-print/nitro/quick-upload-and-design-spa/-/tree/development" id="448">
+        <title>Files · development · Vista / Design Technology / Upload and Print / Nitro / Quick Upload And Design SPA · GitLab</title>
+      </bookmark>
+      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="449">
+        <title>Packages - artifactory</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.jfrog.io/ui/packages" id="450">
+        <title>Packages - vistaprint.jfrog.io</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2127?selectedIssue=DT-11424" id="451">
+        <title>DIY-Upload-Nitro - Agile Board - Your Weekly Report</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio" id="452">
+        <title>Studio 5 Repo</title>
+      </bookmark>
+    </folder>
+    <folder id="840">
+      <title>DIY</title>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
+        <title>DDSC board</title>
+      </bookmark>
+      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
+        <title>Product Grouping</title>
+      </bookmark>
+    </folder>
     <folder id="421">
       <title>Cimpress Technical Docs</title>
       <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="460">
@@ -1099,6 +1117,30 @@
         <title>PDW Access Management</title>
       </bookmark>
     </folder>
+    <folder id="841">
+      <title>Learning Resources</title>
+      <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
+        <title>360 Learning</title>
+      </bookmark>
+      <bookmark href="https://learn.acloud.guru/course/aws-certified-developer-associate/overview" id="20">
+        <title>AWS Certified Developer - Associate (DVA-C02) - A Cloud Guru</title>
+      </bookmark>
+      <bookmark href="https://learn.acloud.guru/custom-learning-path/7f9711ef-d0f2-4498-a694-04568a63b0de" id="21">
+        <title>Fundamentals @ Cimpress - A Cloud Guru</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/learning/?u=270841162" id="24">
+        <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="155">
+      <title>Presonal Space</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~64216af00e6828ab2026e731/pages/3982590166/Gaurav+Abhishek+Discussion" id="157">
+      <title>Gaurav &amp; Abhishek Discussion - Gaurav Bhardwaj - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="18">
+      <title>Cimpress &amp; Vista</title>
+    </bookmark>
     <bookmark href="https://developer.cimpress.io/software-catalog" id="32">
       <title>Software Catalog</title>
     </bookmark>
@@ -1126,24 +1168,6 @@
     <bookmark href="https://www.vistaprint.com/qr-code-generator/builder" id="105">
       <title>QR Code Builder | VistaPrint</title>
     </bookmark>
-    <folder id="418">
-      <title>Repos</title>
-      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/upload-and-print/nitro/quick-upload-and-design-spa/-/tree/development" id="448">
-        <title>Files · development · Vista / Design Technology / Upload and Print / Nitro / Quick Upload And Design SPA · GitLab</title>
-      </bookmark>
-      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="449">
-        <title>Packages - artifactory</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.jfrog.io/ui/packages" id="450">
-        <title>Packages - vistaprint.jfrog.io</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2127?selectedIssue=DT-11424" id="451">
-        <title>DIY-Upload-Nitro - Agile Board - Your Weekly Report</title>
-      </bookmark>
-      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio" id="452">
-        <title>Studio 5 Repo</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://performancemanager4.successfactors.com/sf/start?_s.crb=J05w3CFXdiyv5Q5qBvcWV1e9VtQCmovYXs97QIVyNX4%253d" id="453">
       <title>Blueprint - SuccessFactors: Home</title>
     </bookmark>
@@ -1180,30 +1204,6 @@
     <bookmark href="https://developer.rendering.cimpress.io/" id="829">
       <title>Hello from Rendering | Rendering</title>
     </bookmark>
-    <folder id="840">
-      <title>DIY</title>
-      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="154">
-        <title>DDSC board</title>
-      </bookmark>
-      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="117">
-        <title>Product Grouping</title>
-      </bookmark>
-    </folder>
-    <folder id="841">
-      <title>Learning Resources</title>
-      <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="441">
-        <title>360 Learning</title>
-      </bookmark>
-      <bookmark href="https://learn.acloud.guru/course/aws-certified-developer-associate/overview" id="20">
-        <title>AWS Certified Developer - Associate (DVA-C02) - A Cloud Guru</title>
-      </bookmark>
-      <bookmark href="https://learn.acloud.guru/custom-learning-path/7f9711ef-d0f2-4498-a694-04568a63b0de" id="21">
-        <title>Fundamentals @ Cimpress - A Cloud Guru</title>
-      </bookmark>
-      <bookmark href="https://www.linkedin.com/learning/?u=270841162" id="24">
-        <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://mcpapis.cimpress.io/" id="842">
       <title>MCP APIs</title>
     </bookmark>
