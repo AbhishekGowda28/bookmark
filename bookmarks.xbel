@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :842: for Floccus bookmark sync browser extension -->
+<!--- highestId :843: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2171,6 +2171,9 @@
       <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
     </bookmark>
   </folder>
+  <bookmark href="javascript:(function(){const e=&quot;qm-visible-bootstrap-script&quot;,r=&quot;https://external.quantummetric.com/visible/latest/bootstrap.bundle.js&quot;;if(document.querySelector(&apos;#&apos;%20+%20e)){window.postMessage(%22qm-visible-bookmarklet%22,%22*%22);return}const%20c=document.querySelector(%22body%22),t=document.createElement(%22script%22);t.id=e,t.src=r,c.appendChild(t)})();" id="843">
+    <title>QM</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
