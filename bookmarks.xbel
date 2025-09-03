@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :843: for Floccus bookmark sync browser extension -->
+<!--- highestId :845: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1687,6 +1687,12 @@
     <bookmark href="https://web.archive.org/web/20120523075820if_/http://www.gameenginebook.com/Fig-RuntimeArch.jpg" id="838">
       <title>Fig-RuntimeArch.jpg (958×1270)</title>
     </bookmark>
+    <folder id="844">
+      <title>2025-Week-36</title>
+      <bookmark href="https://strategizeyourcareer.com/p/2025-guide-to-context-engineering?ref=dailydev" id="845">
+        <title>If you&apos;re an engineer using AI to become a force multiplier, read this</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="391">
     <title>Book</title>
