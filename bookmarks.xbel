@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :849: for Floccus bookmark sync browser extension -->
+<!--- highestId :852: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1703,6 +1703,15 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/3807807073/QM+Training+Session+Alerts+Felix+AI+Preview" id="849">
         <title>QM Training Session: Alerts + Felix AI Preview - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/3358785538/QM+Knowledge+Center" id="850">
+        <title>QM: Knowledge Center - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PL/pages/4284055863/Site+Experience+Requirements+Multi+Deco+Custom+Patches+3D+Embroidery" id="851">
+        <title>Site Experience Requirements: Multi Deco, Custom Patches, 3D Embroidery - PPAG LoB - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4330618994/Multi+Deco+PPAG" id="852">
+        <title>Multi Deco PPAG - DIY Design Editing - Confluence</title>
       </bookmark>
     </folder>
   </folder>
