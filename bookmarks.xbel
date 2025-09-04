@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :847: for Floccus bookmark sync browser extension -->
+<!--- highestId :849: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1697,6 +1697,12 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/2174910576/Experimentation+tracking+framework" id="847">
         <title>Experimentation tracking framework - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2943451321/Vistaprint.com+Holiday+Peak+Season+Guidance" id="848">
+        <title>Vistaprint.com Holiday Peak Season Guidance - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/3807807073/QM+Training+Session+Alerts+Felix+AI+Preview" id="849">
+        <title>QM Training Session: Alerts + Felix AI Preview - Site Data and Tracking - Confluence</title>
       </bookmark>
     </folder>
   </folder>
