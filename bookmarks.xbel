@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :854: for Floccus bookmark sync browser extension -->
+<!--- highestId :856: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1718,6 +1718,12 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PL/pages/3791683609/Multi+Deco+Project" id="854">
         <title>Multi Deco Project - PPAG LoB - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5042995497/Perfect+Bound+Booklets+Custom+Size+-+Product+Brief" id="855">
+        <title>Perfect Bound Booklets Custom Size - Product Brief - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3812130913/DJ+N-color" id="856">
+        <title>(DJ) N-color - DIY Design Editing - Confluence</title>
       </bookmark>
     </folder>
   </folder>
