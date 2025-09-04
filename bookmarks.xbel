@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :856: for Floccus bookmark sync browser extension -->
+<!--- highestId :859: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1204,6 +1204,15 @@
     <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="82">
       <title>Sherbert-swagger</title>
     </bookmark>
+    <folder id="857">
+      <title>DIY</title>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="858">
+        <title>DDSC board</title>
+      </bookmark>
+      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="859">
+        <title>Product Grouping</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="169">
     <title>FF - PC - Local Servers</title>
@@ -1753,11 +1762,11 @@
     <bookmark href="https://www.amazon.com/exec/obidos/tg/detail/-/0596006624" id="358">
       <title>Hackers &amp; Painters: Big Ideas from the Computer Age: Graham, Paul: 9780596006624: Amazon.com: Books</title>
     </bookmark>
-    <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="795">
-      <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
-    </bookmark>
     <bookmark href="https://libgen.rs/" id="814">
       <title>Library Genesis</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="795">
+      <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
     </bookmark>
   </folder>
   <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
