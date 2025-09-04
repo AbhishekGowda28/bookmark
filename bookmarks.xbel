@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :846: for Floccus bookmark sync browser extension -->
+<!--- highestId :847: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1694,6 +1694,9 @@
       <title>2025-Week-36</title>
       <bookmark href="https://strategizeyourcareer.com/p/2025-guide-to-context-engineering?ref=dailydev" id="845">
         <title>If you&apos;re an engineer using AI to become a force multiplier, read this</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/2174910576/Experimentation+tracking+framework" id="847">
+        <title>Experimentation tracking framework - Site Data and Tracking - Confluence</title>
       </bookmark>
     </folder>
   </folder>
