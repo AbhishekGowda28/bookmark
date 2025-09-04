@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :853: for Floccus bookmark sync browser extension -->
+<!--- highestId :854: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1715,6 +1715,9 @@
       </bookmark>
       <bookmark href="https://www.simplethread.com/unnecessary-anxiety-in-software-development/?ref=dailydev" id="853">
         <title>Unnecessary Anxiety in Software Development | The Parable of the 2X4 - Simple Thread</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PL/pages/3791683609/Multi+Deco+Project" id="854">
+        <title>Multi Deco Project - PPAG LoB - Confluence</title>
       </bookmark>
     </folder>
   </folder>
