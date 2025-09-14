@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :875: for Floccus bookmark sync browser extension -->
+<!--- highestId :879: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -80,6 +80,18 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4199418559/Senior+Individual+Contributor+Expectations" id="875">
         <title>Senior Individual Contributor Expectations - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VT/pages/2924971759/Non-functional+requirements+-+the+ilities" id="876">
+        <title>Non-functional requirements - the &quot;ilities&quot; - Vista Technology - Confluence</title>
+      </bookmark>
+      <bookmark href="https://how.dev/answers/what-are-browser-apis" id="877">
+        <title>What are browser APIs?</title>
+      </bookmark>
+      <bookmark href="https://www.interviewbit.com/blog/web-development-projects/" id="878">
+        <title>15+ Web Development Projects With Source Code [2023] - InterviewBit</title>
+      </bookmark>
+      <bookmark href="https://dev.to/mukhilpadmanabhan/mastering-the-cloud-aws-certified-solutions-architect-associate-saa-c03-15fa" id="879">
+        <title>[SAA-C03: Part 1] - Mastering the Cloud: AWS Solutions Architect Associate - DEV Community</title>
       </bookmark>
     </folder>
     <folder id="15">
