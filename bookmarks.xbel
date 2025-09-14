@@ -34,6 +34,12 @@
         <title>PIM studio configuration editor</title>
       </bookmark>
     </folder>
+    <folder id="860">
+      <title>READ_LATER</title>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PLZ/pages/4975329707/Vision+towards+an+GenAI+and+MCP+driven+economy" id="861">
+        <title>Vision towards an GenAI and MCP driven economy - Domain: Platform Services [DOM-0250] - Confluence</title>
+      </bookmark>
+    </folder>
     <folder id="15">
       <title>🧪 Experiment Resources</title>
       <bookmark href="https://app.segment.com/vistaprint/protocols/tracking-plans/tp_1Uvr61BNMBevpcQKkG6rsrudeME?name=des&amp;type=Track&amp;page=1" id="93">
@@ -1156,12 +1162,6 @@
     <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
       <title>Cortex | Home</title>
     </bookmark>
-    <folder id="860">
-      <title>READ_LATER</title>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PLZ/pages/4975329707/Vision+towards+an+GenAI+and+MCP+driven+economy" id="861">
-        <title>Vision towards an GenAI and MCP driven economy - Domain: Platform Services [DOM-0250] - Confluence</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="71">
       <title>Custom Signs, Business Signage Printing | VistaPrint</title>
     </bookmark>
@@ -1210,15 +1210,6 @@
     <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="82">
       <title>Sherbert-swagger</title>
     </bookmark>
-    <folder id="857">
-      <title>DIY</title>
-      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="858">
-        <title>DDSC board</title>
-      </bookmark>
-      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="859">
-        <title>Product Grouping</title>
-      </bookmark>
-    </folder>
   </folder>
   <folder id="169">
     <title>FF - PC - Local Servers</title>
