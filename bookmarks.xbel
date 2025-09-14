@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :861: for Floccus bookmark sync browser extension -->
+<!--- highestId :864: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -38,6 +38,15 @@
       <title>READ_LATER</title>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PLZ/pages/4975329707/Vision+towards+an+GenAI+and+MCP+driven+economy" id="861">
         <title>Vision towards an GenAI and MCP driven economy - Domain: Platform Services [DOM-0250] - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/COMPANY/pages/3255708400/The+12+habits" id="862">
+        <title>The 12 habits - 99designs Company - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3354165422/Engineering+Principles" id="863">
+        <title>Engineering Principles - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4180346102/DRAFT+Engineering+Principles+question+bank+for+interviews" id="864">
+        <title>DRAFT: Engineering Principles question bank for interviews - Vista Engineering (Org) - Confluence</title>
       </bookmark>
     </folder>
     <folder id="15">
