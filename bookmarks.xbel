@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :867: for Floccus bookmark sync browser extension -->
+<!--- highestId :875: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -56,6 +56,30 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4912056501/Play+AI+Instruction+File+for+VSCode" id="867">
         <title>[Play] AI Instruction File (for VSCode) - Developer Resource Center - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3088432857/Data+Analytics+Learning+Map+FY24-FY25" id="868">
+        <title>Data Analytics Learning Map FY24-FY25 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3021471745/Engineering+Builder+IC+Leveling+Guide+PR1-PR7" id="869">
+        <title>Engineering &quot;Builder IC&quot; Leveling Guide PR1-PR7 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4076995659/Promotion+Process" id="870">
+        <title>Promotion Process - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4076700723/Promotion+Track+Change+Nomination+Document" id="871">
+        <title>Promotion/Track Change Nomination Document - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/15131672661/Tier+Guide+for+Target+Pay+Ranges" id="872">
+        <title>Tier Guide for Target Pay Ranges - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/overview?homepageId=1244070306" id="873">
+        <title>Remote-First Handbook - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/14836400803/Promotions+and+Adjustments" id="874">
+        <title>Promotions and Adjustments - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4199418559/Senior+Individual+Contributor+Expectations" id="875">
+        <title>Senior Individual Contributor Expectations - Vista Engineering (Org) - Confluence</title>
       </bookmark>
     </folder>
     <folder id="15">
