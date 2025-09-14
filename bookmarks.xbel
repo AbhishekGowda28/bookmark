@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :859: for Floccus bookmark sync browser extension -->
+<!--- highestId :861: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1156,6 +1156,12 @@
     <bookmark href="https://app.getcortexapp.com/admin/home" id="64">
       <title>Cortex | Home</title>
     </bookmark>
+    <folder id="860">
+      <title>READ_LATER</title>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PLZ/pages/4975329707/Vision+towards+an+GenAI+and+MCP+driven+economy" id="861">
+        <title>Vision towards an GenAI and MCP driven economy - Domain: Platform Services [DOM-0250] - Confluence</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="71">
       <title>Custom Signs, Business Signage Printing | VistaPrint</title>
     </bookmark>
