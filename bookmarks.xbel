@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :879: for Floccus bookmark sync browser extension -->
+<!--- highestId :882: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -92,6 +92,15 @@
       </bookmark>
       <bookmark href="https://dev.to/mukhilpadmanabhan/mastering-the-cloud-aws-certified-solutions-architect-associate-saa-c03-15fa" id="879">
         <title>[SAA-C03: Part 1] - Mastering the Cloud: AWS Solutions Architect Associate - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://www.aviator.co/blog/the-anatomy-of-slow-code-reviews/?ref=dailydev" id="880">
+        <title>The Anatomy of Slow Code Reviews | Aviator</title>
+      </bookmark>
+      <bookmark href="https://newsletter.techworld-with-milan.com/p/what-i-learned-from-the-book-designing?ref=dailydev" id="881">
+        <title>What I learned from the book Designing Data-Intensive Applications?</title>
+      </bookmark>
+      <bookmark href="https://www.coursera.org/articles/ai-engineer" id="882">
+        <title>What Is an AI Engineer? (And How to Become One) | Coursera</title>
       </bookmark>
     </folder>
     <folder id="15">
