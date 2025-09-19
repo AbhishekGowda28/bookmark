@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :883: for Floccus bookmark sync browser extension -->
+<!--- highestId :884: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1275,6 +1275,9 @@
     </bookmark>
     <bookmark href="https://ranch-cdn.products.cimpress.io/swagger/index.html" id="883">
       <title>Ranch - Swagger UI</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PA1/pages/3296034964/Domain+KPI+Dictionaries+and+Reference+Guides" id="884">
+      <title>Domain KPI Dictionaries and Reference Guides - Product Analytics - Confluence</title>
     </bookmark>
   </folder>
   <folder id="169">
