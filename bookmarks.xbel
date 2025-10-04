@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :978: for Floccus bookmark sync browser extension -->
+<!--- highestId :987: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1837,9 +1837,6 @@
     <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="795">
       <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
     </bookmark>
-    <bookmark href="https://www.amazon.com/Warren-Buffett-Business-Principles-Omaha/dp/0470502304" id="894">
-      <title>Warren Buffett on Business: Principles from the Sage of Omaha: Buffett, Warren, Connors, Richard J.: 9780470502303: Amazon.com: Books</title>
-    </bookmark>
     <bookmark href="https://duckduckgo.com/?q=the+memory+code&amp;t=brave&amp;ia=web" id="895">
       <title>the memory code at DuckDuckGo</title>
     </bookmark>
@@ -1857,6 +1854,12 @@
     </bookmark>
     <bookmark href="https://discrete.openmathbooks.org/dmoi4.html" id="900">
       <title>Discrete Mathematics - An Open Introduction</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Warren-Buffett-Business-Principles-Omaha/dp/0470502304" id="894">
+      <title>Warren Buffett on Business: Principles from the Sage of Omaha: Buffett, Warren, Connors, Richard J.: 9780470502303: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=art+of+computer+programming&amp;t=fpas&amp;ia=web" id="979">
+      <title>art of computer programming at DuckDuckGo</title>
     </bookmark>
   </folder>
   <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
@@ -2581,6 +2584,30 @@ If I were preparing for placements again in 2025, this is the roadmap I would fo
   </bookmark>
   <bookmark href="https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7260955351787671552-3pIc" id="978">
     <title>#api #technology | Pallavi A. | 104 comments</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=simple+dsa+problems+for+beginner&amp;t=fpas&amp;ia=web" id="980">
+    <title>simple dsa problems for beginner at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/posts/sai-venkat-p-34238017a_aws-certified-solutions-architect-associate-ugcPost-7268949074567938049-63H0" id="981">
+    <title>AWS Certified Solutions Architect Associate | Sai V.</title>
+  </bookmark>
+  <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="982">
+    <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
+  </bookmark>
+  <bookmark href="https://herbcaudill.com/words/20201007-style-react-app" id="983">
+    <title>How to style React applications while the world burns around us | Herb Caudill</title>
+  </bookmark>
+  <bookmark href="https://github.com/alessiodm/drl-zh" id="984">
+    <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=hbr+org+rss+feed&amp;t=fpas&amp;ia=web" id="985">
+    <title>hbr org rss feed at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://ai.stanford.edu/~kzliu/blog/unlearning" id="986">
+    <title>Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science</title>
+  </bookmark>
+  <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="987">
+    <title>Audio book shelf</title>
   </bookmark>
 </folder>
 <folder id="1">
