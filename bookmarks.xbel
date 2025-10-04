@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :893: for Floccus bookmark sync browser extension -->
+<!--- highestId :894: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1836,6 +1836,9 @@
     </bookmark>
     <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="795">
       <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Warren-Buffett-Business-Principles-Omaha/dp/0470502304" id="894">
+      <title>Warren Buffett on Business: Principles from the Sage of Omaha: Buffett, Warren, Connors, Richard J.: 9780470502303: Amazon.com: Books</title>
     </bookmark>
   </folder>
   <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
