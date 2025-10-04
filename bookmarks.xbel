@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1024: for Floccus bookmark sync browser extension -->
+<!--- highestId :1089: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <bookmark href="https://duckduckgo.com/?q=simple+dsa+problems+for+beginner&amp;t=fpas&amp;ia=web" id="980">
-    <title>simple dsa problems for beginner at DuckDuckGo</title>
-  </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/sai-venkat-p-34238017a_aws-certified-solutions-architect-associate-ugcPost-7268949074567938049-63H0" id="981">
-    <title>AWS Certified Solutions Architect Associate | Sai V.</title>
-  </bookmark>
-  <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="982">
-    <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
-  </bookmark>
-  <bookmark href="https://herbcaudill.com/words/20201007-style-react-app" id="983">
-    <title>How to style React applications while the world burns around us | Herb Caudill</title>
-  </bookmark>
-  <bookmark href="https://github.com/alessiodm/drl-zh" id="984">
-    <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
-  </bookmark>
-  <bookmark href="https://duckduckgo.com/?q=hbr+org+rss+feed&amp;t=fpas&amp;ia=web" id="985">
-    <title>hbr org rss feed at DuckDuckGo</title>
-  </bookmark>
-  <bookmark href="https://ai.stanford.edu/~kzliu/blog/unlearning" id="986">
-    <title>Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science</title>
-  </bookmark>
-  <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="987">
-    <title>Audio book shelf</title>
-  </bookmark>
   <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning" id="794">
     <title>r/FREEMEDIAHECKYEAH Wiki: Learn Anything</title>
   </bookmark>
@@ -2360,8 +2336,8 @@
   <bookmark href="https://lawsofux.com/jakobs-law/" id="891">
     <title>Jakob’s Law | Laws of UX</title>
   </bookmark>
-  <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="892">
-    <title>GitHub - advplyr/audiobookshelf-app: Mobile application for Audiobookshelf</title>
+  <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="987">
+    <title>Audio book shelf</title>
   </bookmark>
   <bookmark href="https://www.w3.org/Style/CSS20/history.html" id="893">
     <title>A brief history of CSS until 2016</title>
@@ -2378,118 +2354,118 @@
   <bookmark href="https://vignanam.org/kannada/sree-vishnu-sahasra-nama-stotram.html" id="989">
     <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
   </bookmark>
-  <bookmark href="https://fiindia.gitbook.io/wiki/investments/investment-options" id="906">
+  <bookmark href="https://fiindia.gitbook.io/wiki/investments/investment-options" id="1025">
     <title>Investment options | FI/RE India</title>
   </bookmark>
-  <bookmark href="https://www.worldofbots.app/" id="907">
+  <bookmark href="https://www.worldofbots.app/" id="1026">
     <title>World of Bots</title>
   </bookmark>
-  <bookmark href="https://stocksense.in/" id="908">
+  <bookmark href="https://stocksense.in/" id="1027">
     <title>Stocksense - Stock Data API for AI</title>
   </bookmark>
-  <bookmark href="https://pastebin.com/TFPRC4Ss" id="909">
+  <bookmark href="https://pastebin.com/TFPRC4Ss" id="1028">
     <title>Twitter handles for stock market updates - Pastebin.com</title>
   </bookmark>
-  <bookmark href="https://www.marketfeed.com/calculators" id="910">
+  <bookmark href="https://www.marketfeed.com/calculators" id="1029">
     <title>marketfeed Calculators</title>
   </bookmark>
-  <bookmark href="https://skillshop.exceedlms.com/student/collection/1384851-fundamentals-of-digital-marketing" id="911">
+  <bookmark href="https://skillshop.exceedlms.com/student/collection/1384851-fundamentals-of-digital-marketing" id="1030">
     <title>Fundamentals of Digital Marketing : Google</title>
   </bookmark>
-  <bookmark href="https://www.hubspot.com/" id="912">
+  <bookmark href="https://www.hubspot.com/" id="1031">
     <title>HubSpot | Software &amp; Tools for your Business - Homepage</title>
   </bookmark>
   <bookmark href="https://github.com/FadingProgrammer" id="990">
     <title>FadingProgrammer (Ahmed Khan) · GitHub</title>
   </bookmark>
-  <bookmark href="https://medium.com/@himanshusingour7/i-gave-2-hours-daily-to-dsa-system-design-best-decision-ever-af6c0ae6a938" id="914">
+  <bookmark href="https://medium.com/@himanshusingour7/i-gave-2-hours-daily-to-dsa-system-design-best-decision-ever-af6c0ae6a938" id="1032">
     <title>I Gave 2 Hours Daily to DSA &amp; System Design, Best Decision Ever | by Himanshu Singour | Medium</title>
   </bookmark>
-  <bookmark href="https://topmate.io/rajat_gajbhiye/1446625" id="915">
+  <bookmark href="https://topmate.io/rajat_gajbhiye/1446625" id="1033">
     <title>System Design - A Comprehensive Guide with Rajat Gajbhiye</title>
   </bookmark>
-  <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="991">
+  <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="1034">
     <title></title>
   </bookmark>
-  <bookmark href="https://www.techworld-with-nana.com/cloud-roadmap" id="992">
+  <bookmark href="https://www.techworld-with-nana.com/cloud-roadmap" id="1035">
     <title>Cloud Engineer Roadmap</title>
   </bookmark>
   <bookmark href="https://roadmap.sh/typescript" id="918">
     <title>TypeScript Roadmap: Learn to become a TypeScript developer</title>
   </bookmark>
-  <bookmark href="https://roadmap.sh/frontend" id="993">
+  <bookmark href="https://roadmap.sh/frontend" id="1036">
     <title>Frontend Developer Roadmap: What is Frontend Development?</title>
   </bookmark>
   <bookmark href="https://www.freecodecamp.org/learn/" id="994">
     <title>Freecodecamp</title>
   </bookmark>
-  <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz" id="995">
+  <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz" id="1037">
     <title>FCC Accessibility</title>
   </bookmark>
-  <bookmark href="https://roadmap.sh/ai-engineer" id="996">
+  <bookmark href="https://roadmap.sh/ai-engineer" id="1038">
     <title>AI Engineer Roadmap</title>
   </bookmark>
   <bookmark href="https://medium.com/@domen.lanisnik/10-tips-for-better-code-reviews-6eb2fff2a85f" id="923">
     <title>10 Tips for Better Code Reviews. Improve your code review process. | Medium</title>
   </bookmark>
-  <bookmark href="https://search.brave.com/search?q=code%20review%20how%20to%20give%20constructive%20feedback%20and%20suggestions&amp;offset=1&amp;spellcheck=0" id="924">
+  <bookmark href="https://search.brave.com/search?q=code%20review%20how%20to%20give%20constructive%20feedback%20and%20suggestions&amp;offset=1&amp;spellcheck=0" id="1039">
     <title>PoW Captcha - Brave Search</title>
   </bookmark>
-  <bookmark href="https://peps.python.org/pep-0020/" id="925">
+  <bookmark href="https://peps.python.org/pep-0020/" id="1040">
     <title>PEP 20 – The Zen of Python | peps.python.org</title>
   </bookmark>
-  <bookmark href="https://endler.dev/2024/no-matter-what/" id="997">
+  <bookmark href="https://endler.dev/2024/no-matter-what/" id="1041">
     <title>No Matter What | Matthias Endler</title>
   </bookmark>
   <bookmark href="https://endler.dev/2025/best-programmers/" id="998">
     <title>The Best Programmers I Know | Matthias Endler</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_12-books-to-become-a-world-class-software-activity-7342881850635304961-uz_J" id="928">
+  <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_12-books-to-become-a-world-class-software-activity-7342881850635304961-uz_J" id="1042">
     <title>12 Books to become a world class software engineer | Neo Kim | 105 comments</title>
   </bookmark>
-  <bookmark href="https://www.quora.com/What-are-profitable-business-ideas-for-housewives-and-stay-at-home-moms" id="999">
+  <bookmark href="https://www.quora.com/What-are-profitable-business-ideas-for-housewives-and-stay-at-home-moms" id="1043">
     <title>Just a moment...</title>
   </bookmark>
-  <bookmark href="https://thebetterindia.com/417968/ex-banker-built-garden-with-200-plants-of-organic-vegetables-fruits-on-terrace-after-retirement/" id="930">
+  <bookmark href="https://thebetterindia.com/417968/ex-banker-built-garden-with-200-plants-of-organic-vegetables-fruits-on-terrace-after-retirement/" id="1044">
     <title>Banker Creates Rooftop Paradise of 200 Organic Plants Post-Retirement</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/vsadhwani_heres-my-cloud-engineer-resume-that-landed-activity-7344027949211238400-vV1K" id="931">
+  <bookmark href="https://www.linkedin.com/posts/vsadhwani_heres-my-cloud-engineer-resume-that-landed-activity-7344027949211238400-vV1K" id="1045">
     <title>How I built a resume that landed me interviews | Vishakha Sadhwani posted on the topic | LinkedIn</title>
   </bookmark>
-  <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=android&amp;summary=1&amp;conversation=324af99f72c741bdd53d7c" id="1000">
+  <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=android&amp;summary=1&amp;conversation=324af99f72c741bdd53d7c" id="1046">
     <title>PoW Captcha - Brave Search</title>
   </bookmark>
-  <bookmark href="https://commonsensehome.com/start-a-garden/" id="933">
+  <bookmark href="https://commonsensehome.com/start-a-garden/" id="1047">
     <title>How to Start a Garden – 10 Steps to Gardening for Beginners</title>
   </bookmark>
-  <bookmark href="https://www.thishouseofdreams.com/simple-steps-to-start-a-garden-for-the-beginner/" id="934">
+  <bookmark href="https://www.thishouseofdreams.com/simple-steps-to-start-a-garden-for-the-beginner/" id="1048">
     <title>Simple Steps To Start A Garden (for the beginner) - This House of Dreams</title>
   </bookmark>
-  <bookmark href="https://dev.to/glebirovich/typescript-data-structures-linked-list-3o8i" id="1001">
+  <bookmark href="https://dev.to/glebirovich/typescript-data-structures-linked-list-3o8i" id="1049">
     <title>Typescript Data Structures: Linked List - DEV Community</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/rajya-vardhan_my-linkedin-tells-you-that-i-am-a-successful-activity-7302303782720217088-boQV" id="936">
+  <bookmark href="https://www.linkedin.com/posts/rajya-vardhan_my-linkedin-tells-you-that-i-am-a-successful-activity-7302303782720217088-boQV" id="1050">
     <title>From Unemployed to Google Manager: My Journey | Rajya Vardhan Mishra posted on the topic | LinkedIn</title>
   </bookmark>
-  <bookmark href="https://www.stockwatch.live/dashboard" id="937">
+  <bookmark href="https://www.stockwatch.live/dashboard" id="1051">
     <title>Stockwatch - Latest News on Stocks, Financial Results, Business Updates and more</title>
   </bookmark>
-  <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="938">
+  <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="1052">
     <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
   </bookmark>
-  <bookmark href="https://yourstory.com/2025/04/5-reasons-disciplined-people-win" id="1002">
+  <bookmark href="https://yourstory.com/2025/04/5-reasons-disciplined-people-win" id="1053">
     <title>Just a moment...</title>
   </bookmark>
   <bookmark href="https://www.linkedin.com/posts/suresh-g-688608191_i-have-cleared-interviews-at-microsoft-amazon-activity-7338443735053029377-T2Sq" id="940">
     <title>How to end an interview with 23 questions | Suresh G. posted on the topic | LinkedIn</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/jyothi_networkingmatters-learningfromfailures-activity-7343103087928123392-EoYK" id="941">
+  <bookmark href="https://www.linkedin.com/posts/jyothi_networkingmatters-learningfromfailures-activity-7343103087928123392-EoYK" id="1054">
     <title>#networkingmatters #learningfromfailures #maanginterviews #growthmindset #learn | Jyothi Gopalan | 17 comments</title>
   </bookmark>
   <bookmark href="https://www.linkedin.com/posts/ashishps1_30-blogs-to-learn-30-system-design-fundamentals-activity-7328659612201549827-8m7C" id="1003">
     <title>Learn 30 System Design Fundamentals with these blogs. | Ashish Pratap Singh posted on the topic | LinkedIn</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/aagupta_by-now-youve-heard-microsoft-announced-activity-7328535277017206784-xK9O" id="1004">
+  <bookmark href="https://www.linkedin.com/posts/aagupta_by-now-youve-heard-microsoft-announced-activity-7328535277017206784-xK9O" id="1055">
     <title>How to be &quot;layoff-proof&quot; in tech | Aakash Gupta posted on the topic | LinkedIn</title>
   </bookmark>
   <bookmark href="https://search.brave.com/search?q=zeigarnik+effect&amp;spellcheck=0&amp;source=alteredQuery&amp;summary=1&amp;conversation=2c46068d960ecd126a1176" id="944">
@@ -2504,13 +2480,13 @@
   <bookmark href="https://www.linkedin.com/posts/kprasadrao_aws-handson-wednesdayawsworkshop-activity-7280283424114806784-P3bU" id="1006">
     <title>#aws #handson #wednesdayawsworkshop | Prasad Rao | 26 comments</title>
   </bookmark>
-  <bookmark href="https://system.damato.design/?path=/docs/primitives-close--docs" id="1007">
+  <bookmark href="https://system.damato.design/?path=/docs/primitives-close--docs" id="1056">
     <title>@storybook/core - Storybook</title>
   </bookmark>
   <bookmark href="https://app.daily.dev/posts/top-10-chatgpt-prompts-to-learn-anything-10-times-faster-lcnqxlmjt" id="1008">
     <title>Top 10 ChatGPT prompts to learn anything 10 times faster | daily.dev</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/addyosmani_softwareengineering-programming-ai-activity-7282659816605413377-BVQ0" id="950">
+  <bookmark href="https://www.linkedin.com/posts/addyosmani_softwareengineering-programming-ai-activity-7282659816605413377-BVQ0" id="1057">
     <title>#softwareengineering #programming #ai | Addy Osmani | 74 comments</title>
   </bookmark>
   <bookmark href="https://www.linkedin.com/posts/addyosmani_softwareengineering-programming-javascript-activity-7280847862832230400-Mut5" id="951">
@@ -2519,83 +2495,107 @@
   <bookmark href="https://www.promptingguide.ai/introduction/examples" id="952">
     <title>Examples of Prompts | Prompt Engineering Guide&lt;!-- --&gt;</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/addyosmani_softwarengineering-programming-ai-activity-7277225855309770752-gy3T" id="953">
+  <bookmark href="https://www.linkedin.com/posts/addyosmani_softwarengineering-programming-ai-activity-7277225855309770752-gy3T" id="1058">
     <title>#softwarengineering #programming #ai | Addy Osmani | 41 comments</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/kachchani_this-is-your-shortcut-to-better-tech-leadership-activity-7278035916646932480-HnWq" id="1009">
+  <bookmark href="https://www.linkedin.com/posts/kachchani_this-is-your-shortcut-to-better-tech-leadership-activity-7278035916646932480-HnWq" id="1059">
     <title>This is your shortcut to better tech leadership in 2025⚡️  I&apos;ve been curating the best resources on tech talent, leadership and product for the Exec Engineering newsletter every week since… | Yassine Kachchani | 11 comments</title>
   </bookmark>
   <bookmark href="https://zerotomastery.io/courses/learn-data-structures-and-algorithms/" id="1010">
     <title>Master the Coding Interview: Data Structures + Algorithms | Zero To Mastery</title>
   </bookmark>
-  <bookmark href="https://blog.damato.design/posts/close-thy-enemy/" id="956">
+  <bookmark href="https://blog.damato.design/posts/close-thy-enemy/" id="1060">
     <title>Close thy enemy</title>
   </bookmark>
-  <bookmark href="https://www.bizmove.com/business-gifts.htm" id="957">
+  <bookmark href="https://www.bizmove.com/business-gifts.htm" id="1061">
     <title>Free Business Plan Template Word Download | Small Business Plan Template Doc</title>
   </bookmark>
-  <bookmark href="https://www.surveillancewatch.io/" id="1011">
+  <bookmark href="https://www.surveillancewatch.io/" id="1062">
     <title>Surveillance Watch: They Know Who You Are</title>
   </bookmark>
-  <bookmark href="https://primer.style/" id="959">
+  <bookmark href="https://primer.style/" id="1063">
     <title>Primer</title>
   </bookmark>
-  <bookmark href="https://medium.com/write-a-catalyst/how-i-study-consistently-while-working-a-9-5-full-time-job-12b450e0e995" id="1012">
+  <bookmark href="https://medium.com/write-a-catalyst/how-i-study-consistently-while-working-a-9-5-full-time-job-12b450e0e995" id="1064">
     <title>How I Study Consistently While Working a 9–5 Full-Time Job | by Adarsh Gupta | Write A Catalyst | Medium</title>
   </bookmark>
-  <bookmark href="https://www.alexiskingsley.com/product-page/potential-planner-physical-edition" id="1013">
+  <bookmark href="https://www.alexiskingsley.com/product-page/potential-planner-physical-edition" id="1065">
     <title>Potential Planner | Potential Planner</title>
   </bookmark>
-  <bookmark href="https://www.reddit.com/r/learnmachinelearning/comments/1mc69k2/comment/n5si5u3/?share_id=ETQ1IzqbPBTZj_okNzKTU&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1" id="1014">
+  <bookmark href="https://www.reddit.com/r/learnmachinelearning/comments/1mc69k2/comment/n5si5u3/?share_id=ETQ1IzqbPBTZj_okNzKTU&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1" id="1066">
     <title>From zero</title>
   </bookmark>
-  <bookmark href="https://www.educative.io/blog/leetcode-roadmap" id="1015">
+  <bookmark href="https://www.educative.io/blog/leetcode-roadmap" id="1067">
     <title>The complete LeetCode roadmap to becoming a better problem solver</title>
   </bookmark>
-  <bookmark href="https://search.brave.com/search?q=zotero%20reference%20managed%20systems&amp;spellcheck=0&amp;source=alteredQuery" id="1016">
+  <bookmark href="https://search.brave.com/search?q=zotero%20reference%20managed%20systems&amp;spellcheck=0&amp;source=alteredQuery" id="1068">
     <title>PoW Captcha - Brave Search</title>
   </bookmark>
-  <bookmark href="https://www.smashingmagazine.com/2025/01/understanding-ai-meaning/" id="965">
+  <bookmark href="https://www.smashingmagazine.com/2025/01/understanding-ai-meaning/" id="1069">
     <title>What Does AI Really Mean? — Smashing Magazine</title>
   </bookmark>
-  <bookmark href="https://search.brave.com/search?q=the+motherhood+book&amp;source=android&amp;summary=1&amp;conversation=962ab80b901a8af5f0a0f9" id="966">
+  <bookmark href="https://search.brave.com/search?q=the+motherhood+book&amp;source=android&amp;summary=1&amp;conversation=962ab80b901a8af5f0a0f9" id="1070">
     <title>PoW Captcha - Brave Search</title>
   </bookmark>
-  <bookmark href="https://cvcompiler.com/senior-web-developer-resume-examples" id="1017">
+  <bookmark href="https://cvcompiler.com/senior-web-developer-resume-examples" id="1071">
     <title>20  Senior Web Developer Resume Examples for 2025</title>
   </bookmark>
-  <bookmark href="https://www.cheggindia.com/earn-online/ways-to-earn-extra-income-online-from-home/" id="1018">
+  <bookmark href="https://www.cheggindia.com/earn-online/ways-to-earn-extra-income-online-from-home/" id="1072">
     <title>Earn Extra Income: 25 Best Side Hustle Ideas for 2025</title>
   </bookmark>
-  <bookmark href="https://www.smashingmagazine.com/2009/01/push-your-web-design-into-the-future-with-css3/" id="1019">
+  <bookmark href="https://www.smashingmagazine.com/2009/01/push-your-web-design-into-the-future-with-css3/" id="1073">
     <title>Push Your Web Design Into The Future With CSS3 — Smashing Magazine</title>
   </bookmark>
-  <bookmark href="https://www.healthline.com/nutrition/mango#The-bottom-line" id="1020">
+  <bookmark href="https://www.healthline.com/nutrition/mango#The-bottom-line" id="1074">
     <title>Mango: Nutrition, Health Benefits, and How to Eat It</title>
   </bookmark>
   <bookmark href="https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7259925372748656642-kI-8" id="1021">
     <title>#systemsexpert #systemsexpert #google #amazon #meta #facebook #apple #microsoft #interview #design #coding #faang #bytebytego #systemdesign #codinginterview #algorithm #datastructures… | Dinesh Varyani | 123 comments</title>
   </bookmark>
-  <bookmark href="https://duckduckgo.com/?q=how+to+improve+hearing+naturally&amp;t=fpas&amp;ia=web" id="1022">
+  <bookmark href="https://duckduckgo.com/?q=how+to+improve+hearing+naturally&amp;t=fpas&amp;ia=web" id="1075">
     <title>how to improve hearing naturally at DuckDuckGo</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-a-world-class-software-activity-7275141358787428352-edsD" id="1023">
+  <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-a-world-class-software-activity-7275141358787428352-edsD" id="1076">
     <title>If you want to become a world-class software engineer (in 8 months), read these books:   1. The Pragmatic Programmer:  It&apos;ll teach you the core software development process. Author: Dave Thomas &amp;… | Neo Kim | 71 comments</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/karan-saxena-466b07190_the-difference-between-a-3-lpa-and-a-20-lpa-activity-7274399678098468864-TRHy" id="974">
+  <bookmark href="https://www.linkedin.com/posts/karan-saxena-466b07190_the-difference-between-a-3-lpa-and-a-20-lpa-activity-7274399678098468864-TRHy" id="1077">
     <title>The difference between a 3 LPA and a 20 LPA package is 1–1.5 years of focused preparation.   If I were preparing for placements again in 2025, this is the roadmap I would follow (the same principles… | Karan Saxena | 140 comments</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/aditimirle_india-hiring-apple-activity-7265150210635440128-iHiY" id="975">
+  <bookmark href="https://www.linkedin.com/posts/aditimirle_india-hiring-apple-activity-7265150210635440128-iHiY" id="1078">
     <title>#india #hiring #apple | Aditi Mirle</title>
   </bookmark>
-  <bookmark href="https://www.alexiskingsley.com/" id="976">
+  <bookmark href="https://www.alexiskingsley.com/" id="1079">
     <title>Potential Journal + Planner | Best Goal Setting Planner and Motivation Journal</title>
   </bookmark>
-  <bookmark href="https://martinfowler.com/articles/richardsonMaturityModel.html" id="1024">
+  <bookmark href="https://martinfowler.com/articles/richardsonMaturityModel.html" id="1080">
     <title>Richardson Maturity Model</title>
   </bookmark>
-  <bookmark href="https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7260955351787671552-3pIc" id="978">
+  <bookmark href="https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7260955351787671552-3pIc" id="1081">
     <title>#api #technology | Pallavi A. | 104 comments</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=simple+dsa+problems+for+beginner&amp;t=fpas&amp;ia=web" id="1082">
+    <title>simple dsa problems for beginner at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/posts/sai-venkat-p-34238017a_aws-certified-solutions-architect-associate-ugcPost-7268949074567938049-63H0" id="1083">
+    <title>AWS Certified Solutions Architect Associate | Sai V.</title>
+  </bookmark>
+  <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="1084">
+    <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
+  </bookmark>
+  <bookmark href="https://herbcaudill.com/words/20201007-style-react-app" id="1085">
+    <title>How to style React applications while the world burns around us | Herb Caudill</title>
+  </bookmark>
+  <bookmark href="https://github.com/alessiodm/drl-zh" id="1086">
+    <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=hbr+org+rss+feed&amp;t=fpas&amp;ia=web" id="1087">
+    <title>hbr org rss feed at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://ai.stanford.edu/~kzliu/blog/unlearning" id="1088">
+    <title>Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science</title>
+  </bookmark>
+  <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="1089">
+    <title>Audio book shelf</title>
   </bookmark>
 </folder>
 <folder id="1">
