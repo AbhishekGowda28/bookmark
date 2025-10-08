@@ -1292,15 +1292,6 @@
       <title>ActivityWatch</title>
     </bookmark>
   </folder>
-  <folder id="227">
-    <title>PDF</title>
-    <bookmark href="https://www.rand.org/content/dam/rand/pubs/research_memoranda/2009/RM727.1.pdf" id="242">
-      <title>An expermental application of the Delphi method to the us of experts</title>
-    </bookmark>
-    <bookmark href="http://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" id="243">
-      <title>The throry of Fads, Fashion, Custom and Cultural Change as Informational Cascades</title>
-    </bookmark>
-  </folder>
   <folder id="344">
     <title>Entertainment</title>
     <folder id="747">
@@ -2535,6 +2526,12 @@
     </bookmark>
     <bookmark href="https://iansmcb.com/" id="801">
       <title>Ian S. McBride</title>
+    </bookmark>
+    <bookmark href="http://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" id="243">
+      <title>The throry of Fads, Fashion, Custom and Cultural Change as Informational Cascades</title>
+    </bookmark>
+    <bookmark href="https://www.rand.org/content/dam/rand/pubs/research_memoranda/2009/RM727.1.pdf" id="242">
+      <title>An expermental application of the Delphi method to the us of experts</title>
     </bookmark>
     <bookmark href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme" id="802">
       <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
