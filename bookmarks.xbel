@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1095: for Floccus bookmark sync browser extension -->
+<!--- highestId :1096: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1831,6 +1831,9 @@
     <bookmark href="https://philosophyofyum.com/books-home-bakery-business/" id="1091">
       <title>7 Books Every Home Bakery Business Owner Needs to Read</title>
     </bookmark>
+    <bookmark href="https://endler.dev/rss.xml" id="1096">
+      <title>https://endler.dev/rss.xml</title>
+    </bookmark>
   </folder>
   <folder id="391">
     <title>Book</title>
@@ -2476,6 +2479,9 @@
     <bookmark href="https://github.com/FadingProgrammer" id="990">
       <title>FadingProgrammer (Ahmed Khan) · GitHub</title>
     </bookmark>
+    <bookmark href="https://endler.dev/2025/best-programmers/" id="998">
+      <title>The Best Programmers I Know | Matthias Endler</title>
+    </bookmark>
   </folder>
   <folder id="799">
     <title>QuickSaves</title>
@@ -2530,9 +2536,6 @@
   </bookmark>
   <bookmark href="https://endler.dev/2024/no-matter-what/" id="1041">
     <title>No Matter What | Matthias Endler</title>
-  </bookmark>
-  <bookmark href="https://endler.dev/2025/best-programmers/" id="998">
-    <title>The Best Programmers I Know | Matthias Endler</title>
   </bookmark>
   <bookmark href="https://www.quora.com/What-are-profitable-business-ideas-for-housewives-and-stay-at-home-moms" id="1043">
     <title>Just a moment...</title>
