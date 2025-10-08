@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1094: for Floccus bookmark sync browser extension -->
+<!--- highestId :1095: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1825,6 +1825,9 @@
     <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="1052">
       <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
     </bookmark>
+    <bookmark href="https://philosophyofyum.com/books-home-bakery-business/" id="1091">
+      <title>7 Books Every Home Bakery Business Owner Needs to Read</title>
+    </bookmark>
   </folder>
   <folder id="391">
     <title>Book</title>
@@ -2476,6 +2479,12 @@
     <bookmark href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme" id="802">
       <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
     </bookmark>
+    <bookmark href="https://www.healthline.com/nutrition/mango#1-Packed-with-nutrients" id="1095">
+      <title>Mango: Nutrition, Health Benefits, and How to Eat It</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+improve+hearing+naturally&amp;t=fpas&amp;ia=web" id="1075">
+      <title>how to improve hearing naturally at DuckDuckGo</title>
+    </bookmark>
   </folder>
   <bookmark href="https://chromewebstore.google.com/detail/rss-feed-url-finder/apfhghblgifegckccakakdlbjcdnbjmb" id="889">
     <title>RSS Feed URL Finder - Chrome Web Store</title>
@@ -2579,14 +2588,8 @@
   <bookmark href="https://www.healthline.com/nutrition/mango#The-bottom-line" id="1074">
     <title>Mango: Nutrition, Health Benefits, and How to Eat It</title>
   </bookmark>
-  <bookmark href="https://duckduckgo.com/?q=how+to+improve+hearing+naturally&amp;t=fpas&amp;ia=web" id="1075">
-    <title>how to improve hearing naturally at DuckDuckGo</title>
-  </bookmark>
   <bookmark href="https://duckduckgo.com/?q=simple+dsa+problems+for+beginner&amp;t=fpas&amp;ia=web" id="1082">
     <title>simple dsa problems for beginner at DuckDuckGo</title>
-  </bookmark>
-  <bookmark href="https://philosophyofyum.com/books-home-bakery-business/" id="1091">
-    <title>7 Books Every Home Bakery Business Owner Needs to Read</title>
   </bookmark>
 </folder>
 <folder id="1">
