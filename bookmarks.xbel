@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1098: for Floccus bookmark sync browser extension -->
+<!--- highestId :1099: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2583,6 +2583,9 @@
     </bookmark>
     <bookmark href="https://yourstory.com/2025/04/5-reasons-disciplined-people-win" id="1053">
       <title>Just a moment...</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/SideProject/comments/1nq44ov/i_worked_2_jobs_to_bootstrap_this_spent_2_years/" id="1099">
+      <title></title>
     </bookmark>
   </folder>
 </folder>
