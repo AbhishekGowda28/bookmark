@@ -2437,6 +2437,12 @@
     <bookmark href="https://www.w3.org/Style/CSS20/history.html" id="893">
       <title>A brief history of CSS until 2016</title>
     </bookmark>
+    <bookmark href="https://themes.gohugo.io/themes/hugo-theme-til/" id="890">
+      <title>Today I Learned</title>
+    </bookmark>
+    <bookmark href="https://lawsofux.com/jakobs-law/" id="891">
+      <title>Jakob’s Law | Laws of UX</title>
+    </bookmark>
   </folder>
   <folder id="399">
     <title>Finance</title>
@@ -2561,12 +2567,6 @@
       <title>how to improve hearing naturally at DuckDuckGo</title>
     </bookmark>
   </folder>
-  <bookmark href="https://themes.gohugo.io/themes/hugo-theme-til/" id="890">
-    <title>Today I Learned</title>
-  </bookmark>
-  <bookmark href="https://lawsofux.com/jakobs-law/" id="891">
-    <title>Jakob’s Law | Laws of UX</title>
-  </bookmark>
   <bookmark href="https://www.worldofbots.app/" id="1026">
     <title>World of Bots</title>
   </bookmark>
