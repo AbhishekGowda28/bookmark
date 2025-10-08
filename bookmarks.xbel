@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1093: for Floccus bookmark sync browser extension -->
+<!--- highestId :1094: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2338,6 +2338,15 @@
     <bookmark href="https://www.freecodecamp.org/learn/" id="994">
       <title>Freecodecamp</title>
     </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" id="1094">
+      <title>Responsive Web Design | freeCodeCamp.org</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/ai-engineer" id="1038">
+      <title>AI Engineer Roadmap</title>
+    </bookmark>
+    <bookmark href="https://primer.style/" id="1063">
+      <title>Primer</title>
+    </bookmark>
   </folder>
   <folder id="399">
     <title>Finance</title>
@@ -2486,9 +2495,6 @@
   <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz" id="1037">
     <title>FCC Accessibility</title>
   </bookmark>
-  <bookmark href="https://roadmap.sh/ai-engineer" id="1038">
-    <title>AI Engineer Roadmap</title>
-  </bookmark>
   <bookmark href="https://medium.com/@domen.lanisnik/10-tips-for-better-code-reviews-6eb2fff2a85f" id="923">
     <title>10 Tips for Better Code Reviews. Improve your code review process. | Medium</title>
   </bookmark>
@@ -2548,9 +2554,6 @@
   </bookmark>
   <bookmark href="https://www.surveillancewatch.io/" id="1062">
     <title>Surveillance Watch: They Know Who You Are</title>
-  </bookmark>
-  <bookmark href="https://primer.style/" id="1063">
-    <title>Primer</title>
   </bookmark>
   <bookmark href="https://medium.com/write-a-catalyst/how-i-study-consistently-while-working-a-9-5-full-time-job-12b450e0e995" id="1064">
     <title>How I Study Consistently While Working a 9–5 Full-Time Job | by Adarsh Gupta | Write A Catalyst | Medium</title>
