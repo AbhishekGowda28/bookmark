@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1099: for Floccus bookmark sync browser extension -->
+<!--- highestId :1100: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2586,6 +2586,9 @@
     </bookmark>
     <bookmark href="https://www.reddit.com/r/SideProject/comments/1nq44ov/i_worked_2_jobs_to_bootstrap_this_spent_2_years/" id="1099">
       <title></title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=the+motherhood+book&amp;source=android&amp;summary=1&amp;conversation=31ed853b5683434ea42f14" id="1100">
+      <title>the motherhood book - Brave Search</title>
     </bookmark>
   </folder>
 </folder>
