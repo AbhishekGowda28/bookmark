@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2: for Floccus bookmark sync browser extension -->
+<!--- highestId :9: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
   <bookmark href="http://127.0.0.1:8384/" id="2">
     <title>DESKTOP-VK5G65E | Syncthing</title>
+  </bookmark>
+  <bookmark href="https://dev.to/abhishekgowda28/how-i-keep-my-bookmarks-in-sync-without-yet-another-bookmarking-app-47on/edit" id="3">
+    <title>Edit Post - DEV Community</title>
+  </bookmark>
+  <bookmark href="https://alexn.org/blog/2025/03/15/firefox-extensions/?ref=dailydev" id="4">
+    <title>My Favorite Firefox Extensions - Alexandru Nedelcu</title>
+  </bookmark>
+  <bookmark href="https://alexn.org/blog/2025/03/03/use-firefox/" id="5">
+    <title>Use Firefox in 2025 - Alexandru Nedelcu</title>
+  </bookmark>
+  <bookmark href="https://alexn.org/" id="6">
+    <title>Alexandru Nedelcu - On programming and personal projects</title>
+  </bookmark>
+  <bookmark href="https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers" id="7">
+    <title>7 simple habits of the best engineers I know</title>
+  </bookmark>
+  <bookmark href="https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer" id="8">
+    <title>How to burnout a software engineer, in 3 easy steps</title>
+  </bookmark>
+  <bookmark href="chrome://newtab/" id="9">
+    <title>New Tab</title>
   </bookmark>
 </folder>
 </xbel>
