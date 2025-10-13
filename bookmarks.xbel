@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1100: for Floccus bookmark sync browser extension -->
+<!--- highestId :1101: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1552,6 +1552,9 @@
     <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=web&amp;summary=1&amp;conversation=43e02ad4ed5ae50b0d1ed6" id="1098">
       <title>how to start gardening in small steps absolutely beginner - Brave Search</title>
     </bookmark>
+    <bookmark href="https://freedium.cfd/" id="822">
+      <title>Medium! - Freedium</title>
+    </bookmark>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -1679,8 +1682,8 @@
   <bookmark href="https://abhishekgowda28.github.io/my-feed-list/" id="887">
     <title>my-feed-list</title>
   </bookmark>
-  <bookmark href="https://freedium.cfd/" id="822">
-    <title>Medium! - Freedium</title>
+  <bookmark href="https://archive.ph/9LoC6" id="1101">
+    <title>7 Practical Ways I Learn New Tech on the Job (Without Working Extra Hours) | by Vinod Pal | Javarevisited | Medium</title>
   </bookmark>
   <folder id="767">
     <title>Week End Projects</title>
