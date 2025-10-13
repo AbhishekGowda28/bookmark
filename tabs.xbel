@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :10: for Floccus bookmark sync browser extension -->
+<!--- highestId :16: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
@@ -23,8 +23,23 @@
   <bookmark href="https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer" id="8">
     <title>How to burnout a software engineer, in 3 easy steps</title>
   </bookmark>
-  <bookmark href="chrome://newtab/" id="10">
-    <title>New Tab</title>
+  <bookmark href="https://duckduckgo.com/?q=enneagram&amp;ia=web" id="11">
+    <title>enneagram at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=pigment+self+discovery+assessment&amp;ia=web" id="12">
+    <title>pigment self discovery assessment at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://medium.com/swlh/what-is-engineering-excellence-a8aa5a1e8dc5" id="13">
+    <title>What Is Engineering Excellence. … and why it matters | by Heemeng Foo | The Startup | Medium</title>
+  </bookmark>
+  <bookmark href="https://heemeng.medium.com/" id="14">
+    <title>Heemeng Foo – Medium</title>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=which+is+a+bettern+LLM+for+coding+from+strach+with+an+idea&amp;t=chromentp&amp;ia=web" id="15">
+    <title>which is a bettern LLM for coding from strach with an idea at DuckDuckGo</title>
+  </bookmark>
+  <bookmark href="https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc" id="16">
+    <title>Best LLM for Coding and Developers in 2025 - DEV Community</title>
   </bookmark>
 </folder>
 </xbel>
