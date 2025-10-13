@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1103: for Floccus bookmark sync browser extension -->
+<!--- highestId :1104: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1275,6 +1275,9 @@
     </bookmark>
     <bookmark href="https://pam.cimpress.io/?name=wired&amp;tenant=%7B%22type%22%3A%22merchants%22%2C%22id%22%3A%22vistaprint-prod%22%7D" id="1093">
       <title>PAM - Preview Asset Manager</title>
+    </bookmark>
+    <bookmark href="https://cimpress.cloud/#/" id="1104">
+      <title>Cimpress Cloud</title>
     </bookmark>
   </folder>
   <folder id="169">
