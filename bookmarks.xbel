@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1108: for Floccus bookmark sync browser extension -->
+<!--- highestId :1110: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1555,6 +1555,12 @@
         <title></title>
       </bookmark>
     </folder>
+    <folder id="1109">
+      <title>Health</title>
+      <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="1110">
+        <title></title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -2486,8 +2492,7 @@
       <title>Stock Screener and fundamental analysis tool for Indian stocks - Screener</title>
     </bookmark>
     <bookmark href="https://www.screener.in/" id="1107">
-      <title>Stock Screener and fundamental analysis tool for Indian stocks
- - Screener</title>
+      <title>Stock Screener and fundamental analysis tool for Indian stocks  - Screener</title>
     </bookmark>
   </folder>
   <folder id="733">
