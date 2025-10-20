@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1107: for Floccus bookmark sync browser extension -->
+<!--- highestId :1108: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1549,6 +1549,12 @@
     <bookmark href="https://freedium.cfd/" id="822">
       <title>Medium! - Freedium</title>
     </bookmark>
+    <folder id="1108">
+      <title>Health</title>
+      <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="1034">
+        <title></title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -1768,9 +1774,6 @@
         <title>JnaynaKalaSangama | AbhishekGowda | Supabase</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="1034">
-      <title></title>
-    </bookmark>
     <bookmark href="https://medium.com/@himanshusingour7/i-gave-2-hours-daily-to-dsa-system-design-best-decision-ever-af6c0ae6a938" id="1032">
       <title>I Gave 2 Hours Daily to DSA &amp; System Design, Best Decision Ever | by Himanshu Singour | Medium</title>
     </bookmark>
@@ -1785,15 +1788,6 @@
     </bookmark>
     <bookmark href="https://duckduckgo.com/?q=how+to+create+level+up+document+in+organization+for+self&amp;ia=web" id="832">
       <title>how to create level up document in organization for self at DuckDuckGo</title>
-    </bookmark>
-    <bookmark href="https://duckduckgo.com/?q=the+art+of+math+book&amp;ia=web" id="833">
-      <title>the art of math book at DuckDuckGo</title>
-    </bookmark>
-    <bookmark href="https://www.amazon.com/Art-More-Mathematics-Created-Civilization/dp/1524748994" id="834">
-      <title>The Art of More: How Mathematics Created Civilization: Brooks, Michael: 9781524748999: Amazon.com: Books</title>
-    </bookmark>
-    <bookmark href="https://www.goodreads.com/book/show/2197458.The_Art_of_Mathematics" id="835">
-      <title>The Art of Mathematics by Jerry P. King | Goodreads</title>
     </bookmark>
     <bookmark href="https://www.goodreads.com/book/show/205977642-learning-systems-thinking" id="836">
       <title>Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals by Diana Montalion | Goodreads</title>
@@ -1845,9 +1839,6 @@
     </bookmark>
     <bookmark href="https://fbcakes.com/home/cakes" id="988">
       <title>FB Cakes | Offer Now (Buy 1 kg Get 1/2 kg Free!)</title>
-    </bookmark>
-    <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="1052">
-      <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
     </bookmark>
     <bookmark href="https://philosophyofyum.com/books-home-bakery-business/" id="1091">
       <title>7 Books Every Home Bakery Business Owner Needs to Read</title>
@@ -1914,6 +1905,15 @@
     </bookmark>
     <bookmark href="https://duckduckgo.com/?q=art+of+computer+programming&amp;t=fpas&amp;ia=web" id="979">
       <title>art of computer programming at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=the+art+of+math+book&amp;ia=web" id="833">
+      <title>the art of math book at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/2197458.The_Art_of_Mathematics" id="835">
+      <title>The Art of Mathematics by Jerry P. King | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Art-More-Mathematics-Created-Civilization/dp/1524748994" id="834">
+      <title>The Art of More: How Mathematics Created Civilization: Brooks, Michael: 9781524748999: Amazon.com: Books</title>
     </bookmark>
   </folder>
   <folder id="323">
@@ -2445,6 +2445,9 @@
     </bookmark>
     <bookmark href="https://lawsofux.com/jakobs-law/" id="891">
       <title>Jakob’s Law | Laws of UX</title>
+    </bookmark>
+    <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="1052">
+      <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
     </bookmark>
   </folder>
   <folder id="399">
