@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1105: for Floccus bookmark sync browser extension -->
+<!--- highestId :1107: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1402,6 +1402,9 @@
         <title>PirateHaven.xyz - The galaxy&apos;s most resilient The Pirate Bay site</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.reddit.com/r/Unexpected/comments/1o6aqi5/i_was_so_invested_in_the_joke/" id="1106">
+      <title>Ressit</title>
+    </bookmark>
   </folder>
   <folder id="168">
     <title>Thing</title>
@@ -2478,6 +2481,10 @@
     </bookmark>
     <bookmark href="https://www.screener.in/" id="1103">
       <title>Stock Screener and fundamental analysis tool for Indian stocks - Screener</title>
+    </bookmark>
+    <bookmark href="https://www.screener.in/" id="1107">
+      <title>Stock Screener and fundamental analysis tool for Indian stocks
+ - Screener</title>
     </bookmark>
   </folder>
   <folder id="733">
