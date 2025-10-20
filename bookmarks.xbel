@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1110: for Floccus bookmark sync browser extension -->
+<!--- highestId :1120: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1561,6 +1561,30 @@
         <title></title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.google.com/search?q=How%20to%20create%20mental%20model%20of%20anything" id="1111">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://letters.thedankoe.com/p/prompt-deep-work-accelerator" id="1112">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://letters.thedankoe.com/p/a-prompt-to-reset-your-life-in-30" id="1113">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://letters.thedankoe.com/p/you-wont-be-the-same-person-in-6" id="1114">
+      <title>You won&apos;t be the same person in 6 months (how to master anything, fast)</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=don%27t+count+the+days+make+the+days+count&amp;source=web" id="1115">
+      <title>Brave search quotes</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=levels+of+thinking&amp;source=web&amp;summary=1&amp;conversation=7e515bd6610ed161bf4124" id="1116">
+      <title>Brave search quote</title>
+    </bookmark>
+    <bookmark href="https://www.divinemarga.com/levels-of-consciousness" id="1117">
+      <title>Level of consciousness</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=How%20to%20create%20mental%20model%20of%20anything" id="1118">
+      <title>Mental modal</title>
+    </bookmark>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -2455,6 +2479,12 @@
     <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="1052">
       <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
     </bookmark>
+    <folder id="1119">
+      <title>Learning</title>
+      <bookmark href="https://labex.io/linuxjourney" id="1120">
+        <title></title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="399">
     <title>Finance</title>
