@@ -1585,6 +1585,75 @@
         <title></title>
       </bookmark>
     </folder>
+    <folder id="733">
+      <title>Spritual</title>
+      <bookmark href="https://vedicheritage.gov.in/" id="179">
+        <title>Vedic Heritage Portal | Vedic Heritage Portal</title>
+      </bookmark>
+      <bookmark href="https://www.swami-krishnananda.org/vishnu/vishnu_dhyanam.html" id="178">
+        <title>Dhyanam - Sri Vishnu Sahasaranama Stotram - Sanskrit, Transliteration and English Translation</title>
+      </bookmark>
+      <bookmark href="https://www.vyasaonline.com/" id="367">
+        <title>Vyasa Mahabharata – Kannada translations from the original Sanskrit text</title>
+      </bookmark>
+      <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
+        <title>Padma Purana – Vyasa Mahabharata</title>
+      </bookmark>
+      <bookmark href="https://stotranidhi.com/kn/stotras-list-kannada/" id="744">
+        <title>ಸ್ತೋತ್ರನಿಧಿ - Stotra Nidhi</title>
+      </bookmark>
+      <bookmark href="https://archive.org/details/RigvedaSamhitha/Rigveda-Samhitha_01/page/n37/mode/2up" id="174">
+        <title>Rigveda Samhitha : Free Download, Borrow, and Streaming : Internet Archive</title>
+      </bookmark>
+      <bookmark href="https://archive.org/details/RigvedaSamhithaAudioAndTextBhashyam_KannadaLanguafe/A1A1.mp3" id="173">
+        <title>Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Free Download, Borrow, and Streaming : Internet Archive</title>
+      </bookmark>
+      <bookmark href="https://vignanam.org/veda/sree-vishnu-sahasra-nama-stotram-kannada.html" id="901">
+        <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
+      </bookmark>
+      <bookmark href="https://vignanam.org/kannada/sree-vishnu-sahasra-nama-stotram.html" id="989">
+        <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
+      </bookmark>
+    </folder>
+    <folder id="399">
+      <title>Finance</title>
+      <bookmark href="https://sovrenn.com/knowledge" id="400">
+        <title>Sovrenn Knowledge</title>
+      </bookmark>
+      <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
+        <title>React App</title>
+      </bookmark>
+      <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
+        <title>Live updates of stocks, corporate actions and business updates</title>
+      </bookmark>
+      <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="164">
+        <title>Budget Templates | Actual Budget Documentation</title>
+      </bookmark>
+      <bookmark href="http://192.168.0.117:5006/budget" id="765">
+        <title>Actual</title>
+      </bookmark>
+      <bookmark href="https://www.stockwatch.live/dashboard" id="1051">
+        <title>Stockwatch - Latest News on Stocks, Financial Results, Business Updates and more</title>
+      </bookmark>
+      <bookmark href="https://stocksense.in/" id="1027">
+        <title>Stocksense - Stock Data API for AI</title>
+      </bookmark>
+      <bookmark href="https://pastebin.com/TFPRC4Ss" id="1028">
+        <title>Twitter handles for stock market updates - Pastebin.com</title>
+      </bookmark>
+      <bookmark href="https://fiindia.gitbook.io/wiki/investments/investment-options" id="1025">
+        <title>Investment options | FI/RE India</title>
+      </bookmark>
+      <bookmark href="https://www.marketfeed.com/calculators" id="1029">
+        <title>marketfeed Calculators</title>
+      </bookmark>
+      <bookmark href="https://www.screener.in/" id="1103">
+        <title>Stock Screener and fundamental analysis tool for Indian stocks - Screener</title>
+      </bookmark>
+      <bookmark href="https://www.screener.in/" id="1107">
+        <title>Stock Screener and fundamental analysis tool for Indian stocks  - Screener</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="170">
     <title>🔐 - Personal</title>
@@ -2488,111 +2557,42 @@
         <title></title>
       </bookmark>
     </folder>
-  </folder>
-  <folder id="399">
-    <title>Finance</title>
-    <bookmark href="https://sovrenn.com/knowledge" id="400">
-      <title>Sovrenn Knowledge</title>
-    </bookmark>
-    <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="59">
-      <title>React App</title>
-    </bookmark>
-    <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="25">
-      <title>Live updates of stocks, corporate actions and business updates</title>
-    </bookmark>
-    <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="164">
-      <title>Budget Templates | Actual Budget Documentation</title>
-    </bookmark>
-    <bookmark href="http://192.168.0.117:5006/budget" id="765">
-      <title>Actual</title>
-    </bookmark>
-    <bookmark href="https://www.stockwatch.live/dashboard" id="1051">
-      <title>Stockwatch - Latest News on Stocks, Financial Results, Business Updates and more</title>
-    </bookmark>
-    <bookmark href="https://stocksense.in/" id="1027">
-      <title>Stocksense - Stock Data API for AI</title>
-    </bookmark>
-    <bookmark href="https://pastebin.com/TFPRC4Ss" id="1028">
-      <title>Twitter handles for stock market updates - Pastebin.com</title>
-    </bookmark>
-    <bookmark href="https://fiindia.gitbook.io/wiki/investments/investment-options" id="1025">
-      <title>Investment options | FI/RE India</title>
-    </bookmark>
-    <bookmark href="https://www.marketfeed.com/calculators" id="1029">
-      <title>marketfeed Calculators</title>
-    </bookmark>
-    <bookmark href="https://www.screener.in/" id="1103">
-      <title>Stock Screener and fundamental analysis tool for Indian stocks - Screener</title>
-    </bookmark>
-    <bookmark href="https://www.screener.in/" id="1107">
-      <title>Stock Screener and fundamental analysis tool for Indian stocks  - Screener</title>
-    </bookmark>
-  </folder>
-  <folder id="733">
-    <title>Spritual</title>
-    <bookmark href="https://vedicheritage.gov.in/" id="179">
-      <title>Vedic Heritage Portal | Vedic Heritage Portal</title>
-    </bookmark>
-    <bookmark href="https://www.swami-krishnananda.org/vishnu/vishnu_dhyanam.html" id="178">
-      <title>Dhyanam - Sri Vishnu Sahasaranama Stotram - Sanskrit, Transliteration and English Translation</title>
-    </bookmark>
-    <bookmark href="https://www.vyasaonline.com/" id="367">
-      <title>Vyasa Mahabharata – Kannada translations from the original Sanskrit text</title>
-    </bookmark>
-    <bookmark href="https://www.vyasaonline.com/padma-purana/" id="375">
-      <title>Padma Purana – Vyasa Mahabharata</title>
-    </bookmark>
-    <bookmark href="https://stotranidhi.com/kn/stotras-list-kannada/" id="744">
-      <title>ಸ್ತೋತ್ರನಿಧಿ - Stotra Nidhi</title>
-    </bookmark>
-    <bookmark href="https://archive.org/details/RigvedaSamhitha/Rigveda-Samhitha_01/page/n37/mode/2up" id="174">
-      <title>Rigveda Samhitha : Free Download, Borrow, and Streaming : Internet Archive</title>
-    </bookmark>
-    <bookmark href="https://archive.org/details/RigvedaSamhithaAudioAndTextBhashyam_KannadaLanguafe/A1A1.mp3" id="173">
-      <title>Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Free Download, Borrow, and Streaming : Internet Archive</title>
-    </bookmark>
-    <bookmark href="https://vignanam.org/veda/sree-vishnu-sahasra-nama-stotram-kannada.html" id="901">
-      <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
-    </bookmark>
-    <bookmark href="https://vignanam.org/kannada/sree-vishnu-sahasra-nama-stotram.html" id="989">
-      <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
-    </bookmark>
-  </folder>
-  <folder id="738">
-    <title>Intresting-GITHUB</title>
-    <bookmark href="https://thejeshgn.com/2024/05/28/syncing-bookmarks-using-floccus-and-git/" id="739">
-      <title>Syncing Bookmarks using Floccus and Git | Thejesh GN</title>
-    </bookmark>
-    <bookmark href="https://github.com/thejeshgn?tab=repositories" id="740">
-      <title>thejeshgn (thejeshgn) / Repositories · GitHub</title>
-    </bookmark>
-    <bookmark href="https://simonwillison.net/2020/Oct/9/git-scraping/" id="741">
-      <title>Git scraping: track changes over time by scraping to a Git repository</title>
-    </bookmark>
-    <bookmark href="https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file" id="742">
-      <title>GitHub - gautamkrishnar/blog-post-workflow: Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed</title>
-    </bookmark>
-    <bookmark href="https://jules-documentation.web.app/" id="759">
-      <title>Getting Started | Jules</title>
-    </bookmark>
-    <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
-      <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
-    </bookmark>
-    <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="1089">
-      <title>Audio book shelf</title>
-    </bookmark>
-    <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="1084">
-      <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
-    </bookmark>
-    <bookmark href="https://github.com/alessiodm/drl-zh" id="1086">
-      <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
-    </bookmark>
-    <bookmark href="https://github.com/FadingProgrammer" id="990">
-      <title>FadingProgrammer (Ahmed Khan) · GitHub</title>
-    </bookmark>
-    <bookmark href="https://endler.dev/2025/best-programmers/" id="998">
-      <title>The Best Programmers I Know | Matthias Endler</title>
-    </bookmark>
+    <folder id="738">
+      <title>Intresting-GITHUB</title>
+      <bookmark href="https://thejeshgn.com/2024/05/28/syncing-bookmarks-using-floccus-and-git/" id="739">
+        <title>Syncing Bookmarks using Floccus and Git | Thejesh GN</title>
+      </bookmark>
+      <bookmark href="https://github.com/thejeshgn?tab=repositories" id="740">
+        <title>thejeshgn (thejeshgn) / Repositories · GitHub</title>
+      </bookmark>
+      <bookmark href="https://simonwillison.net/2020/Oct/9/git-scraping/" id="741">
+        <title>Git scraping: track changes over time by scraping to a Git repository</title>
+      </bookmark>
+      <bookmark href="https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file" id="742">
+        <title>GitHub - gautamkrishnar/blog-post-workflow: Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed</title>
+      </bookmark>
+      <bookmark href="https://jules-documentation.web.app/" id="759">
+        <title>Getting Started | Jules</title>
+      </bookmark>
+      <bookmark href="https://github.com/firmai/financial-machine-learning" id="176">
+        <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
+      </bookmark>
+      <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="1089">
+        <title>Audio book shelf</title>
+      </bookmark>
+      <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="1084">
+        <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
+      </bookmark>
+      <bookmark href="https://github.com/alessiodm/drl-zh" id="1086">
+        <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
+      </bookmark>
+      <bookmark href="https://github.com/FadingProgrammer" id="990">
+        <title>FadingProgrammer (Ahmed Khan) · GitHub</title>
+      </bookmark>
+      <bookmark href="https://endler.dev/2025/best-programmers/" id="998">
+        <title>The Best Programmers I Know | Matthias Endler</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="799">
     <title>QuickSaves</title>
