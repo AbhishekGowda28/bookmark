@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1123: for Floccus bookmark sync browser extension -->
+<!--- highestId :1124: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2597,6 +2597,9 @@
       </bookmark>
       <bookmark href="https://www.dendron.so/" id="1123">
         <title>Dendron</title>
+      </bookmark>
+      <bookmark href="https://duckduckgo.com/?q=creating+chrome+extension+with+react&amp;ia=web" id="1124">
+        <title>creating chrome extension with react at DuckDuckGo</title>
       </bookmark>
     </folder>
   </folder>
