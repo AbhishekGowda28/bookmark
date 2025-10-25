@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1131: for Floccus bookmark sync browser extension -->
+<!--- highestId :1132: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2665,6 +2665,9 @@
   </folder>
   <bookmark href="https://www.reddit.com/r/chrome/comments/1oec3sy/showcase_built_a_hybrid_ai_analyzer_extension/" id="1129">
     <title>Hack chrome AI</title>
+  </bookmark>
+  <bookmark href="https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:welcome-to-financial-literacy/xa6995ea67a8e9fdd:intro-to-financial-literacy/v/welcome-to-financial-literacy" id="1132">
+    <title>Welcome to Financial Literacy (video) | Khan Academy</title>
   </bookmark>
 </folder>
 <folder id="1">
