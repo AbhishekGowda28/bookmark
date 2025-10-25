@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1132: for Floccus bookmark sync browser extension -->
+<!--- highestId :1133: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1316,6 +1316,9 @@
       </bookmark>
       <bookmark href="https://www.youtube.com/watch?v=riU59TBB8W0" id="1131">
         <title>YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=KVx1KlklH_E" id="1133">
+        <title>One Hour a Day Can Change Your Life | Best Audiobook - YouTube</title>
       </bookmark>
     </folder>
     <folder id="228">
