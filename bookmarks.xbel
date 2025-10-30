@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1137: for Floccus bookmark sync browser extension -->
+<!--- highestId :1138: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2635,6 +2635,9 @@
         <title>Dendron</title>
       </bookmark>
     </folder>
+    <bookmark href="https://conventionalcomments.org/" id="1138">
+      <title>Conventional Comments</title>
+    </bookmark>
   </folder>
   <folder id="799">
     <title>QuickSaves</title>
