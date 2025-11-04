@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1140: for Floccus bookmark sync browser extension -->
+<!--- highestId :1143: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2685,6 +2685,15 @@
     </bookmark>
     <bookmark href="https://search.brave.com/search?q=the+motherhood+book&amp;source=android&amp;summary=1&amp;conversation=31ed853b5683434ea42f14" id="1100">
       <title>the motherhood book - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20210925043340/https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="1141">
+      <title>Make a Discord bot in just 30 lines of code. - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/user/GreatestAudioBooks/videos" id="1142">
+      <title>Greatest AudioBooks - YouTube</title>
+    </bookmark>
+    <bookmark href="https://businessmap.io/lean-management" id="1143">
+      <title>Lean Management</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.reddit.com/r/chrome/comments/1oec3sy/showcase_built_a_hybrid_ai_analyzer_extension/" id="1129">
