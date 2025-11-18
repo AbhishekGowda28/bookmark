@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :901: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <bookmark href="http://127.0.0.1:8384/" id="3">
+    <title>why-do-you-need-this | Syncthing</title>
+  </bookmark>
+  <folder id="4">
+    <title>Work</title>
+    <folder id="13">
+      <title>ON-CALL</title>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/QS/pages/3640918181/FY24+Q2+Sticker+DEX+Merge+to+Studio+6+Enabling+the+Experience+for+New+Products" id="72">
+        <title>FY24 Q2 | Sticker DEX Merge to Studio 6 | Enabling the Experience for New Products - DIY Design Personalization - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3266578519/On-Call+Process" id="73">
+        <title>On-Call Process - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/1251049934/AILS+Remediation+Scripts+for+Fixing+Stuck+Orders" id="74">
+        <title>[AILS] Remediation Scripts for Fixing Stuck Orders - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpressvista.cloud.looker.com/dashboards/6872" id="75">
+        <title>Albelli Metrics</title>
+      </bookmark>
+      <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/studio-configuration-editor/latest/" id="76">
+        <title>PIM studio configuration editor</title>
+      </bookmark>
+    </folder>
+    <folder id="14">
+      <title>READ_LATER</title>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PLZ/pages/4975329707/Vision+towards+an+GenAI+and+MCP+driven+economy" id="77">
+        <title>Vision towards an GenAI and MCP driven economy - Domain: Platform Services [DOM-0250] - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/COMPANY/pages/3255708400/The+12+habits" id="78">
+        <title>The 12 habits - 99designs Company - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3354165422/Engineering+Principles" id="79">
+        <title>Engineering Principles - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4180346102/DRAFT+Engineering+Principles+question+bank+for+interviews" id="80">
+        <title>DRAFT: Engineering Principles question bank for interviews - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VSC/pages/2549909217/Vista+Behaviors" id="81">
+        <title>Vista Behaviors - Vista Strategy Center - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4958650563/Vista+AI+Coding+Assistant+Configuration+Guide" id="82">
+        <title>Vista AI Coding Assistant Configuration Guide - Developer Resource Center - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4912056501/Play+AI+Instruction+File+for+VSCode" id="83">
+        <title>[Play] AI Instruction File (for VSCode) - Developer Resource Center - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3088432857/Data+Analytics+Learning+Map+FY24-FY25" id="84">
+        <title>Data Analytics Learning Map FY24-FY25 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3021471745/Engineering+Builder+IC+Leveling+Guide+PR1-PR7" id="85">
+        <title>Engineering &quot;Builder IC&quot; Leveling Guide PR1-PR7 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4076995659/Promotion+Process" id="86">
+        <title>Promotion Process - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4076700723/Promotion+Track+Change+Nomination+Document" id="310">
+        <title>Promotion/Track Change Nomination Document - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/15131672661/Tier+Guide+for+Target+Pay+Ranges" id="311">
+        <title>Tier Guide for Target Pay Ranges - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/overview?homepageId=1244070306" id="312">
+        <title>Remote-First Handbook - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/14836400803/Promotions+and+Adjustments" id="313">
+        <title>Promotions and Adjustments - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4199418559/Senior+Individual+Contributor+Expectations" id="314">
+        <title>Senior Individual Contributor Expectations - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VT/pages/2924971759/Non-functional+requirements+-+the+ilities" id="315">
+        <title>Non-functional requirements - the &quot;ilities&quot; - Vista Technology - Confluence</title>
+      </bookmark>
+      <bookmark href="https://how.dev/answers/what-are-browser-apis" id="316">
+        <title>What are browser APIs?</title>
+      </bookmark>
+      <bookmark href="https://www.interviewbit.com/blog/web-development-projects/" id="317">
+        <title>15+ Web Development Projects With Source Code [2023] - InterviewBit</title>
+      </bookmark>
+      <bookmark href="https://dev.to/mukhilpadmanabhan/mastering-the-cloud-aws-certified-solutions-architect-associate-saa-c03-15fa" id="318">
+        <title>[SAA-C03: Part 1] - Mastering the Cloud: AWS Solutions Architect Associate - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://www.aviator.co/blog/the-anatomy-of-slow-code-reviews/?ref=dailydev" id="319">
+        <title>The Anatomy of Slow Code Reviews | Aviator</title>
+      </bookmark>
+      <bookmark href="https://newsletter.techworld-with-milan.com/p/what-i-learned-from-the-book-designing?ref=dailydev" id="442">
+        <title>What I learned from the book Designing Data-Intensive Applications?</title>
+      </bookmark>
+      <bookmark href="https://www.coursera.org/articles/ai-engineer" id="443">
+        <title>What Is an AI Engineer? (And How to Become One) | Coursera</title>
+      </bookmark>
+    </folder>
+    <folder id="15">
+      <title>🧪 Experiment Resources</title>
+      <bookmark href="https://app.segment.com/vistaprint/protocols/tracking-plans/tp_1Uvr61BNMBevpcQKkG6rsrudeME?name=des&amp;type=Track&amp;page=1" id="87">
+        <title>Protocols - Segment</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/3359442550/How+to+start+learning+about+Statsig" id="88">
+        <title>How to start learning about Statsig - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb17b05b4e3e7dab7428/pages/3370492752/Optimizely+to+Statsig+migration+Quad" id="89">
+        <title>Optimizely to Statsig migration Quad - Devjit Neogi - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2466349090/Creating+custom+events+in+EMA" id="90">
+        <title>Creating custom events in EMA - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2411430399/How+to+create+a+custom+event+in+EMA" id="91">
+        <title>How to create a custom event in EMA? - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://event-manager.exp.vpsvc.com/" id="92">
+        <title>EMA - Event Manager</title>
+      </bookmark>
+      <bookmark href="https://console.statsig.com/5Yx4xlMFVM9VTFvZaUwBnI/experiments/packaging_vs_studio6_templateflow_s5/results" id="93">
+        <title>packaging_vs_studio6_templateflow_s5 | Statsig</title>
+      </bookmark>
+      <bookmark href="https://console.statsig.com/5Yx4xlMFVM9VTFvZaUwBnI/experiments/packaging_fullbleedv1/results" id="94">
+        <title>packaging_fullbleedv1 | Statsig</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/961741064/Debugging+Studio+Errors" id="95">
+        <title>Debugging Studio Errors - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.app.box.com/s/x2toacb6btap9kfgp6ojyhk286hpmlre" id="96">
+        <title>PPAG products Studio 6 migration.xlsx | Powered by Box</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/experimentation/qa" id="320">
+        <title>Experimentation Hub</title>
+      </bookmark>
+    </folder>
+    <folder id="16">
+      <title>Confluence</title>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYP/overview?homepageId=2746254670" id="97">
+        <title>DIY Print - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2658403269/Job+Postings#What-You-Will-Do%3A" id="98">
+        <title>Job Postings - Design Technology Domain - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3286307258/DIY+Core+Platform" id="99">
+        <title>DIY Core Platform - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CimpressIndia/pages/10176234156/Lightning+Talks-Technology" id="100">
+        <title>Lightning Talks-Technology - Cimpress India - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1418429209/Compensation" id="101">
+        <title>Compensation - Remote-First Handbook - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DCR/pages/570230228/CDIF+Proposed+Features" id="102">
+        <title>CDIF Proposed Features - CT Artwork Processing - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2892859566/Vista+Engineering+Academy" id="103">
+        <title>Vista Engineering Academy - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/MT/pages/848167048/Product+Page+v2+Testing+Guide" id="104">
+        <title>Product Page v2 Testing Guide - Foundations Technology - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/FSDT/pages/3207038583/Typings+with+Module+Federation" id="105">
+        <title>Typings with Module Federation - Design and Service Technology - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3258844093/Studio+Item+Plug-in+API" id="106">
+        <title>Studio Item Plug-in API - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/8028127929/Looker+Access+Management+UI" id="321">
+        <title>Looker Access Management UI - Cimpress Documentation - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DCR/pages/15176728588/Sherbert+FAQ" id="322">
+        <title>Sherbert FAQ - CT Artwork Processing - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3274544867/Consolidated+Q1+FY24+OKRs+for+All+Domains#%F0%9F%9B%A0%EF%B8%8F-DIY-Content" id="323">
+        <title>Consolidated Q1 FY24 OKRs for All Domains - Product Development - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3274544867/Consolidated+Q1+FY24+OKRs+for+All+Domains#%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-DIY-Editor" id="324">
+        <title>Consolidated Q1 FY24 OKRs for All Domains - Product Development - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/pages/3348727792/FY23+Q1" id="325">
+        <title>FY23 Q1 - Abhishek Gowda - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYC/overview" id="326">
+        <title>DIY Content - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/blogs" id="327">
+        <title>Blogs - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/pages/3388539990/Empowered+Product+Teams+-+Glossary+of+Terms" id="328">
+        <title>Empowered Product Teams - Glossary of Terms - Product Development - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3484026118/SVG+Recolorization+SIM+decide+on+content+discovery+interface" id="329">
+        <title>SVG Recolorization SIM: decide on content discovery interface - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3370420928/Add+White+Border+Validation+to+QUAD+-+Learning+Agenda" id="330">
+        <title>Add White Border Validation to QUAD - Learning Agenda - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2501017942/How+to+use+the+Revenue+Path" id="444">
+        <title>How to use the Revenue Path? - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PA1/pages/3322019841/Learning+Agendas+Template+2.1" id="445">
+        <title>Learning Agendas Template 2.1 - Product Analytics - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2935063729/How+to+get+a+custom+event+for+your+metric" id="446">
+        <title>How to get a custom event for your metric? - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/FDOM/pages/3120596201/How+to+check+if+an+experiment+is+set+up+correctly#Step-4.-The-Experiment-Viewed-event-is-fired-and-the-data-landed-Optimizely-results%2C-but-one-(or-several)-of-the-metrics-isn%E2%80%99t-working" id="447">
+        <title>How to check if an experiment is set up correctly - Domain: Foundations - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3109322875/O+Reilly+for+Vista+Engineering" id="448">
+        <title>O&apos;Reilly for Vista Engineering - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VSC/pages/2549909217/The+Vista+Behaviors#Relentlessly-learn-and-improve" id="449">
+        <title>The Vista Behaviors - Vista Strategy Center - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3277750706/Accessibility+Champion" id="450">
+        <title>Accessibility Champion - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://myjwt.cimpress.io/#/" id="451">
+        <title>My JWT</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SWAN/pages/3076161984/SWAN+Office+Hours" id="452">
+        <title>SWAN Office Hours - SWAN - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2270" id="453">
+        <title>DIY Upload- QUAD - Agile Board - Your Weekly Report</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3171910819/Software+Engineering+Learning+Map+FY24-FY25" id="502">
+        <title>Software Engineering Learning Map FY24-FY25 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4796564055/Engineering+Productivity+MBR+-+2025+-+04" id="503">
+        <title>Engineering Productivity MBR - 2025 - 04 - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DPM/overview?homepageId=1508579391" id="504">
+        <title>Product Development - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VKB/pages/3296788558/Snyk+Basics" id="505">
+        <title>Snyk Basics - VSec Knowledge Base - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/2557707184/PR3+Front-End+Engineer+Training+-+Pooja+Hwang" id="506">
+        <title>PR3 Front-End Engineer Training - Pooja Hwang - Design Technology Domain - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SCV/pages/3436085341/RFC+-+Spell+check+validation" id="507">
+        <title>RFC - Spell check validation - Spell Check Validation - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3730278473/Spell+Check+in+Studio+6+Product+Brief" id="508">
+        <title>Spell Check in Studio 6 | Product Brief - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/44008766/Ramon+s+Rambles" id="509">
+        <title>Ramon&apos;s Rambles - Design Technology Domain - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/REC/pages/2965046925/Computer+setup" id="510">
+        <title>Computer setup - Recommendations - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3310454295/Documenting+technical+decisions" id="511">
+        <title>Documenting technical decisions - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3587973807/Q4+FY24+Ideas+List" id="546">
+        <title>Q4 FY24 Ideas List - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/3471640504/How+to+use+Statsig+Warehouse+Native+WHN" id="547">
+        <title>How to use Statsig Warehouse Native (WHN)? - Experimentation Hub - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3620865870/Studio6+and+the+Vista+Rendering+Service" id="548">
+        <title>Studio6 and the Vista Rendering Service - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PI/pages/3359148592/RFC+Vista+Rendering+Service+-+Micro-frontend+Evolution" id="549">
+        <title>[RFC] Vista Rendering Service - Micro-frontend Evolution - Platform Infrastructure - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6215d366347c690072f6f038/pages/3565063376/VistaPrint+Sitespeed" id="550">
+        <title>VistaPrint Sitespeed - Todd Brannam - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PD/pages/2456846337/Font+Strategy+for+Vista" id="551">
+        <title>Font Strategy for Vista - Product Creation &amp; Experience - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PI/pages/3212316063/Vista+Rendering+Service" id="552">
+        <title>Vista Rendering Service - Platform Infrastructure - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIY/pages/3268747842/Design+Validations" id="553">
+        <title>Design Validations - DIY - Confluence</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15488782763/Validation+System+Architecture+Proposals" id="554">
+        <title>Validation System Architecture Proposals - Artwork Design - Cimpress Technology</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/1396190299/DDIF+Schema+-+V2" id="555">
+        <title>DDIF Schema - V2 - Design Technology Domain - Confluence</title>
+      </bookmark>
+    </folder>
+    <folder id="17">
+      <title>Vista</title>
+      <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP" id="107">
+        <title>SuccessFactors: Home</title>
+      </bookmark>
+      <bookmark href="https://vimeo.com/user/135782719/folder/15453705" id="108">
+        <title>Vista on Vimeo</title>
+      </bookmark>
+      <bookmark href="https://us2.concursolutions.com/home.asp" id="109">
+        <title>Concur</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYP/pages/3032450819/Exp+1+-+Minor+Tweaks+Test+Plan" id="110">
+        <title>Exp 1 - Minor Tweaks Test Plan - DIY Print - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vista.design/swan/" id="111">
+        <title>SWAN | Vista Design</title>
+      </bookmark>
+      <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/Tutorials/Design%20Stack%20Workshop/" id="112">
+        <title>Design Stack Workshop | design-stack-docs</title>
+      </bookmark>
+      <folder id="113">
+        <title>Bookmarks Toolbar</title>
+        <bookmark href="https://www.mozilla.org/en-US/firefox/central/" id="217">
+          <title>Getting Started</title>
+        </bookmark>
+        <folder id="218">
+          <title>CSS</title>
+          <bookmark href="https://www.digitalocean.com/community/tutorials/css-cursor-property" id="331">
+            <title>Change the Mouse Cursor in CSS With the cursor Property | DigitalOcean</title>
+          </bookmark>
+        </folder>
+        <folder id="219">
+          <title>JS|TS</title>
+          <bookmark href="https://typescript.tv/error-ts/" id="332">
+            <title>TypeScript Errors – TypeScript TV</title>
+          </bookmark>
+          <bookmark href="https://astexplorer.net/" id="333">
+            <title>AST explorer</title>
+          </bookmark>
+        </folder>
+        <folder id="220">
+          <title>VSCode</title>
+          <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="334">
+            <title>Theme Color | Visual Studio Code Extension API</title>
+          </bookmark>
+          <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="335">
+            <title>Commands | Visual Studio Code Extension API</title>
+          </bookmark>
+        </folder>
+        <folder id="221">
+          <title>Cimpress Technical Docs</title>
+          <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="336">
+            <title>Calendar Design Experience</title>
+          </bookmark>
+          <bookmark href="https://artifactory.cimpress.io/ui/packages" id="337">
+            <title>Packages - artifactory</title>
+          </bookmark>
+          <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="338">
+            <title>@design-stack</title>
+          </bookmark>
+          <bookmark href="https://developer.cimpress.io/" id="339">
+            <title>Developer Portal</title>
+          </bookmark>
+          <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="340">
+            <title>Print Design Experience</title>
+          </bookmark>
+        </folder>
+        <folder id="222">
+          <title>Reference sites</title>
+          <bookmark href="https://packlane.com/#choose-style" id="341">
+            <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/" id="342">
+            <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="343">
+            <title>Packola | Design Your Packaging Online</title>
+          </bookmark>
+          <bookmark href="https://www.canva.com/" id="344">
+            <title>Canva</title>
+          </bookmark>
+          <bookmark href="https://www.packm.com/mailer-boxes" id="345">
+            <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+          </bookmark>
+          <bookmark href="https://tools-utils.com/" id="346">
+            <title>JSON Editor Online | Tools &amp; Utils</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="347">
+            <title>Blue Team · GitLab</title>
+          </bookmark>
+          <bookmark href="https://github.com/pmndrs/use-gesture" id="348">
+            <title>GitHub - pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</title>
+          </bookmark>
+          <bookmark href="https://www.motorola.in/motorola-edge-30-ultra-1/p" id="349">
+            <title>Motorola Edge 30 Ultra - motorola IN| Smartphones, Accessories &amp; Smart Home Devices</title>
+          </bookmark>
+        </folder>
+        <folder id="223">
+          <title>Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="350">
+            <title>Decotechs - CT Content Management</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/glossary.html" id="351">
+            <title>Glossary · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="352">
+            <title>Panels and Projections · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="353">
+            <title>Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="354">
+            <title>3D Previews (Vortex) - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="355">
+            <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="356">
+            <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="357">
+            <title>The 3D Model Inspector - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="358">
+            <title>Utility Document Source - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="359">
+            <title>Getting Started with Cimpress - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="462">
+            <title>Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="463">
+            <title>Artwork Technology</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="464">
+            <title>Recruiting - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="465">
+            <title>OKRs - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="466">
+            <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="467">
+            <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="468">
+            <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="469">
+            <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="470">
+            <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="471">
+            <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+          </bookmark>
+        </folder>
+        <folder id="224">
+          <title>HR</title>
+          <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="360">
+            <title>Blueprint - Home</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="361">
+            <title>Team A&amp;A - Google Sheets</title>
+          </bookmark>
+          <bookmark href="https://nexus.cimpress.net/" id="362">
+            <title>Nexus</title>
+          </bookmark>
+          <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="363">
+            <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+          </bookmark>
+          <bookmark href="https://www.concursolutions.com/home.asp" id="364">
+            <title>SAP Concur Home</title>
+          </bookmark>
+          <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="365">
+            <title>Dashboard</title>
+          </bookmark>
+        </folder>
+        <folder id="225">
+          <title>Leaning</title>
+          <bookmark href="https://easings.net/#easeInOutSine" id="366">
+            <title>Easing Functions Cheat Sheet</title>
+          </bookmark>
+          <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="367">
+            <title>CSS Nesting Module</title>
+          </bookmark>
+          <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="368">
+            <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="369">
+            <title>Cimpress India</title>
+          </bookmark>
+          <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="370">
+            <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+          </bookmark>
+          <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="371">
+            <title>Mocking React hooks when unit testing using Jest</title>
+          </bookmark>
+          <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="372">
+            <title>Is it Pokémon or Big Data ?</title>
+          </bookmark>
+          <bookmark href="https://github.com/mattdesl/extract-svg-path" id="373">
+            <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+          </bookmark>
+          <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="374">
+            <title>extract specific path from svg at DuckDuckGo</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="375">
+            <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="472">
+            <title>TypeScript for Professionals</title>
+          </bookmark>
+          <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="473">
+            <title>https://cimpress-vistaprint.360learning.com/home</title>
+          </bookmark>
+        </folder>
+        <folder id="226">
+          <title>Bookmarks</title>
+          <bookmark href="https://console.documents.cimpress.io/" id="376">
+            <title>Document Console</title>
+          </bookmark>
+          <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="377">
+            <title>Template Maker</title>
+          </bookmark>
+          <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="378">
+            <title>Cimpress - Artwork – Figma</title>
+          </bookmark>
+        </folder>
+        <folder id="409">
+          <title>Nitro - Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="454">
+            <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="455">
+            <title>Terms - Cimpress Technology Internal - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="456">
+            <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="457">
+            <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="458">
+            <title>Things we want to Learn - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="459">
+            <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="460">
+            <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="461">
+            <title>Planning and Discussions - Artwork Design - Confluence</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="556">
+          <title>Git commit Descriptions</title>
+        </bookmark>
+        <bookmark href="https://cork.cimpress.cloud/accounts/" id="557">
+          <title>AWS Linked Accounts</title>
+        </bookmark>
+        <bookmark href="https://search.cimpress.io/" id="558">
+          <title>Cimpress Search</title>
+        </bookmark>
+        <bookmark href="https://fusion.documents.cimpress.io/" id="559">
+          <title>Fusion</title>
+        </bookmark>
+        <bookmark href="https://dspe.ddt.cimpress.io/" id="560">
+          <title>Design Stack Package Explorer</title>
+        </bookmark>
+        <bookmark href="https://generic-selector.products.cimpress.io/" id="561">
+          <title>Generic Selector Demo</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="562">
+          <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="591">
+          <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+        </bookmark>
+        <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="592">
+          <title>Component Migration Guide | interactive-design-engine-core</title>
+        </bookmark>
+        <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="593">
+          <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+        </bookmark>
+        <folder id="594">
+          <title>Design-Stack-Resources</title>
+          <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="630">
+            <title>Design Engine | design-stack-docs</title>
+          </bookmark>
+          <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="631">
+            <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+          </bookmark>
+          <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="632">
+            <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+          </bookmark>
+        </folder>
+        <folder id="595">
+          <title>VSCode</title>
+          <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="633">
+            <title>Theme Color | Visual Studio Code Extension API</title>
+          </bookmark>
+          <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="634">
+            <title>Commands | Visual Studio Code Extension API</title>
+          </bookmark>
+        </folder>
+        <folder id="596">
+          <title>Reference sites</title>
+          <bookmark href="https://packlane.com/#choose-style" id="635">
+            <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/" id="636">
+            <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="637">
+            <title>Packola | Design Your Packaging Online</title>
+          </bookmark>
+          <bookmark href="https://www.canva.com/" id="638">
+            <title>Canva</title>
+          </bookmark>
+          <bookmark href="https://www.packm.com/mailer-boxes" id="639">
+            <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+          </bookmark>
+          <bookmark href="https://tools-utils.com/" id="640">
+            <title>JSON Editor Online | Tools &amp; Utils</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="641">
+            <title>Blue Team · GitLab</title>
+          </bookmark>
+        </folder>
+        <folder id="597">
+          <title>Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="642">
+            <title>Decotechs - CT Content Management</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/glossary.html" id="643">
+            <title>Glossary · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="644">
+            <title>Panels and Projections · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="645">
+            <title>Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="646">
+            <title>3D Previews (Vortex) - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="647">
+            <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="648">
+            <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="649">
+            <title>The 3D Model Inspector - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="650">
+            <title>Utility Document Source - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="651">
+            <title>Getting Started with Cimpress - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="701">
+            <title>Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="702">
+            <title>Artwork Technology</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="703">
+            <title>Recruiting - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="704">
+            <title>OKRs - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="705">
+            <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="706">
+            <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="707">
+            <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="708">
+            <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="709">
+            <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="710">
+            <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+          </bookmark>
+        </folder>
+        <folder id="598">
+          <title>HR</title>
+          <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="652">
+            <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+          </bookmark>
+          <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="653">
+            <title>Blueprint - Home</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="654">
+            <title>Team A&amp;A - Google Sheets</title>
+          </bookmark>
+          <bookmark href="https://nexus.cimpress.net/" id="655">
+            <title>Nexus</title>
+          </bookmark>
+          <bookmark href="https://www.concursolutions.com/home.asp" id="656">
+            <title>SAP Concur Home</title>
+          </bookmark>
+          <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="657">
+            <title>Dashboard</title>
+          </bookmark>
+        </folder>
+        <folder id="599">
+          <title>Leaning</title>
+          <bookmark href="https://easings.net/#easeInOutSine" id="658">
+            <title>Easing Functions Cheat Sheet</title>
+          </bookmark>
+          <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="659">
+            <title>CSS Nesting Module</title>
+          </bookmark>
+          <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="660">
+            <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="661">
+            <title>Cimpress India</title>
+          </bookmark>
+          <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="662">
+            <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+          </bookmark>
+          <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="663">
+            <title>Mocking React hooks when unit testing using Jest</title>
+          </bookmark>
+          <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="664">
+            <title>Is it Pokémon or Big Data ?</title>
+          </bookmark>
+          <bookmark href="https://github.com/mattdesl/extract-svg-path" id="665">
+            <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+          </bookmark>
+          <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="666">
+            <title>extract specific path from svg at DuckDuckGo</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="667">
+            <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="711">
+            <title>TypeScript for Professionals</title>
+          </bookmark>
+          <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="712">
+            <title>https://cimpress-vistaprint.360learning.com/home</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="600">
+          <title>Cimpress - Artwork – Figma</title>
+        </bookmark>
+        <folder id="676">
+          <title>Bookmarks</title>
+          <bookmark href="https://console.documents.cimpress.io/" id="691">
+            <title>Document Console</title>
+          </bookmark>
+          <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="692">
+            <title>Template Maker</title>
+          </bookmark>
+        </folder>
+        <folder id="677">
+          <title>Nitro - Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="693">
+            <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="694">
+            <title>Terms - Cimpress Technology Internal - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="695">
+            <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="696">
+            <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="697">
+            <title>Things we want to Learn - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="698">
+            <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="699">
+            <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="700">
+            <title>Planning and Discussions - Artwork Design - Confluence</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="678">
+          <title>Git commit Descriptions</title>
+        </bookmark>
+        <bookmark href="https://typescript.tv/error-ts/" id="679">
+          <title>TypeScript Errors – TypeScript TV</title>
+        </bookmark>
+        <bookmark href="https://astexplorer.net/" id="719">
+          <title>AST explorer</title>
+        </bookmark>
+        <bookmark href="https://cork.cimpress.cloud/accounts/" id="720">
+          <title>AWS Linked Accounts</title>
+        </bookmark>
+        <bookmark href="https://search.cimpress.io/" id="731">
+          <title>Cimpress Search</title>
+        </bookmark>
+        <bookmark href="https://fusion.documents.cimpress.io/" id="732">
+          <title>Fusion</title>
+        </bookmark>
+        <bookmark href="https://dspe.ddt.cimpress.io/" id="738">
+          <title>Design Stack Package Explorer</title>
+        </bookmark>
+        <bookmark href="https://generic-selector.products.cimpress.io/" id="739">
+          <title>Generic Selector Demo</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="740">
+          <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="741">
+          <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+        </bookmark>
+        <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="747">
+          <title>Component Migration Guide | interactive-design-engine-core</title>
+        </bookmark>
+        <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="748">
+          <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+        </bookmark>
+        <folder id="754">
+          <title>Design-Stack-Resources</title>
+          <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="767">
+            <title>Design Engine | design-stack-docs</title>
+          </bookmark>
+          <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="768">
+            <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+          </bookmark>
+          <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="769">
+            <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+          </bookmark>
+        </folder>
+        <folder id="755">
+          <title>VSCode</title>
+          <bookmark href="https://code.visualstudio.com/api/references/theme-color" id="770">
+            <title>Theme Color | Visual Studio Code Extension API</title>
+          </bookmark>
+          <bookmark href="https://code.visualstudio.com/api/extension-guides/command" id="771">
+            <title>Commands | Visual Studio Code Extension API</title>
+          </bookmark>
+        </folder>
+        <folder id="756">
+          <title>Cimpress Technical Docs</title>
+          <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="773">
+            <title>Calendar Design Experience</title>
+          </bookmark>
+          <bookmark href="https://artifactory.cimpress.io/ui/packages" id="774">
+            <title>Packages - artifactory</title>
+          </bookmark>
+          <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="775">
+            <title>@design-stack</title>
+          </bookmark>
+          <bookmark href="https://developer.cimpress.io/" id="776">
+            <title>Developer Portal</title>
+          </bookmark>
+          <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="777">
+            <title>Print Design Experience</title>
+          </bookmark>
+        </folder>
+        <folder id="757">
+          <title>Reference sites</title>
+          <bookmark href="https://packlane.com/#choose-style" id="778">
+            <title>Custom Boxes &amp; Custom Packaging | Design your own boxes | Packlane</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/" id="779">
+            <title>Custom Boxes &amp; Packaging: Design and Order Online | Packola</title>
+          </bookmark>
+          <bookmark href="https://www.packola.com/pages/tool?sku=SHIPBOX-ST:RSC-L:4-W:4-D:4-PP:CORR-MT:WHT-FLT:E-CL:40-TA:15-QTY:250&amp;page_id=25" id="780">
+            <title>Packola | Design Your Packaging Online</title>
+          </bookmark>
+          <bookmark href="https://www.canva.com/" id="781">
+            <title>Canva</title>
+          </bookmark>
+          <bookmark href="https://www.packm.com/mailer-boxes" id="782">
+            <title>Custom Mailer Boxes - Roll End Front Tuck Corrugated Boxes | PackM.com</title>
+          </bookmark>
+          <bookmark href="https://tools-utils.com/" id="783">
+            <title>JSON Editor Online | Tools &amp; Utils</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="784">
+            <title>Blue Team · GitLab</title>
+          </bookmark>
+        </folder>
+        <folder id="758">
+          <title>Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/Content/pages/1053560110/Decotechs" id="785">
+            <title>Decotechs - CT Content Management</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/glossary.html" id="786">
+            <title>Glossary · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.cimpress.io/cdif/projections_panels.html" id="787">
+            <title>Panels and Projections · Cimpress Open Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/overview" id="788">
+            <title>Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/259162357/3D+Previews+Vortex" id="789">
+            <title>3D Previews (Vortex) - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1717895298/Packaging+DEX-+Requirements+By+Version" id="790">
+            <title>Packaging DEX- Requirements By Version - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/10243440795/The+3D+Model+Inspector" id="791">
+            <title>The 3D Model Inspector - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189694098/Utility+Document+Source" id="792">
+            <title>Utility Document Source - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/184123608/Getting+Started+with+Cimpress" id="793">
+            <title>Getting Started with Cimpress - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/overview" id="794">
+            <title>Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/overview" id="834">
+            <title>Artwork Technology</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1651476977/Recruiting" id="835">
+            <title>Recruiting - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10167812969/OKRs" id="836">
+            <title>OKRs - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14944700387/Panning+improvement+in+design+experience" id="837">
+            <title>Panning improvement in design experience - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/7923663023/Common+Acronyms+Abbreviations" id="838">
+            <title>Common Acronyms &amp; Abbreviations - Artwork Design</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1383498190/Remote-First+Project+Updates" id="839">
+            <title>Remote-First Project Updates - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/RFH/pages/1307836692/Remote-First+Fundamentals#Handbook-First" id="840">
+            <title>Remote-First Fundamentals - Remote-First Handbook - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/8000831954/Surface+Sections+Manager" id="841">
+            <title>Surface Sections Manager - Product Catalog Domain - Confluence</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team/interactive-design-engine-core/-/blob/main/src/DesignEngine.ts" id="842">
+            <title>src/DesignEngine.ts · main · Cimpress Technology / Artwork Design / Blue Team / interactive-design-engine-core · GitLab</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="843">
+            <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+          </bookmark>
+        </folder>
+        <folder id="759">
+          <title>HR</title>
+          <bookmark href="https://www.benefitme.co.in/MMCHundDvdFOUR/Forms/member-central-dashboard.aspx" id="795">
+            <title>Marsh : Cimpress India Private LimitedBenefits Center</title>
+          </bookmark>
+          <bookmark href="https://performancemanager4.successfactors.com/sf/home?bplte_company=vistaprintP&amp;_s.crb=vz8eKI%252biLH3VsAVenGlykuF4tKBpy7yt3yoGBqy5ogk%253d#Shell-home" id="796">
+            <title>Blueprint - Home</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1I_XFP706zXJPFd_IFReHfLALYIRaH1zRzaMC0t3c9AM/edit?invite=CLaYu4MF#gid=0" id="797">
+            <title>Team A&amp;A - Google Sheets</title>
+          </bookmark>
+          <bookmark href="https://www.concursolutions.com/home.asp" id="798">
+            <title>SAP Concur Home</title>
+          </bookmark>
+          <bookmark href="https://ess.hgsbs.com/UserDashboard/Index" id="799">
+            <title>Dashboard</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CimpressIndia/pages/10176004748/Employee+Benefits#Flexi-Holiday-Calendar" id="800">
+            <title>Employee Benefits - Cimpress India - Cimpress Technology</title>
+          </bookmark>
+          <bookmark href="https://nexus.cimpress.net/" id="801">
+            <title>Nexus</title>
+          </bookmark>
+        </folder>
+        <folder id="760">
+          <title>Leaning</title>
+          <bookmark href="https://easings.net/#easeInOutSine" id="802">
+            <title>Easing Functions Cheat Sheet</title>
+          </bookmark>
+          <bookmark href="https://www.w3.org/TR/css-nesting-1/" id="803">
+            <title>CSS Nesting Module</title>
+          </bookmark>
+          <bookmark href="https://www.poshsecure.com/home.html#/dashboard" id="804">
+            <title>POSHsecure - Home | Prevention of Sexual Harassment Platform</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/organization/home/" id="805">
+            <title>Cimpress India</title>
+          </bookmark>
+          <bookmark href="https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository" id="806">
+            <title>Splitting a subfolder out into a new repository - GitHub Docs</title>
+          </bookmark>
+          <bookmark href="https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest" id="807">
+            <title>Mocking React hooks when unit testing using Jest</title>
+          </bookmark>
+          <bookmark href="http://pixelastic.github.io/pokemonorbigdata/" id="808">
+            <title>Is it Pokémon or Big Data ?</title>
+          </bookmark>
+          <bookmark href="https://github.com/mattdesl/extract-svg-path" id="809">
+            <title>GitHub - mattdesl/extract-svg-path: extracts a string of subpaths from an svg file</title>
+          </bookmark>
+          <bookmark href="https://duckduckgo.com/?q=extract+specific+path+from+svg&amp;ia=web&amp;iax=qa" id="810">
+            <title>extract specific path from svg at DuckDuckGo</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14912520696/Discussion+towards+a+more+effective+team+structure?focusedCommentId=14914715727#comment-14914715727" id="811">
+            <title>Discussion towards a more effective team structure - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpressindia.udemy.com/course/typescript-for-professionals/" id="844">
+            <title>TypeScript for Professionals</title>
+          </bookmark>
+          <bookmark href="https://cimpress-vistaprint.360learning.com/home" id="845">
+            <title>https://cimpress-vistaprint.360learning.com/home</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.figma.com/files/team/1002087320251054787/Cimpress---Artwork?fuid=1032508728072392794" id="761">
+          <title>Cimpress - Artwork – Figma</title>
+        </bookmark>
+        <folder id="772">
+          <title>Bookmarks</title>
+          <bookmark href="https://console.documents.cimpress.io/" id="818">
+            <title>Document Console</title>
+          </bookmark>
+          <bookmark href="https://templatemaker.contentauthoring.cimpress.io/" id="819">
+            <title>Template Maker</title>
+          </bookmark>
+        </folder>
+        <folder id="812">
+          <title>Nitro - Confluence</title>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/14982578895/design-experiences-core+package+separation" id="821">
+            <title>design-experiences-core package separation - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/display/CTI/customcontent/list/ac%3Acom.mute.confluence.plugins.terms%3Aterm-type" id="822">
+            <title>Terms - Cimpress Technology Internal - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15120303542/Onboarding+Teams+People+to+Design-Stack+Ecosystem" id="823">
+            <title>Onboarding Teams/People to Design-Stack Ecosystem - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/10217128115/Packaging+DEX+-+Integration" id="824">
+            <title>Packaging DEX - Integration - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1954874695/Things+we+want+to+Learn" id="825">
+            <title>Things we want to Learn - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15042413050/Packaging+Advanced+Experience+4.0+Migration+Guide" id="826">
+            <title>Packaging Advanced Experience 4.0 Migration Guide - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/15001092894/Design+stack+Package+Explorer+DSPE" id="827">
+            <title>Design stack Package Explorer (DSPE) - Artwork Design - Confluence</title>
+          </bookmark>
+          <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/DDT/pages/1516144077/Planning+and+Discussions" id="828">
+            <title>Planning and Discussions - Artwork Design - Confluence</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index" id="820">
+          <title>Git commit Descriptions</title>
+        </bookmark>
+        <bookmark href="https://typescript.tv/error-ts/" id="851">
+          <title>TypeScript Errors – TypeScript TV</title>
+        </bookmark>
+        <bookmark href="https://astexplorer.net/" id="862">
+          <title>AST explorer</title>
+        </bookmark>
+        <bookmark href="https://cork.cimpress.cloud/accounts/" id="868">
+          <title>AWS Linked Accounts</title>
+        </bookmark>
+        <bookmark href="https://search.cimpress.io/" id="869">
+          <title>Cimpress Search</title>
+        </bookmark>
+        <bookmark href="https://fusion.documents.cimpress.io/" id="870">
+          <title>Fusion</title>
+        </bookmark>
+        <bookmark href="https://dspe.ddt.cimpress.io/" id="871">
+          <title>Design Stack Package Explorer</title>
+        </bookmark>
+        <bookmark href="https://generic-selector.products.cimpress.io/" id="872">
+          <title>Generic Selector Demo</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/designexperience/templates/dex-repo-template" id="878">
+          <title>Cimpress Technology / DocDesign / DesignExperience / templates / dex-repo-template · GitLab</title>
+        </bookmark>
+        <bookmark href="https://gitlab.com/Cimpress-Technology/DocDesign/Rendering/fusion" id="879">
+          <title>Cimpress Technology / DocDesign / Rendering / Fusion · GitLab</title>
+        </bookmark>
+        <bookmark href="https://interactive-design-engine-core.ddt.cimpress.io/extensions/ComponentMigrationGuide" id="880">
+          <title>Component Migration Guide | interactive-design-engine-core</title>
+        </bookmark>
+        <bookmark href="https://tanzu.vmware.com/developer/guides/git-rebase-onto-gs/" id="884">
+          <title>Getting Started with Git Rebase --onto | VMware Tanzu Developer Center</title>
+        </bookmark>
+        <folder id="885">
+          <title>Design-Stack-Resources</title>
+          <bookmark href="https://design-stack-vista-docs.design.vpsvc.com/High-Level%20Concepts/DesignEngine" id="896">
+            <title>Design Engine | design-stack-docs</title>
+          </bookmark>
+          <bookmark href="https://design-stack.ddt.cimpress.io/resources/InteractiveDesignLayout#interactive-layout-glossary" id="897">
+            <title>CDIF &amp; Interactive Design Layout Principles | Documentation Hub</title>
+          </bookmark>
+          <bookmark href="https://github.com/tomaszs/webp-to-jpg" id="898">
+            <title>tomaszs/webp-to-jpg: This is a source code in pure JS to convert widely unsupported WebP format to JPG format (PNG also possible)</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <bookmark href="https://ess.hgsbs.com/Login" id="114">
+        <title>HGS-login</title>
+      </bookmark>
+    </folder>
+    <folder id="18">
+      <title>Localhost</title>
+      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=en-US&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="115">
+        <title>Standard BC</title>
+      </bookmark>
+      <bookmark href="http://localhost:3000/?key=PRD-IYXT1T3V&amp;productVersion=22&amp;locale=fr-ca&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Shape%22%3A%22Standard%22%7D&amp;fullBleedElected=true&amp;mpvId=standardBusinessCards&amp;qty=100" id="116">
+        <title>SBC - fr-CA</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-WHVSX0JNJ&amp;productVersion=32&amp;locale=en-us&amp;selectedOptions=%7B%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=mailingServicesPostcard&amp;qty=50" id="117">
+        <title>Mailing Services Postcards</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/quick-upload-and-design/?key=PRD-ENRS4XZIS&amp;productVersion=25&amp;locale=en-us&amp;selectedOptions=%7B%22Product+Orientation%22%3A%22Horizontal%22%2C%22Size%22%3A%224%5C%22+x+6%5C%22%22%7D&amp;fullBleedElected=true&amp;mpvId=postcards&amp;qty=50" id="118">
+        <title>Postcards</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/studio5/?key=PRD-IWMH1LKZ&amp;productVersion=22&amp;locale=en-us&amp;selectedOptions=%7B%22Decoration+Area%22%3A%22Full+Front%22%2C%22Substrate+Color%22%3A%22%23D2D6D9%22%2C%22Decoration+Technology%22%3A%22Single+Color%22%7D&amp;fullBleedElected=true&amp;mpvId=caBasicTShirts&amp;qty=6" id="119">
+        <title>T-shirt : Screen printing</title>
+      </bookmark>
+    </folder>
+    <folder id="19">
+      <title>Repos</title>
+      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="120">
+        <title>Packages - artifactory</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.jfrog.io/ui/packages" id="121">
+        <title>Packages - vistaprint.jfrog.io</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DT/boards/2127?selectedIssue=DT-11424" id="122">
+        <title>DIY-Upload-Nitro - Agile Board - Your Weekly Report</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio" id="123">
+        <title>Studio 5 Repo</title>
+      </bookmark>
+    </folder>
+    <folder id="20">
+      <title>DIY</title>
+      <bookmark href="https://vistaprint.atlassian.net/jira/software/c/projects/DDSC/boards/4126" id="124">
+        <title>DDSC board</title>
+      </bookmark>
+      <bookmark href="https://grouping-ui.products.cimpress.io/group/42619c35-e963-4bb4-afee-d15f78919ca1" id="125">
+        <title>Product Grouping</title>
+      </bookmark>
+    </folder>
+    <folder id="21">
+      <title>Cimpress Technical Docs</title>
+      <bookmark href="https://calendar.ddt.cimpress.io/version/2.0.0" id="126">
+        <title>Calendar Design Experience</title>
+      </bookmark>
+      <bookmark href="https://design-stack.documents.cimpress.io/experiences" id="127">
+        <title>@design-stack</title>
+      </bookmark>
+      <bookmark href="https://developer.cimpress.io/" id="128">
+        <title>Developer Portal</title>
+      </bookmark>
+      <bookmark href="https://print.ddt.cimpress.io/version/1.0.0" id="129">
+        <title>Print Design Experience</title>
+      </bookmark>
+      <bookmark href="https://artifactory.cimpress.io/ui/packages" id="130">
+        <title>Packages - artifactory</title>
+      </bookmark>
+      <bookmark href="https://manage-access.pdw.cimpress.io/" id="131">
+        <title>PDW Access Management</title>
+      </bookmark>
+      <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/ArtworkTech/pages/15392735496/Artwork+Common+Vocabulary" id="132">
+        <title>Artwork Common Vocabulary - Artwork Technology - Cimpress Technology</title>
+      </bookmark>
+    </folder>
+    <folder id="22">
+      <title>Learning Resources</title>
+      <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="133">
+        <title>360 Learning</title>
+      </bookmark>
+      <bookmark href="https://learn.acloud.guru/course/aws-certified-developer-associate/overview" id="134">
+        <title>AWS Certified Developer - Associate (DVA-C02) - A Cloud Guru</title>
+      </bookmark>
+      <bookmark href="https://learn.acloud.guru/custom-learning-path/7f9711ef-d0f2-4498-a694-04568a63b0de" id="135">
+        <title>Fundamentals @ Cimpress - A Cloud Guru</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/learning/?u=270841162" id="136">
+        <title>LinkedIn Learning: Online Courses for Creative, Technology, Business Skills</title>
+      </bookmark>
+      <bookmark href="https://learning.oreilly.com/home/" id="137">
+        <title>Home</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/overview" id="501">
+      <title>Presonal Space</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~64216af00e6828ab2026e731/pages/3982590166/Gaurav+Abhishek+Discussion" id="512">
+      <title>Gaurav &amp; Abhishek Discussion - Gaurav Bhardwaj - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-vistaprint.360learning.com/home/content/all" id="513">
+      <title>Cimpress &amp; Vista</title>
+    </bookmark>
+    <bookmark href="https://developer.cimpress.io/software-catalog" id="514">
+      <title>Software Catalog</title>
+    </bookmark>
+    <bookmark href="https://live.browserstack.com/" id="515">
+      <title>browserstack</title>
+    </bookmark>
+    <bookmark href="https://renderrush.digital.vistaprint.io/demo" id="516">
+      <title>RenderRush Demo</title>
+    </bookmark>
+    <bookmark href="https://vista.pagerduty.com/users/PQNBSQ5/on-call/month" id="544">
+      <title>Users - On-Call - PagerDuty</title>
+    </bookmark>
+    <bookmark href="https://developer.cimpress.io/software-catalog/component/api/aa392d28-7050-54cf-ad50-f50301c576fd/openapi?env=production" id="545">
+      <title>Studio-Calcifer - Production | Software Catalog</title>
+    </bookmark>
+    <bookmark href="https://app.getcortexapp.com/admin/home" id="563">
+      <title>Cortex | Home</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/signs-posters?debugPage=true" id="564">
+      <title>Custom Signs, Business Signage Printing | VistaPrint</title>
+    </bookmark>
+    <bookmark href="https://miro.com/app/board/uXjVNoEQnp0=/" id="565">
+      <title>Story Points, Visual Workspace for Innovation</title>
+    </bookmark>
+    <bookmark href="https://uploads.documents.cimpress.io/furl/" id="566">
+      <title>uploads.documents.cimpress.io/furl/</title>
+    </bookmark>
+    <bookmark href="https://performancemanager4.successfactors.com/sf/start?_s.crb=J05w3CFXdiyv5Q5qBvcWV1e9VtQCmovYXs97QIVyNX4%253d" id="567">
+      <title>Blueprint - SuccessFactors: Home</title>
+    </bookmark>
+    <bookmark href="http://expense.cimpress.net/" id="588">
+      <title>SAP Concur Home</title>
+    </bookmark>
+    <bookmark href="https://cipl.veris.in/meeting-room/find-resource" id="589">
+      <title>Veris | Powering Future Workplaces - Booking</title>
+    </bookmark>
+    <bookmark href="https://support.cimpress.cloud/hc/en-us/articles/360035997654-Developer-learning-AWS-accounts" id="590">
+      <title>Developer learning AWS accounts – Cimpress Cloud Engineering</title>
+    </bookmark>
+    <bookmark href="https://console.statsig.com/5Yx4xlMFVM9VTFvZaUwBnI/experiments?Tag=63hi3N3byZBXMVyeRV3qeS&amp;TagOperator=any" id="601">
+      <title>Experiments | Statsig</title>
+    </bookmark>
+    <bookmark href="https://packaging-advanced.dex.cimpress.io/version/6.0.0/documentation" id="602">
+      <title>Packaging Advanced</title>
+    </bookmark>
+    <bookmark href="https://athenacreate.ai.cimpress.io/" id="603">
+      <title>ATHENA</title>
+    </bookmark>
+    <bookmark href="https://assets-sdk-sherbert.ui.sherbert.cimpress.io/introduction" id="604">
+      <title>Introduction | Assets SDK</title>
+    </bookmark>
+    <bookmark href="https://sdk-sherbert.ui.sherbert.cimpress.io/introduction" id="605">
+      <title>Introduction | Sherbert SDK</title>
+    </bookmark>
+    <bookmark href="https://developer.rendering.cimpress.io/" id="673">
+      <title>Hello from Rendering | Rendering</title>
+    </bookmark>
+    <bookmark href="https://mcpapis.cimpress.io/" id="674">
+      <title>MCP APIs</title>
+    </bookmark>
+    <bookmark href="https://api.sherbert.cimpress.io/swagger/static/index.html#/" id="675">
+      <title>Sherbert-swagger</title>
+    </bookmark>
+    <bookmark href="https://ranch-cdn.products.cimpress.io/swagger/index.html" id="680">
+      <title>Ranch - Swagger UI</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PA1/pages/3296034964/Domain+KPI+Dictionaries+and+Reference+Guides" id="681">
+      <title>Domain KPI Dictionaries and Reference Guides - Product Analytics - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4912056501/Play+AI+Instruction+File+for+VSCode" id="682">
+      <title>Instruction</title>
+    </bookmark>
+    <bookmark href="https://pam.cimpress.io/?name=wired&amp;tenant=%7B%22type%22%3A%22merchants%22%2C%22id%22%3A%22vistaprint-prod%22%7D" id="683">
+      <title>PAM - Preview Asset Manager</title>
+    </bookmark>
+    <bookmark href="https://cimpress.cloud/#/" id="684">
+      <title>Cimpress Cloud</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5054169588/Studio+Ubik+Overview" id="718">
+      <title>Studio &amp; Ubik Overview - DIY Design Editing - Confluence</title>
+    </bookmark>
+  </folder>
+  <folder id="5">
+    <title>FF - PC - Local Servers</title>
+    <bookmark href="http://127.0.0.1:5006/" id="23">
+      <title>Actual</title>
+    </bookmark>
+    <bookmark href="http://localhost:8787/" id="24">
+      <title>Readarr</title>
+    </bookmark>
+    <bookmark href="http://localhost:5600/#/activity/DESKTOP-VK5G65E/view/" id="25">
+      <title>ActivityWatch</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>Entertainment</title>
+    <folder id="26">
+      <title>Other YT</title>
+      <bookmark href="https://www.youtube.com/watch?v=IDj1OBG5Tpw" id="138">
+        <title>Harvard negotiator explains how to argue | Dan Shapiro - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Fnt6P7Rnho8" id="139">
+        <title>Jordan Peterson Teaches a Shy Kid How to Communicate - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=NCfEfqLyuLc" id="140">
+        <title>Radhe - The Wedding Song | Ibbani Tabbida lleyali | Vihan | Mayuri | Ankita | Gagan Baderiya - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=YQ5Jv4x_Hp0" id="141">
+        <title>Now United - How We Do It ft. Badshah (Official Music Video) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=igNVdlXhKcI&amp;list=TLPQMDUwOTIwMjHL2VLOzhg3mw&amp;index=2" id="142">
+        <title>Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=s3k_MeqZyk0" id="143">
+        <title>Mindful Consumption - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=HVvwpbpcQgI" id="144">
+        <title>10 things you must quietly eliminate from your life | Don&apos;t Tell a Soul - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=riU59TBB8W0" id="145">
+        <title>YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=KVx1KlklH_E" id="146">
+        <title>One Hour a Day Can Change Your Life | Best Audiobook - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=K9teElePNkk" id="147">
+        <title>Statistics - A Full Lecture to learn Data Science (2025 Version) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=eMpemC-uCOA" id="379">
+        <title>DarkGPT - The AI You Were Never Meant to See - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=fmYsk5E7PMM" id="380">
+        <title>learn chrome built in ai 2 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ZkNALLWwZyI" id="381">
+        <title>Top TypeScript Tricks Every Angular Developer Must Know | Angular Tips &amp; Tricks - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=KJTYjH55qk0" id="382">
+        <title>YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=hrBschtlGGg" id="383">
+        <title>Becoming A Genius Is Easy, Actually (Ayanokoji Method) - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="27">
+      <title>anime</title>
+      <bookmark href="https://horriblesubs.info/shows/one-punch-man-s2/" id="148">
+        <title>Horriblesubs</title>
+      </bookmark>
+      <bookmark href="https://manhuatop.org/manhua/solo-leveling/chapter-40/" id="149">
+        <title>Solo Leveling Manhwa - Chapter 40 - Top Manhua</title>
+      </bookmark>
+      <bookmark href="https://animixplay.to/" id="150">
+        <title>AniMixPlay - Watch HD Anime for Free</title>
+      </bookmark>
+      <bookmark href="https://9anime.vip/" id="151">
+        <title>Watch Anime Online, Free Anime Streaming Online on 9anime.vip Anime Website</title>
+      </bookmark>
+      <bookmark href="https://ww11.readonepiece.com/" id="152">
+        <title>Read One Piece Manga Online</title>
+      </bookmark>
+      <bookmark href="https://theindex.moe/" id="153">
+        <title>The Index</title>
+      </bookmark>
+      <bookmark href="https://9anime.vip/detail/case-closed-8z" id="154">
+        <title>Watch Case Closed English Sub/Dub online Free on 9anime.vip</title>
+      </bookmark>
+      <bookmark href="https://www.animefillerlist.com/shows/detective-conan" id="155">
+        <title>Case Closed Filler List | The Ultimate Anime Filler Guide</title>
+      </bookmark>
+      <bookmark href="https://mangareader.to/home" id="156">
+        <title>MangaReader - Read Manga website</title>
+      </bookmark>
+      <bookmark href="https://mangadex.org/title/9123/one-punch-man-webcomic-original" id="157">
+        <title>One Punch Man (Webcomic/Original) (Title) - MangaDex</title>
+      </bookmark>
+      <bookmark href="https://zorox.to/home" id="384">
+        <title>Watch Anime Online, Free Anime Streaming | Zoro to Anime</title>
+      </bookmark>
+    </folder>
+    <folder id="28">
+      <title>Movies</title>
+      <bookmark href="https://www.1tamilmv.legal/" id="158">
+        <title>https://www.1tamilmv.legal/</title>
+      </bookmark>
+      <bookmark href="https://720pflix.work/category/kannada-movies/" id="159">
+        <title>Kannada Movies Archives | 720pflix.work</title>
+      </bookmark>
+      <bookmark href="https://hindilinks4u.yoga/" id="160">
+        <title>hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u</title>
+      </bookmark>
+      <bookmark href="https://streamblasters.co/genre/kannada/" id="161">
+        <title>Kannada – StreamBlasters</title>
+      </bookmark>
+      <bookmark href="https://new-123movies.net/" id="162">
+        <title>123Movies - Watch Movies Online Free</title>
+      </bookmark>
+      <bookmark href="https://gowatchseries.ch/" id="163">
+        <title>GoWatchseries</title>
+      </bookmark>
+      <bookmark href="https://weebcentral.com/" id="164">
+        <title>Weeb Central</title>
+      </bookmark>
+      <bookmark href="https://yomovies.golf/" id="165">
+        <title>Yomovies Watch Latest Movies,TV Series Online for free,Download on yomovies Online,yomovies Bollywood,yomovies app,yomovies Website,yo-movies - YoMovies – Watch HD Bollywood Movies Online « yomovies</title>
+      </bookmark>
+      <bookmark href="https://cineb.world/series/family-law-49244/3-1/" id="166">
+        <title>Watch Family Law (2021) for free on Cineb</title>
+      </bookmark>
+      <bookmark href="https://www.imdb.com/title/tt33091601/" id="167">
+        <title>The Mystery of Moksha Island (TV Series 2024– ) - IMDb</title>
+      </bookmark>
+      <bookmark href="https://www5.watchseries.movie/" id="385">
+        <title>watchseries | Watch Series Online free full episode</title>
+      </bookmark>
+      <bookmark href="https://eztv.io/search/?q1=&amp;q2=1910&amp;search=Search" id="386">
+        <title>EZTV - TV Torrents Online Series Download | Official</title>
+      </bookmark>
+    </folder>
+    <folder id="29">
+      <title>Private</title>
+      <bookmark href="https://app.strem.io/#/" id="168">
+        <title>Stremio - Freedom to Stream</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/Piracy/comments/17ozvil/sliderkz_alternative/" id="169">
+        <title>Slider.kz alternative : r/Piracy</title>
+      </bookmark>
+      <bookmark href="https://piratebayproxy.net/" id="170">
+        <title>Pirate Bay Proxy - Unblock Piratebay &amp; Download Torrents</title>
+      </bookmark>
+      <bookmark href="https://piratehaven.xyz/search.php?q=top100:102" id="171">
+        <title>PirateHaven.xyz - The galaxy&apos;s most resilient The Pirate Bay site</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.reddit.com/r/Unexpected/comments/1o6aqi5/i_was_so_invested_in_the_joke/" id="30">
+      <title>Ressit</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>Thing</title>
+    <bookmark href="https://archive.org/" id="31">
+      <title>Internet Archive: Digital Library of Free &amp; Borrowable Books, Movies, Music &amp; Wayback Machine</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning" id="32">
+      <title>r/FREEMEDIAHECKYEAH Wiki: Learn Anything</title>
+    </bookmark>
+    <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="33">
+      <title>Sharable Link</title>
+    </bookmark>
+    <bookmark href="https://calendar.google.com/calendar/u/0/r" id="34">
+      <title>Calendar</title>
+    </bookmark>
+    <bookmark href="https://www.translate.com/english-kannada" id="35">
+      <title>ENG ➡ KAN</title>
+    </bookmark>
+    <bookmark href="https://tineye.com/" id="36">
+      <title>TinEye Reverse Image Search</title>
+    </bookmark>
+    <bookmark href="https://www.bookswagon.com/" id="37">
+      <title>Online Bookstore | Buy Books Online | Read Books Online</title>
+    </bookmark>
+    <bookmark href="https://goldenaudiobooks.com/" id="38">
+      <title>+1700 Audiobooks Online (Listen Free)</title>
+    </bookmark>
+    <bookmark href="https://tin.tin.nsdl.com/pan2" id="39">
+      <title>PAN Card Application</title>
+    </bookmark>
+    <bookmark href="https://etc.usf.edu/lit2go/118/the-woman-in-white/" id="40">
+      <title>The Woman in White | Wilkie Collins | Lit2Go ETC</title>
+    </bookmark>
+    <bookmark href="https://www.taxsmile.com/returnfiling/TaxSmile/Pages/Tools/CTCTakeHome/CTCTakeHomeCal.aspx" id="227">
+      <title>CTC Take Home Calculator</title>
+    </bookmark>
+    <bookmark href="https://www.iconfinder.com/" id="228">
+      <title>5,300,000+ free and premium vector icons - Iconfinder</title>
+    </bookmark>
+    <bookmark href="https://thepiratebay.org/index.html" id="229">
+      <title>Download music, movies, games, software! The Pirate Bay - The galaxy&apos;s most resilient BitTorrent site</title>
+    </bookmark>
+    <bookmark href="https://libgen.is/" id="230">
+      <title>Library Genesis</title>
+    </bookmark>
+    <bookmark href="https://youtubemultidownloader.net/playlists.html" id="231">
+      <title>Youtube Multi Downloader Online Free</title>
+    </bookmark>
+    <bookmark href="https://audiobookbay.li/" id="232">
+      <title>Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)</title>
+    </bookmark>
+    <bookmark href="https://youtubemultidownloader.net/playlists.html" id="233">
+      <title>youtubemultidownloader.net | 522: Connection timed out</title>
+    </bookmark>
+    <bookmark href="https://www.iconfinder.com/" id="234">
+      <title>5,300,000+ free and premium vector icons - Iconfinder</title>
+    </bookmark>
+    <bookmark href="https://itbook.store/" id="235">
+      <title>IT Bookstore - More than 10,000 books for IT, Programming and Computer Science</title>
+    </bookmark>
+    <bookmark href="https://www.alyssawestring.com/" id="236">
+      <title>Alyssa Westring, PhD</title>
+    </bookmark>
+    <bookmark href="https://api.coingecko.com/api/v3/coins/list?include_platform=false" id="410">
+      <title>https://api.coingecko.com/api/v3/coins/list?include_platform=false</title>
+    </bookmark>
+    <bookmark href="https://www.coingecko.com/api/documentations/v3#/" id="411">
+      <title>CoinGecko API (V3)</title>
+    </bookmark>
+    <bookmark href="https://www.coingecko.com/en/api#explore-api" id="412">
+      <title>Most Powerful Cryptocurrency Data API | CoinGecko</title>
+    </bookmark>
+    <bookmark href="https://www.reduceimages.com/" id="413">
+      <title>Resize Images Online - Reduce JPG, BMP, GIF, PNG images</title>
+    </bookmark>
+    <bookmark href="https://saurabhkumar23.github.io/Awesome-Bots/" id="414">
+      <title>Puppeteer Scripts</title>
+    </bookmark>
+    <bookmark href="https://it-ebooks.info/" id="415">
+      <title>IT eBooks - Free Download - New Releases</title>
+    </bookmark>
+    <bookmark href="https://9xbuddy.xyz/en-1cd" id="416">
+      <title>9xbuddy : Online video download helper</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/" id="417">
+      <title>dBooks - Free download open books</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer" id="418">
+      <title>The Adventures of Tom Sawyer - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://github.com/josephearl/awesome-retrospectives" id="419">
+      <title>josephearl/awesome-retrospectives: A curated list of resources for facilitating and learning about retrospectives</title>
+    </bookmark>
+    <bookmark href="https://app.rawgraphs.io/" id="483">
+      <title>RAWGraphs 2.0</title>
+    </bookmark>
+    <bookmark href="https://archive.org/details/booksbylanguage_kannada" id="484">
+      <title>Kannada : Books by Language : Free Texts : Free Download, Borrow and Streaming : Internet Archive</title>
+    </bookmark>
+    <bookmark href="https://apkdone.com/" id="485">
+      <title>#1 The Best Downloader for MOD APK files - APKdone</title>
+    </bookmark>
+    <bookmark href="https://www.alexiskingsley.com/" id="486">
+      <title>Potential Journal + Planner | Best Goal Setting Planner and Motivation Journal</title>
+    </bookmark>
+    <bookmark href="https://remotive.com/remote-jobs/software-dev/principal-software-engineer-2028866" id="487">
+      <title>Just a moment...</title>
+    </bookmark>
+    <bookmark href="https://www.alexiskingsley.com/product-page/potential-planner-physical-edition" id="488">
+      <title>Potential Planner | Potential Planner</title>
+    </bookmark>
+    <bookmark href="https://www.cheggindia.com/earn-online/ways-to-earn-extra-income-online-from-home/" id="489">
+      <title>Earn Extra Income: 25 Best Side Hustle Ideas for 2025</title>
+    </bookmark>
+    <bookmark href="https://www.quora.com/What-are-profitable-business-ideas-for-housewives-and-stay-at-home-moms" id="490">
+      <title>Just a moment...</title>
+    </bookmark>
+    <bookmark href="https://thebetterindia.com/417968/ex-banker-built-garden-with-200-plants-of-organic-vegetables-fruits-on-terrace-after-retirement/" id="491">
+      <title>Banker Creates Rooftop Paradise of 200 Organic Plants Post-Retirement</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=android&amp;summary=1&amp;conversation=6d67a716e7771b35dcd78b" id="492">
+      <title>how to start gardening in small steps absolutely beginner - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://commonsensehome.com/start-a-garden/" id="521">
+      <title>How to Start a Garden – 10 Steps to Gardening for Beginners</title>
+    </bookmark>
+    <bookmark href="https://www.thishouseofdreams.com/simple-steps-to-start-a-garden-for-the-beginner/" id="522">
+      <title>Simple Steps To Start A Garden (for the beginner) - This House of Dreams</title>
+    </bookmark>
+    <bookmark href="https://www.healthline.com/nutrition/mango#The-bottom-line" id="523">
+      <title>Mango: Nutrition, Health Benefits, and How to Eat It</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/file/d/1yWVr2ANDw8rKCrXWbsYw-zUK-k4PYdrU/view" id="524">
+      <title>2024 Goal Planner (4).pdf - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=android&amp;summary=1&amp;conversation=324af99f72c741bdd53d7c" id="525">
+      <title>PoW Captcha - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=how+to+start+gardening+in+small+steps+absolutely+beginner&amp;source=web&amp;summary=1&amp;conversation=43e02ad4ed5ae50b0d1ed6" id="526">
+      <title>how to start gardening in small steps absolutely beginner - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://freedium.cfd/" id="527">
+      <title>Medium! - Freedium</title>
+    </bookmark>
+    <folder id="528">
+      <title>Health</title>
+      <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="568">
+        <title></title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://letters.thedankoe.com/p/you-wont-be-the-same-person-in-6" id="529">
+      <title>You won&apos;t be the same person in 6 months (how to master anything, fast)</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=don%27t+count+the+days+make+the+days+count&amp;source=web" id="530">
+      <title>Brave search quotes</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=levels+of+thinking&amp;source=web&amp;summary=1&amp;conversation=7e515bd6610ed161bf4124" id="574">
+      <title>Brave search quote</title>
+    </bookmark>
+    <bookmark href="https://www.divinemarga.com/levels-of-consciousness" id="575">
+      <title>Level of consciousness</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=How%20to%20create%20mental%20model%20of%20anything" id="576">
+      <title>Mental modal</title>
+    </bookmark>
+    <folder id="577">
+      <title>Health</title>
+      <bookmark href="https://www.finvin.in/wp-content/uploads/2020/05/Health-Insurance.pdf" id="606">
+        <title></title>
+      </bookmark>
+    </folder>
+    <folder id="578">
+      <title>Spritual</title>
+      <bookmark href="https://vedicheritage.gov.in/" id="607">
+        <title>Vedic Heritage Portal | Vedic Heritage Portal</title>
+      </bookmark>
+      <bookmark href="https://www.swami-krishnananda.org/vishnu/vishnu_dhyanam.html" id="608">
+        <title>Dhyanam - Sri Vishnu Sahasaranama Stotram - Sanskrit, Transliteration and English Translation</title>
+      </bookmark>
+      <bookmark href="https://www.vyasaonline.com/" id="609">
+        <title>Vyasa Mahabharata – Kannada translations from the original Sanskrit text</title>
+      </bookmark>
+      <bookmark href="https://www.vyasaonline.com/padma-purana/" id="610">
+        <title>Padma Purana – Vyasa Mahabharata</title>
+      </bookmark>
+      <bookmark href="https://stotranidhi.com/kn/stotras-list-kannada/" id="611">
+        <title>ಸ್ತೋತ್ರನಿಧಿ - Stotra Nidhi</title>
+      </bookmark>
+      <bookmark href="https://archive.org/details/RigvedaSamhitha/Rigveda-Samhitha_01/page/n37/mode/2up" id="612">
+        <title>Rigveda Samhitha : Free Download, Borrow, and Streaming : Internet Archive</title>
+      </bookmark>
+      <bookmark href="https://archive.org/details/RigvedaSamhithaAudioAndTextBhashyam_KannadaLanguafe/A1A1.mp3" id="613">
+        <title>Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Rigveda Samhitha Audio and Text Bhashyam _Kannada Language : Free Download, Borrow, and Streaming : Internet Archive</title>
+      </bookmark>
+      <bookmark href="https://vignanam.org/veda/sree-vishnu-sahasra-nama-stotram-kannada.html" id="614">
+        <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
+      </bookmark>
+      <bookmark href="https://vignanam.org/kannada/sree-vishnu-sahasra-nama-stotram.html" id="615">
+        <title>Sree Vishnu Sahasra Nama Stotram - Kannada | Vaidika Vignanam</title>
+      </bookmark>
+    </folder>
+    <folder id="579">
+      <title>Finance</title>
+      <bookmark href="https://sovrenn.com/knowledge" id="616">
+        <title>Sovrenn Knowledge</title>
+      </bookmark>
+      <bookmark href="http://result-data-portal.s3-website.ap-south-1.amazonaws.com/" id="617">
+        <title>React App</title>
+      </bookmark>
+      <bookmark href="https://stockwatch.live/result-press-release?pageNumber=1" id="618">
+        <title>Live updates of stocks, corporate actions and business updates</title>
+      </bookmark>
+      <bookmark href="https://actualbudget.org/docs/experimental/goal-templates/#goal-directive" id="619">
+        <title>Budget Templates | Actual Budget Documentation</title>
+      </bookmark>
+      <bookmark href="http://192.168.0.117:5006/budget" id="620">
+        <title>Actual</title>
+      </bookmark>
+      <bookmark href="https://www.stockwatch.live/dashboard" id="621">
+        <title>Stockwatch - Latest News on Stocks, Financial Results, Business Updates and more</title>
+      </bookmark>
+      <bookmark href="https://stocksense.in/" id="622">
+        <title>Stocksense - Stock Data API for AI</title>
+      </bookmark>
+      <bookmark href="https://pastebin.com/TFPRC4Ss" id="623">
+        <title>Twitter handles for stock market updates - Pastebin.com</title>
+      </bookmark>
+      <bookmark href="https://fiindia.gitbook.io/wiki/investments/investment-options" id="624">
+        <title>Investment options | FI/RE India</title>
+      </bookmark>
+      <bookmark href="https://www.marketfeed.com/calculators" id="625">
+        <title>marketfeed Calculators</title>
+      </bookmark>
+      <bookmark href="https://www.screener.in/" id="685">
+        <title>Stock Screener and fundamental analysis tool for Indian stocks - Screener</title>
+      </bookmark>
+      <bookmark href="https://www.screener.in/" id="686">
+        <title>Stock Screener and fundamental analysis tool for Indian stocks  - Screener</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.google.com/search?q=How%20to%20create%20mental%20model%20of%20anything" id="580">
+      <title>How to create mental model of anything</title>
+    </bookmark>
+    <bookmark href="https://letters.thedankoe.com/p/prompt-deep-work-accelerator" id="581">
+      <title>Prompt: Deep Work Accelerator</title>
+    </bookmark>
+    <bookmark href="https://letters.thedankoe.com/p/a-prompt-to-reset-your-life-in-30" id="582">
+      <title>A Prompt To Reset Your Life In 30 Days</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>🔐 - Personal</title>
+    <folder id="41">
+      <title>SOLO leveling</title>
+      <bookmark href="https://duckduckgo.com/?q=solo+leveling+guide&amp;t=ffab&amp;ia=web" id="172">
+        <title>solo leveling guide at DuckDuckGo</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://abhigowda28.blogspot.com/" id="42">
+      <title>About Me</title>
+    </bookmark>
+    <bookmark href="https://archive.org/details/neon-genesis-evangelion-adv-dvd-iso/NEON+GENESIS+EVANGELION+PERFECT+COLLECTION+2002+ADV/Disc+01/NGE+Disc+01.ISO" id="43">
+      <title>Neon Genesis Evangelion ADV DVD ISO : adv : Free Download, Borrow, and Streaming : Internet Archive</title>
+    </bookmark>
+    <folder id="44">
+      <title>Bookmarks</title>
+      <folder id="173">
+        <title>Bookmarks</title>
+        <bookmark href="https://equinusocio.dev/" id="239">
+          <title>Mattia Astorino</title>
+        </bookmark>
+        <bookmark href="https://testing-library.com/docs/react-testing-library/faq" id="240">
+          <title>FAQ · Testing Library</title>
+        </bookmark>
+        <bookmark href="https://www.pokemonteambuilder.net/" id="241">
+          <title>Pokemon Team Builder | Team planner</title>
+        </bookmark>
+        <bookmark href="https://animenetwork.net/anime/1082-one-outs/" id="242">
+          <title>One Outs | Anime Network</title>
+        </bookmark>
+        <bookmark href="https://gowatchseries.online/johnny-test-season-5-episode-26" id="243">
+          <title>Watch Johnny Test - Season 5 Episode 26 English subbed - Watchseries</title>
+        </bookmark>
+        <bookmark href="https://tamilblasters.wiki/" id="244">
+          <title>TamilBlasters | Latest Tamil Telugu Malayalam Kannada Hindi English Movies Download</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.iconfinder.com/families/orange-series" id="174">
+        <title>Icons</title>
+      </bookmark>
+      <bookmark href="https://cubari.moe/read/gist/OPM/" id="175">
+        <title>Read One Punch Man | Cubari</title>
+      </bookmark>
+      <bookmark href="https://torrents-proxy.org/torrentgalaxy/" id="176">
+        <title>TorrentGalaxy Proxy: *100% Working* List to Unblock TorrentGalaxy - Torrents Proxy</title>
+      </bookmark>
+      <bookmark href="https://zoro.se/anime-watch/one-piece/episode-1017.html" id="177">
+        <title>Watch One Piece (1999) Full Anime on Zoro.se</title>
+      </bookmark>
+    </folder>
+    <folder id="45">
+      <title>💓</title>
+      <bookmark href="https://github.com/photoview/photoview/tree/master" id="178">
+        <title>GitHub - photoview/photoview: Photo gallery for self-hosted personal servers</title>
+      </bookmark>
+      <bookmark href="https://photoview.github.io/en/docs/usage-nextcloud/" id="179">
+        <title>Using with Nextcloud - Photoview Documentation</title>
+      </bookmark>
+      <bookmark href="https://harendra21.substack.com/p/how-i-am-using-a-lifetime-100-free" id="180">
+        <title>How I Am Using a Lifetime 100% Free Server</title>
+      </bookmark>
+    </folder>
+    <folder id="46">
+      <title>Shopping</title>
+      <bookmark href="https://www.amazon.in/stores/SHURE/page/51585BE9-2BC1-4163-ABD6-8E36801C5411" id="181">
+        <title>Amazon.in: SHURE</title>
+      </bookmark>
+      <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=soundcore+space+one&amp;ia=web" id="182">
+        <title>soundcore space one at DuckDuckGo</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://duckduckgo.com/?t=ffab&amp;q=goodnewsnetrowk&amp;ia=web" id="47">
+      <title>goodnewsnetrowk at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.lifehack.org/articles/lifestyle/42-practical-ways-to-improve-yourself.html" id="48">
+      <title>42 ways - lifehack</title>
+    </bookmark>
+    <bookmark href="https://hbr.org/2021/06/why-you-need-multiple-mentors" id="49">
+      <title>Why You Need Multiple Mentors</title>
+    </bookmark>
+    <folder id="50">
+      <title>Comments</title>
+      <bookmark href="https://www.reddit.com/r/ProgrammerHumor/comments/o06vj9/Who_can_relate%3F/h1u17v6/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="183">
+        <title>Who can relate?</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/learnjavascript/comments/p3lcui/How_to_detect_dates_with_different_formats/h8sj1d8/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="184">
+        <title>How to detect dates with different formats</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/AskReddit/comments/p5y3j0/What_is_a_simple_thing_everyone_should_know%3F/h99bpwf/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="185">
+        <title>What is a simple thing everyone should know?</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/programminghorror/comments/irfigv/A_close_coworker_passed_away_from_cancer_recently_and_I%27ve_been_promoted_to_fill_his_place._This_is_the_website_I%27ve_inherited./g4zx883/?utm_medium=android_app&amp;utm_source=share&amp;context=3" id="186">
+        <title>A close coworker passed away from cancer recently and I&apos;ve been...</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law" id="237">
+      <title>Possession is nine-tenths of the law - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://kanbanize.com/lean-management" id="238">
+      <title>Lean Management</title>
+    </bookmark>
+    <bookmark href="https://librivox.org/search?q=war%20and%20peace&amp;search_form=advanced" id="245">
+      <title>LibriVox</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="246">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://free-mp3-download.net/" id="247">
+      <title>Free MP3 Download - Free 320kbps MP3 and FLAC Downloads</title>
+    </bookmark>
+    <bookmark href="https://www.joelonsoftware.com/2002/03/04/nothing-is-as-simple-as-it-seems/" id="420">
+      <title>Nothing is as Simple as it Seems</title>
+    </bookmark>
+    <bookmark href="https://gravatar.com/abhishekgowda28" id="421">
+      <title>Abhishek Gowda | Gravatar</title>
+    </bookmark>
+    <bookmark href="https://github.com/abhishekgowda28" id="422">
+      <title>AbhishekGowda28 (Abhishek Gowda)</title>
+    </bookmark>
+    <bookmark href="http://www.ncbc.nic.in/User_Panel/CentralListStateView.aspx" id="423">
+      <title>National Commission for Backward Classes</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://abhishekgowda28.github.io/my-feed-list/" id="9">
+    <title>my-feed-list</title>
+  </bookmark>
+  <bookmark href="https://archive.ph/" id="10">
+    <title>Webpage archive</title>
+  </bookmark>
+  <folder id="11">
+    <title>Week End Projects</title>
+    <folder id="51">
+      <title>2025-Week-22</title>
+      <bookmark href="https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow" id="189">
+        <title>https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow</title>
+      </bookmark>
+      <bookmark href="https://gist.github.com/noghartt/70e4ebb9af58df3b66b8efb856cc1ef5#file-rss-opml" id="190">
+        <title>My current list containing all RSS feeds that I think that is useful</title>
+      </bookmark>
+      <bookmark href="https://api.daily.dev/rss/b/7b0ac53a-a052-44f6-88aa-25b7f1e74b46" id="191">
+        <title>Daily dev Bookmar</title>
+      </bookmark>
+      <bookmark href="https://swizec.com/blog/principles-of-high-output-engineering-teams/" id="192">
+        <title>Principles of high output engineering teams | Swizec Teller</title>
+      </bookmark>
+      <bookmark href="https://swizec.com/blog/principles-of-high-output-engineering-teams/?ref=dailydev" id="193">
+        <title>Principles of high output engineering teams | Swizec Teller</title>
+      </bookmark>
+      <bookmark href="https://github.com/cheahjs/free-llm-api-resources" id="194">
+        <title>cheahjs/free-llm-api-resources: A list of free LLM inference resources accessible via API.</title>
+      </bookmark>
+      <folder id="195">
+        <title>Work</title>
+        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4563140670/Studio+IA+Implementation+Planning+Overview" id="258">
+          <title>Studio IA Implementation Planning Overview - DIY Design Editing - Confluence</title>
+        </bookmark>
+        <bookmark href="https://miro.com/app/board/uXjVIvNNFkc=/" id="259">
+          <title>Strawhats_IA_Phase_3 - Panel Switcher - Miro</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://newsletter.manager.dev/p/the-time-zones-of-engineering-managers" id="196">
+        <title>The time zones of Engineering Managers - by Anton Zaides</title>
+      </bookmark>
+      <bookmark href="https://martinfowler.com/bliki/Yagni.html" id="197">
+        <title>Yagni</title>
+      </bookmark>
+      <bookmark href="https://4markdown.com/how-to-be-productive-as-a-software-engineer/" id="198">
+        <title>How to be productive as a software engineer</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=hFenspfGLTk" id="388">
+        <title>Arrays, objects... now ‘composites’? - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.practical-go-lessons.com/chap-4-setup-your-dev-environment" id="389">
+        <title>Setup your dev environment - Practical Go Lessons</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/posts/ankitkanojiya07_atlassian-interviewexperience-frontendinterview-activity-7335537736843440128-w_c9/" id="390">
+        <title>Post | LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://www.wearedevelopers.com/en/magazine/156/software-development-blogs" id="391">
+        <title>The Best Software Developer Blogs to Read</title>
+      </bookmark>
+    </folder>
+    <folder id="52">
+      <title>2025-Week-24</title>
+      <folder id="199">
+        <title>Work</title>
+        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4275438972/RFC+Vista+Tech+Radar" id="260">
+          <title>[RFC] Vista Tech Radar - Developer Resource Center - Confluence</title>
+        </bookmark>
+        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4747069089/Agenda+2025.05.14+-+Understanding+Aria+from+Level+Access" id="261">
+          <title>Agenda 2025.05.14 - Understanding Aria from Level Access - Developer Resource Center - Confluence</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="200">
+        <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
+      </bookmark>
+      <bookmark href="https://medium.com/illumination/how-i-make-learning-new-things-feel-easy-and-avoid-burnout-391892b13f93" id="201">
+        <title>How I Make Learning New Things Feel Easy and Avoid Burnout | by Jordan B. | ILLUMINATION | Medium</title>
+      </bookmark>
+      <bookmark href="https://zapier.com/blog/eat-that-frog/" id="202">
+        <title>Eat the frog: a practical approach to reaching your goals | Zapier</title>
+      </bookmark>
+      <bookmark href="https://medium.com/lets-code-future/how-i-made-my-react-app-lightning-fast-with-just-one-hook-8fcf96398c31" id="203">
+        <title>How I Made My React App Lightning Fast ⚡With Just One Hook | by Let&apos;s Code Future | Let’s Code Future | Apr, 2025 | Medium</title>
+      </bookmark>
+      <bookmark href="https://phauer.com/2018/code-review-guidelines/" id="204">
+        <title>Code Review Guidelines for Humans</title>
+      </bookmark>
+      <bookmark href="https://docs.sonarsource.com/sonarqube-server/latest/quality-standards-administration/managing-quality-gates/introduction-to-quality-gates/" id="205">
+        <title>Introduction to quality gates | SonarQube Server Documentation</title>
+      </bookmark>
+    </folder>
+    <folder id="53">
+      <title>App Project</title>
+      <bookmark href="https://supabase.com/dashboard/project/nygwhmmhqpbrizwpmhqr" id="206">
+        <title>JnaynaKalaSangama | AbhishekGowda | Supabase</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://medium.com/@himanshusingour7/i-gave-2-hours-daily-to-dsa-system-design-best-decision-ever-af6c0ae6a938" id="54">
+      <title>I Gave 2 Hours Daily to DSA &amp; System Design, Best Decision Ever | by Himanshu Singour | Medium</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ONgECvZNI3o" id="55">
+      <title>You NEED to Use n8n RIGHT NOW!! (Free, Local, Private) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://newsletter.francofernando.com/p/what-to-look-for-in-code-reviews" id="56">
+      <title>What to Look for in Code Reviews - by Franco Fernando</title>
+    </bookmark>
+    <bookmark href="https://newsletter.francofernando.com/p/how-to-become-a-confident-software?ref=dailydev" id="57">
+      <title>How to Become a Confident Software Engineer</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+create+level+up+document+in+organization+for+self&amp;ia=web" id="58">
+      <title>how to create level up document in organization for self at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/205977642-learning-systems-thinking" id="59">
+      <title>Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals by Diana Montalion | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.gameenginebook.com/" id="60">
+      <title>Game Engine Architecture</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20120523075820if_/http://www.gameenginebook.com/Fig-RuntimeArch.jpg" id="262">
+      <title>Fig-RuntimeArch.jpg (958×1270)</title>
+    </bookmark>
+    <folder id="263">
+      <title>2025-Week-36</title>
+      <bookmark href="https://strategizeyourcareer.com/p/2025-guide-to-context-engineering?ref=dailydev" id="392">
+        <title>If you&apos;re an engineer using AI to become a force multiplier, read this</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/2174910576/Experimentation+tracking+framework" id="393">
+        <title>Experimentation tracking framework - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2943451321/Vistaprint.com+Holiday+Peak+Season+Guidance" id="394">
+        <title>Vistaprint.com Holiday Peak Season Guidance - Vista Engineering (Org) - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/3807807073/QM+Training+Session+Alerts+Felix+AI+Preview" id="395">
+        <title>QM Training Session: Alerts + Felix AI Preview - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/SDAT/pages/3358785538/QM+Knowledge+Center" id="396">
+        <title>QM: Knowledge Center - Site Data and Tracking - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PL/pages/4284055863/Site+Experience+Requirements+Multi+Deco+Custom+Patches+3D+Embroidery" id="397">
+        <title>Site Experience Requirements: Multi Deco, Custom Patches, 3D Embroidery - PPAG LoB - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4330618994/Multi+Deco+PPAG" id="398">
+        <title>Multi Deco PPAG - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://www.simplethread.com/unnecessary-anxiety-in-software-development/?ref=dailydev" id="399">
+        <title>Unnecessary Anxiety in Software Development | The Parable of the 2X4 - Simple Thread</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/PL/pages/3791683609/Multi+Deco+Project" id="400">
+        <title>Multi Deco Project - PPAG LoB - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5042995497/Perfect+Bound+Booklets+Custom+Size+-+Product+Brief" id="401">
+        <title>Perfect Bound Booklets Custom Size - Product Brief - DIY Design Editing - Confluence</title>
+      </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/3812130913/DJ+N-color" id="478">
+        <title>(DJ) N-color - DIY Design Editing - Confluence</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://ninjaashub.blogspot.com/" id="264">
+      <title>NinjasHub</title>
+    </bookmark>
+    <bookmark href="https://fbcakes.com/home/cakes" id="265">
+      <title>FB Cakes | Offer Now (Buy 1 kg Get 1/2 kg Free!)</title>
+    </bookmark>
+    <bookmark href="https://philosophyofyum.com/books-home-bakery-business/" id="266">
+      <title>7 Books Every Home Bakery Business Owner Needs to Read</title>
+    </bookmark>
+    <bookmark href="https://endler.dev/rss.xml" id="267">
+      <title>https://endler.dev/rss.xml</title>
+    </bookmark>
+    <bookmark href="https://www.bizmove.com/business-gifts.htm" id="268">
+      <title>Free Business Plan Template Word Download | Small Business Plan Template Doc</title>
+    </bookmark>
+    <folder id="431">
+      <title>2025-Week-44</title>
+      <bookmark href="https://duckduckgo.com/?q=creating+chrome+extension+with+react&amp;ia=web" id="474">
+        <title>creating chrome extension with react at DuckDuckGo</title>
+      </bookmark>
+      <bookmark href="https://expertbeacon.com/building-a-chrome-extension-with-react-a-comprehensive-guide/" id="475">
+        <title>Building A Chrome Extension With React: A Comprehensive Guide - ExpertBeacon</title>
+      </bookmark>
+      <bookmark href="https://medium.com/@tharshita13/creating-a-chrome-extension-with-react-a-step-by-step-guide-47fe9bab24a1" id="476">
+        <title>Creating a Chrome Extension with React: A Step-by-Step Guide | by Harshita Joshi | Medium</title>
+      </bookmark>
+      <bookmark href="https://github.com/Harshita-mindfire/Frontend-JsDev-Handbook/tree/main" id="477">
+        <title>Harshita-mindfire/Frontend-JsDev-Handbook</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="12">
+    <title>Book</title>
+    <bookmark href="https://book.inclusive-components.design/" id="61">
+      <title>Inclusive Components: The Book</title>
+    </bookmark>
+    <bookmark href="https://medium.com/javarevisited/5-best-books-to-learn-ai-and-llm-engineering-in-2025-that-arent-a-waste-of-time-f1fde28f3280" id="62">
+      <title>5 Best Books to Learn AI and LLM Engineering in 2025 (That Aren’t a Waste of Time) | by javinpaul | Javarevisited | Apr, 2025 | Medium</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/principles-of-finance-171147052x/" id="63">
+      <title>Principles of Finance.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.in/Design-Storytelling-Ellen-Lupton/dp/194230319X/258-8775663-1551166" id="64">
+      <title>Buy Design is Storytelling Book Online at Low Prices in India | Design is Storytelling Reviews &amp; Ratings - Amazon.in</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.in/Actionable-Gamification-Beyond-Points-Leaderboards/dp/9395741686/258-8775663-1551166" id="65">
+      <title>Buy Actionable Gamification - Beyond Points, Badges, and Leaderboards Book Online at Low Prices in India | Actionable Gamification - Beyond Points, Badges, and Leaderboards Reviews &amp; Ratings - Amazon.in</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/audiobooks/wiki/_/wiki/sources/" id="66">
+      <title>_/wiki/sources - audiobooks</title>
+    </bookmark>
+    <bookmark href="https://www.dbooks.org/learning-react-native-5605976849/" id="67">
+      <title>Learning React Native.pdf - Free download books</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/exec/obidos/tg/detail/-/0596006624" id="68">
+      <title>Hackers &amp; Painters: Big Ideas from the Computer Age: Graham, Paul: 9780596006624: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://libgen.rs/" id="69">
+      <title>Library Genesis</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader" id="70">
+      <title>Becoming a Technical Leader: An Organic Problem-Solving Approach by Gerald M. Weinberg | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=the+memory+code&amp;t=brave&amp;ia=web" id="269">
+      <title>the memory code at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Motherload-Episodes-Brink-Motherhood/dp/1668010135" id="270">
+      <title>503 - Service Unavailable Error</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Last-Room-Left-Leah-Konen/dp/0593715896" id="271">
+      <title>503 - Service Unavailable Error</title>
+    </bookmark>
+    <bookmark href="https://www.modambition.com/products/modambition-goal-planner" id="272">
+      <title>modAmbition Goal Planner</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Nonvisible-Part-Autism-Spectrum-Optimistic-ebook/dp/B0D47BCHGG" id="273">
+      <title>The Nonvisible Part of the Autism Spectrum : Could You be a &quot;Little Bit Autistic?&quot; (Optimistic Autism Book 1) - Kindle edition by Plummer, David William. Health, Fitness &amp; Dieting Kindle eBooks @ Amazon.com.</title>
+    </bookmark>
+    <bookmark href="https://discrete.openmathbooks.org/dmoi4.html" id="274">
+      <title>Discrete Mathematics - An Open Introduction</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Warren-Buffett-Business-Principles-Omaha/dp/0470502304" id="275">
+      <title>Warren Buffett on Business: Principles from the Sage of Omaha: Buffett, Warren, Connors, Richard J.: 9780470502303: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=art+of+computer+programming&amp;t=fpas&amp;ia=web" id="276">
+      <title>art of computer programming at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=the+art+of+math+book&amp;ia=web" id="277">
+      <title>the art of math book at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.goodreads.com/book/show/2197458.The_Art_of_Mathematics" id="278">
+      <title>The Art of Mathematics by Jerry P. King | Goodreads</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/Art-More-Mathematics-Created-Civilization/dp/1524748994" id="432">
+      <title>The Art of More: How Mathematics Created Civilization: Brooks, Michael: 9781524748999: Amazon.com: Books</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Agatha_Christie" id="433">
+      <title>Agatha Christie - Wikipedia</title>
+    </bookmark>
+  </folder>
+  <folder id="71">
+    <title>Tech</title>
+    <folder id="207">
+      <title>WEB</title>
+      <bookmark href="https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop" id="279">
+        <title>NodeJS Archeture</title>
+      </bookmark>
+      <bookmark href="http://todomvc.com/examples/react/#/" id="280">
+        <title>TODO MVC</title>
+      </bookmark>
+      <bookmark href="https://google.github.io/styleguide/jsguide.html" id="281">
+        <title>Google Javascript Styleguid</title>
+      </bookmark>
+      <folder id="282">
+        <title>Typescript</title>
+        <bookmark href="https://www.totaltypescript.com/articles" id="402">
+          <title>TypeScript Articles by Matt Pocock | Total TypeScript</title>
+        </bookmark>
+        <bookmark href="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html#type-only-imports-and-export" id="403">
+          <title>TypeScript: Documentation - TypeScript 3.8</title>
+        </bookmark>
+      </folder>
+      <folder id="283">
+        <title>React</title>
+        <bookmark href="https://www.sonarsource.com/blog/upgrading-react-18-sonarqube/" id="404">
+          <title>Lessons learned upgrading to React 18 in SonarQube | Sonar</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://alexkondov.com/tao-of-react/" id="284">
+        <title>Tao of React - Software Design, Architecture &amp; Best Practices | Alex Kondov - Software Engineer</title>
+      </bookmark>
+      <bookmark href="https://reactrouter.com/en/main/start/concepts" id="285">
+        <title>Main Concepts v6.15.0 | React Router</title>
+      </bookmark>
+      <bookmark href="https://developer.mozilla.org/en-US/docs/Web/API/History/pushState" id="286">
+        <title>History: pushState() method - Web APIs | MDN</title>
+      </bookmark>
+      <bookmark href="https://v5.reactrouter.com/web/api/match" id="287">
+        <title>React Router: Declarative Routing for React.js</title>
+      </bookmark>
+      <bookmark href="https://astexplorer.net/" id="288">
+        <title>AST explorer</title>
+      </bookmark>
+      <bookmark href="https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d" id="434">
+        <title>Getting image metadata (EXIF) using Node.js | by David Herron | ITNEXT</title>
+      </bookmark>
+      <bookmark href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" id="435">
+        <title>Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog</title>
+      </bookmark>
+      <bookmark href="https://mediamodifier.com/svg-editor#" id="436">
+        <title>SVG Editor - Mediamodifier</title>
+      </bookmark>
+      <bookmark href="https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0" id="437">
+        <title>Introduction to ASP.NET Core SignalR | Microsoft Docs</title>
+      </bookmark>
+      <bookmark href="https://davidwalsh.name/javascript-debounce-function" id="438">
+        <title>JavaScript Debounce Function</title>
+      </bookmark>
+      <bookmark href="https://www.digitalocean.com/community/tutorials/redux-redux-thunk" id="439">
+        <title>Understanding Asynchronous Redux Actions with Redux Thunk | DigitalOcean</title>
+      </bookmark>
+      <bookmark href="https://ponyfoo.com/articles/es6-proxy-traps-in-depth" id="440">
+        <title>ES6 Proxy Traps in Depth</title>
+      </bookmark>
+      <bookmark href="https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969" id="441">
+        <title>How the browser renders a web page? — DOM, CSSOM, and Rendering | by Uday Hiwarale | JsPoint | Medium</title>
+      </bookmark>
+      <bookmark href="https://www.thatjsdude.com/interview/index.html" id="493">
+        <title>front end Interview</title>
+      </bookmark>
+      <bookmark href="https://css-irl.info/" id="494">
+        <title>CSS { In Real Life }</title>
+      </bookmark>
+      <bookmark href="https://packagephobia.com/" id="495">
+        <title>Package Phobia</title>
+      </bookmark>
+      <bookmark href="https://accessibility-manual.dwp.gov.uk/accessibility-law/web-content-accessibility-guidelines" id="496">
+        <title>Web Content Accessibility Guidelines (WCAG) - DWP Accessibility Manual</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/archives/" id="497">
+        <title>Archives | CSS-Tricks - CSS-Tricks</title>
+      </bookmark>
+      <bookmark href="https://uiverse.io/elements?page=3" id="498">
+        <title>5005 UI elements: CSS &amp; Tailwind</title>
+      </bookmark>
+      <bookmark href="https://html.spec.whatwg.org/multipage/workers.html#workers" id="499">
+        <title>HTML Standard</title>
+      </bookmark>
+      <bookmark href="https://webkit.org/blog/66/the-fouc-problem/" id="500">
+        <title>The FOUC Problem | WebKit</title>
+      </bookmark>
+      <bookmark href="https://reactnative.dev/" id="531">
+        <title>React Native · Learn once, write anywhere</title>
+      </bookmark>
+      <bookmark href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024" id="532">
+        <title>React Labs: What We&apos;ve Been Working On – February 2024 – React</title>
+      </bookmark>
+      <bookmark href="https://web.dev/blog/inp-cwv-march-12" id="533">
+        <title>Interaction to Next Paint becomes a Core Web Vital on March 12  |  Blog  |  web.dev</title>
+      </bookmark>
+      <bookmark href="https://tanstack.com/query/latest" id="534">
+        <title>TanStack | High Quality Open-Source Software for Web Developers</title>
+      </bookmark>
+      <bookmark href="https://webaim.org/" id="535">
+        <title>WebAIM: Web Accessibility In Mind</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/css-logical-properties/" id="536">
+        <title>CSS Logical Properties | CSS-Tricks</title>
+      </bookmark>
+      <bookmark href="https://github.com/tooling/book-of-modern-frontend-tooling" id="537">
+        <title>GitHub - tooling/book-of-modern-frontend-tooling: The Front-end Tooling Book</title>
+      </bookmark>
+      <bookmark href="https://esbench.com/" id="538">
+        <title>ESBench</title>
+      </bookmark>
+      <bookmark href="https://swc.rs/" id="569">
+        <title>Rust-based platform for the Web – SWC</title>
+      </bookmark>
+    </folder>
+    <folder id="208">
+      <title>Portfolio</title>
+      <bookmark href="https://kapil987.github.io/contactKapil.github.io/" id="289">
+        <title>Kapil&apos;s Portfolio Website</title>
+      </bookmark>
+      <bookmark href="https://eager-williams-af0d00.netlify.app/?#contact" id="290">
+        <title>Jane Doe | Web Developer</title>
+      </bookmark>
+    </folder>
+    <folder id="209">
+      <title>conference 🤝</title>
+      <bookmark href="https://portal.gitnation.org/" id="291">
+        <title>Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation</title>
+      </bookmark>
+    </folder>
+    <folder id="210">
+      <title>Current</title>
+      <bookmark href="https://blog.logrocket.com/best-node-js-web-scrapers-use-case/" id="292">
+        <title>The best Node.js web scrapers for your use case - LogRocket Blog</title>
+      </bookmark>
+      <bookmark href="https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1" id="293">
+        <title>🤯 30DaysChallenge - 30 Days Extreme HTML &amp; CSS CHALLENGE 🤯 - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://kettanaito.com/blog/why-fetch-promise-doesnt-reject-on-error-responses" id="294">
+        <title>Why Fetch Promise Doesn&apos;t Reject on Error Responses - kettanaito.com</title>
+      </bookmark>
+      <bookmark href="https://query.gg/?s=tanstack" id="295">
+        <title>The Official React Query Course - 🔮 query.gg</title>
+      </bookmark>
+      <bookmark href="https://blog.bytebytego.com/" id="296">
+        <title>ByteByteGo Newsletter | Alex Xu | Substack</title>
+      </bookmark>
+      <bookmark href="https://dev.to/uuuuuulala/coding-an-interactive-and-damn-satisfying-cursor-7-simple-steps-2kb-of-code-1c8b" id="297">
+        <title>Coding an Interactive (and Damn Satisfying) Cursor: 7 Simple Steps + 2kb of Code - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog" id="298">
+        <title>How to Make Your Awesome GitHub Profile - DEV Community</title>
+      </bookmark>
+    </folder>
+    <folder id="211">
+      <title>Bookmark</title>
+      <bookmark href="https://youtube.com/user/GreatestAudioBooks/videos" id="299">
+        <title>Greatest AudioBooks</title>
+      </bookmark>
+      <bookmark href="https://semver.npmjs.com/" id="300">
+        <title>npm semantic version calculator</title>
+      </bookmark>
+      <bookmark href="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/" id="301">
+        <title>CSS Flexible Box Layout Module Level 1</title>
+      </bookmark>
+      <bookmark href="https://www.joshwcomeau.com/css/the-importance-of-learning-css/" id="302">
+        <title>The Importance of Learning CSS</title>
+      </bookmark>
+      <bookmark href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/" id="303">
+        <title>How To Learn CSS — Smashing Magazine</title>
+      </bookmark>
+      <bookmark href="https://webkit.org/blog/13096/css-has-pseudo-class/" id="304">
+        <title>Using :has() as a CSS Parent Selector and much more | WebKit</title>
+      </bookmark>
+      <bookmark href="https://codesandbox.io/s/understanding-flexbox-gsyros?file=/index.html" id="305">
+        <title>Understanding Flexbox - CodeSandbox</title>
+      </bookmark>
+      <bookmark href="https://www.freecodecamp.org/news/css-flexbox-complete-guide/" id="306">
+        <title>CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items</title>
+      </bookmark>
+    </folder>
+    <folder id="212">
+      <title>Youtube</title>
+      <bookmark href="https://www.youtube.com/watch?v=vWerXJrNw2g" id="307">
+        <title>From Zero to Cloud Engineer in 6 months - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ngdoUQBvAjo" id="308">
+        <title>Setup a monorepo with PNPM workspaces and add Nx for speed - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLdlYlZ7UVTGZ_9RklD0unuSEro6m1ubOV" id="309">
+        <title>Douglas Crockford Lectures on JavaScript - YouTube</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.educative.io/blog/leetcode-roadmap" id="213">
+      <title>The complete LeetCode roadmap to becoming a better problem solver</title>
+    </bookmark>
+    <bookmark href="https://chromewebstore.google.com/detail/rss-feed-url-finder/apfhghblgifegckccakakdlbjcdnbjmb" id="214">
+      <title>RSS Feed URL Finder - Chrome Web Store</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz" id="215">
+      <title>FCC Accessibility</title>
+    </bookmark>
+    <bookmark href="https://www.rsslookup.com/" id="216">
+      <title>RSS Lookup - Find RSS feeds on any URL</title>
+    </bookmark>
+    <bookmark href="https://thesystemsthinker.com/introduction-to-systems-thinking/" id="405">
+      <title>Introduction to Systems Thinking - The Systems Thinker</title>
+    </bookmark>
+    <bookmark href="https://services.tineye.com/developers/tineyeapi/libraries" id="406">
+      <title>Libraries - TinEye API - TinEye developer documentation</title>
+    </bookmark>
+    <bookmark href="https://peps.python.org/pep-0020/" id="407">
+      <title>PEP 20 – The Zen of Python | peps.python.org</title>
+    </bookmark>
+    <bookmark href="https://api.stackexchange.com/docs" id="408">
+      <title>Stack Exchange API</title>
+    </bookmark>
+    <bookmark href="https://regex101.com/" id="479">
+      <title>regex101: build, test, and debug regex</title>
+    </bookmark>
+    <bookmark href="https://ezprompt.net/" id="480">
+      <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://codesandbox.io/embed/jvvkoo8pq3?file=/src/index.js" id="481">
+      <title>Hackernews-CodeSandbox</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/" id="482">
+      <title>A Beginner’s Guide to Git — What is a Changelog and How to Generate it</title>
+    </bookmark>
+    <bookmark href="https://linuxhint.com/" id="517">
+      <title>Linux Hint</title>
+    </bookmark>
+    <bookmark href="https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables" id="518">
+      <title>Snippets in Visual Studio Code</title>
+    </bookmark>
+    <bookmark href="https://github.com/test-mile/arjuna-java" id="519">
+      <title>test-mile/arjuna-java: Java Requester/Client library for Arjuna based test automation.</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="520">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://github.com/course-one" id="539">
+      <title>course-one · GitHub</title>
+    </bookmark>
+    <bookmark href="https://mystery.knightlab.com/" id="540">
+      <title>The SQL Murder Mystery</title>
+    </bookmark>
+    <bookmark href="https://commoncog.com/becoming-data-driven-first-principles/" id="541">
+      <title>Becoming Data Driven, From First Principles - Commoncog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript/57795495#57795495" id="542">
+      <title>macos darkmode - How do I detect dark mode using JavaScript? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/" id="543">
+      <title>A/B Testing Infrastructure Changes at Microsoft ExP - Microsoft Research</title>
+    </bookmark>
+    <bookmark href="https://github.com/HackerNews/API" id="570">
+      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/AbhishekGowda28/advent-of-code" id="571">
+      <title>Abhishek Gowda / advent-of-code · GitLab</title>
+    </bookmark>
+    <bookmark href="https://www.svgviewer.dev/" id="572">
+      <title>SVG Viewer - View, edit, and optimize SVGs</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=learning+android+development+with+react+native&amp;t=ffab&amp;atb=v393-7&amp;ia=web" id="573">
+      <title>learning android development with react native at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://techwiser.com/ways-to-switch-between-windows-of-same-app-in-mac/" id="583">
+      <title>5 Ways to Switch Between Windows of Same App in Mac - TechWiser</title>
+    </bookmark>
+    <bookmark href="https://mermaid.js.org/syntax/stateDiagram.html" id="584">
+      <title>State diagrams | Mermaid</title>
+    </bookmark>
+    <bookmark href="https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c?ref=dailydev" id="585">
+      <title>Open Source alternatives to tools you Pay for - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://www.svpg.com/empowered-product-teams/" id="586">
+      <title>Empowered Product Teams - Silicon Valley Product Group : Silicon Valley Product Group</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/why-so-many-software-engineers-are-that-bad-9ab5f29ee47a" id="587">
+      <title>Why so many software engineers are that bad? | by Victor Ronin | Jan, 2024 | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@victor.ronin/one-companys-lousy-engineer-is-another-company-s-good-architect-3ff14cc8c96d" id="626">
+      <title>One company&apos;s lousy engineer is another company&apos;s good architect. | by Victor Ronin | Medium</title>
+    </bookmark>
+    <bookmark href="https://arund.in/home/education" id="627">
+      <title>Impresive Resume</title>
+    </bookmark>
+    <bookmark href="https://www.resume.com/dashboard" id="628">
+      <title>Resume Dashboard</title>
+    </bookmark>
+    <bookmark href="https://ethical.net/" id="629">
+      <title>Home - ethical.net</title>
+    </bookmark>
+    <bookmark href="https://www.thebalancecareers.com/how-to-write-a-resume-summary-statement-2061034" id="668">
+      <title>resume-summary</title>
+    </bookmark>
+    <bookmark href="https://www.rafa.ee/articles/resolve-syncthing-conflicts-using-three-way-merge/" id="669">
+      <title>Automatically resolve Syncthing conflicts using a three-way merge · Rafael Epplée</title>
+    </bookmark>
+    <bookmark href="https://alexkrupp.typepad.com/sensemaking/2013/11/2012-my-year-of-code.html" id="670">
+      <title>Sensemaking: 2012: My Year of Code</title>
+    </bookmark>
+    <bookmark href="https://www.paulgraham.com/gh.html" id="671">
+      <title>Great Hackers</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/programming/comments/1aqkw7n/why_most_developers_stop_learning_sql_at/" id="672">
+      <title>Why most developers stop learning SQL at subqueries - a 5-minute guide for PARTITION BY and CTEs : r/programming</title>
+    </bookmark>
+    <bookmark href="https://tooling.github.io/book-of-modern-frontend-tooling/" id="687">
+      <title>Book of Modern frontend tooling</title>
+    </bookmark>
+    <bookmark href="https://www.nngroup.com/articles/author/alita-kendrick/" id="688">
+      <title>Articles and Videos by Alita Kendrick - NN/g</title>
+    </bookmark>
+    <bookmark href="https://github.com/LSPosed/LSPosed/wiki/How-to-use-it#install--activate-modules" id="689">
+      <title>How to use it · LSPosed/LSPosed Wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/M66B/XPrivacyLua" id="690">
+      <title>M66B/XPrivacyLua: Really simple to use privacy manager for Android 6.0 Marshmallow and later</title>
+    </bookmark>
+    <bookmark href="https://abhishekgowda28.github.io/advent-of-code-docs/" id="713">
+      <title>Hello from Advent of code docs | Advent of code docs</title>
+    </bookmark>
+    <bookmark href="https://letterstoanewdeveloper.com/2022/01/" id="714">
+      <title>January 2022 – Letters To A New Developer</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253" id="715">
+      <title>8 Frontend Tools to Become a Better Developer | by Mohit Vaswani | Medium</title>
+    </bookmark>
+    <bookmark href="https://uiverse.io/" id="716">
+      <title>Explore 3000+ Free UI Elements: CSS &amp; Tailwind</title>
+    </bookmark>
+    <bookmark href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html" id="717">
+      <title>ARCHITECTURE.md</title>
+    </bookmark>
+    <bookmark href="https://promptspellsmith.com/" id="721">
+      <title>Explore Top Featured GPTs - Discover top GPTs in ChatGPT GPTs Store | Prompt Spell Smith</title>
+    </bookmark>
+    <bookmark href="https://notes.zturk.com/2016/02/synchronizing-moon-books-on-android.html" id="722">
+      <title>Updated! Synchronizing Moon+ Books on Android</title>
+    </bookmark>
+    <bookmark href="https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="723">
+      <title>Make a Discord bot in just 30 lines of code.</title>
+    </bookmark>
+    <bookmark href="https://teachyourselfcs.com/#math" id="724">
+      <title>Teach Yourself Computer Science</title>
+    </bookmark>
+    <bookmark href="https://blog.invidelabs.com/" id="725">
+      <title>Remote Dev Diary by Invide</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@abhishekpandey_15530/building-an-ai-powered-pr-reviewer-with-openai-and-gitlab-49089070ccc7" id="726">
+      <title>PR review - With LLM</title>
+    </bookmark>
+    <bookmark href="https://isellsoap.github.io/specificity-visualizer/" id="727">
+      <title>Specificity Visualizer</title>
+    </bookmark>
+    <bookmark href="https://www.howtogeek.com/15677/zen-and-the-art-of-file-and-folder-organization/" id="728">
+      <title>Zen and the Art of File and Folder Organization</title>
+    </bookmark>
+    <bookmark href="https://ebook-hunter.org/" id="729">
+      <title>free ebooks download - ebook-hunter.org</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=lenny+rachi&amp;ia=web" id="730">
+      <title>lenny rachi at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://visualgo.net/en" id="733">
+      <title>visualising data structures and algorithms through animation - VisuAlgo</title>
+    </bookmark>
+    <bookmark href="https://toolfinder.co/" id="734">
+      <title>Find Productivity Tools &amp; Browse Stacks | Tool Finder</title>
+    </bookmark>
+    <bookmark href="https://vista.design/swan/components/listbox/" id="735">
+      <title>Listbox | Components</title>
+    </bookmark>
+    <bookmark href="https://filelu.com/pages/cloud-drive/?utm_source=chatgpt.com" id="736">
+      <title>FileLu - Free File Upload And Secure File Storage Platform</title>
+    </bookmark>
+    <bookmark href="https://dev.to/blackgirlbytes/2024-year-in-review-my-greatest-achievement-5322" id="737">
+      <title>2024 Year in Review: My Greatest Achievement - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://ai.stanford.edu/~kzliu/blog/unlearning" id="742">
+      <title>Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=hbr+org+rss+feed&amp;t=fpas&amp;ia=web" id="743">
+      <title>hbr org rss feed at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://herbcaudill.com/words/20201007-style-react-app" id="744">
+      <title>How to style React applications while the world burns around us | Herb Caudill</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/sai-venkat-p-34238017a_aws-certified-solutions-architect-associate-ugcPost-7268949074567938049-63H0" id="745">
+      <title>AWS Certified Solutions Architect Associate | Sai V.</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7260955351787671552-3pIc" id="746">
+      <title>#api #technology | Pallavi A. | 104 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/aditimirle_india-hiring-apple-activity-7265150210635440128-iHiY" id="749">
+      <title>#india #hiring #apple | Aditi Mirle</title>
+    </bookmark>
+    <bookmark href="https://martinfowler.com/articles/richardsonMaturityModel.html" id="750">
+      <title>Richardson Maturity Model</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/karan-saxena-466b07190_the-difference-between-a-3-lpa-and-a-20-lpa-activity-7274399678098468864-TRHy" id="751">
+      <title>The difference between a 3 LPA and a 20 LPA package is 1–1.5 years of focused preparation.   If I were preparing for placements again in 2025, this is the roadmap I would follow (the same principles… | Karan Saxena | 140 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-a-world-class-software-activity-7275141358787428352-edsD" id="752">
+      <title>If you want to become a world-class software engineer (in 8 months), read these books:   1. The Pragmatic Programmer:  It&apos;ll teach you the core software development process. Author: Dave Thomas &amp;… | Neo Kim | 71 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7259925372748656642-kI-8" id="753">
+      <title>#systemsexpert #systemsexpert #google #amazon #meta #facebook #apple #microsoft #interview #design #coding #faang #bytebytego #systemdesign #codinginterview #algorithm #datastructures… | Dinesh Varyani | 123 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/addyosmani_softwareengineering-programming-ai-activity-7282659816605413377-BVQ0" id="762">
+      <title>#softwareengineering #programming #ai | Addy Osmani | 74 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/addyosmani_softwareengineering-programming-javascript-activity-7280847862832230400-Mut5" id="763">
+      <title>#softwareengineering #programming #javascript | Addy Osmani | 48 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/addyosmani_softwarengineering-programming-ai-activity-7277225855309770752-gy3T" id="764">
+      <title>#softwarengineering #programming #ai | Addy Osmani | 41 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/kachchani_this-is-your-shortcut-to-better-tech-leadership-activity-7278035916646932480-HnWq" id="765">
+      <title>This is your shortcut to better tech leadership in 2025⚡️  I&apos;ve been curating the best resources on tech talent, leadership and product for the Exec Engineering newsletter every week since… | Yassine Kachchani | 11 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/suresh-g-688608191_i-have-cleared-interviews-at-microsoft-amazon-activity-7338443735053029377-T2Sq" id="766">
+      <title>How to end an interview with 23 questions | Suresh G. posted on the topic | LinkedIn</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/jyothi_networkingmatters-learningfromfailures-activity-7343103087928123392-EoYK" id="813">
+      <title>#networkingmatters #learningfromfailures #maanginterviews #growthmindset #learn | Jyothi Gopalan | 17 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/ashishps1_30-blogs-to-learn-30-system-design-fundamentals-activity-7328659612201549827-8m7C" id="814">
+      <title>Learn 30 System Design Fundamentals with these blogs. | Ashish Pratap Singh posted on the topic | LinkedIn</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/aagupta_by-now-youve-heard-microsoft-announced-activity-7328535277017206784-xK9O" id="815">
+      <title>How to be &quot;layoff-proof&quot; in tech | Aakash Gupta posted on the topic | LinkedIn</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/tanaji-lahudkar_azure-administrator-daily-routine-as-an-activity-7280787470508523520-w8Th" id="816">
+      <title>Azure Administrator Daily Routine  As an Azure Administrator with a focus on collaboration and team communication, your day is filled with diverse tasks, technical challenges, and discussions that… | Tanaji Lahudkar | 27 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/kprasadrao_aws-handson-wednesdayawsworkshop-activity-7280283424114806784-P3bU" id="817">
+      <title>#aws #handson #wednesdayawsworkshop | Prasad Rao | 26 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/vsadhwani_heres-my-cloud-engineer-resume-that-landed-activity-7344027949211238400-vV1K" id="829">
+      <title>How I built a resume that landed me interviews | Vishakha Sadhwani posted on the topic | LinkedIn</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/nk-systemdesign-one_12-books-to-become-a-world-class-software-activity-7342881850635304961-uz_J" id="830">
+      <title>12 Books to become a world class software engineer | Neo Kim | 105 comments</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/posts/rajya-vardhan_my-linkedin-tells-you-that-i-am-a-successful-activity-7302303782720217088-boQV" id="831">
+      <title>From Unemployed to Google Manager: My Journey | Rajya Vardhan Mishra posted on the topic | LinkedIn</title>
+    </bookmark>
+    <bookmark href="https://system.damato.design/?path=/docs/primitives-close--docs" id="832">
+      <title>@storybook/core - Storybook</title>
+    </bookmark>
+    <bookmark href="https://app.daily.dev/posts/top-10-chatgpt-prompts-to-learn-anything-10-times-faster-lcnqxlmjt" id="833">
+      <title>Top 10 ChatGPT prompts to learn anything 10 times faster | daily.dev</title>
+    </bookmark>
+    <bookmark href="https://www.smashingmagazine.com/2025/01/understanding-ai-meaning/" id="846">
+      <title>What Does AI Really Mean? — Smashing Magazine</title>
+    </bookmark>
+    <bookmark href="https://www.techworld-with-nana.com/cloud-roadmap" id="847">
+      <title>Cloud Engineer Roadmap</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/typescript" id="848">
+      <title>TypeScript Roadmap: Learn to become a TypeScript developer</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/frontend" id="849">
+      <title>Frontend Developer Roadmap: What is Frontend Development?</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/" id="850">
+      <title>Freecodecamp</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" id="852">
+      <title>Responsive Web Design | freeCodeCamp.org</title>
+    </bookmark>
+    <bookmark href="https://roadmap.sh/ai-engineer" id="853">
+      <title>AI Engineer Roadmap</title>
+    </bookmark>
+    <bookmark href="https://primer.style/" id="854">
+      <title>Primer</title>
+    </bookmark>
+    <bookmark href="https://medium.com/write-a-catalyst/how-i-study-consistently-while-working-a-9-5-full-time-job-12b450e0e995" id="855">
+      <title>How I Study Consistently While Working a 9–5 Full-Time Job | by Adarsh Gupta | Write A Catalyst | Medium</title>
+    </bookmark>
+    <bookmark href="https://skillshop.exceedlms.com/student/collection/1384851-fundamentals-of-digital-marketing" id="856">
+      <title>Fundamentals of Digital Marketing : Google</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@domen.lanisnik/10-tips-for-better-code-reviews-6eb2fff2a85f" id="857">
+      <title>10 Tips for Better Code Reviews. Improve your code review process. | Medium</title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=code%20review%20how%20to%20give%20constructive%20feedback%20and%20suggestions&amp;offset=1&amp;spellcheck=0" id="858">
+      <title>PoW Captcha - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=simple+dsa+problems+for+beginner&amp;t=fpas&amp;ia=web" id="859">
+      <title>simple dsa problems for beginner at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.smashingmagazine.com/2009/01/push-your-web-design-into-the-future-with-css3/" id="860">
+      <title>Push Your Web Design Into The Future With CSS3 — Smashing Magazine</title>
+    </bookmark>
+    <bookmark href="https://dev.to/glebirovich/typescript-data-structures-linked-list-3o8i" id="861">
+      <title>Typescript Data Structures: Linked List - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://www.promptingguide.ai/introduction/examples" id="863">
+      <title>Examples of Prompts | Prompt Engineering Guide&lt;!-- --&gt;</title>
+    </bookmark>
+    <bookmark href="https://blog.damato.design/posts/close-thy-enemy/" id="864">
+      <title>Close thy enemy</title>
+    </bookmark>
+    <bookmark href="https://cvcompiler.com/senior-web-developer-resume-examples" id="865">
+      <title>20  Senior Web Developer Resume Examples for 2025</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/learnmachinelearning/comments/1mc69k2/comment/n5si5u3/?share_id=ETQ1IzqbPBTZj_okNzKTU&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1" id="866">
+      <title>From zero</title>
+    </bookmark>
+    <bookmark href="https://topmate.io/rajat_gajbhiye/1446625" id="867">
+      <title>System Design - A Comprehensive Guide with Rajat Gajbhiye</title>
+    </bookmark>
+    <bookmark href="https://www.w3.org/Style/CSS20/history.html" id="873">
+      <title>A brief history of CSS until 2016</title>
+    </bookmark>
+    <bookmark href="https://themes.gohugo.io/themes/hugo-theme-til/" id="874">
+      <title>Today I Learned</title>
+    </bookmark>
+    <bookmark href="https://lawsofux.com/jakobs-law/" id="875">
+      <title>Jakob’s Law | Laws of UX</title>
+    </bookmark>
+    <bookmark href="https://jimmyhmiller.com/ugliest-beautiful-codebase" id="876">
+      <title>&quot;We ran out of columns&quot; - The best, worst codebase</title>
+    </bookmark>
+    <folder id="877">
+      <title>Learning</title>
+      <bookmark href="https://labex.io/linuxjourney" id="883">
+        <title></title>
+      </bookmark>
+    </folder>
+    <folder id="881">
+      <title>Intresting-GITHUB</title>
+      <bookmark href="https://thejeshgn.com/2024/05/28/syncing-bookmarks-using-floccus-and-git/" id="886">
+        <title>Syncing Bookmarks using Floccus and Git | Thejesh GN</title>
+      </bookmark>
+      <bookmark href="https://github.com/thejeshgn?tab=repositories" id="887">
+        <title>thejeshgn (thejeshgn) / Repositories · GitHub</title>
+      </bookmark>
+      <bookmark href="https://simonwillison.net/2020/Oct/9/git-scraping/" id="888">
+        <title>Git scraping: track changes over time by scraping to a Git repository</title>
+      </bookmark>
+      <bookmark href="https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file" id="889">
+        <title>GitHub - gautamkrishnar/blog-post-workflow: Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed</title>
+      </bookmark>
+      <bookmark href="https://jules-documentation.web.app/" id="890">
+        <title>Getting Started | Jules</title>
+      </bookmark>
+      <bookmark href="https://github.com/firmai/financial-machine-learning" id="891">
+        <title>GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.</title>
+      </bookmark>
+      <bookmark href="https://github.com/advplyr/audiobookshelf-app" id="892">
+        <title>Audio book shelf</title>
+      </bookmark>
+      <bookmark href="https://github.com/impressivewebs/frontend-feeds?tab=readme-ov-file" id="893">
+        <title>GitHub - impressivewebs/frontend-feeds: An up to date list of RSS feeds for front-end developers.</title>
+      </bookmark>
+      <bookmark href="https://github.com/alessiodm/drl-zh" id="894">
+        <title>GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!</title>
+      </bookmark>
+      <bookmark href="https://github.com/FadingProgrammer" id="895">
+        <title>FadingProgrammer (Ahmed Khan) · GitHub</title>
+      </bookmark>
+      <bookmark href="https://endler.dev/2025/best-programmers/" id="899">
+        <title>The Best Programmers I Know | Matthias Endler</title>
+      </bookmark>
+      <bookmark href="https://github.com/Ganesh-Kunnamkumarath/From-Zero-to-GenAI" id="900">
+        <title>Ganesh-Kunnamkumarath/From-Zero-to-GenAI: A structured guide from beginner to expert in Generative AI, with hands-on exercises and deployments.</title>
+      </bookmark>
+      <bookmark href="https://www.dendron.so/" id="901">
+        <title>Dendron</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://conventionalcomments.org/" id="882">
+      <title>Conventional Comments</title>
+    </bookmark>
+  </folder>
+  <folder id="187">
+    <title>QuickSaves</title>
+    <bookmark href="https://smigle-hugo-theme.netlify.app/" id="248">
+      <title>Blog Title</title>
+    </bookmark>
+    <bookmark href="https://www.worldofbots.app/" id="249">
+      <title>World of Bots</title>
+    </bookmark>
+    <bookmark href="https://iansmcb.com/" id="250">
+      <title>Ian S. McBride</title>
+    </bookmark>
+    <bookmark href="http://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" id="251">
+      <title>The throry of Fads, Fashion, Custom and Cultural Change as Informational Cascades</title>
+    </bookmark>
+    <bookmark href="https://www.rand.org/content/dam/rand/pubs/research_memoranda/2009/RM727.1.pdf" id="252">
+      <title>An expermental application of the Delphi method to the us of experts</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/ian-s-mcb/smigle-hugo-theme" id="253">
+      <title>Ian S. McBride / smigle-hugo-theme · GitLab</title>
+    </bookmark>
+    <bookmark href="https://www.healthline.com/nutrition/mango#1-Packed-with-nutrients" id="254">
+      <title>Mango: Nutrition, Health Benefits, and How to Eat It</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=how+to+improve+hearing+naturally&amp;t=fpas&amp;ia=web" id="255">
+      <title>how to improve hearing naturally at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://endler.dev/2024/no-matter-what/" id="256">
+      <title>No Matter What | Matthias Endler</title>
+    </bookmark>
+    <bookmark href="https://www.surveillancewatch.io/" id="257">
+      <title>Surveillance Watch: They Know Who You Are</title>
+    </bookmark>
+    <bookmark href="https://yourstory.com/2025/04/5-reasons-disciplined-people-win" id="424">
+      <title>Just a moment...</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/SideProject/comments/1nq44ov/i_worked_2_jobs_to_bootstrap_this_spent_2_years/" id="425">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://search.brave.com/search?q=the+motherhood+book&amp;source=android&amp;summary=1&amp;conversation=31ed853b5683434ea42f14" id="426">
+      <title>the motherhood book - Brave Search</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20210925043340/https://dev.to/basecampxd/make-a-discord-bot-in-just-30-lines-of-code-jbj" id="427">
+      <title>Make a Discord bot in just 30 lines of code. - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/user/GreatestAudioBooks/videos" id="428">
+      <title>Greatest AudioBooks - YouTube</title>
+    </bookmark>
+    <bookmark href="https://businessmap.io/lean-management" id="429">
+      <title>Lean Management</title>
+    </bookmark>
+    <bookmark href="https://fakefind.ai/" id="430">
+      <title>FakeFind | AI-Powered Review Checker</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.reddit.com/r/chrome/comments/1oec3sy/showcase_built_a_hybrid_ai_analyzer_extension/" id="188">
+    <title>Hack chrome AI</title>
+  </bookmark>
+  <bookmark href="https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:welcome-to-financial-literacy/xa6995ea67a8e9fdd:intro-to-financial-literacy/v/welcome-to-financial-literacy" id="387">
+    <title>Welcome to Financial Literacy (video) | Khan Academy</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+</folder>
+</xbel>
