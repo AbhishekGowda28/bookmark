@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1144: for Floccus bookmark sync browser extension -->
+<!--- highestId :1145: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2697,6 +2697,9 @@
     </bookmark>
     <bookmark href="https://fakefind.ai/" id="1144">
       <title>FakeFind | AI-Powered Review Checker</title>
+    </bookmark>
+    <bookmark href="https://www.vistaprint.com/" id="1145">
+      <title>VistaPrint Official Website: Online Printing Services</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.reddit.com/r/chrome/comments/1oec3sy/showcase_built_a_hybrid_ai_analyzer_extension/" id="1129">
