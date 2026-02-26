@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1223: for Floccus bookmark sync browser extension -->
+<!--- highestId :1225: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1405,6 +1405,9 @@
     <bookmark href="chrome://profiles/" id="1222">
       <title>About Profiles</title>
     </bookmark>
+    <bookmark href="chrome://profiles/" id="1224">
+      <title>About Profiles</title>
+    </bookmark>
   </folder>
   <folder id="344">
     <title>Entertainment</title>
@@ -1921,6 +1924,9 @@
         <title>The Solo Leveling Mindset: How to Level Up Your Life | by Zamai | Medium</title>
       </bookmark>
       <bookmark href="chrome://reader/?url=https%3A%2F%2Fmedium.com%2F%40zamaibanje%2Fthe-solo-leveling-mindset-how-to-continuously-improve-yourself-5d9f1c6de6eb" id="1223">
+        <title>The Solo Leveling Mindset: How to Level Up Your Life | by Zamai | Medium</title>
+      </bookmark>
+      <bookmark href="chrome://reader/?url=https%3A%2F%2Fmedium.com%2F%40zamaibanje%2Fthe-solo-leveling-mindset-how-to-continuously-improve-yourself-5d9f1c6de6eb" id="1225">
         <title>The Solo Leveling Mindset: How to Level Up Your Life | by Zamai | Medium</title>
       </bookmark>
     </folder>
