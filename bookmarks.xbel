@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1238: for Floccus bookmark sync browser extension -->
+<!--- highestId :1239: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2150,6 +2150,9 @@
             <title>Security</title>
             <bookmark href="https://app.snyk.io/org/dom-0170/dashboard" id="1236">
               <title>Dashboard | Snyk</title>
+            </bookmark>
+            <bookmark href="https://arethetypeswrong.github.io/" id="1239">
+              <title>Are The Types Wrong? - Tool for analyzing TypeScript types of npm packages</title>
             </bookmark>
           </folder>
         </folder>
