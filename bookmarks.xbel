@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1243: for Floccus bookmark sync browser extension -->
+<!--- highestId :1245: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2154,6 +2154,15 @@
             <bookmark href="https://arethetypeswrong.github.io/" id="1239">
               <title>Are The Types Wrong? - Tool for analyzing TypeScript types of npm packages</title>
             </bookmark>
+            <bookmark href="https://app.getcortexapp.com/admin/service/en2d140cd7a38bb7b6/code-and-security" id="1243">
+              <title>Albelli Integration Layer Entity Details</title>
+            </bookmark>
+            <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/pages/edit-v2/5352030421?draftShareId=a24212f5-a2ca-4fad-810e-db4458bd8132" id="1244">
+              <title>Add Page - Draft - DIY Editing - Security Report - Abhishek Gowda - Confluence</title>
+            </bookmark>
+            <bookmark href="https://app.snyk.io/org/dom-0170/issues?v=1&amp;context[page]=issues&amp;issue_status=%255B%2522Open%2522%255D&amp;issues_table_issues_detail_cols=SCORE%257CASSET%2520%2526%2520SOURCE%2520CODE%257CEXPLOIT%2520MATURITY%257CTARGET%2520%2526%2520PROJECT%257CPROJECT%2520ORIGIN%257CSNYK%2520PRODUCT&amp;issues_table_issues_detail_rows=10&amp;issues_table_issues_detail_sort=ISSUE_SEVERITY_RANK%2520DESC" id="1245">
+              <title>Organization Issues | Snyk</title>
+            </bookmark>
           </folder>
         </folder>
         <folder id="1240">
@@ -2163,9 +2172,6 @@
           </bookmark>
           <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/TM1/pages/5222138150/Upload+Go+Current+experience+issues+proposed+solutions" id="1242">
             <title>Upload &amp; Go: Current experience issues &amp; proposed solutions - Team: Matching - Confluence</title>
-          </bookmark>
-          <bookmark href="https://app.getcortexapp.com/admin/service/en2d140cd7a38bb7b6/code-and-security" id="1243">
-            <title>Albelli Integration Layer Entity Details</title>
           </bookmark>
         </folder>
       </folder>
