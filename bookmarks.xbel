@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1235: for Floccus bookmark sync browser extension -->
+<!--- highestId :1236: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1958,6 +1958,9 @@
       </bookmark>
       <bookmark href="chrome://reader/?url=https%3A%2F%2Fmedium.com%2F%40zamaibanje%2Fthe-solo-leveling-mindset-how-to-continuously-improve-yourself-5d9f1c6de6eb" id="1235">
         <title>The Solo Leveling Mindset: How to Level Up Your Life | by Zamai | Medium</title>
+      </bookmark>
+      <bookmark href="https://app.snyk.io/org/dom-0170/dashboard" id="1236">
+        <title>Dashboard | Snyk</title>
       </bookmark>
     </folder>
     <bookmark href="https://abhigowda28.blogspot.com/" id="213">
