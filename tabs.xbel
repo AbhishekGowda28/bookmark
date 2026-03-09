@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :16: for Floccus bookmark sync browser extension -->
+<!--- highestId :19: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
@@ -40,6 +40,15 @@
   </bookmark>
   <bookmark href="https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc" id="16">
     <title>Best LLM for Coding and Developers in 2025 - DEV Community</title>
+  </bookmark>
+  <bookmark href="about:newtab" id="17">
+    <title>New Tab</title>
+  </bookmark>
+  <bookmark href="moz-extension://0243d554-7f73-4aa9-8336-4723d97ee690/dist/html/options.html#/options/17595628951600.4965151951248402" id="18">
+    <title>Floccus bookmark sync</title>
+  </bookmark>
+  <bookmark href="moz-extension://0243d554-7f73-4aa9-8336-4723d97ee690/dist/html/options.html#/" id="19">
+    <title>Floccus bookmark sync</title>
   </bookmark>
 </folder>
 </xbel>
