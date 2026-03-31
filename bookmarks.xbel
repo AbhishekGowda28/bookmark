@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1249: for Floccus bookmark sync browser extension -->
+<!--- highestId :1250: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -3016,6 +3016,9 @@
   </folder>
   <bookmark href="https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:welcome-to-financial-literacy/xa6995ea67a8e9fdd:intro-to-financial-literacy/v/welcome-to-financial-literacy" id="1132">
     <title>Welcome to Financial Literacy (video) | Khan Academy</title>
+  </bookmark>
+  <bookmark href="https://freedium-mirror.cfd/" id="1250">
+    <title>Breaking Medium paywall! - Freedium</title>
   </bookmark>
 </folder>
 <folder id="1">
