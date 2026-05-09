@@ -56,11 +56,11 @@
 
 ## CSS Articles
 <!-- CSS Article:START -->
+- [Using CSS corner-shape For Folded Corners](https://css-tricks.com/using-css-corner-shape-for-folded-corners/)
 - [A Scrollytelling Gift for Mum on Mother’s Day 2026](https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/)
 - [Google’s Prompt API](https://css-tricks.com/googles-prompt-api/)
 - [Making Zigzag CSS Layouts With a Grid + Transform Trick](https://css-tricks.com/zigzag-css-grid-layouts/)
 - [The Architecture Of Local-First Web Development](https://smashingmagazine.com/2026/05/architecture-local-first-web-development/)
-- [Rethinking The Experience Of System Tools](https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/)
 <!-- CSS Article:END -->
 
 ## Bookmarks
