@@ -1,8 +1,8 @@
 name: Latest blog post of TOTAL-TYPESCRIPT
-'on':
+"on":
+  workflow_dispatch:
   schedule:
     - cron: 1 * * * thu
-  workflow_dispatch: null
 permissions:
   contents: write
 jobs:
@@ -22,14 +22,14 @@ jobs:
       - name: Pull in posts of Martin Fowler
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://martinfowler.com/feed.atom'
+          feed_list: "https://martinfowler.com/feed.atom"
           comment_tag_name: martinfowler
           disable_sort: true
           disable_item_validation: true
       - name: Max Woolf - AI guy
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://minimaxir.com/index.xml'
+          feed_list: "https://minimaxir.com/index.xml"
           comment_tag_name: Max Woolf
           disable_sort: true
           disable_item_validation: true
