@@ -11,7 +11,8 @@ export default function App() {
     async function loadData() {
       try {
         setLoading(true);
-        const response = await fetch('/data.json');
+        const dataUrl = new URL('data.json', import.meta.env.BASE_URL).href;
+        const response = await fetch(dataUrl);
         
         if (!response.ok) {
           throw new Error(`Failed to load data: ${response.statusText}`);
