@@ -11,7 +11,7 @@ export default function App() {
     async function loadData() {
       try {
         setLoading(true);
-        const dataUrl = new URL('data.json', import.meta.env.BASE_URL).href;
+        const dataUrl = `${import.meta.env.BASE_URL}data.json`;
         const response = await fetch(dataUrl);
         
         if (!response.ok) {
