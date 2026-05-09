@@ -33,6 +33,8 @@
 ## Addy Osmani
 
 <!-- addyo:START -->
+- [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)
+- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
 - [Long-running Agents](https://addyosmani.com/blog/long-running-agents/)
 - [Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)
 - [Agentic Engine Optimization &lpar;AEO&rpar;](https://addyosmani.com/blog/agentic-engine-optimization/)
@@ -41,8 +43,6 @@
 - [How to write a good spec for AI agents](https://dev.to/addyosmani/how-to-write-a-good-spec-for-ai-agents-31i9)
 - [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)
 - [The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)
-- [Stop Using /init for AGENTS.md](https://addyosmani.com/blog/agents-md/)
-- [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)
 <!-- addyo:END -->
 
 ## AI
