@@ -1,0 +1,65 @@
+import { useState, useEffect } from 'react';
+import SearchableList from './components/SearchableList.jsx';
+
+export default function App() {
+  const [links, setLinks] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    // Load data.json on component mount
+    async function loadData() {
+      try {
+        setLoading(true);
+        const response = await fetch('/data.json');
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.statusText}`);
+        }
+        
+        const data = await response.json();
+        setLinks(data);
+        setError(null);
+      } catch (err) {
+        console.error('Error loading data:', err);
+        setError(err.message || 'Failed to load links');
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadData();
+  }, []);
+
+  return (
+    <div className="app">
+      <header className="header">
+        <h1>🔗 Searchable Links</h1>
+        <p>Bookmarks & RSS feeds aggregated in one place</p>
+      </header>
+
+      <main className="main">
+        {loading && (
+          <div className="loading">
+            <p>Loading links...</p>
+          </div>
+        )}
+
+        {error && (
+          <div className="error">
+            <p>Error: {error}</p>
+          </div>
+        )}
+
+        {!loading && !error && (
+          <div className="content">
+            <div className="stats">
+              <h2>Total Links: {links.length}</h2>
+            </div>
+            <SearchableList links={links} />
+          </div>
+        )}
+      </main>
+    </div>
+  );
+}
