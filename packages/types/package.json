@@ -1,0 +1,21 @@
+{
+  "name": "@bookmark/types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript types and interfaces",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": ["types", "interfaces"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}

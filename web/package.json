@@ -1,20 +1,29 @@
 {
-  "name": "bookmark-web",
+  "name": "@bookmark/web",
   "version": "1.0.0",
   "description": "Web interface for searchable bookmark and RSS feed aggregator",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "echo 'Web linting'",
+    "format": "echo 'Web formatting'"
   },
   "dependencies": {
+    "@bookmark/hooks": "workspace:*",
+    "@bookmark/types": "workspace:*",
+    "@bookmark/utils": "workspace:*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "fuse.js": "^7.0.0"
   },
   "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.2.0",
     "vite": "^5.0.8"
   }
 }

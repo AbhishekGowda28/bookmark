@@ -1,0 +1,23 @@
+{
+  "name": "bookmark",
+  "version": "1.0.0",
+  "description": "Searchable bookmark and RSS feed aggregator",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@8.10.0",
+  "scripts": {
+    "lint": "pnpm -r lint",
+    "format": "pnpm -r format",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "cli": "pnpm --filter @bookmark/cli start",
+    "web:dev": "pnpm --filter @bookmark/web dev",
+    "web:build": "pnpm --filter @bookmark/web build"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0"
+  },
+  "keywords": ["bookmarks", "rss", "aggregator"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}
