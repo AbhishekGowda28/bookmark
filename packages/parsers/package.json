@@ -14,19 +14,28 @@
   "scripts": {
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "test": "node --test 'src/**/*.test.ts'"
+    "test": "tsx --test src/index.test.ts",
+    "lint": "eslint src --max-warnings 0",
+    "format": "prettier --write src"
   },
   "dependencies": {
     "@bookmark/types": "workspace:*",
     "@bookmark/utils": "workspace:*",
-    "xml2js": "^0.6.2",
-    "markdown-it": "^13.0.1"
+    "markdown-it": "^13.0.1",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@types/markdown-it": "^13.0.5",
-    "@types/node": "^20.0.0"
+    "@types/node": "^20.0.0",
+    "@types/xml2js": "^0.4.14",
+    "tsx": "^4.21.0"
   },
-  "keywords": ["parsers", "xbel", "markdown", "rss"],
+  "keywords": [
+    "parsers",
+    "xbel",
+    "markdown",
+    "rss"
+  ],
   "author": "Abhishek Gowda",
   "license": "MIT"
 }

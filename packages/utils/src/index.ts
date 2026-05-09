@@ -1,4 +1,4 @@
-import type { Link, Feed, FeedSource, RssEntry, Config } from '@bookmark/types';
+import type { Link, Feed, Config } from '@bookmark/types';
 
 /**
  * Check if two links are duplicates (same URL)
