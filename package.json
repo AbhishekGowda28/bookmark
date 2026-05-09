@@ -15,9 +15,14 @@
     "web:build": "pnpm --filter @bookmark/web build"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "typescript": "^5.2.0"
   },
-  "keywords": ["bookmarks", "rss", "aggregator"],
+  "keywords": [
+    "bookmarks",
+    "rss",
+    "aggregator"
+  ],
   "author": "Abhishek Gowda",
   "license": "MIT"
 }
