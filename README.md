@@ -86,14 +86,14 @@
 
 ## Old feeds
 <!-- old-sub:START -->
-- [22.00.0192 March&#39;s YouTube roundup](https://johnnydecimal.com/22.00.0192/)
-- [22.00.0191 Monodraw: create lovely ASCII diagrams](https://johnnydecimal.com/22.00.0191/)
-- [22.00.0190 Decimal Diary: Happy 1st birthday to the SBS](https://johnnydecimal.com/22.00.0190/)
-- [22.00.0189 Documenting my security practices](https://johnnydecimal.com/22.00.0189/)
-- [22.00.0188 A Productive Conversation with Mike Vardy](https://johnnydecimal.com/22.00.0188/)
-- [22.00.0187 Post-incident review](https://johnnydecimal.com/22.00.0187/)
-- [22.00.0186 I uploaded your email address to GitHub](https://johnnydecimal.com/22.00.0186/)
-- [22.00.0185 A security incident](https://johnnydecimal.com/22.00.0185/)
-- [22.00.0184 February&#39;s YouTube roundup](https://johnnydecimal.com/22.00.0184/)
-- [22.00.0183 The &#39;work log&#39;](https://johnnydecimal.com/22.00.0183/)
+- [A new website, and a focus on small business](https://johnnydecimal.com/blog/0193-a-new-website-and-focus-on-sbs/)
+- [Small Business System — 9 IDs in category 12 renamed and a zero tweak.](https://johnnydecimal.com/support/version-history/2026-04-29-sbs-9-id-edits/)
+- [Life Admin System — 3 IDs in category 12 renamed and a zero tweak.](https://johnnydecimal.com/support/version-history/2026-04-28-las-4-id-edits/)
+- [March&#39;s YouTube roundup](https://johnnydecimal.com/blog/0192-march-youtube-roundup/)
+- [Monodraw: create lovely ASCII diagrams](https://johnnydecimal.com/blog/0191-monodraw/)
+- [Decimal Diary: Happy 1st birthday to the SBS](https://johnnydecimal.com/blog/0190-lucy-sbs-anniversary/)
+- [Documenting my security practices](https://johnnydecimal.com/blog/0189-my-security-practices/)
+- [A Productive Conversation with Mike Vardy](https://johnnydecimal.com/blog/0188-a-productive-conversation/)
+- [Post-incident review](https://johnnydecimal.com/blog/0187-post-incident-review/)
+- [I uploaded your email address to GitHub](https://johnnydecimal.com/blog/0186-i-uploaded-your-email-address-to-github/)
 <!-- old-sub:END -->
