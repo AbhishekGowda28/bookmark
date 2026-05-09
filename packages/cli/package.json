@@ -1,0 +1,36 @@
+{
+  "name": "@bookmark/cli",
+  "version": "1.0.0",
+  "description": "CLI orchestrator for link aggregation and data pipeline",
+  "type": "module",
+  "bin": {
+    "bookmark-cli": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/cli.js"
+  },
+  "dependencies": {
+    "@bookmark/types": "workspace:*",
+    "@bookmark/utils": "workspace:*",
+    "@bookmark/parsers": "workspace:*",
+    "@bookmark/core": "workspace:*",
+    "better-sqlite3": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/node": "^20.0.0"
+  },
+  "keywords": ["cli", "orchestrator", "links"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}

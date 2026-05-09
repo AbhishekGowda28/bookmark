@@ -1,0 +1,29 @@
+{
+  "name": "@bookmark/core",
+  "version": "1.0.0",
+  "description": "Core business logic - merging, deduplication, aggregation",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test 'src/**/*.test.ts'"
+  },
+  "dependencies": {
+    "@bookmark/types": "workspace:*",
+    "@bookmark/utils": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "keywords": ["core", "merge", "deduplicate"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}

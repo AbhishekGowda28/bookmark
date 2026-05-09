@@ -1,0 +1,32 @@
+{
+  "name": "@bookmark/parsers",
+  "version": "1.0.0",
+  "description": "Parsers for XBEL, Markdown, and RSS formats",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test 'src/**/*.test.ts'"
+  },
+  "dependencies": {
+    "@bookmark/types": "workspace:*",
+    "@bookmark/utils": "workspace:*",
+    "xml2js": "^0.6.2",
+    "markdown-it": "^13.0.1"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^13.0.5",
+    "@types/node": "^20.0.0"
+  },
+  "keywords": ["parsers", "xbel", "markdown", "rss"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}
