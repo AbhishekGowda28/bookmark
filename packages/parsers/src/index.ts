@@ -1,6 +1,5 @@
 import type { Link, RssEntry } from '@bookmark/types';
-import { isLink } from '@bookmark/schema';
-import { generateId } from '@bookmark/utils';
+import { isLink, generateId } from '@bookmark/validation';
 import { parseStringPromise } from 'xml2js';
 import MarkdownIt from 'markdown-it';
 

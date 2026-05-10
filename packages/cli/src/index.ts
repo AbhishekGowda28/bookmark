@@ -1,7 +1,7 @@
 import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parseXbel, parseRssEntries } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
-import { validateConfig } from '@bookmark/schema';
+import { validateConfig } from '@bookmark/validation';
 import { AbstractStep } from '@bookmark/pipeline';
 import { readFileSync } from 'fs';
 import { join } from 'path';
