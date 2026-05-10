@@ -15,7 +15,7 @@
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
     "start": "node dist/cli.js",
     "test": "tsx --test src/index.test.ts",
