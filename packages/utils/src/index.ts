@@ -107,16 +107,41 @@ export function generateId(): string {
 }
 
 /**
- * Ensure Link has valid ID
+ * Ensure Link has valid ID and matches discriminated union contract
+ * Returns BookmarkLink by default, or RssLink if feed is provided
  * @param link Link to normalize
  * @returns Link with guaranteed ID
  */
 export function ensureLink(link: Partial<Link>): Link {
-  return {
-    id: link.id || generateId(),
-    title: link.title || 'Untitled',
-    url: link.url || '',
-    source: link.source || 'bookmark',
-    feed: link.feed,
-  };
+  const source = link.source || 'bookmark';
+  const id = link.id || generateId();
+  const title = link.title || 'Untitled';
+  const url = link.url || '';
+
+  if (source === 'rss' && 'feed' in link && link.feed) {
+    // Return RssLink
+    return {
+      id,
+      title,
+      url,
+      source: 'rss',
+      feed: link.feed,
+      author: link.author,
+      tags: link.tags,
+      addedAt: link.addedAt,
+      metadata: link.metadata,
+    };
+  } else {
+    // Return BookmarkLink
+    return {
+      id,
+      title,
+      url,
+      source: 'bookmark',
+      author: link.author,
+      tags: link.tags,
+      addedAt: link.addedAt,
+      metadata: link.metadata,
+    };
+  }
 }

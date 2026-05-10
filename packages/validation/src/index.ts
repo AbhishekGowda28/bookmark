@@ -1,20 +1,51 @@
 import { z } from 'zod';
-import type { Link, Feed, FeedSource, RssEntry, Config } from '@bookmark/types';
+import type { Link, Feed, FeedSource, RssEntry, Config, BookmarkLink, RssLink } from '@bookmark/types';
 
 /**
- * Zod schema for Link interface
- * Validates both bookmark and RSS links
+ * Zod schema for LinkMetadata
  */
-export const LinkSchema = z.object({
+export const LinkMetadataSchema = z.record(z.string(), z.unknown()).optional();
+
+/**
+ * Zod schema for BookmarkLink
+ * Validates bookmark/tab links without feed field
+ */
+export const BookmarkLinkSchema = z.object({
   id: z.string().min(1, 'Link ID cannot be empty'),
   title: z.string().min(1, 'Title cannot be empty'),
   url: z.string().url('Invalid URL format'),
-  source: z.enum(['bookmark', 'rss']),
-  feed: z.string().optional(),
+  source: z.literal('bookmark'),
+  feed: z.undefined().optional(), // Explicitly forbid feed for bookmarks
   author: z.string().optional(),
   tags: z.array(z.string()).optional(),
   addedAt: z.string().datetime().optional(),
-}) satisfies z.ZodType<Link>;
+  metadata: LinkMetadataSchema,
+}) satisfies z.ZodType<BookmarkLink>;
+
+/**
+ * Zod schema for RssLink
+ * Validates RSS links with required feed field
+ */
+export const RssLinkSchema = z.object({
+  id: z.string().min(1, 'Link ID cannot be empty'),
+  title: z.string().min(1, 'Title cannot be empty'),
+  url: z.string().url('Invalid URL format'),
+  source: z.literal('rss'),
+  feed: z.string().min(1, 'Feed name required for RSS links'),
+  author: z.string().optional(),
+  tags: z.array(z.string()).optional(),
+  addedAt: z.string().datetime().optional(),
+  metadata: LinkMetadataSchema,
+}) satisfies z.ZodType<RssLink>;
+
+/**
+ * Zod schema for Link (discriminated union)
+ * Validates either BookmarkLink or RssLink based on source discriminator
+ */
+export const LinkSchema = z.discriminatedUnion('source', [
+  BookmarkLinkSchema,
+  RssLinkSchema,
+]) as z.ZodType<Link>;
 
 /**
  * Zod schema for FeedSource interface
@@ -55,9 +86,10 @@ export const RssEntrySchema = z.object({
 // ============= Validation Functions =============
 
 /**
- * Validates a Link object using Zod schema
+ * Validates a Link object using discriminated union schema
+ * Ensures feed field only present when source === 'rss'
  * @param data Unknown data to validate
- * @returns Validated Link object or throws ZodError
+ * @returns Validated Link object (BookmarkLink | RssLink) or throws ZodError
  */
 export function validateLink(data: unknown): Link {
   return LinkSchema.parse(data);
@@ -68,6 +100,34 @@ export function validateLink(data: unknown): Link {
  */
 export function isLink(data: unknown): data is Link {
   return LinkSchema.safeParse(data).success;
+}
+
+/**
+ * Validates a BookmarkLink specifically
+ */
+export function validateBookmarkLink(data: unknown): BookmarkLink {
+  return BookmarkLinkSchema.parse(data);
+}
+
+/**
+ * Type guard for BookmarkLink
+ */
+export function isBookmarkLink(data: unknown): data is BookmarkLink {
+  return BookmarkLinkSchema.safeParse(data).success;
+}
+
+/**
+ * Validates an RssLink specifically
+ */
+export function validateRssLink(data: unknown): RssLink {
+  return RssLinkSchema.parse(data);
+}
+
+/**
+ * Type guard for RssLink
+ */
+export function isRssLink(data: unknown): data is RssLink {
+  return RssLinkSchema.safeParse(data).success;
 }
 
 /**
@@ -209,16 +269,41 @@ export function generateId(): string {
 }
 
 /**
- * Ensure Link has valid ID
+ * Ensure Link has valid ID and matches discriminated union contract
+ * Returns BookmarkLink by default, or RssLink if feed is provided
  */
 export function ensureLink(link: Partial<Link>): Link {
-  return {
-    id: link.id || generateId(),
-    title: link.title || 'Untitled',
-    url: link.url || '',
-    source: link.source || 'bookmark',
-    feed: link.feed,
-  };
+  const source = link.source || 'bookmark';
+  const id = link.id || generateId();
+  const title = link.title || 'Untitled';
+  const url = link.url || '';
+
+  if (source === 'rss' && 'feed' in link && link.feed) {
+    // Return RssLink
+    return {
+      id,
+      title,
+      url,
+      source: 'rss',
+      feed: link.feed,
+      author: link.author,
+      tags: link.tags,
+      addedAt: link.addedAt,
+      metadata: link.metadata,
+    };
+  } else {
+    // Return BookmarkLink
+    return {
+      id,
+      title,
+      url,
+      source: 'bookmark',
+      author: link.author,
+      tags: link.tags,
+      addedAt: link.addedAt,
+      metadata: link.metadata,
+    };
+  }
 }
 
 // ============= Type Exports =============
