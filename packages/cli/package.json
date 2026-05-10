@@ -25,6 +25,7 @@
   "dependencies": {
     "@bookmark/core": "workspace:*",
     "@bookmark/parsers": "workspace:*",
+    "@bookmark/pipeline": "workspace:*",
     "@bookmark/schema": "workspace:*",
     "@bookmark/types": "workspace:*",
     "@bookmark/utils": "workspace:*"
