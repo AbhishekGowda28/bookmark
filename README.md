@@ -2,6 +2,23 @@
 
 ⚠️ **Personal Project** — This is a personal bookmark aggregator. Forking is disabled. External contributions are not accepted. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Project Overview
+
+**Searchable link aggregator** combining bookmarks, RSS feeds, and browser tabs into a single interface. Built with React + TypeScript, deployed to GitHub Pages.
+
+### Architecture & Documentation
+
+- **[STEP-DEVELOPMENT-GUIDE.md](docs/STEP-DEVELOPMENT-GUIDE.md)** — Complete guide for writing custom pipeline steps. Includes step contracts, AggregationData API reference, patterns (Load/Transform/Validate/Output), testing strategies, and common pitfalls.
+- **Phase 1 Complete** — Type system safety (discriminated unions), extensibility foundation (parser registry, public APIs), and polish (search options, validation step). Ready for Phase 2 (RSS aggregation features).
+- **Issues** — All 9 architectural deepening issues created. See [GitHub Issues](https://github.com/AbhishekGowda28/bookmark/issues) for Phase 2 work (starting with #10–#18).
+
+### Tech Stack
+
+- **Frontend**: React 18, TypeScript, Fuse.js (search), Vite
+- **Backend**: Node.js 24, TypeScript, pnpm workspaces
+- **Data**: XBEL (bookmarks/tabs), JSON (config), RSS (feeds)
+- **Infrastructure**: GitHub Actions (weekly/monthly fetches), GitHub Pages (static site)
+
 ---
 
 ## TotalTypescript
