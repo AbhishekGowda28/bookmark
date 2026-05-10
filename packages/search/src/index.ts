@@ -48,7 +48,7 @@ export class Searcher {
    * Internal Fuse.js instance access (for search implementation)
    * @internal
    */
-  private getFuseInstance(): Fuse<Link> {
+  getFuseInstance(): Fuse<Link> {
     return this.fuse;
   }
 }
@@ -87,8 +87,8 @@ export function search(searcher: Searcher, query: string, options?: Partial<Sear
     return links.slice(0, mergedOptions.limit);
   }
 
-  // Access Fuse.js through internal method only
-  // This keeps Fuse.js implementation details private to this package
+  // Access Fuse.js instance for search (internal implementation detail)
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const fuseSearcher = (searcher as any).fuse as Fuse<Link>;
   const results = fuseSearcher.search(trimmedQuery);
   const items = results.map((result) => result.item);

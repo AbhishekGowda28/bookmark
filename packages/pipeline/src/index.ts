@@ -94,7 +94,7 @@ export async function executePipeline<T>(
     const stepStartTime = performance.now();
     try {
       if (verbose) {
-        console.log(`  ▶ ${step.name}...`);
+        console.warn(`  ▶ ${step.name}...`);
       }
 
       currentInput = await step.execute(currentInput);
@@ -108,7 +108,7 @@ export async function executePipeline<T>(
       });
 
       if (verbose) {
-        console.log(`  ✓ ${step.name} (${duration.toFixed(2)}ms)`);
+        console.warn(`  ✓ ${step.name} (${duration.toFixed(2)}ms)`);
       }
     } catch (error) {
       const stepError = error instanceof Error ? error : new Error(String(error));
@@ -124,7 +124,7 @@ export async function executePipeline<T>(
       errors.push(stepError);
 
       if (verbose) {
-        console.log(`  ✗ ${step.name} failed: ${stepError.message}`);
+        console.warn(`  ✗ ${step.name} failed: ${stepError.message}`);
       }
 
       if (failFast) {
@@ -165,7 +165,8 @@ export async function executePipeline<T>(
 export class TypedPipelineBuilder<TInitial, TCurrent> {
   private steps: Step<unknown, unknown>[] = [];
 
-  constructor(initialType?: TInitial) {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  constructor(_initialType?: TInitial) {
     // Marker for type tracking only
   }
 
