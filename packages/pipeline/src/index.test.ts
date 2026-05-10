@@ -315,3 +315,100 @@ test('executePipeline: failed step result includes error', async () => {
   assert.ok(failedResult.error, 'Result should include error');
   assert.ok(failedResult.error?.message.includes('Step failed'), 'Error message should match');
 });
+
+// ============= TypedPipelineBuilder Tests =============
+
+// Import the new typed builder
+import { TypedPipelineBuilder, typedPipeline } from './index.js';
+
+test('TypedPipelineBuilder: basic typed pipeline execution', async () => {
+  const result = await typedPipeline<number>()
+    .addStep(new AddOneStep() as Step<number, number>)
+    .addStep(new MultiplyByTwoStep() as Step<number, number>)
+    .execute(5);
+
+  assert.ok(result.success, 'Pipeline should succeed');
+  // (5 + 1) * 2 = 12
+  assert.equal(result.data, 12, 'Output should be 12');
+});
+
+test('TypedPipelineBuilder: heterogeneous type transformations', async () => {
+  const result = await typedPipeline<number>()
+    .addStep(new AddOneStep() as Step<number, number>)
+    .addStep(new MultiplyByTwoStep() as Step<number, number>)
+    .addStep(new StringifyStep() as Step<number, string>)
+    .execute(5);
+
+  assert.ok(result.success, 'Pipeline should succeed');
+  // (5 + 1) * 2 = 12 -> "12"
+  assert.equal(result.data, '12', 'Output should be "12" (string)');
+  assert.equal(typeof result.data, 'string', 'Final type should be string');
+});
+
+test('TypedPipelineBuilder: supports custom steps', async () => {
+  class ConfigStep extends AbstractStep<string, { config: string }> {
+    constructor() {
+      super('ConfigStep');
+    }
+    async execute(input: string): Promise<{ config: string }> {
+      return { config: input };
+    }
+  }
+
+  class ProcessStep extends AbstractStep<{ config: string }, string[]> {
+    constructor() {
+      super('ProcessStep');
+    }
+    async execute(input: { config: string }): Promise<string[]> {
+      return [input.config, 'processed'];
+    }
+  }
+
+  const result = await typedPipeline<string>()
+    .addStep(new ConfigStep() as Step<string, { config: string }>)
+    .addStep(new ProcessStep() as Step<{ config: string }, string[]>)
+    .execute('data');
+
+  assert.ok(result.success, 'Pipeline should succeed');
+  assert.deepEqual(result.data, ['data', 'processed'], 'Output should be array');
+});
+
+test('TypedPipelineBuilder: error propagation', async () => {
+  const result = await typedPipeline<number>()
+    .addStep(new AddOneStep() as Step<number, number>)
+    .addStep(new FailingStep() as Step<number, string>)
+    .execute(5, { failFast: true });
+
+  assert.ok(!result.success, 'Pipeline should fail');
+  assert.equal(result.errors.length, 1, 'Should have one error');
+});
+
+test('TypedPipelineBuilder: getSteps returns steps', async () => {
+  const builder = typedPipeline<number>()
+    .addStep(new AddOneStep() as Step<number, number>)
+    .addStep(new MultiplyByTwoStep() as Step<number, number>);
+
+  const steps = builder.getSteps();
+  assert.equal(steps.length, 2, 'Should have 2 steps');
+});
+
+test('TypedPipelineBuilder: verbose mode logs execution', async () => {
+  const logs: string[] = [];
+  const originalLog = console.log;
+  console.log = (msg: string) => {
+    logs.push(msg);
+  };
+
+  try {
+    const result = await typedPipeline<number>()
+      .addStep(new AddOneStep() as Step<number, number>)
+      .addStep(new MultiplyByTwoStep() as Step<number, number>)
+      .execute(5, { verbose: true });
+
+    assert.ok(result.success, 'Pipeline should succeed');
+    assert.ok(logs.length > 0, 'Should have logged output');
+    assert.ok(logs.some((l) => l.includes('AddOne')), 'Should log step names');
+  } finally {
+    console.log = originalLog;
+  }
+});

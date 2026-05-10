@@ -2,7 +2,8 @@ import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parseXbel, parseRssEntries } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
 import { validateConfig } from '@bookmark/validation';
-import { AbstractStep } from '@bookmark/pipeline';
+import { AbstractStep, typedPipeline } from '@bookmark/pipeline';
+import type { Step } from '@bookmark/pipeline';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
@@ -182,22 +183,24 @@ function createAggregationPipeline() {
 }
 
 /**
- * Main orchestration function for link aggregation using pipeline
+ * Main orchestration function for link aggregation using typed pipeline
  * Reads from multiple sources, merges, deduplicates, and outputs
+ * Uses TypedPipelineBuilder for compile-time type safety through step chain
  * @param projectRoot Root directory of the project
  * @returns Promise<Link[]> - Aggregated and deduplicated links
  */
 export async function generate(projectRoot: string = process.cwd()): Promise<Link[]> {
   try {
-    const { executePipeline } = await import('@bookmark/pipeline');
-    const steps = createAggregationPipeline();
-    
-    // Use executePipeline directly to avoid type system constraints
-    // The pipeline executes steps sequentially, with final step output returned as final result
-    const result = await executePipeline<Link[]>(
-      steps as any[], // Cast to any to allow heterogeneous step types
-      projectRoot
-    );
+    // Use typedPipeline for type-safe heterogeneous transformations
+    // Type chain: string → AggregationData → ... → Link[]
+    const result = await typedPipeline<string>()
+      .addStep(new InitializeStep() as Step<string, AggregationData>)
+      .addStep(new LoadConfigurationStep() as Step<AggregationData, AggregationData>)
+      .addStep(new LoadBookmarksStep() as Step<AggregationData, AggregationData>)
+      .addStep(new LoadTabsStep() as Step<AggregationData, AggregationData>)
+      .addStep(new LoadRssStep() as Step<AggregationData, AggregationData>)
+      .addStep(new MergeLinksStep() as Step<AggregationData, Link[]>)
+      .execute(projectRoot);
 
     if (!result.success) {
       throw new Error(`Pipeline failed: ${result.errors.map((e) => e.message).join(', ')}`);
