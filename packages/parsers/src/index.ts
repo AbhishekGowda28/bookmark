@@ -3,6 +3,11 @@ import { isLink, generateId } from '@bookmark/validation';
 import { parseStringPromise } from 'xml2js';
 import MarkdownIt from 'markdown-it';
 
+// Re-export registry types and utilities
+export type { Parser, Registry } from './registry.js';
+export { isFileInput, isEntriesInput, createParserRegistry } from './registry.js';
+import { createParserRegistry, type Parser } from './registry.js';
+
 /**
  * Parse XBEL (XML Bookmark Exchange Language) format
  * Recursively walks the DOM tree and extracts all bookmarks
@@ -76,7 +81,7 @@ export async function parseXbel(content: string): Promise<Link[]> {
  * @param content Markdown string
  * @returns Array of Link objects
  */
-export function parseMarkdown(content: string): Link[] {
+export async function parseMarkdown(content: string): Promise<Link[]> {
   try {
     const md = new MarkdownIt();
     const tokens = md.parse(content, {});
@@ -137,7 +142,7 @@ export function parseMarkdown(content: string): Link[] {
  * @param entries RSS entries from workflow
  * @returns Array of Link objects
  */
-export function parseRssEntries(entries: RssEntry[]): Link[] {
+export async function parseRssEntries(entries: RssEntry[]): Promise<Link[]> {
   return entries
     .map((entry) => ({
       id: generateId(),
@@ -148,6 +153,39 @@ export function parseRssEntries(entries: RssEntry[]): Link[] {
     }))
     .filter(isLink);
 }
+
+/**
+ * Global singleton registry instance
+ * Pre-registers XBEL, Markdown, and RSS parsers
+ */
+export const parserRegistry = createParserRegistry(
+  new Map<string, Parser>([
+    [
+      'xbel',
+      {
+        type: 'file',
+        name: 'xbel',
+        parse: parseXbel,
+      },
+    ],
+    [
+      'markdown',
+      {
+        type: 'file',
+        name: 'markdown',
+        parse: parseMarkdown,
+      },
+    ],
+    [
+      'rss',
+      {
+        type: 'entries',
+        name: 'rss',
+        parse: parseRssEntries,
+      },
+    ],
+  ])
+);
 
 export default {
   parseXbel,

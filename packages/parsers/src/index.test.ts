@@ -66,18 +66,18 @@ test('parseXbel - skips invalid bookmarks', async () => {
   assert.strictEqual(links[0].title, 'Valid');
 });
 
-test('parseMarkdown - extracts markdown links', () => {
+test('parseMarkdown - extracts markdown links', async () => {
   const markdown = `# Test
 [Example Link](https://example.com)
 [Another Link](https://another.com)`;
 
-  const links = parseMarkdown(markdown);
+  const links = await parseMarkdown(markdown);
   assert.strictEqual(links.length, 2);
   assert.strictEqual(links[0].url, 'https://example.com');
   assert.strictEqual(links[1].url, 'https://another.com');
 });
 
-test('parseMarkdown - handles mixed content', () => {
+test('parseMarkdown - handles mixed content', async () => {
   const markdown = `# Heading
 Some text here
 [Link 1](https://link1.com)
@@ -85,19 +85,19 @@ Some text here
 [Link 2](https://link2.com)
 *Italic text*`;
 
-  const links = parseMarkdown(markdown);
+  const links = await parseMarkdown(markdown);
   assert.strictEqual(links.length, 2);
 });
 
-test('parseMarkdown - handles empty markdown', () => {
+test('parseMarkdown - handles empty markdown', async () => {
   const markdown = `# Empty
 No links here`;
 
-  const links = parseMarkdown(markdown);
+  const links = await parseMarkdown(markdown);
   assert.strictEqual(links.length, 0);
 });
 
-test('parseRssEntries - converts entries to links', () => {
+test('parseRssEntries - converts entries to links', async () => {
   const entries = [
     {
       author: 'TechNews',
@@ -113,14 +113,14 @@ test('parseRssEntries - converts entries to links', () => {
     },
   ];
 
-  const links = parseRssEntries(entries);
+  const links = await parseRssEntries(entries);
   assert.strictEqual(links.length, 2);
   assert.strictEqual(links[0].feed, 'TechNews');
   assert.strictEqual(links[0].source, 'rss');
   assert.strictEqual(links[1].feed, 'DevBlog');
 });
 
-test('parseRssEntries - filters invalid entries', () => {
+test('parseRssEntries - filters invalid entries', async () => {
   const entries = [
     {
       author: 'ValidFeed',
@@ -136,7 +136,7 @@ test('parseRssEntries - filters invalid entries', () => {
     },
   ];
 
-  const links = parseRssEntries(entries);
+  const links = await parseRssEntries(entries);
   // Both should be included since our validation is lenient
   assert(links.length >= 1);
 });
