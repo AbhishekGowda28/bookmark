@@ -332,7 +332,8 @@ Move each format into a class implementing Parser (XbelParser, MarkdownParser, R
 - Error visibility improved: each format reports what failed and why
 - Future: could support plugins or dynamic format loading
 
----
+**Phase 2 Implementation Note:**
+See [Config-Driven RSS Aggregation - Parser Registry Pattern](./solutions/best-practices/config-driven-rss-aggregation.md#parser-registry-pattern) for the RSS parser implementation using `parseRssEntries()` with `ParseResult` error handling. Phase 2 demonstrates this pattern in production code for RSS feeds.
 
 ### 3. **Typed Pipeline Framework** (HIGH PRIORITY)
 
@@ -362,7 +363,8 @@ Implement as a linked type chain so each addStep() returns a builder with the ou
 - IDE autocompletion shows what types each step accepts/produces
 - Easier to debug: type mismatch is compiler error not runtime error
 
----
+**Phase 2 Implementation Note:**
+See [Config-Driven RSS Aggregation - Type Safety & Pipeline Contract](./solutions/best-practices/config-driven-rss-aggregation.md#type-safety--pipeline-contract) for Phase 2 RSS pipeline using `Step<AggregationData, AggregationData>` throughout. All RSS pipeline steps (FetchRssStep, ValidateConfigStep, GenerateReadmeStep, AggregationReportStep) follow this typed pattern without `any` casts.
 
 ### 4. **Pipeline Step Repository** (MEDIUM PRIORITY)
 
@@ -507,7 +509,8 @@ Allows GitHub Actions to validate feeds.json before running full pipeline.
 - Could run validation as separate GitHub action before main workflow
 - Easier to add new validation rules (extend step, don't modify CLI)
 
----
+**Phase 2 Implementation Note:**
+See [Config-Driven RSS Aggregation - ValidateConfigStep](./solutions/best-practices/config-driven-rss-aggregation.md#3-validateconfigstep-early-error-detection) for the Phase 2 implementation. ValidateConfigStep runs before FetchRssStep to validate feeds.json schema, catching configuration errors early and preventing invalid state from propagating downstream. This is Phase C.2 validated as production-ready pattern.
 
 ### 9. **Configurable Search Options** (LOW PRIORITY)
 

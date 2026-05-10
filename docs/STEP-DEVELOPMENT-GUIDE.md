@@ -562,3 +562,4 @@ async execute(data: AggregationData): Promise<AggregationData> {
 - [Pipeline Documentation](./PIPELINE.md)
 - [AggregationData API](../packages/cli/src/pipeline-context.ts)
 - [Example Steps](../packages/cli/src/index.ts) - LoadBookmarksStep, LoadTabsStep, MergeLinksStep
+- [Phase 2 RSS Implementation](./solutions/best-practices/config-driven-rss-aggregation.md) - Real-world examples of Load, Transform, Validate, and Output steps handling RSS feeds with error collection and per-feed limits
