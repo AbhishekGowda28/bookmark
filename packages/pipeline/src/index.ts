@@ -151,8 +151,63 @@ export async function executePipeline<T>(
 }
 
 /**
- * Create a pipeline builder for fluent API
- * Allows composing steps with method chaining
+ * Typed pipeline builder supporting heterogeneous step transformations
+ * Preserves type information through the chain: Input → Output₁ → Output₂ → ... → OutputN
+ *
+ * Example:
+ *   const result = await pipeline<string>()
+ *     .addStep(step1 as Step<string, Config>)
+ *     .addStep(step2 as Step<Config, Link[]>)
+ *     .addStep(step3 as Step<Link[], ProcessedLinks>)
+ *     .execute("data");
+ *   // result.data: ProcessedLinks
+ */
+export class TypedPipelineBuilder<TInitial, TCurrent> {
+  private steps: Step<unknown, unknown>[] = [];
+
+  constructor(initialType?: TInitial) {
+    // Marker for type tracking only
+  }
+
+  /**
+   * Add a step that transforms TCurrent → TNext
+   * Type-safe: compiler ensures step input type matches current output type
+   */
+  addStep<TNext>(step: Step<TCurrent, TNext>): TypedPipelineBuilder<TInitial, TNext> {
+    this.steps.push(step);
+    return this as unknown as TypedPipelineBuilder<TInitial, TNext>;
+  }
+
+  /**
+   * Execute the pipeline and return result with final type
+   */
+  async execute(
+    initialInput: TInitial,
+    config?: PipelineConfig
+  ): Promise<PipelineResult<TCurrent>> {
+    return executePipeline<TCurrent>(this.steps, initialInput, config);
+  }
+
+  /**
+   * Get the current steps (for debugging)
+   */
+  getSteps(): Step<unknown, unknown>[] {
+    return [...this.steps];
+  }
+}
+
+/**
+ * Create a new typed pipeline builder
+ * @template T Initial input type
+ * @returns Pipeline builder with type-safe addStep method
+ */
+export function typedPipeline<T>(): TypedPipelineBuilder<T, T> {
+  return new TypedPipelineBuilder<T, T>();
+}
+
+/**
+ * Legacy pipeline builder (for backward compatibility)
+ * Does not preserve types through the chain
  */
 export class PipelineBuilder<Input, Output> {
   private steps: Step<unknown, unknown>[] = [];
@@ -181,7 +236,7 @@ export class PipelineBuilder<Input, Output> {
 }
 
 /**
- * Helper to create a pipeline builder
+ * Helper to create a legacy pipeline builder (backward compatible)
  */
 export function pipeline<T>(): PipelineBuilder<T, T> {
   return new PipelineBuilder();
@@ -189,7 +244,8 @@ export function pipeline<T>(): PipelineBuilder<T, T> {
 
 export default {
   executePipeline,
+  TypedPipelineBuilder,
+  typedPipeline,
   PipelineBuilder,
-  AbstractStep,
   pipeline,
 };
