@@ -19,10 +19,11 @@
     "format": "prettier --write src"
   },
   "dependencies": {
+    "@bookmark/schema": "workspace:*",
     "@bookmark/types": "workspace:*",
     "@bookmark/utils": "workspace:*",
-    "markdown-it": "^13.0.1",
-    "xml2js": "^0.6.2"
+    "markdown-it": "^13.0.0",
+    "xml2js": "^0.6.0"
   },
   "devDependencies": {
     "@types/markdown-it": "^13.0.5",

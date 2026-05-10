@@ -1,5 +1,6 @@
 import type { Link, RssEntry } from '@bookmark/types';
-import { validateLink, generateId } from '@bookmark/utils';
+import { isLink } from '@bookmark/schema';
+import { generateId } from '@bookmark/utils';
 import { parseStringPromise } from 'xml2js';
 import MarkdownIt from 'markdown-it';
 
@@ -42,7 +43,7 @@ export async function parseXbel(content: string): Promise<Link[]> {
             };
 
             // Validate and add
-            if (validateLink(link)) {
+            if (isLink(link)) {
               links.push(link);
             }
           }
@@ -116,7 +117,7 @@ export function parseMarkdown(content: string): Link[] {
               };
 
               // Validate and add
-              if (validateLink(link)) {
+              if (isLink(link)) {
                 links.push(link);
               }
             }
@@ -146,7 +147,7 @@ export function parseRssEntries(entries: RssEntry[]): Link[] {
       source: 'rss' as const,
       feed: entry.author,
     }))
-    .filter(validateLink);
+    .filter(isLink);
 }
 
 export default {

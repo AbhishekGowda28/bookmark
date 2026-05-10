@@ -1,7 +1,7 @@
 import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parseXbel, parseRssEntries } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
-import { validateConfig } from '@bookmark/utils';
+import { validateConfig } from '@bookmark/schema';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
@@ -14,12 +14,13 @@ export function loadConfig(configPath: string): Config {
   try {
     const content = readFileSync(configPath, 'utf-8');
     const config = JSON.parse(content);
-    if (!validateConfig(config)) {
-      throw new Error('Invalid config schema');
-    }
-    return config;
+    return validateConfig(config);
   } catch (error) {
-    console.error(`Failed to load config from ${configPath}:`, error);
+    if (error instanceof Error && error.message.includes('Invalid config schema')) {
+      console.error(`Failed to load config from ${configPath}:`, error.message);
+    } else {
+      console.error(`Failed to load config from ${configPath}:`, error);
+    }
     throw error;
   }
 }

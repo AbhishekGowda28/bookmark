@@ -23,10 +23,11 @@
     "format": "prettier --write src"
   },
   "dependencies": {
-    "@bookmark/types": "workspace:*",
-    "@bookmark/utils": "workspace:*",
+    "@bookmark/core": "workspace:*",
     "@bookmark/parsers": "workspace:*",
-    "@bookmark/core": "workspace:*"
+    "@bookmark/schema": "workspace:*",
+    "@bookmark/types": "workspace:*",
+    "@bookmark/utils": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
