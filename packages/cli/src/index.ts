@@ -1,4 +1,4 @@
-// Re-export pipeline context types as public API
+// Re-export pipeline context types and utilities as public API
 export type { AggregationData } from './pipeline-context.js';
 export { 
   isAggregationData, 
@@ -7,6 +7,9 @@ export {
   getConfig, 
   getProjectRoot 
 } from './pipeline-context.js';
+export { FetchRssStep } from './steps/FetchRssStep.js';
+export { GenerateReadmeStep } from './steps/GenerateReadmeStep.js';
+export { AggregationReportStep } from './steps/AggregationReportStep.js';
 
 import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parserRegistry } from '@bookmark/parsers';
@@ -18,6 +21,9 @@ import type { AggregationData } from './pipeline-context.js';
 import { getConfig } from './pipeline-context.js';
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import FetchRssStep from './steps/FetchRssStep.js';
+import GenerateReadmeStep from './steps/GenerateReadmeStep.js';
+import AggregationReportStep from './steps/AggregationReportStep.js';
 
 /**
  * Load configuration from feeds.json
@@ -227,10 +233,10 @@ class LoadRssStep implements Step<AggregationData, AggregationData> {
 /**
  * Step 6: Merge and deduplicate all sources
  */
-class MergeLinksStep implements Step<AggregationData, Link[]> {
+class MergeLinksStep implements Step<AggregationData, AggregationData> {
   name = 'MergeLinks';
 
-  async execute(data: AggregationData): Promise<Link[]> {
+  async execute(data: AggregationData): Promise<AggregationData> {
     console.log('🔀 Merging and deduplicating...');
     const rssResult = await parserRegistry.parse('rss', data.rssEntries);
     if (rssResult.errors.length > 0) {
@@ -238,13 +244,16 @@ class MergeLinksStep implements Step<AggregationData, Link[]> {
     }
     const allLinks = combine([data.bookmarks, data.tabs, rssResult.links]);
     console.log(`   Total unique links: ${allLinks.length}`);
-    return allLinks;
+    
+    // Store merged links in data for downstream steps
+    data.links = allLinks;
+    return data;
   }
 }
 
 /**
  * Main orchestration function for link aggregation using typed pipeline
- * Reads from multiple sources, merges, deduplicates, and outputs
+ * Reads from multiple sources, merges, deduplicates, generates README, and outputs
  * Uses TypedPipelineBuilder for compile-time type safety through step chain
  * @param projectRoot Root directory of the project
  * @returns Promise<Link[]> - Aggregated and deduplicated links
@@ -252,21 +261,25 @@ class MergeLinksStep implements Step<AggregationData, Link[]> {
 export async function generate(projectRoot: string = process.cwd()): Promise<Link[]> {
   try {
     // Use typedPipeline for type-safe heterogeneous transformations
-    // Type chain: string → AggregationData → ... → Link[]
+    // Type chain: string → AggregationData → ... → AggregationData
     const result = await typedPipeline<string>()
       .addStep(new InitializeStep() as Step<string, AggregationData>)
       .addStep(new LoadConfigurationStep() as Step<AggregationData, AggregationData>)
+      .addStep(new ValidateConfigStep() as Step<AggregationData, AggregationData>)
       .addStep(new LoadBookmarksStep() as Step<AggregationData, AggregationData>)
       .addStep(new LoadTabsStep() as Step<AggregationData, AggregationData>)
       .addStep(new LoadRssStep() as Step<AggregationData, AggregationData>)
-      .addStep(new MergeLinksStep() as Step<AggregationData, Link[]>)
+      .addStep(new MergeLinksStep() as Step<AggregationData, AggregationData>)
+      .addStep(new GenerateReadmeStep() as Step<AggregationData, AggregationData>)
+      .addStep(new AggregationReportStep() as Step<AggregationData, AggregationData>)
       .execute(projectRoot);
 
     if (!result.success) {
       throw new Error(`Pipeline failed: ${result.errors.map((e) => e.message).join(', ')}`);
     }
 
-    return result.data as Link[];
+    const data = result.data as AggregationData;
+    return data.links || [];
   } catch (error) {
     console.error('Error during generation:', error);
     throw error;

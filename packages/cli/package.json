@@ -18,6 +18,8 @@
     "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
     "start": "node dist/cli.js",
+    "fetch": "node dist/cli.js fetch",
+    "aggregate": "node dist/cli.js aggregate",
     "test": "tsx --test src/index.test.ts",
     "lint": "eslint src --max-warnings 0",
     "format": "prettier --write src"

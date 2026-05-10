@@ -60,15 +60,39 @@ export interface AggregationData {
    */
   tabs: Link[];
 
-  /**
-   * RSS entries loaded from rss-entries.json
-   * Raw entry objects from RSS feeds (before conversion to Links)
-   * 
-   * **Populated by:** LoadRssStep
-   * **Converted by:** MergeLinksStep via parserRegistry.parse('rss', ...)
-   * **Initial value:** Empty array []
-   */
+/**
+ * RSS entries loaded from rss-entries.json
+ * Raw entry objects from RSS feeds (before conversion to Links)
+ * 
+ * **Populated by:** LoadRssStep
+ * **Converted by:** MergeLinksStep via parserRegistry.parse('rss', ...)
+ * **Initial value:** Empty array []
+ */
   rssEntries: RssEntry[];
+
+  /**
+   * Aggregated links from RSS feeds (after FetchRssStep)
+   * Links fetched from configured RSS sources
+   * 
+   * **Populated by:** FetchRssStep
+   * **Used by:** Any step that needs fetched RSS links
+   * **Initial value:** Undefined (populated on demand)
+   */
+  links?: Link[];
+
+  /**
+   * Aggregation errors (warnings from individual steps)
+   * Non-fatal errors from parsing or fetching operations
+   * 
+   * **Populated by:** FetchRssStep, other parsing steps
+   * **Used by:** Error reporting steps
+   * **Initial value:** Undefined (populated on demand)
+   */
+  errors?: Array<{
+    feed?: string; // Feed ID if error is feed-specific
+    error: string; // Human-readable error message
+    severity?: 'warning' | 'error'; // Error severity level
+  }>;
 }
 
 /**
@@ -88,7 +112,9 @@ export function isAggregationData(obj: unknown): obj is AggregationData {
     (data.config === undefined || typeof data.config === 'object') &&
     Array.isArray(data.bookmarks) &&
     Array.isArray(data.tabs) &&
-    Array.isArray(data.rssEntries)
+    Array.isArray(data.rssEntries) &&
+    (data.links === undefined || Array.isArray(data.links)) &&
+    (data.errors === undefined || Array.isArray(data.errors))
   );
 }
 
