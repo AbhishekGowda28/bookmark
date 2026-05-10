@@ -12,7 +12,7 @@
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test src/index.test.ts",
     "lint": "eslint src --max-warnings 0",

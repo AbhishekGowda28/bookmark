@@ -12,7 +12,7 @@
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src --max-warnings 0",
     "format": "prettier --write src"

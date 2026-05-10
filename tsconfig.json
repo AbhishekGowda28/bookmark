@@ -15,9 +15,9 @@
     "sourceMap": true,
     "baseUrl": ".",
     "paths": {
-      "@bookmark/*": ["packages/*/src"]
-    }
+      "@bookmark/*": ["packages/*/dist"]
+    },
+    "noEmit": true
   },
-  "include": ["packages/*/src", "web/src"],
   "exclude": ["node_modules", "dist", "build", "**/*.test.ts", "**/*.spec.ts"]
 }

@@ -1,0 +1,40 @@
+{
+  "feeds": [
+    {
+      "id": "paul-graham",
+      "author": "Paul Graham",
+      "authorMaxEntries": 10,
+      "sources": [
+        {
+          "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+          "schedule": "monthly",
+          "maxEntries": 5
+        }
+      ]
+    },
+    {
+      "id": "joel-on-software",
+      "author": "Joel Spolsky",
+      "authorMaxEntries": 15,
+      "sources": [
+        {
+          "url": "https://www.joelonsoftware.com/feed/",
+          "schedule": "weekly",
+          "maxEntries": 10
+        }
+      ]
+    },
+    {
+      "id": "ilya-grigorik",
+      "author": "Ilya Grigorik",
+      "authorMaxEntries": 20,
+      "sources": [
+        {
+          "url": "https://ilya.grigorik.com/essays/rss/",
+          "schedule": "weekly",
+          "maxEntries": 15
+        }
+      ]
+    }
+  ]
+}
