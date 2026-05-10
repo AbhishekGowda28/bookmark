@@ -6,7 +6,6 @@ import {
   executePipeline,
   PipelineBuilder,
   pipeline,
-  PipelineConfig,
 } from './index.js';
 
 // Mock steps for testing
@@ -34,6 +33,7 @@ class StringifyStep implements Step<number, string> {
 
 class FailingStep implements Step<string, string> {
   name = 'FailingStep';
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   async execute(_input: string): Promise<string> {
     throw new Error('Step failed on purpose');
   }
@@ -319,7 +319,7 @@ test('executePipeline: failed step result includes error', async () => {
 // ============= TypedPipelineBuilder Tests =============
 
 // Import the new typed builder
-import { TypedPipelineBuilder, typedPipeline } from './index.js';
+import { typedPipeline } from './index.js';
 
 test('TypedPipelineBuilder: basic typed pipeline execution', async () => {
   const result = await typedPipeline<number>()
@@ -394,8 +394,8 @@ test('TypedPipelineBuilder: getSteps returns steps', async () => {
 
 test('TypedPipelineBuilder: verbose mode logs execution', async () => {
   const logs: string[] = [];
-  const originalLog = console.log;
-  console.log = (msg: string) => {
+  const originalWarn = console.warn;
+  console.warn = (msg: string) => {
     logs.push(msg);
   };
 
@@ -409,6 +409,6 @@ test('TypedPipelineBuilder: verbose mode logs execution', async () => {
     assert.ok(logs.length > 0, 'Should have logged output');
     assert.ok(logs.some((l) => l.includes('AddOne')), 'Should log step names');
   } finally {
-    console.log = originalLog;
+    console.warn = originalWarn;
   }
 });
