@@ -1,5 +1,5 @@
 import type { Link } from '@bookmark/types';
-import { normalizeUrl } from '@bookmark/utils';
+import { normalizeUrl } from '@bookmark/validation';
 
 /**
  * Merge multiple arrays of links into a single array

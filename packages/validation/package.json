@@ -1,0 +1,32 @@
+{
+  "name": "@bookmark/validation",
+  "version": "1.0.0",
+  "description": "Unified validation layer consolidating Zod schemas and type guards for all data contracts",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test src/index.test.ts",
+    "lint": "eslint src --max-warnings 0",
+    "format": "prettier --write src"
+  },
+  "dependencies": {
+    "@bookmark/types": "workspace:*",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.21.0"
+  },
+  "keywords": ["validation", "schema", "zod"],
+  "author": "Abhishek Gowda",
+  "license": "MIT"
+}
