@@ -13,11 +13,11 @@
   },
   "dependencies": {
     "@bookmark/hooks": "workspace:*",
+    "@bookmark/search": "workspace:*",
     "@bookmark/types": "workspace:*",
     "@bookmark/utils": "workspace:*",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "fuse.js": "^7.0.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",

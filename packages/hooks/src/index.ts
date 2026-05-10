@@ -1,30 +1,30 @@
 import { useMemo, useState } from 'react';
 import type { Link } from '@bookmark/types';
-import Fuse from 'fuse.js';
+import { createSearcher, search } from '@bookmark/search';
+
+interface UseSearchReturn {
+  query: string;
+  setQuery: (query: string) => void;
+  results: Link[];
+  resultCount: number;
+}
 
 /**
- * Hook for searching and filtering links with fuzzy search
+ * React hook for searching and filtering links with fuzzy search
+ * Uses pure @bookmark/search functions under the hood
  * @param links Array of Link objects to search
  * @returns Query, setQuery, results, and result count
  */
-export function useSearch(links: Link[]) {
-  const [query, setQuery] = useState('');
+export function useSearch(links: Link[]): UseSearchReturn {
+  const [query, setQuery] = useState<string>('');
 
-  const fuse = useMemo(() => {
-    return new Fuse(links, {
-      keys: ['title', 'url'],
-      threshold: 0.3,
-      minMatchCharLength: 1,
-    });
+  const searcher = useMemo(() => {
+    return createSearcher(links);
   }, [links]);
 
   const results = useMemo(() => {
-    if (!query.trim()) {
-      return links;
-    }
-    const searchResults = fuse.search(query);
-    return searchResults.map((result) => result.item);
-  }, [query, fuse, links]);
+    return search(searcher, query);
+  }, [query, searcher]);
 
   return {
     query,
