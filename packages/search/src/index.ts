@@ -1,58 +1,116 @@
 import type { Link } from '@bookmark/types';
 import Fuse from 'fuse.js';
-import { FUSE_CONFIG, FUSE_OPTIONS } from './config.js';
+import type { SearchOptions } from './config.js';
+import { DEFAULT_SEARCH_OPTIONS } from './config.js';
 
 export { FUSE_CONFIG } from './config.js';
+export type { SearchOptions } from './config.js';
 
 /**
- * Represents a Fuse.js searcher instance
- * Opaque type to encapsulate Fuse.js implementation details
+ * Opaque searcher type - encapsulates Fuse.js implementation
+ * Users cannot directly access internal Fuse.js instance
+ * Only interact with searcher through public search functions
  */
-export type Searcher = Fuse<Link>;
+export class Searcher {
+  private readonly fuse: Fuse<Link>;
+  private readonly links: Link[];
+  private readonly options: Required<SearchOptions>;
 
-/**
- * Create a Fuse.js searcher instance for the given links
- * This is a pure function - same input always produces equivalent output
- * 
- * @param links Array of Link objects to index
- * @returns Searcher instance ready for searching
- */
-export function createSearcher(links: Link[]): Searcher {
-  return new Fuse(links, FUSE_OPTIONS);
+  constructor(links: Link[], options: SearchOptions = {}) {
+    this.links = links;
+    this.options = { ...DEFAULT_SEARCH_OPTIONS, ...options };
+
+    // Create Fuse.js instance with normalized options
+    this.fuse = new Fuse(links, {
+      keys: ['title', 'url'],
+      threshold: this.options.threshold,
+      minMatchCharLength: this.options.minMatchCharLength,
+    });
+  }
+
+  /**
+   * Get the links this searcher indexes (for internal use)
+   * @internal
+   */
+  getLinks(): Link[] {
+    return this.links;
+  }
+
+  /**
+   * Get the search options for this instance
+   * @internal
+   */
+  getOptions(): Readonly<Required<SearchOptions>> {
+    return Object.freeze(this.options);
+  }
+
+  /**
+   * Internal Fuse.js instance access (for search implementation)
+   * @internal
+   */
+  private getFuseInstance(): Fuse<Link> {
+    return this.fuse;
+  }
 }
 
 /**
- * Perform a fuzzy search on the indexed links
+ * Create a searcher instance for the given links with optional configuration
+ * 
+ * @param links Array of Link objects to index
+ * @param options Optional search configuration (threshold, weights, limits)
+ * @returns Searcher instance ready for searching
+ * 
+ * @example
+ * const searcher = createSearcher(myLinks, { threshold: 0.5 });
+ * const results = search(searcher, 'my query');
+ */
+export function createSearcher(links: Link[], options?: SearchOptions): Searcher {
+  return new Searcher(links, options);
+}
+
+/**
+ * Perform a fuzzy search on indexed links
  * Returns all links if query is empty or only whitespace
  * 
- * @param searcher Fuse.js searcher instance
+ * @param searcher Searcher instance
  * @param query Search query string
- * @returns Array of matching Link objects
+ * @param options Optional per-query overrides (limit, etc.)
+ * @returns Array of matching Link objects up to configured limit
  */
-export function search(searcher: Searcher, query: string): Link[] {
+export function search(searcher: Searcher, query: string, options?: Partial<SearchOptions>): Link[] {
   const trimmedQuery = query.trim();
+  const mergedOptions = { ...searcher.getOptions(), ...options };
 
+  // Return empty query results as all indexed links
   if (!trimmedQuery) {
-    // Return all links indexed in the searcher
-    // We extract them from the internal Fuse.js state
-    const docs = searcher.getIndex().docs;
-    return docs ? Array.from(docs) : [];
+    const links = searcher.getLinks();
+    return links.slice(0, mergedOptions.limit);
   }
 
-  const results = searcher.search(trimmedQuery);
-  return results.map((result) => result.item);
+  // Access Fuse.js through internal method only
+  // This keeps Fuse.js implementation details private to this package
+  const fuseSearcher = (searcher as any).fuse as Fuse<Link>;
+  const results = fuseSearcher.search(trimmedQuery);
+  const items = results.map((result) => result.item);
+
+  return items.slice(0, mergedOptions.limit);
 }
 
 /**
  * Convenience function: create searcher and search in one call
- * Useful for one-off searches or testing
+ * Useful for one-off searches or testing where searcher reuse isn't needed
  * 
  * @param links Array of Link objects
  * @param query Search query string
+ * @param options Optional search configuration
  * @returns Array of matching Link objects
  */
-export function searchLinks(links: Link[], query: string): Link[] {
-  const searcher = createSearcher(links);
+export function searchLinks(
+  links: Link[],
+  query: string,
+  options?: SearchOptions
+): Link[] {
+  const searcher = createSearcher(links, options);
   return search(searcher, query);
 }
 
