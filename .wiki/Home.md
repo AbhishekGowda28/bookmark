@@ -20,7 +20,6 @@ Welcome to the Bookmark and RSS Aggregator wiki. This is the central hub for pro
 ### Planning & Tracking
 - **[Kanban Board](KANBAN.md)** - Current sprint progress and issue tracking
 - **[Issues Log](ISSUES.md)** - Detailed issue definitions and requirements
-- **[Planning Brainstorms](brainstorms/)** - Exploratory design sessions
 
 ---
 
