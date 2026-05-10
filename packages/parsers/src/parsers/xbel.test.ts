@@ -11,11 +11,12 @@ test('parseXbel - parses simple bookmarks', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].title, 'Example');
-  assert.strictEqual(links[0].url, 'https://example.com');
-  assert.strictEqual(links[0].source, 'bookmark');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].title, 'Example');
+  assert.strictEqual(result.links[0].url, 'https://example.com');
+  assert.strictEqual(result.links[0].source, 'bookmark');
+  assert.strictEqual(result.success, true);
 });
 
 test('parseXbel - parses nested folders', async () => {
@@ -35,10 +36,10 @@ test('parseXbel - parses nested folders', async () => {
   </folder>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].title, 'Link 1');
-  assert.strictEqual(links[1].title, 'Nested Link');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].title, 'Link 1');
+  assert.strictEqual(result.links[1].title, 'Nested Link');
 });
 
 test('parseXbel - handles empty XBEL', async () => {
@@ -46,8 +47,9 @@ test('parseXbel - handles empty XBEL', async () => {
 <xbel version="1.0">
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 0);
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 0);
+  assert.strictEqual(result.success, true);
 });
 
 test('parseXbel - skips invalid bookmarks', async () => {
@@ -61,7 +63,8 @@ test('parseXbel - skips invalid bookmarks', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].title, 'Valid');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].title, 'Valid');
+  assert.ok(result.errors.length > 0);
 });

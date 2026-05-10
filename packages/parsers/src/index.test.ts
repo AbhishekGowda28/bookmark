@@ -11,11 +11,11 @@ test('parseXbel - parses simple bookmarks', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].title, 'Example');
-  assert.strictEqual(links[0].url, 'https://example.com');
-  assert.strictEqual(links[0].source, 'bookmark');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].title, 'Example');
+  assert.strictEqual(result.links[0].url, 'https://example.com');
+  assert.strictEqual(result.links[0].source, 'bookmark');
 });
 
 test('parseXbel - parses nested folders', async () => {
@@ -35,10 +35,10 @@ test('parseXbel - parses nested folders', async () => {
   </folder>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].title, 'Link 1');
-  assert.strictEqual(links[1].title, 'Link 2');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].title, 'Link 1');
+  assert.strictEqual(result.links[1].title, 'Link 2');
 });
 
 test('parseXbel - handles empty XBEL', async () => {
@@ -46,8 +46,8 @@ test('parseXbel - handles empty XBEL', async () => {
 <xbel version="1.0">
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 0);
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 0);
 });
 
 test('parseXbel - skips invalid bookmarks', async () => {
@@ -61,9 +61,9 @@ test('parseXbel - skips invalid bookmarks', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parseXbel(xbel);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].title, 'Valid');
+  const result = await parseXbel(xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].title, 'Valid');
 });
 
 test('parseMarkdown - extracts markdown links', async () => {
@@ -71,10 +71,10 @@ test('parseMarkdown - extracts markdown links', async () => {
 [Example Link](https://example.com)
 [Another Link](https://another.com)`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].url, 'https://example.com');
-  assert.strictEqual(links[1].url, 'https://another.com');
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].url, 'https://example.com');
+  assert.strictEqual(result.links[1].url, 'https://another.com');
 });
 
 test('parseMarkdown - handles mixed content', async () => {
@@ -85,16 +85,16 @@ Some text here
 [Link 2](https://link2.com)
 *Italic text*`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 2);
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 2);
 });
 
 test('parseMarkdown - handles empty markdown', async () => {
   const markdown = `# Empty
 No links here`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 0);
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 0);
 });
 
 test('parseRssEntries - converts entries to links', async () => {
@@ -113,11 +113,11 @@ test('parseRssEntries - converts entries to links', async () => {
     },
   ];
 
-  const links = await parseRssEntries(entries);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].feed, 'TechNews');
-  assert.strictEqual(links[0].source, 'rss');
-  assert.strictEqual(links[1].feed, 'DevBlog');
+  const result = await parseRssEntries(entries);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].feed, 'TechNews');
+  assert.strictEqual(result.links[0].source, 'rss');
+  assert.strictEqual(result.links[1].feed, 'DevBlog');
 });
 
 test('parseRssEntries - filters invalid entries', async () => {
@@ -136,7 +136,7 @@ test('parseRssEntries - filters invalid entries', async () => {
     },
   ];
 
-  const links = await parseRssEntries(entries);
+  const result = await parseRssEntries(entries);
   // Both should be included since our validation is lenient
-  assert(links.length >= 1);
+  assert(result.links.length >= 1);
 });

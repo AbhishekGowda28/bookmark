@@ -108,7 +108,46 @@ export function createAggregationData(projectRoot: string): AggregationData {
   };
 }
 
+/**
+ * Get all aggregated links from AggregationData
+ * Combines bookmarks, tabs, and (eventually) RSS links after merge
+ * 
+ * @param data AggregationData to read from
+ * @returns Array of all links currently in aggregation
+ */
+export function getLinks(data: AggregationData): Link[] {
+  return [...data.bookmarks, ...data.tabs];
+}
+
+/**
+ * Get configuration with null-safety check
+ * Useful for steps that require config to be loaded
+ * 
+ * @param data AggregationData to read from
+ * @returns Config or throws error if not loaded
+ * @throws Error if config is not available
+ */
+export function getConfig(data: AggregationData): Config {
+  if (!data.config) {
+    throw new Error('Config not loaded - LoadConfigurationStep must run first');
+  }
+  return data.config;
+}
+
+/**
+ * Get project root - always available after initialization
+ * 
+ * @param data AggregationData to read from
+ * @returns Project root path
+ */
+export function getProjectRoot(data: AggregationData): string {
+  return data.projectRoot;
+}
+
 export default {
   isAggregationData,
   createAggregationData,
+  getLinks,
+  getConfig,
+  getProjectRoot,
 };

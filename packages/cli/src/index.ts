@@ -1,3 +1,13 @@
+// Re-export pipeline context types as public API
+export type { AggregationData } from './pipeline-context.js';
+export { 
+  isAggregationData, 
+  createAggregationData, 
+  getLinks, 
+  getConfig, 
+  getProjectRoot 
+} from './pipeline-context.js';
+
 import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parserRegistry } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
@@ -5,12 +15,9 @@ import { validateConfig } from '@bookmark/validation';
 import { typedPipeline } from '@bookmark/pipeline';
 import type { Step } from '@bookmark/pipeline';
 import type { AggregationData } from './pipeline-context.js';
+import { getConfig } from './pipeline-context.js';
 import { readFileSync } from 'fs';
 import { join } from 'path';
-
-// Re-export pipeline context types as public API
-export type { AggregationData } from './pipeline-context.js';
-export { isAggregationData, createAggregationData } from './pipeline-context.js';
 
 /**
  * Load configuration from feeds.json
@@ -55,7 +62,14 @@ export function loadRssEntries(entriesPath: string): RssEntry[] {
 export async function loadXbelFile(filePath: string): Promise<Link[]> {
   try {
     const content = readFileSync(filePath, 'utf-8');
-    return await parserRegistry.parse('xbel', content);
+    const result = await parserRegistry.parse('xbel', content);
+    if (result.errors.length > 0) {
+      console.warn(
+        `XBEL parsing had ${result.errors.length} error(s) in ${filePath}:`,
+        result.errors.map((e) => e.error).join('; ')
+      );
+    }
+    return result.links;
   } catch (error) {
     console.warn(`Failed to load XBEL from ${filePath}:`, error);
     return [];
@@ -63,6 +77,28 @@ export async function loadXbelFile(filePath: string): Promise<Link[]> {
 }
 
 // ============= Pipeline Steps (Composition Pattern) =============
+
+/**
+ * Step Contract Pattern
+ * 
+ * Each step implements Step<InputType, OutputType> and must follow these rules:
+ * 
+ * 1. **Input Contract**: Document what fields from AggregationData you depend on
+ * 2. **Output Contract**: Document what fields you populate/modify
+ * 3. **Error Handling**: Non-fatal errors logged as warnings; fatal errors throw
+ * 4. **Idempotency**: Steps should be safe to run multiple times
+ * 5. **State Preservation**: Don't clear/reset fields other steps depend on
+ * 
+ * Example:
+ *   - LoadConfigurationStep: Input = projectRoot, Output = config
+ *   - LoadBookmarksStep: Input = projectRoot, Output = bookmarks
+ *   - MergeLinksStep: Input = bookmarks, tabs, rssEntries, Output = Link[]
+ * 
+ * Custom steps can be written by implementing Step<AggregationData, AggregationData>:
+ *   - Use getConfig(data), getLinks(data), getProjectRoot(data) for safe access
+ *   - Document dependencies clearly
+ *   - Throw on unrecoverable errors; warn and continue for partial failures
+ */
 
 /**
  * Step 1: Initialize pipeline with project root
@@ -93,6 +129,40 @@ class LoadConfigurationStep implements Step<AggregationData, AggregationData> {
 }
 
 /**
+ * Step 2b: Validate configuration (optional validation step)
+ */
+class ValidateConfigStep implements Step<AggregationData, AggregationData> {
+  name = 'ValidateConfig';
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    console.log('✓ Validating configuration...');
+    try {
+      const config = getConfig(data);
+
+      // Perform validation checks
+      if (!config.feeds || config.feeds.length === 0) {
+        throw new Error('Config must have at least one feed');
+      }
+
+      for (const feed of config.feeds) {
+        if (!feed.sources || feed.sources.length === 0) {
+          throw new Error(`Feed "${feed.id}" must have at least one source`);
+        }
+        if (feed.authorMaxEntries < 1) {
+          throw new Error(`Feed "${feed.id}" authorMaxEntries must be at least 1`);
+        }
+      }
+
+      console.log(`   ✅ Config valid: ${config.feeds.length} feed(s) configured`);
+      return data;
+    } catch (error) {
+      console.error('❌ Configuration validation failed:', error);
+      throw error;
+    }
+  }
+}
+
+/**
  * Step 3: Load bookmarks from XBEL
  */
 class LoadBookmarksStep implements Step<AggregationData, AggregationData> {
@@ -102,7 +172,11 @@ class LoadBookmarksStep implements Step<AggregationData, AggregationData> {
     console.log('📚 Loading bookmarks from XBEL...');
     try {
       const content = readFileSync(join(data.projectRoot, 'bookmarks.xbel'), 'utf-8');
-      data.bookmarks = await parserRegistry.parse('xbel', content);
+      const result = await parserRegistry.parse('xbel', content);
+      data.bookmarks = result.links;
+      if (result.errors.length > 0) {
+        console.warn(`   ⚠ ${result.errors.length} bookmark(s) had parsing errors`);
+      }
     } catch (error) {
       console.warn(`Failed to load bookmarks:`, error);
       data.bookmarks = [];
@@ -122,7 +196,11 @@ class LoadTabsStep implements Step<AggregationData, AggregationData> {
     console.log('📑 Loading tabs from XBEL...');
     try {
       const content = readFileSync(join(data.projectRoot, 'tabs.xbel'), 'utf-8');
-      data.tabs = await parserRegistry.parse('xbel', content);
+      const result = await parserRegistry.parse('xbel', content);
+      data.tabs = result.links;
+      if (result.errors.length > 0) {
+        console.warn(`   ⚠ ${result.errors.length} tab(s) had parsing errors`);
+      }
     } catch (error) {
       console.warn(`Failed to load tabs:`, error);
       data.tabs = [];
@@ -154,8 +232,11 @@ class MergeLinksStep implements Step<AggregationData, Link[]> {
 
   async execute(data: AggregationData): Promise<Link[]> {
     console.log('🔀 Merging and deduplicating...');
-    const rssLinks = await parserRegistry.parse('rss', data.rssEntries);
-    const allLinks = combine([data.bookmarks, data.tabs, rssLinks]);
+    const rssResult = await parserRegistry.parse('rss', data.rssEntries);
+    if (rssResult.errors.length > 0) {
+      console.warn(`   ⚠ ${rssResult.errors.length} RSS entry/entries had parsing errors`);
+    }
+    const allLinks = combine([data.bookmarks, data.tabs, rssResult.links]);
     console.log(`   Total unique links: ${allLinks.length}`);
     return allLinks;
   }
