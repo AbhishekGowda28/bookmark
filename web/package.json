@@ -12,7 +12,6 @@
     "format": "prettier --write src"
   },
   "dependencies": {
-    "@bookmark/hooks": "workspace:*",
     "@bookmark/search": "workspace:*",
     "@bookmark/types": "workspace:*",
     "@bookmark/utils": "workspace:*",

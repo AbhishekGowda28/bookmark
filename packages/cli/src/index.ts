@@ -1,3 +1,13 @@
+// Re-export pipeline context types as public API
+export type { AggregationData } from './pipeline-context.js';
+export { 
+  isAggregationData, 
+  createAggregationData, 
+  getLinks, 
+  getConfig, 
+  getProjectRoot 
+} from './pipeline-context.js';
+
 import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parserRegistry } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
@@ -5,12 +15,9 @@ import { validateConfig } from '@bookmark/validation';
 import { typedPipeline } from '@bookmark/pipeline';
 import type { Step } from '@bookmark/pipeline';
 import type { AggregationData } from './pipeline-context.js';
+import { getConfig } from './pipeline-context.js';
 import { readFileSync } from 'fs';
 import { join } from 'path';
-
-// Re-export pipeline context types as public API
-export type { AggregationData } from './pipeline-context.js';
-export { isAggregationData, createAggregationData } from './pipeline-context.js';
 
 /**
  * Load configuration from feeds.json
@@ -72,6 +79,28 @@ export async function loadXbelFile(filePath: string): Promise<Link[]> {
 // ============= Pipeline Steps (Composition Pattern) =============
 
 /**
+ * Step Contract Pattern
+ * 
+ * Each step implements Step<InputType, OutputType> and must follow these rules:
+ * 
+ * 1. **Input Contract**: Document what fields from AggregationData you depend on
+ * 2. **Output Contract**: Document what fields you populate/modify
+ * 3. **Error Handling**: Non-fatal errors logged as warnings; fatal errors throw
+ * 4. **Idempotency**: Steps should be safe to run multiple times
+ * 5. **State Preservation**: Don't clear/reset fields other steps depend on
+ * 
+ * Example:
+ *   - LoadConfigurationStep: Input = projectRoot, Output = config
+ *   - LoadBookmarksStep: Input = projectRoot, Output = bookmarks
+ *   - MergeLinksStep: Input = bookmarks, tabs, rssEntries, Output = Link[]
+ * 
+ * Custom steps can be written by implementing Step<AggregationData, AggregationData>:
+ *   - Use getConfig(data), getLinks(data), getProjectRoot(data) for safe access
+ *   - Document dependencies clearly
+ *   - Throw on unrecoverable errors; warn and continue for partial failures
+ */
+
+/**
  * Step 1: Initialize pipeline with project root
  */
 class InitializeStep implements Step<string, AggregationData> {
@@ -96,6 +125,40 @@ class LoadConfigurationStep implements Step<AggregationData, AggregationData> {
   async execute(data: AggregationData): Promise<AggregationData> {
     data.config = loadConfig(join(data.projectRoot, 'feeds.json'));
     return data;
+  }
+}
+
+/**
+ * Step 2b: Validate configuration (optional validation step)
+ */
+class ValidateConfigStep implements Step<AggregationData, AggregationData> {
+  name = 'ValidateConfig';
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    console.log('✓ Validating configuration...');
+    try {
+      const config = getConfig(data);
+
+      // Perform validation checks
+      if (!config.feeds || config.feeds.length === 0) {
+        throw new Error('Config must have at least one feed');
+      }
+
+      for (const feed of config.feeds) {
+        if (!feed.sources || feed.sources.length === 0) {
+          throw new Error(`Feed "${feed.id}" must have at least one source`);
+        }
+        if (feed.authorMaxEntries < 1) {
+          throw new Error(`Feed "${feed.id}" authorMaxEntries must be at least 1`);
+        }
+      }
+
+      console.log(`   ✅ Config valid: ${config.feeds.length} feed(s) configured`);
+      return data;
+    } catch (error) {
+      console.error('❌ Configuration validation failed:', error);
+      throw error;
+    }
   }
 }
 
