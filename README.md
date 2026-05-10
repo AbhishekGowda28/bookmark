@@ -1,4 +1,8 @@
-# My subscriptions
+# My Subscriptions
+
+⚠️ **Personal Project** — This is a personal bookmark aggregator. Forking is disabled. External contributions are not accepted. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
 
 ## TotalTypescript
 
