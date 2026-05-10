@@ -1,6 +1,18 @@
 {
   "feeds": [
     {
+      "id": "lenny-rachitsky",
+      "author": "Lenny Rachitsky",
+      "authorMaxEntries": 10,
+      "sources": [
+        {
+          "url": "https://www.lennysnewsletter.com/feed",
+          "schedule": "monthly",
+          "maxEntries": 5
+        }
+      ]
+    },
+    {
       "id": "paul-graham",
       "author": "Paul Graham",
       "authorMaxEntries": 10,
