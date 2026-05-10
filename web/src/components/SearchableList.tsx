@@ -1,6 +1,16 @@
-import { useSearch } from '../hooks/useSearch.js';
+import { FC } from 'react';
+import type { Link } from '@bookmark/types';
+import { useSearch } from '../hooks/useSearch';
 
-export default function SearchableList({ links }) {
+interface SearchableListProps {
+  links: Link[];
+}
+
+/**
+ * Searchable list component that displays links with fuzzy search functionality
+ * @param links Array of Link objects to display
+ */
+const SearchableList: FC<SearchableListProps> = ({ links }) => {
   const { query, setQuery, results, resultCount } = useSearch(links);
 
   return (
@@ -56,4 +66,6 @@ export default function SearchableList({ links }) {
       </div>
     </div>
   );
-}
+};
+
+export default SearchableList;

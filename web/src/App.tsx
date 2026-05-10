@@ -1,10 +1,11 @@
-import { useState, useEffect } from 'react';
-import SearchableList from './components/SearchableList.jsx';
+import { useState, useEffect, FC } from 'react';
+import type { Link } from '@bookmark/types';
+import SearchableList from './components/SearchableList';
 
-export default function App() {
-  const [links, setLinks] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+const App: FC = () => {
+  const [links, setLinks] = useState<Link[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     // Load data.json on component mount
@@ -13,17 +14,18 @@ export default function App() {
         setLoading(true);
         const dataUrl = `${import.meta.env.BASE_URL}data.json`;
         const response = await fetch(dataUrl);
-        
+
         if (!response.ok) {
           throw new Error(`Failed to load data: ${response.statusText}`);
         }
-        
+
         const data = await response.json();
         setLinks(data);
         setError(null);
       } catch (err) {
         console.error('Error loading data:', err);
-        setError(err.message || 'Failed to load links');
+        const errorMessage = err instanceof Error ? err.message : 'Failed to load links';
+        setError(errorMessage);
       } finally {
         setLoading(false);
       }
@@ -63,4 +65,6 @@ export default function App() {
       </main>
     </div>
   );
-}
+};
+
+export default App;

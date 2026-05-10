@@ -1,8 +1,21 @@
 import { useMemo, useState } from 'react';
+import type { Link } from '@bookmark/types';
 import Fuse from 'fuse.js';
 
-export function useSearch(links) {
-  const [query, setQuery] = useState('');
+interface UseSearchReturn {
+  query: string;
+  setQuery: (query: string) => void;
+  results: Link[];
+  resultCount: number;
+}
+
+/**
+ * Hook for searching through links using Fuse.js fuzzy search
+ * @param links Array of Link objects to search through
+ * @returns Search state and results
+ */
+export function useSearch(links: Link[]): UseSearchReturn {
+  const [query, setQuery] = useState<string>('');
 
   // Initialize Fuse.js index with links
   const fuse = useMemo(() => {
