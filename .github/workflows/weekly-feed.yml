@@ -13,28 +13,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: >-
             https://www.totaltypescript.com/rss.xml,
             https://www.youtube.com/feeds/videos.xml?channel_id=UCswG6FSbgZjbWtdf_hMLaow
           comment_tag_name: TotalTypescript
       - name: Pull in posts of Martin Fowler
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://martinfowler.com/feed.atom"
           comment_tag_name: martinfowler
           disable_sort: true
           disable_item_validation: true
       - name: Max Woolf - AI guy
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://minimaxir.com/index.xml"
           comment_tag_name: Max Woolf
           disable_sort: true
           disable_item_validation: true
       - name: CSS Articles
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: >-
             https://www.smashingmagazine.com/feed/, 
