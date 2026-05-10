@@ -30,7 +30,7 @@ The system aggregates links from three independent sources:
 2. **Browser Tabs** (`tabs.xbel`): Currently open browser tabs
 3. **RSS Feeds** (`feeds.json` → configured feeds): Programmatically fetched entries
 
-See [PHASE-1-DESIGN.md](../PHASE-1-DESIGN.md) for foundational three-source architecture.
+See [PHASE-1-DESIGN.md](../../PHASE-1-DESIGN.md) for foundational three-source architecture.
 
 ### Pipeline Architecture
 
@@ -56,7 +56,7 @@ GenerateReadme ← (ENHANCED Phase 2: include RSS links)
 AggregationReport ← (NEW Phase 2: per-feed stats)
 ```
 
-All steps implement the `Step<T, T>` contract, preserving the `AggregationData` type through the pipeline. See [STEP-DEVELOPMENT-GUIDE.md](../STEP-DEVELOPMENT-GUIDE.md#step-contract) for Step development patterns.
+All steps implement the `Step<T, T>` contract, preserving the `AggregationData` type through the pipeline. See [STEP-DEVELOPMENT-GUIDE.md](../../STEP-DEVELOPMENT-GUIDE.md#step-contract) for Step development patterns.
 
 ### Parser Registry Pattern
 
@@ -74,7 +74,7 @@ export async function parseRssEntries(
 }
 ```
 
-The parser registry pattern was established in [ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md Phase A.2](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a2-parser-registry-pattern). Phase 2 builds on this foundation by:
+The parser registry pattern was established in [ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md Phase A.2](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a2-parser-registry-pattern). Phase 2 builds on this foundation by:
 - Adding `parseRssEntries()` as the entries parser
 - Collecting errors per feed without failing the entire aggregation
 - Using `ParseResult` type for consistent error handling
@@ -113,7 +113,7 @@ The `feeds.json` file is the **single source of truth** for RSS feed configurati
 - **Per-author limits**: `authorMaxEntries` controls entries per author
 - **Extensibility**: New feed sources added without code changes
 
-**Validation**: The `ValidateConfigStep` enforces schema rules before RSS fetching begins, preventing downstream errors. See [Phase C.2 Validation Seam](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-c2-validation-seam).
+**Validation**: The `ValidateConfigStep` enforces schema rules before RSS fetching begins, preventing downstream errors. See [Phase C.2 Validation Seam](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-c2-validation-seam).
 
 ### 2. FetchRssStep: Core Fetching Logic
 
@@ -436,7 +436,7 @@ export type Link = {
 - **Type-safe pipeline**: `TypedPipelineBuilder<AggregationData, AggregationData>` ensures all steps implement Step<T, T>
 - **Public API**: AggregationData exported as public type for external consumers
 
-See [PHASE-1-DESIGN.md - Q16 AggregationData API](../PHASE-1-DESIGN.md#q16-aggregation-data-api) for API design rationale.
+See [PHASE-1-DESIGN.md - Q16 AggregationData API](../../PHASE-1-DESIGN.md#q16-aggregation-data-api) for API design rationale.
 
 ---
 
@@ -503,7 +503,7 @@ async function handleFetch(args: string[]) {
 
 ### Pattern 1: Step Development
 
-All RSS pipeline steps follow this template from [STEP-DEVELOPMENT-GUIDE.md](../STEP-DEVELOPMENT-GUIDE.md):
+All RSS pipeline steps follow this template from [STEP-DEVELOPMENT-GUIDE.md](../../STEP-DEVELOPMENT-GUIDE.md):
 
 ```typescript
 export class MyRssStep implements Step<AggregationData, AggregationData> {
@@ -584,12 +584,12 @@ This Phase 2 implementation builds directly on Phase 1 architectural patterns:
 
 | Phase 1 Foundation | Phase 2 Usage |
 |---|---|
-| **TypedPipelineBuilder** ([Phase B.1](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-b1-heterogeneous-pipeline-typing)) | All RSS steps implement Step<AggregationData, AggregationData>; preserves type through pipeline |
-| **Parser Registry Pattern** ([Phase A.2](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a2-parser-registry-pattern)) | `parseRssEntries()` implements entries parser interface for extensibility |
-| **Validation Seam** ([Phase A.1](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a1-validation-seam)) | `ValidateConfigStep` validates feeds.json before FetchRssStep runs |
-| **Opaque Search Abstraction** ([Phase B.2](../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-b2-opaque-search-abstraction)) | Search layer unchanged; RSS links aggregated alongside bookmarks/tabs |
-| **Public AggregationData API** ([PHASE-1-DESIGN.md Q16](../PHASE-1-DESIGN.md#q16-aggregation-data-api)) | Extended with `links?` and `errors?` fields; remains public contract |
-| **Three-Source Architecture** ([PHASE-1-DESIGN.md Q5](../PHASE-1-DESIGN.md#q5-rss-feeds)) | RSS sources now fully integrated via `feeds.json` configuration |
+| **TypedPipelineBuilder** ([Phase B.1](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-b1-heterogeneous-pipeline-typing)) | All RSS steps implement Step<AggregationData, AggregationData>; preserves type through pipeline |
+| **Parser Registry Pattern** ([Phase A.2](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a2-parser-registry-pattern)) | `parseRssEntries()` implements entries parser interface for extensibility |
+| **Validation Seam** ([Phase A.1](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-a1-validation-seam)) | `ValidateConfigStep` validates feeds.json before FetchRssStep runs |
+| **Opaque Search Abstraction** ([Phase B.2](../../ARCHITECTURAL-DEEPENING-OPPORTUNITIES.md#phase-b2-opaque-search-abstraction)) | Search layer unchanged; RSS links aggregated alongside bookmarks/tabs |
+| **Public AggregationData API** ([PHASE-1-DESIGN.md Q16](../../PHASE-1-DESIGN.md#q16-aggregation-data-api)) | Extended with `links?` and `errors?` fields; remains public contract |
+| **Three-Source Architecture** ([PHASE-1-DESIGN.md Q5](../../PHASE-1-DESIGN.md#q5-rss-feeds)) | RSS sources now fully integrated via `feeds.json` configuration |
 
 ---
 
