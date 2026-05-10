@@ -1,11 +1,8 @@
 {
-  "name": "@bookmark/cli",
+  "name": "@bookmark/schema",
   "version": "1.0.0",
-  "description": "CLI orchestrator for link aggregation and data pipeline",
+  "description": "Centralized Zod-based data validation schemas for all data contracts",
   "type": "module",
-  "bin": {
-    "bookmark-cli": "./dist/cli.js"
-  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -17,23 +14,19 @@
   "scripts": {
     "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
-    "start": "node dist/cli.js",
     "test": "tsx --test src/index.test.ts",
     "lint": "eslint src --max-warnings 0",
     "format": "prettier --write src"
   },
   "dependencies": {
-    "@bookmark/core": "workspace:*",
-    "@bookmark/parsers": "workspace:*",
-    "@bookmark/schema": "workspace:*",
     "@bookmark/types": "workspace:*",
-    "@bookmark/utils": "workspace:*"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "tsx": "^4.21.0"
   },
-  "keywords": ["cli", "orchestrator", "links"],
+  "keywords": ["schema", "validation", "zod"],
   "author": "Abhishek Gowda",
   "license": "MIT"
 }
