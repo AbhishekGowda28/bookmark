@@ -55,7 +55,14 @@ export function loadRssEntries(entriesPath: string): RssEntry[] {
 export async function loadXbelFile(filePath: string): Promise<Link[]> {
   try {
     const content = readFileSync(filePath, 'utf-8');
-    return await parserRegistry.parse('xbel', content);
+    const result = await parserRegistry.parse('xbel', content);
+    if (result.errors.length > 0) {
+      console.warn(
+        `XBEL parsing had ${result.errors.length} error(s) in ${filePath}:`,
+        result.errors.map((e) => e.error).join('; ')
+      );
+    }
+    return result.links;
   } catch (error) {
     console.warn(`Failed to load XBEL from ${filePath}:`, error);
     return [];
@@ -102,7 +109,11 @@ class LoadBookmarksStep implements Step<AggregationData, AggregationData> {
     console.log('📚 Loading bookmarks from XBEL...');
     try {
       const content = readFileSync(join(data.projectRoot, 'bookmarks.xbel'), 'utf-8');
-      data.bookmarks = await parserRegistry.parse('xbel', content);
+      const result = await parserRegistry.parse('xbel', content);
+      data.bookmarks = result.links;
+      if (result.errors.length > 0) {
+        console.warn(`   ⚠ ${result.errors.length} bookmark(s) had parsing errors`);
+      }
     } catch (error) {
       console.warn(`Failed to load bookmarks:`, error);
       data.bookmarks = [];
@@ -122,7 +133,11 @@ class LoadTabsStep implements Step<AggregationData, AggregationData> {
     console.log('📑 Loading tabs from XBEL...');
     try {
       const content = readFileSync(join(data.projectRoot, 'tabs.xbel'), 'utf-8');
-      data.tabs = await parserRegistry.parse('xbel', content);
+      const result = await parserRegistry.parse('xbel', content);
+      data.tabs = result.links;
+      if (result.errors.length > 0) {
+        console.warn(`   ⚠ ${result.errors.length} tab(s) had parsing errors`);
+      }
     } catch (error) {
       console.warn(`Failed to load tabs:`, error);
       data.tabs = [];
@@ -154,8 +169,11 @@ class MergeLinksStep implements Step<AggregationData, Link[]> {
 
   async execute(data: AggregationData): Promise<Link[]> {
     console.log('🔀 Merging and deduplicating...');
-    const rssLinks = await parserRegistry.parse('rss', data.rssEntries);
-    const allLinks = combine([data.bookmarks, data.tabs, rssLinks]);
+    const rssResult = await parserRegistry.parse('rss', data.rssEntries);
+    if (rssResult.errors.length > 0) {
+      console.warn(`   ⚠ ${rssResult.errors.length} RSS entry/entries had parsing errors`);
+    }
+    const allLinks = combine([data.bookmarks, data.tabs, rssResult.links]);
     console.log(`   Total unique links: ${allLinks.length}`);
     return allLinks;
   }

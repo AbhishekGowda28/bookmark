@@ -7,10 +7,11 @@ test('parseMarkdown - extracts markdown links', async () => {
 [Example Link](https://example.com)
 [Another Link](https://another.com)`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].url, 'https://example.com');
-  assert.strictEqual(links[1].url, 'https://another.com');
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].url, 'https://example.com');
+  assert.strictEqual(result.links[1].url, 'https://another.com');
+  assert.strictEqual(result.success, true);
 });
 
 test('parseMarkdown - handles mixed content', async () => {
@@ -21,14 +22,15 @@ Some text here
 [Link 2](https://link2.com)
 *Italic text*`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 2);
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 2);
 });
 
 test('parseMarkdown - handles empty markdown', async () => {
   const markdown = `# Empty
 No links here`;
 
-  const links = await parseMarkdown(markdown);
-  assert.strictEqual(links.length, 0);
+  const result = await parseMarkdown(markdown);
+  assert.strictEqual(result.links.length, 0);
+  assert.strictEqual(result.success, true);
 });
