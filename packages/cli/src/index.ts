@@ -2,8 +2,20 @@ import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parseXbel, parseRssEntries } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
 import { validateConfig } from '@bookmark/schema';
+import { AbstractStep } from '@bookmark/pipeline';
 import { readFileSync } from 'fs';
 import { join } from 'path';
+
+/**
+ * Internal data structure for pipeline stages
+ */
+interface AggregationData {
+  projectRoot: string;
+  config?: Config;
+  bookmarks: Link[];
+  tabs: Link[];
+  rssEntries: RssEntry[];
+}
 
 /**
  * Load configuration from feeds.json
@@ -55,42 +67,143 @@ export async function loadXbelFile(filePath: string): Promise<Link[]> {
   }
 }
 
+// ============= Pipeline Steps =============
+
 /**
- * Main orchestration function for link aggregation
+ * Step 1: Initialize pipeline with project root
+ */
+class InitializeStep extends AbstractStep<string, AggregationData> {
+  constructor() {
+    super('Initialize');
+  }
+
+  async execute(projectRoot: string): Promise<AggregationData> {
+    return {
+      projectRoot,
+      bookmarks: [],
+      tabs: [],
+      rssEntries: [],
+    };
+  }
+}
+
+/**
+ * Step 2: Load configuration
+ */
+class LoadConfigurationStep extends AbstractStep<AggregationData, AggregationData> {
+  constructor() {
+    super('LoadConfiguration');
+  }
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    data.config = loadConfig(join(data.projectRoot, 'feeds.json'));
+    return data;
+  }
+}
+
+/**
+ * Step 3: Load bookmarks from XBEL
+ */
+class LoadBookmarksStep extends AbstractStep<AggregationData, AggregationData> {
+  constructor() {
+    super('LoadBookmarks');
+  }
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    console.log('📚 Loading bookmarks from XBEL...');
+    data.bookmarks = await loadXbelFile(join(data.projectRoot, 'bookmarks.xbel'));
+    console.log(`   Found ${data.bookmarks.length} bookmarks`);
+    return data;
+  }
+}
+
+/**
+ * Step 4: Load tabs from XBEL
+ */
+class LoadTabsStep extends AbstractStep<AggregationData, AggregationData> {
+  constructor() {
+    super('LoadTabs');
+  }
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    console.log('📑 Loading tabs from XBEL...');
+    data.tabs = await loadXbelFile(join(data.projectRoot, 'tabs.xbel'));
+    console.log(`   Found ${data.tabs.length} tabs`);
+    return data;
+  }
+}
+
+/**
+ * Step 5: Load RSS entries and convert to links
+ */
+class LoadRssStep extends AbstractStep<AggregationData, AggregationData> {
+  constructor() {
+    super('LoadRss');
+  }
+
+  async execute(data: AggregationData): Promise<AggregationData> {
+    console.log('📡 Loading RSS entries...');
+    data.rssEntries = loadRssEntries(join(data.projectRoot, 'rss-entries.json'));
+    console.log(`   Found ${data.rssEntries.length} RSS entries`);
+    return data;
+  }
+}
+
+/**
+ * Step 6: Merge and deduplicate all sources
+ */
+class MergeLinksStep extends AbstractStep<AggregationData, Link[]> {
+  constructor() {
+    super('MergeLinks');
+  }
+
+  async execute(data: AggregationData): Promise<Link[]> {
+    console.log('🔀 Merging and deduplicating...');
+    const rssLinks = parseRssEntries(data.rssEntries);
+    const allLinks = combine([data.bookmarks, data.tabs, rssLinks]);
+    console.log(`   Total unique links: ${allLinks.length}`);
+    return allLinks;
+  }
+}
+
+/**
+ * Create the aggregation pipeline
+ * @returns Array of pipeline steps in execution order
+ */
+function createAggregationPipeline() {
+  return [
+    new InitializeStep(),
+    new LoadConfigurationStep(),
+    new LoadBookmarksStep(),
+    new LoadTabsStep(),
+    new LoadRssStep(),
+    new MergeLinksStep(),
+  ];
+}
+
+/**
+ * Main orchestration function for link aggregation using pipeline
  * Reads from multiple sources, merges, deduplicates, and outputs
  * @param projectRoot Root directory of the project
  * @returns Promise<Link[]> - Aggregated and deduplicated links
  */
 export async function generate(projectRoot: string = process.cwd()): Promise<Link[]> {
   try {
-    // Note: Config is loaded but not currently used. Kept for future RSS feed filtering.
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const config = loadConfig(join(projectRoot, 'feeds.json'));
+    const { executePipeline } = await import('@bookmark/pipeline');
+    const steps = createAggregationPipeline();
+    
+    // Use executePipeline directly to avoid type system constraints
+    // The pipeline executes steps sequentially, with final step output returned as final result
+    const result = await executePipeline<Link[]>(
+      steps as any[], // Cast to any to allow heterogeneous step types
+      projectRoot
+    );
 
-    // Load links from various sources
-    const bookmarksPath = join(projectRoot, 'bookmarks.xbel');
-    const tabsPath = join(projectRoot, 'tabs.xbel');
-    const rssEntriesPath = join(projectRoot, 'rss-entries.json');
+    if (!result.success) {
+      throw new Error(`Pipeline failed: ${result.errors.map((e) => e.message).join(', ')}`);
+    }
 
-    console.log('📚 Loading bookmarks from XBEL...');
-    const bookmarks = await loadXbelFile(bookmarksPath);
-    console.log(`   Found ${bookmarks.length} bookmarks`);
-
-    console.log('📑 Loading tabs from XBEL...');
-    const tabs = await loadXbelFile(tabsPath);
-    console.log(`   Found ${tabs.length} tabs`);
-
-    console.log('📡 Loading RSS entries...');
-    const rssEntriesData = loadRssEntries(rssEntriesPath);
-    const rssLinks = parseRssEntries(rssEntriesData);
-    console.log(`   Found ${rssLinks.length} RSS entries`);
-
-    // Combine all sources
-    console.log('🔀 Merging and deduplicating...');
-    const allLinks = combine([bookmarks, tabs, rssLinks]);
-    console.log(`   Total unique links: ${allLinks.length}`);
-
-    return allLinks;
+    return result.data as Link[];
   } catch (error) {
     console.error('Error during generation:', error);
     throw error;

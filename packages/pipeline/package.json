@@ -1,11 +1,8 @@
 {
-  "name": "@bookmark/cli",
+  "name": "@bookmark/pipeline",
   "version": "1.0.0",
-  "description": "CLI orchestrator for link aggregation and data pipeline",
+  "description": "Pipeline builder with composable Step abstraction for data transformations",
   "type": "module",
-  "bin": {
-    "bookmark-cli": "./dist/cli.js"
-  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -17,24 +14,18 @@
   "scripts": {
     "build": "tsc -p .",
     "typecheck": "tsc --noEmit",
-    "start": "node dist/cli.js",
     "test": "tsx --test src/index.test.ts",
     "lint": "eslint src --max-warnings 0",
     "format": "prettier --write src"
   },
   "dependencies": {
-    "@bookmark/core": "workspace:*",
-    "@bookmark/parsers": "workspace:*",
-    "@bookmark/pipeline": "workspace:*",
-    "@bookmark/schema": "workspace:*",
-    "@bookmark/types": "workspace:*",
-    "@bookmark/utils": "workspace:*"
+    "@bookmark/types": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "tsx": "^4.21.0"
   },
-  "keywords": ["cli", "orchestrator", "links"],
+  "keywords": ["pipeline", "step", "orchestration", "composition"],
   "author": "Abhishek Gowda",
   "license": "MIT"
 }
