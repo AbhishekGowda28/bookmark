@@ -1,8 +1,8 @@
 import type { Link, RssEntry, Config } from '@bookmark/types';
-import { parseXbel, parseRssEntries } from '@bookmark/parsers';
+import { parserRegistry } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
 import { validateConfig } from '@bookmark/validation';
-import { AbstractStep, typedPipeline } from '@bookmark/pipeline';
+import { typedPipeline } from '@bookmark/pipeline';
 import type { Step } from '@bookmark/pipeline';
 import { readFileSync } from 'fs';
 import { join } from 'path';
@@ -54,29 +54,27 @@ export function loadRssEntries(entriesPath: string): RssEntry[] {
 }
 
 /**
- * Parse XBEL file from path
+ * Parse XBEL file from path using the parser registry
  * @param filePath Path to XBEL file
  * @returns Array of Link objects
  */
 export async function loadXbelFile(filePath: string): Promise<Link[]> {
   try {
     const content = readFileSync(filePath, 'utf-8');
-    return await parseXbel(content);
+    return await parserRegistry.parse('xbel', content);
   } catch (error) {
     console.warn(`Failed to load XBEL from ${filePath}:`, error);
     return [];
   }
 }
 
-// ============= Pipeline Steps =============
+// ============= Pipeline Steps (Composition Pattern) =============
 
 /**
  * Step 1: Initialize pipeline with project root
  */
-class InitializeStep extends AbstractStep<string, AggregationData> {
-  constructor() {
-    super('Initialize');
-  }
+class InitializeStep implements Step<string, AggregationData> {
+  name = 'Initialize';
 
   async execute(projectRoot: string): Promise<AggregationData> {
     return {
@@ -91,10 +89,8 @@ class InitializeStep extends AbstractStep<string, AggregationData> {
 /**
  * Step 2: Load configuration
  */
-class LoadConfigurationStep extends AbstractStep<AggregationData, AggregationData> {
-  constructor() {
-    super('LoadConfiguration');
-  }
+class LoadConfigurationStep implements Step<AggregationData, AggregationData> {
+  name = 'LoadConfiguration';
 
   async execute(data: AggregationData): Promise<AggregationData> {
     data.config = loadConfig(join(data.projectRoot, 'feeds.json'));
@@ -105,14 +101,18 @@ class LoadConfigurationStep extends AbstractStep<AggregationData, AggregationDat
 /**
  * Step 3: Load bookmarks from XBEL
  */
-class LoadBookmarksStep extends AbstractStep<AggregationData, AggregationData> {
-  constructor() {
-    super('LoadBookmarks');
-  }
+class LoadBookmarksStep implements Step<AggregationData, AggregationData> {
+  name = 'LoadBookmarks';
 
   async execute(data: AggregationData): Promise<AggregationData> {
     console.log('📚 Loading bookmarks from XBEL...');
-    data.bookmarks = await loadXbelFile(join(data.projectRoot, 'bookmarks.xbel'));
+    try {
+      const content = readFileSync(join(data.projectRoot, 'bookmarks.xbel'), 'utf-8');
+      data.bookmarks = await parserRegistry.parse('xbel', content);
+    } catch (error) {
+      console.warn(`Failed to load bookmarks:`, error);
+      data.bookmarks = [];
+    }
     console.log(`   Found ${data.bookmarks.length} bookmarks`);
     return data;
   }
@@ -121,14 +121,18 @@ class LoadBookmarksStep extends AbstractStep<AggregationData, AggregationData> {
 /**
  * Step 4: Load tabs from XBEL
  */
-class LoadTabsStep extends AbstractStep<AggregationData, AggregationData> {
-  constructor() {
-    super('LoadTabs');
-  }
+class LoadTabsStep implements Step<AggregationData, AggregationData> {
+  name = 'LoadTabs';
 
   async execute(data: AggregationData): Promise<AggregationData> {
     console.log('📑 Loading tabs from XBEL...');
-    data.tabs = await loadXbelFile(join(data.projectRoot, 'tabs.xbel'));
+    try {
+      const content = readFileSync(join(data.projectRoot, 'tabs.xbel'), 'utf-8');
+      data.tabs = await parserRegistry.parse('xbel', content);
+    } catch (error) {
+      console.warn(`Failed to load tabs:`, error);
+      data.tabs = [];
+    }
     console.log(`   Found ${data.tabs.length} tabs`);
     return data;
   }
@@ -137,10 +141,8 @@ class LoadTabsStep extends AbstractStep<AggregationData, AggregationData> {
 /**
  * Step 5: Load RSS entries and convert to links
  */
-class LoadRssStep extends AbstractStep<AggregationData, AggregationData> {
-  constructor() {
-    super('LoadRss');
-  }
+class LoadRssStep implements Step<AggregationData, AggregationData> {
+  name = 'LoadRss';
 
   async execute(data: AggregationData): Promise<AggregationData> {
     console.log('📡 Loading RSS entries...');
@@ -153,33 +155,16 @@ class LoadRssStep extends AbstractStep<AggregationData, AggregationData> {
 /**
  * Step 6: Merge and deduplicate all sources
  */
-class MergeLinksStep extends AbstractStep<AggregationData, Link[]> {
-  constructor() {
-    super('MergeLinks');
-  }
+class MergeLinksStep implements Step<AggregationData, Link[]> {
+  name = 'MergeLinks';
 
   async execute(data: AggregationData): Promise<Link[]> {
     console.log('🔀 Merging and deduplicating...');
-    const rssLinks = parseRssEntries(data.rssEntries);
+    const rssLinks = await parserRegistry.parse('rss', data.rssEntries);
     const allLinks = combine([data.bookmarks, data.tabs, rssLinks]);
     console.log(`   Total unique links: ${allLinks.length}`);
     return allLinks;
   }
-}
-
-/**
- * Create the aggregation pipeline
- * @returns Array of pipeline steps in execution order
- */
-function createAggregationPipeline() {
-  return [
-    new InitializeStep(),
-    new LoadConfigurationStep(),
-    new LoadBookmarksStep(),
-    new LoadTabsStep(),
-    new LoadRssStep(),
-    new MergeLinksStep(),
-  ];
 }
 
 /**
