@@ -5,6 +5,9 @@
   "type": "module",
   "private": true,
   "packageManager": "pnpm@8.10.0",
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "scripts": {
     "lint": "pnpm -r lint",
     "format": "pnpm -r format",
@@ -16,7 +19,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@types/node": "^20.0.0",
+    "@types/node": "^24.0.0",
     "@typescript-eslint/eslint-plugin": "^8.59.2",
     "@typescript-eslint/parser": "^8.59.2",
     "eslint": "^10.3.0",

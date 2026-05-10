@@ -14,21 +14,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in posts of old web-sites
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://www.joelonsoftware.com/feed/, https://ilya.grigorik.com/essays/rss/, https://johnnydecimal.com/rss.xml, https://ethical.net/feed/"
           comment_tag_name: "old-sub"
           feed_names: "Old Subs"
           max_post_count: 10
       - name: Pull in posts of Paul Grahm
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "http://www.aaronsw.com/2002/feeds/pgessays.rss"
           comment_tag_name: "paulgraham"
           disable_sort: true
           disable_item_validation: true
       - name: Addy Osmani Feeds
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfetJpmQH2XpFj8uFgWsezw, https://addyosmani.com/feed.xml, https://addyo.substack.com/feed, https://dev.to/feed/addyosmani, https://news.google.com/rss/search?q=site:twitter.com/addyosmani&hl=en-US&gl=US&ceid=US:en"
           comment_tag_name: "addyo"
