@@ -52,10 +52,10 @@ const testLinks: Link[] = [
   },
 ];
 
-test('createSearcher should initialize a Fuse.js searcher', () => {
+test('createSearcher should initialize a Searcher instance', () => {
   const searcher = createSearcher(testLinks);
   assert.ok(searcher, 'Searcher should be created');
-  assert.ok(searcher.search, 'Searcher should have search method');
+  assert.equal(searcher.constructor.name, 'Searcher', 'Should be Searcher instance');
 });
 
 test('search should return all links when query is empty', () => {
