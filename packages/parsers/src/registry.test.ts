@@ -34,31 +34,38 @@ test('file parser - has correct structure', () => {
   const fileParser: Parser = {
     type: 'file',
     name: 'xbel',
+    canParse: (_content: string) => true,
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    parse: async (_content: string) => [],
+    parse: async (_content: string) => ({ links: [], errors: [], success: false }),
   };
   assert.strictEqual(fileParser.type, 'file');
   assert.strictEqual(fileParser.name, 'xbel');
   assert.strictEqual(typeof fileParser.parse, 'function');
+  assert.strictEqual(typeof fileParser.canParse, 'function');
 });
 
 test('entries parser - has correct structure', () => {
   const entriesParser: Parser = {
     type: 'entries',
     name: 'rss',
+    canParse: (_entries: RssEntry[]) => true,
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    parse: async (_entries: RssEntry[]) => [],
+    parse: async (_entries: RssEntry[]) => ({ links: [], errors: [], success: false }),
   };
   assert.strictEqual(entriesParser.type, 'entries');
   assert.strictEqual(entriesParser.name, 'rss');
   assert.strictEqual(typeof entriesParser.parse, 'function');
+  assert.strictEqual(typeof entriesParser.canParse, 'function');
 });
 
 // Registry Type Contract
 test('Registry interface - requires parse method', () => {
   const registry: Registry = {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    parse: async (_format: string, _input: string | RssEntry[]) => [],
+    parse: async (_format: string, _input: string | RssEntry[]) => ({ links: [], errors: [], success: false }),
+    add: () => {},
+    list: () => [],
+    lookup: () => undefined,
   };
   assert.strictEqual(typeof registry.parse, 'function');
 });
@@ -67,10 +74,13 @@ test('Registry parse method - accepts string input', () => {
   const registry: Registry = {
     parse: async (format: string, input: string | RssEntry[]) => {
       if (typeof input === 'string') {
-        return [];
+        return { links: [], errors: [], success: false };
       }
-      return [];
+      return { links: [], errors: [], success: false };
     },
+    add: () => {},
+    list: () => [],
+    lookup: () => undefined,
   };
   assert.ok(registry);
 });
@@ -79,10 +89,13 @@ test('Registry parse method - accepts RssEntry array input', () => {
   const registry: Registry = {
     parse: async (format: string, input: string | RssEntry[]) => {
       if (Array.isArray(input)) {
-        return [];
+        return { links: [], errors: [], success: false };
       }
-      return [];
+      return { links: [], errors: [], success: false };
     },
+    add: () => {},
+    list: () => [],
+    lookup: () => undefined,
   };
   assert.ok(registry);
 });
@@ -106,27 +119,30 @@ test('registry.parse - xbel format with valid input', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parserRegistry.parse('xbel', xbel);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].title, 'Example');
-  assert.strictEqual(links[0].source, 'bookmark');
+  const result = await parserRegistry.parse('xbel', xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].title, 'Example');
+  assert.strictEqual(result.links[0].source, 'bookmark');
+  assert.strictEqual(result.success, true);
 });
 
 test('registry.parse - markdown format with valid input', async () => {
   const markdown = '[Example](https://example.com)';
-  const links = await parserRegistry.parse('markdown', markdown);
-  assert.ok(links.length > 0);
-  assert.strictEqual(links[0].url, 'https://example.com');
+  const result = await parserRegistry.parse('markdown', markdown);
+  assert.ok(result.links.length > 0);
+  assert.strictEqual(result.links[0].url, 'https://example.com');
+  assert.strictEqual(result.success, true);
 });
 
 test('registry.parse - rss format with valid input', async () => {
   const entries: RssEntry[] = [
     { title: 'Test', url: 'http://example.com', author: 'test-feed' },
   ];
-  const links = await parserRegistry.parse('rss', entries);
-  assert.strictEqual(links.length, 1);
-  assert.strictEqual(links[0].source, 'rss');
-  assert.strictEqual(links[0].feed, 'test-feed');
+  const result = await parserRegistry.parse('rss', entries);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.links[0].source, 'rss');
+  assert.strictEqual(result.links[0].feed, 'test-feed');
+  assert.strictEqual(result.success, true);
 });
 
 test('registry.parse - throws on unknown format', async () => {
@@ -170,6 +186,7 @@ test('registry.parse - case insensitive format matching', async () => {
   </bookmark>
 </xbel>`;
 
-  const links = await parserRegistry.parse('XBEL', xbel);
-  assert.strictEqual(links.length, 1);
+  const result = await parserRegistry.parse('XBEL', xbel);
+  assert.strictEqual(result.links.length, 1);
+  assert.strictEqual(result.success, true);
 });

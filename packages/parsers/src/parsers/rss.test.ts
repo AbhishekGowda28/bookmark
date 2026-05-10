@@ -18,11 +18,12 @@ test('parseRssEntries - converts entries to links', async () => {
     },
   ];
 
-  const links = await parseRssEntries(entries);
-  assert.strictEqual(links.length, 2);
-  assert.strictEqual(links[0].feed, 'TechNews');
-  assert.strictEqual(links[0].source, 'rss');
-  assert.strictEqual(links[1].feed, 'DevBlog');
+  const result = await parseRssEntries(entries);
+  assert.strictEqual(result.links.length, 2);
+  assert.strictEqual(result.links[0].feed, 'TechNews');
+  assert.strictEqual(result.links[0].source, 'rss');
+  assert.strictEqual(result.links[1].feed, 'DevBlog');
+  assert.strictEqual(result.success, true);
 });
 
 test('parseRssEntries - filters invalid entries', async () => {
@@ -41,7 +42,7 @@ test('parseRssEntries - filters invalid entries', async () => {
     },
   ];
 
-  const links = await parseRssEntries(entries);
+  const result = await parseRssEntries(entries);
   // Both should be included since our validation is lenient
-  assert(links.length >= 1);
+  assert(result.links.length >= 1);
 });

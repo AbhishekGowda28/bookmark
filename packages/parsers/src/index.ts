@@ -2,7 +2,7 @@
 export { parseXbel, parseMarkdown, parseRssEntries } from './parsers/index.js';
 
 // Re-export registry types and utilities
-export type { Parser, Registry } from './registry.js';
+export type { Parser, Registry, ParseResult, ParseError } from './registry.js';
 export { isFileInput, isEntriesInput, createParserRegistry } from './registry.js';
 import { createParserRegistry, type Parser } from './registry.js';
 import { parseXbel, parseMarkdown, parseRssEntries } from './parsers/index.js';
@@ -18,6 +18,7 @@ export const parserRegistry = createParserRegistry(
       {
         type: 'file',
         name: 'xbel',
+        canParse: () => true, // XBEL parser always attempts parsing
         parse: parseXbel,
       },
     ],
@@ -26,6 +27,7 @@ export const parserRegistry = createParserRegistry(
       {
         type: 'file',
         name: 'markdown',
+        canParse: () => true, // Markdown parser always attempts parsing
         parse: parseMarkdown,
       },
     ],
@@ -34,6 +36,7 @@ export const parserRegistry = createParserRegistry(
       {
         type: 'entries',
         name: 'rss',
+        canParse: () => true, // RSS parser always attempts parsing
         parse: parseRssEntries,
       },
     ],
