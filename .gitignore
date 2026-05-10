@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Lock files - PNPM ONLY (no npm package-lock.json or yarn.lock)
+package-lock.json
+yarn.lock
+
 # Build outputs
 dist/
 build/

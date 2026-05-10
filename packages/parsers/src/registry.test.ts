@@ -34,7 +34,8 @@ test('file parser - has correct structure', () => {
   const fileParser: Parser = {
     type: 'file',
     name: 'xbel',
-    parse: async (content: string) => [],
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    parse: async (_content: string) => [],
   };
   assert.strictEqual(fileParser.type, 'file');
   assert.strictEqual(fileParser.name, 'xbel');
@@ -45,7 +46,8 @@ test('entries parser - has correct structure', () => {
   const entriesParser: Parser = {
     type: 'entries',
     name: 'rss',
-    parse: async (entries: RssEntry[]) => [],
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    parse: async (_entries: RssEntry[]) => [],
   };
   assert.strictEqual(entriesParser.type, 'entries');
   assert.strictEqual(entriesParser.name, 'rss');
@@ -55,7 +57,8 @@ test('entries parser - has correct structure', () => {
 // Registry Type Contract
 test('Registry interface - requires parse method', () => {
   const registry: Registry = {
-    parse: async (format: string, input: string | RssEntry[]) => [],
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    parse: async (_format: string, _input: string | RssEntry[]) => [],
   };
   assert.strictEqual(typeof registry.parse, 'function');
 });

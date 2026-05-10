@@ -1,5 +1,3 @@
-import type { Link, RssEntry } from '@bookmark/types';
-
 // Re-export all parsers from modular structure
 export { parseXbel, parseMarkdown, parseRssEntries } from './parsers/index.js';
 

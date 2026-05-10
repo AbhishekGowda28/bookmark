@@ -1,11 +1,10 @@
-import type { Link, RssEntry } from '@bookmark/types';
+import type { Link, RssEntry, Config } from '@bookmark/types';
 import { parserRegistry } from '@bookmark/parsers';
 import { combine } from '@bookmark/core';
 import { validateConfig } from '@bookmark/validation';
 import { typedPipeline } from '@bookmark/pipeline';
 import type { Step } from '@bookmark/pipeline';
 import type { AggregationData } from './pipeline-context.js';
-import { createAggregationData } from './pipeline-context.js';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 

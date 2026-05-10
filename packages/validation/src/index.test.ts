@@ -379,6 +379,7 @@ test('generateId: creates unique IDs', () => {
 
 test('ensureLink: returns link with ID', () => {
   const partial = { title: 'Test', url: 'https://example.com' };
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const link = ensureLink(partial as any);
   assert.ok(link.id, 'Should have ID');
   assert.equal(link.title, partial.title, 'Should preserve title');
@@ -386,18 +387,21 @@ test('ensureLink: returns link with ID', () => {
 
 test('ensureLink: generates ID if missing', () => {
   const partial = { title: 'Test', url: 'https://example.com' };
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const link = ensureLink(partial as any);
   assert.ok(link.id.length > 0, 'Should generate ID');
 });
 
 test('ensureLink: defaults title to Untitled', () => {
   const partial = { url: 'https://example.com' };
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const link = ensureLink(partial as any);
   assert.equal(link.title, 'Untitled', 'Should default to Untitled');
 });
 
 test('ensureLink: sets default source to bookmark', () => {
   const partial = { id: '1', title: 'Test', url: 'https://example.com' };
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const link = ensureLink(partial as any);
   assert.equal(link.source, 'bookmark', 'Should default source to bookmark');
 });

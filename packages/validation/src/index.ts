@@ -211,6 +211,7 @@ export function safeParseLinkOrNull(data: unknown): Link | null {
 export function getLinkValidationErrors(data: unknown): string[] {
   const result = LinkSchema.safeParse(data);
   if (result.success) return [];
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   return result.error.issues.map((issue: any) => `${issue.path.join('.')}: ${issue.message}`);
 }
 
