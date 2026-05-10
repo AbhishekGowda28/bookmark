@@ -1,22 +1,22 @@
 import type { Link } from '@bookmark/types';
 import type { Step } from '@bookmark/pipeline';
 import type { AggregationData } from '../pipeline-context.js';
-import {  getConfig } from '../pipeline-context.js';
+import { getConfig } from '../pipeline-context.js';
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 /**
  * GenerateReadmeStep: Generate and update README with RSS links
- * 
+ *
  * Input Contract:
  *   - data.projectRoot: Root directory for README location
  *   - data.config: Feed configuration (for ordering and display)
  *   - data.links: Aggregated RSS links from FetchRssStep
- * 
+ *
  * Output Contract:
  *   - Updates README.md with RSS links grouped by feed
  *   - Each feed gets a section with comment delimiters: <!-- FEED-ID:START/END -->
- * 
+ *
  * Behavior:
  *   - Groups links by feed (feed property)
  *   - Formats as markdown list items
@@ -46,19 +46,19 @@ export class GenerateReadmeStep implements Step<AggregationData, AggregationData
       // Update README sections for each feed
       for (const feed of config.feeds) {
         const links = linksByFeed.get(feed.id) || [];
-        readmeContent = this.updateReadmeSection(
-          readmeContent,
-          feed.id,
-          feed.author,
-          links
-        );
+        readmeContent = this.updateReadmeSection(readmeContent, feed.id, feed.author, links);
       }
 
       // Write updated README
       writeFileSync(readmePath, readmeContent, 'utf-8');
 
-      const totalLinks = Array.from(linksByFeed.values()).reduce((sum, links) => sum + links.length, 0);
-      console.log(`   ✅ Updated README with ${totalLinks} RSS links across ${config.feeds.length} feeds`);
+      const totalLinks = Array.from(linksByFeed.values()).reduce(
+        (sum, links) => sum + links.length,
+        0
+      );
+      console.log(
+        `   ✅ Updated README with ${totalLinks} RSS links across ${config.feeds.length} feeds`
+      );
 
       return data;
     } catch (error) {
