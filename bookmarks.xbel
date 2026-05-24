@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1252: for Floccus bookmark sync browser extension -->
+<!--- highestId :1254: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -942,6 +942,9 @@
           </bookmark>
           <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="126">
             <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
+          </bookmark>
+          <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2501017942/How+to+use+the+Revenue+Path" id="1253">
+            <title>How to use the Revenue Path? - Experimentation Hub - Confluence</title>
           </bookmark>
         </folder>
         <folder id="646">
@@ -2483,6 +2486,9 @@
       </bookmark>
       <bookmark href="https://swc.rs/" id="425">
         <title>Rust-based platform for the Web – SWC</title>
+      </bookmark>
+      <bookmark href="https://mediamodifier.com/svg-editor#" id="1254">
+        <title>SVG Editor - Mediamodifier</title>
       </bookmark>
     </folder>
     <folder id="327">
