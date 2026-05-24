@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1255: for Floccus bookmark sync browser extension -->
+<!--- highestId :1256: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -3025,6 +3025,9 @@
   </bookmark>
   <bookmark href="https://abhishekgowda28.github.io/bookmark/" id="1252">
     <title>Searchable Links | Bookmark Aggregator</title>
+  </bookmark>
+  <bookmark href="https://devtutorial.io/how-to-create-a-git-directory-template-p1250.html" id="1256">
+    <title>How to create a git directory template - Devtutorial</title>
   </bookmark>
 </folder>
 <folder id="1">
