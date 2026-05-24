@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1256: for Floccus bookmark sync browser extension -->
+<!--- highestId :1257: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -879,6 +879,9 @@
           </bookmark>
           <bookmark href="https://gitlab.com/Cimpress-Technology/artwork-design/blue-team" id="667">
             <title>Blue Team · GitLab</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/ObsidianMD/comments/qp9ffe/do_you_use_obsidian_for_your_dayweekmonthly/" id="1257">
+            <title>Do you use Obsidian for your day/week/monthly planner? Show me your layouts! : r/ObsidianMD</title>
           </bookmark>
         </folder>
         <folder id="645">
