@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1261: for Floccus bookmark sync browser extension -->
+<!--- highestId :1262: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -888,6 +888,9 @@
           </bookmark>
           <bookmark href="https://github.com/github/awesome-copilot" id="1259">
             <title>github/awesome-copilot: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
+          </bookmark>
+          <bookmark href="https://abhishekgowda28.github.io/word-count/" id="1262">
+            <title>Word Cloud Generator</title>
           </bookmark>
         </folder>
         <folder id="645">
