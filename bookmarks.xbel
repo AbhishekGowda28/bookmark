@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1258: for Floccus bookmark sync browser extension -->
+<!--- highestId :1261: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -885,6 +885,9 @@
           </bookmark>
           <bookmark href="https://www.paulgraham.com/greatwork.html" id="1258">
             <title>How to Do Great Work</title>
+          </bookmark>
+          <bookmark href="https://github.com/github/awesome-copilot" id="1259">
+            <title>github/awesome-copilot: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
           </bookmark>
         </folder>
         <folder id="645">
@@ -3035,6 +3038,12 @@
   <bookmark href="https://devtutorial.io/how-to-create-a-git-directory-template-p1250.html" id="1256">
     <title>How to create a git directory template - Devtutorial</title>
   </bookmark>
+  <folder id="1260">
+    <title>Read later</title>
+    <bookmark href="https://www.youtube.com/watch?v=SVOrURyOu_U" id="1261">
+      <title>Designing Data-intensive Applications with Martin Kleppmann - YouTube</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
