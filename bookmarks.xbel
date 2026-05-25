@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1262: for Floccus bookmark sync browser extension -->
+<!--- highestId :1263: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -3045,6 +3045,9 @@
     <title>Read later</title>
     <bookmark href="https://www.youtube.com/watch?v=SVOrURyOu_U" id="1261">
       <title>Designing Data-intensive Applications with Martin Kleppmann - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=2TLXsxkz0zI" id="1263">
+      <title>Ralph Loops: Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick - YouTube</title>
     </bookmark>
   </folder>
 </folder>
