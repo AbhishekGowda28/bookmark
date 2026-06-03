@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1294: for Floccus bookmark sync browser extension -->
+<!--- highestId :1296: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1653,6 +1653,12 @@
           </folder>
           <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/?sort=created_date&amp;state=closed&amp;author_username=Abhishek.Gowda&amp;first_page_size=100" id="1271">
             <title>Studio - My MRs</title>
+          </bookmark>
+          <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VS/pages/5674074275/User+Stories+for+Consolidated+Key+Rotation+Dashboard" id="1295">
+            <title>User Stories for Consolidated Key Rotation Dashboard - Vista Security (VSec) - Confluence</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/vistaprint-org/vsec/ai-security-triager/-/blob/main/triager-core/scripts/validate_report.py?ref_type=heads" id="1296">
+            <title>triager-core/scripts/validate_report.py · main · Vista / VSec / AI-Security-Triager · GitLab</title>
           </bookmark>
         </folder>
         <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
