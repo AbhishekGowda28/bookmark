@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1319: for Floccus bookmark sync browser extension -->
+<!--- highestId :1322: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2914,6 +2914,15 @@
   </folder>
   <bookmark href="https://omo.dev/" id="1319">
     <title>Oh My OpenAgent — The Best Agent Harness | Oh My OpenAgent</title>
+  </bookmark>
+  <bookmark href="https://deep-dive-claude-code.vercel.app/" id="1320">
+    <title>Deep Dive Claude Code</title>
+  </bookmark>
+  <bookmark href="https://agentskills.io/specification#file-references" id="1321">
+    <title>Specification - Agent Skills</title>
+  </bookmark>
+  <bookmark href="https://opencode.ai/docs/agents/#use-title" id="1322">
+    <title>Agents | OpenCode</title>
   </bookmark>
 </folder>
 <folder id="1">
