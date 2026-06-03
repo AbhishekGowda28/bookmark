@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1278: for Floccus bookmark sync browser extension -->
+<!--- highestId :1282: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2764,6 +2764,9 @@
     <bookmark href="https://github.com/mattpocock/skills" id="1270">
       <title>mattpocock/skills: Skills for Real Engineers. Straight from my .claude directory.</title>
     </bookmark>
+    <bookmark href="https://github.com/commit365/system-design-mastery/blob/main/08-interview-preparation/02-practice-problems/04-parking-lot-system.md" id="1279">
+      <title>system-design-mastery/08-interview-preparation/02-practice-problems/04-parking-lot-system.md at main · commit365/system-design-mastery</title>
+    </bookmark>
   </folder>
   <folder id="1272">
     <title>Work - MR reviews</title>
@@ -2779,6 +2782,9 @@
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2923365065/Cloud+Fundamentals+training" id="1274">
       <title>Cloud Fundamentals training - Vista Engineering (Org) - Confluence</title>
     </bookmark>
+    <bookmark href="https://systemdesignschool.io/fundamentals/what-is-system-design-interview" id="1280">
+      <title>Master System Design Interviews: Your Essential Guide to Success</title>
+    </bookmark>
   </folder>
   <folder id="1277">
     <title>Check ins</title>
@@ -2790,6 +2796,12 @@
     </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3021471745/Engineering+Builder+IC+Leveling+Guide+PR1-PR7" id="869">
       <title>Engineering &quot;Builder IC&quot; Leveling Guide PR1-PR7 - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DIYDI/pages/3291219141/PR3+-+SWE+III" id="1281">
+      <title>PR3 - SWE III - Domain: Design Inspiration - Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.canva.com/design/DAG-rcF3VRo/7CsrTMfCv5ha96AJbqGnfA/edit" id="1282">
+      <title>A MAN WHO CAN NOT COMMAND HIMSELF WILL ALWAYS BE A SLAVE - Desktop Wallpaper</title>
     </bookmark>
   </folder>
 </folder>
