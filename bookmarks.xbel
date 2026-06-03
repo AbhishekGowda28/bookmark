@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1300: for Floccus bookmark sync browser extension -->
+<!--- highestId :1301: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2857,6 +2857,9 @@
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4568514760/Design+Editing+A11y+Audit+Tickets" id="1300">
       <title>Design Editing A11y Audit Tickets - DIY Design Editing - Confluence</title>
     </bookmark>
+  </folder>
+  <folder id="1301">
+    <title>Standard products</title>
   </folder>
 </folder>
 <folder id="1">
