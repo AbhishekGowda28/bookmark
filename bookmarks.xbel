@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1266: for Floccus bookmark sync browser extension -->
+<!--- highestId :1270: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2756,6 +2756,18 @@
   <bookmark href="https://cloud.umami.is/analytics/eu/websites" id="1266">
     <title>Websites | Umami</title>
   </bookmark>
+  <folder id="1267">
+    <title>Github</title>
+    <bookmark href="https://github.com/TauricResearch/TradingAgents" id="1268">
+      <title>TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework</title>
+    </bookmark>
+    <bookmark href="https://github.com/donnemartin/system-design-primer" id="1269">
+      <title>donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</title>
+    </bookmark>
+    <bookmark href="https://github.com/mattpocock/skills" id="1270">
+      <title>mattpocock/skills: Skills for Real Engineers. Straight from my .claude directory.</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
