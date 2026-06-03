@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1304: for Floccus bookmark sync browser extension -->
+<!--- highestId :1308: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2868,6 +2868,18 @@
     </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5910921693/RFC+Improve+calcifer+upsell?focusedCommentId=5996118944" id="1304">
       <title>[RFC] Improve calcifer upsell - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/PCD/pages/17528127705/Vista+Legacy+Decoration+Upsell+Problems" id="1305">
+      <title>Vista Legacy Decoration Upsell Problems - Product Catalog Domain - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4330618994/Multi+Deco+PPAG+-+Product+Brief" id="1306">
+      <title>Multi Deco PPAG - Product Brief - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NACE/pages/4879450713/Vista+Fulfilled+Products-+Standards+Migration" id="1307">
+      <title>Vista Fulfilled Products- Standards Migration - VistaPrint North America - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NACE/pages/4441670488/Vista+Pixart+Standard+Product+Migration" id="1308">
+      <title>Vista + Pixart Standard Product Migration - VistaPrint North America - Confluence</title>
     </bookmark>
   </folder>
 </folder>
