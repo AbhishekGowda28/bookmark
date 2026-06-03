@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1276: for Floccus bookmark sync browser extension -->
+<!--- highestId :1278: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -45,9 +45,6 @@
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4180346102/DRAFT+Engineering+Principles+question+bank+for+interviews" id="864">
         <title>DRAFT: Engineering Principles question bank for interviews - Vista Engineering (Org) - Confluence</title>
       </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VSC/pages/2549909217/Vista+Behaviors" id="865">
-        <title>Vista Behaviors - Vista Strategy Center - Confluence</title>
-      </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4958650563/Vista+AI+Coding+Assistant+Configuration+Guide" id="866">
         <title>Vista AI Coding Assistant Configuration Guide - Developer Resource Center - Confluence</title>
       </bookmark>
@@ -56,9 +53,6 @@
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3088432857/Data+Analytics+Learning+Map+FY24-FY25" id="868">
         <title>Data Analytics Learning Map FY24-FY25 - Vista Engineering (Org) - Confluence</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3021471745/Engineering+Builder+IC+Leveling+Guide+PR1-PR7" id="869">
-        <title>Engineering &quot;Builder IC&quot; Leveling Guide PR1-PR7 - Vista Engineering (Org) - Confluence</title>
       </bookmark>
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/4076995659/Promotion+Process" id="870">
         <title>Promotion Process - Vista Engineering (Org) - Confluence</title>
@@ -2784,6 +2778,18 @@
     <title>Learning</title>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2923365065/Cloud+Fundamentals+training" id="1274">
       <title>Cloud Fundamentals training - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+  </folder>
+  <folder id="1277">
+    <title>Check ins</title>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/5853905139/WIP+Milestone+1+Skills+expectations+per+level+PR1+PR4+Future+SWE+Profile" id="1278">
+      <title>[WIP] Milestone 1 : Skills expectations per level (PR1–PR4) — Future SWE Profile - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VSC/pages/2549909217/Vista+Behaviors" id="865">
+      <title>Vista Behaviors - Vista Strategy Center - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/3021471745/Engineering+Builder+IC+Leveling+Guide+PR1-PR7" id="869">
+      <title>Engineering &quot;Builder IC&quot; Leveling Guide PR1-PR7 - Vista Engineering (Org) - Confluence</title>
     </bookmark>
   </folder>
 </folder>
