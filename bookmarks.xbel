@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1272: for Floccus bookmark sync browser extension -->
+<!--- highestId :1274: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2773,6 +2773,12 @@
   </folder>
   <folder id="1272">
     <title>Work - MR reviews</title>
+  </folder>
+  <folder id="1273">
+    <title>Learning</title>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VEORG/pages/2923365065/Cloud+Fundamentals+training" id="1274">
+      <title>Cloud Fundamentals training - Vista Engineering (Org) - Confluence</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="1">
