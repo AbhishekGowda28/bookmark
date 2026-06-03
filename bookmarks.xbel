@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1310: for Floccus bookmark sync browser extension -->
+<!--- highestId :1314: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2886,6 +2886,18 @@
     </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5246615624/Enable+Multiple+Decoration+Locations+for+Standard+PRDs" id="1310">
       <title>Enable Multiple Decoration Locations for Standard PRDs - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/STDP/pages/15793258776/Standard+schema+for+multiple+decoration+choices+areas" id="1311">
+      <title>Standard schema for multiple decoration choices &amp; areas - Standard Products - Cimpress Technology</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/6014698367/Rough+draft+-+Standard+products+upsell+studio+constraints" id="1312">
+      <title>[Rough draft] - Standard products upsell studio constraints - DIY Design Editing - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DS1/pages/4115727242/Standard+Product+Adoption+Migrations" id="1313">
+      <title>Standard Product Adoption + Migrations - Domain: Storefront - Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.figma.com/design/L06xEZz2dqyanAfTT2G0hP/Multi-deco-PPAG?node-id=15303-39328&amp;p=f&amp;m=dev" id="1314">
+      <title>Multi deco PPAG – Figma</title>
     </bookmark>
   </folder>
 </folder>
