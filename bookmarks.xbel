@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1274: for Floccus bookmark sync browser extension -->
+<!--- highestId :1276: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2773,6 +2773,12 @@
   </folder>
   <folder id="1272">
     <title>Work - MR reviews</title>
+    <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/11655" id="1275">
+      <title>feat(design-panel): Extract DesignPanel to libs/feature/design-panel package (Phase 1) (!11655) · Merge requests · Vista / Design Technology / studio / studio · GitLab</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/?sort=created_date&amp;state=opened&amp;author_username=Abhishek.Gowda&amp;first_page_size=100" id="1276">
+      <title>Merge requests · Vista / Design Technology / studio / studio · GitLab</title>
+    </bookmark>
   </folder>
   <folder id="1273">
     <title>Learning</title>
