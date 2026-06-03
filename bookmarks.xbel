@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1287: for Floccus bookmark sync browser extension -->
+<!--- highestId :1289: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2817,6 +2817,12 @@
     </bookmark>
     <bookmark href="https://www.canva.com/design/DAG-rcF3VRo/7CsrTMfCv5ha96AJbqGnfA/edit" id="1282">
       <title>A MAN WHO CAN NOT COMMAND HIMSELF WILL ALWAYS BE A SLAVE - Desktop Wallpaper</title>
+    </bookmark>
+  </folder>
+  <folder id="1288">
+    <title>Security</title>
+    <bookmark href="https://learn.snyk.io/user/learning-progress/" id="1289">
+      <title>Learning Progress | Snyk Learn</title>
     </bookmark>
   </folder>
 </folder>
