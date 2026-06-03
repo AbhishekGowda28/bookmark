@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1270: for Floccus bookmark sync browser extension -->
+<!--- highestId :1272: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -1657,6 +1657,9 @@
               <title>Upload &amp; Go: Current experience issues &amp; proposed solutions - Team: Matching - Confluence</title>
             </bookmark>
           </folder>
+          <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/?sort=created_date&amp;state=closed&amp;author_username=Abhishek.Gowda&amp;first_page_size=100" id="1271">
+            <title>Studio - My MRs</title>
+          </bookmark>
         </folder>
         <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
           <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
@@ -2767,6 +2770,9 @@
     <bookmark href="https://github.com/mattpocock/skills" id="1270">
       <title>mattpocock/skills: Skills for Real Engineers. Straight from my .claude directory.</title>
     </bookmark>
+  </folder>
+  <folder id="1272">
+    <title>Work - MR reviews</title>
   </folder>
 </folder>
 <folder id="1">
