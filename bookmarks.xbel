@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1315: for Floccus bookmark sync browser extension -->
+<!--- highestId :1318: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2823,6 +2823,15 @@
     </bookmark>
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/5714608239/Agent+AI+Leveling+Framework+L1+L4" id="1315">
       <title>Agent AI Leveling Framework (L1–L4+) - Developer Resource Center - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~237994689/pages/5816385963/Is+Code+Cheap+-+A+case+for+why+software+quality+matters+more+in+an+AI+engineering+age" id="1316">
+      <title>Is Code Cheap - A case for why software quality matters more in an AI engineering age - Eric Masiello - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/5780635766/Getting+Started+with+the+Compound+Engineering+Workflow" id="1317">
+      <title>Getting Started with the Compound Engineering Workflow - Developer Resource Center - Confluence</title>
+    </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/5521182169/Play+L3+Agentic+Workflows" id="1318">
+      <title>[Play] L3 Agentic Workflows - Developer Resource Center - Confluence</title>
     </bookmark>
   </folder>
   <folder id="1288">
