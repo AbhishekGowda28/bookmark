@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1282: for Floccus bookmark sync browser extension -->
+<!--- highestId :1287: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2766,6 +2766,21 @@
     </bookmark>
     <bookmark href="https://github.com/commit365/system-design-mastery/blob/main/08-interview-preparation/02-practice-problems/04-parking-lot-system.md" id="1279">
       <title>system-design-mastery/08-interview-preparation/02-practice-problems/04-parking-lot-system.md at main · commit365/system-design-mastery</title>
+    </bookmark>
+    <bookmark href="https://www.industrialempathy.com/posts/design-docs-at-google/" id="1283">
+      <title>Design Docs at Google</title>
+    </bookmark>
+    <bookmark href="https://stephango.com/vault" id="1284">
+      <title>How I use Obsidian — Steph Ango</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4" id="1285">
+      <title>The Cost Of JavaScript In 2018. Update: The Cost Of JavaScript In 2019… | by Addy Osmani | Medium</title>
+    </bookmark>
+    <bookmark href="https://askfuzz.ai/chat/4a53dd46-c9e7-429f-9058-f26ddf4db89e" id="1286">
+      <title>fuzz - Finance, India and AI</title>
+    </bookmark>
+    <bookmark href="https://calendar.perfplanet.com/2025/react-19-2-further-advances-inp-optimization/" id="1287">
+      <title>React 19.2. Further Advances INP Optimization - Web Performance Calendar</title>
     </bookmark>
   </folder>
   <folder id="1272">
