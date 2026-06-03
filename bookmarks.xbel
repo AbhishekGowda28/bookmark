@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1314: for Floccus bookmark sync browser extension -->
+<!--- highestId :1315: for Floccus bookmark sync browser extension -->
 
 <folder id="214">
   <title>Bookmarks Menu</title>
@@ -2821,6 +2821,9 @@
     <bookmark href="https://www.canva.com/design/DAG-rcF3VRo/7CsrTMfCv5ha96AJbqGnfA/edit" id="1282">
       <title>A MAN WHO CAN NOT COMMAND HIMSELF WILL ALWAYS BE A SLAVE - Desktop Wallpaper</title>
     </bookmark>
+    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/5714608239/Agent+AI+Leveling+Framework+L1+L4" id="1315">
+      <title>Agent AI Leveling Framework (L1–L4+) - Developer Resource Center - Confluence</title>
+    </bookmark>
   </folder>
   <folder id="1288">
     <title>Security</title>
@@ -2897,7 +2900,7 @@
       <title>Standard Product Adoption + Migrations - Domain: Storefront - Confluence</title>
     </bookmark>
     <bookmark href="https://www.figma.com/design/L06xEZz2dqyanAfTT2G0hP/Multi-deco-PPAG?node-id=15303-39328&amp;p=f&amp;m=dev" id="1314">
-      <title>Multi deco PPAG – Figma</title>
+      <title>Multi deco PPAG – Figma / Standard product figma</title>
     </bookmark>
   </folder>
 </folder>
