@@ -279,6 +279,9 @@
       <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/DTT/pages/1396190299/DDIF+Schema+-+V2" id="826">
         <title>DDIF Schema - V2 - Design Technology Domain - Confluence</title>
       </bookmark>
+      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2501017942/How+to+use+the+Revenue+Path" id="1253">
+        <title>How to use the Revenue Path? - Experimentation Hub - Confluence</title>
+      </bookmark>
     </folder>
     <folder id="6">
       <title>Vista</title>
@@ -616,17 +619,8 @@
           <bookmark href="https://www.youtube.com/watch?v=zhTjzscNLEI" id="1328">
             <title>OSINT: Find Everything About Anyone! - YouTube</title>
           </bookmark>
-          <bookmark href="https://www.paulgraham.com/greatwork.html" id="1258">
-            <title>How to Do Great Work</title>
-          </bookmark>
-          <bookmark href="https://github.com/github/awesome-copilot" id="1259">
-            <title>github/awesome-copilot: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
-          </bookmark>
           <bookmark href="https://abhishekgowda28.github.io/word-count/" id="1262">
             <title>Word Cloud Generator</title>
-          </bookmark>
-          <bookmark href="https://noghartt.dev/" id="1265">
-            <title>Noghartt&apos;s garden</title>
           </bookmark>
         </folder>
         <folder id="559">
@@ -892,6 +886,15 @@
           <bookmark href="https://www.reddit.com/r/ObsidianMD/comments/qp9ffe/do_you_use_obsidian_for_your_dayweekmonthly/" id="1257">
             <title>Do you use Obsidian for your day/week/monthly planner? Show me your layouts! : r/ObsidianMD</title>
           </bookmark>
+          <bookmark href="https://www.paulgraham.com/greatwork.html" id="1258">
+            <title>How to Do Great Work</title>
+          </bookmark>
+          <bookmark href="https://github.com/github/awesome-copilot" id="1259">
+            <title>github/awesome-copilot: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
+          </bookmark>
+          <bookmark href="https://noghartt.dev/" id="1265">
+            <title>Noghartt&apos;s garden</title>
+          </bookmark>
         </folder>
         <folder id="645">
           <title>Confluence</title>
@@ -954,9 +957,6 @@
           </bookmark>
           <bookmark href="https://cimpress-support.atlassian.net/wiki/spaces/CI/pages/189628702/Cimpress+Document+Interchange+Format+Parameters+CDIF+API" id="126">
             <title>Cimpress Document Interchange Format Parameters (CDIF) API - Cimpress Documentation</title>
-          </bookmark>
-          <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/coe/pages/2501017942/How+to+use+the+Revenue+Path" id="1253">
-            <title>How to use the Revenue Path? - Experimentation Hub - Confluence</title>
           </bookmark>
         </folder>
         <folder id="646">
@@ -1291,51 +1291,6 @@
     <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/overview" id="1329">
       <title>Design Editing Domain</title>
     </bookmark>
-    <bookmark href="http://192.168.0.117:5006/reports/d85513a9-042a-4782-95f2-6f0a654b2b7e" id="1249">
-      <title>Actual</title>
-    </bookmark>
-    <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/?sort=created_date&amp;state=closed&amp;author_username=Abhishek.Gowda&amp;first_page_size=100" id="1271">
-      <title>Studio - My MRs</title>
-    </bookmark>
-    <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VS/pages/5674074275/User+Stories+for+Consolidated+Key+Rotation+Dashboard" id="1295">
-      <title>User Stories for Consolidated Key Rotation Dashboard - Vista Security (VSec) - Confluence</title>
-    </bookmark>
-    <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
-      <title>Excalidraw Whiteboard</title>
-    </bookmark>
-    <folder id="1237">
-      <title>FY-26</title>
-      <folder id="1238">
-        <title>Security</title>
-        <bookmark href="https://app.snyk.io/org/dom-0170/dashboard" id="1236">
-          <title>Dashboard | Snyk</title>
-        </bookmark>
-        <bookmark href="https://arethetypeswrong.github.io/" id="1239">
-          <title>Are The Types Wrong? - Tool for analyzing TypeScript types of npm packages</title>
-        </bookmark>
-        <bookmark href="https://app.getcortexapp.com/admin/service/en2d140cd7a38bb7b6/code-and-security" id="1243">
-          <title>Albelli Integration Layer Entity Details</title>
-        </bookmark>
-        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/pages/edit-v2/5352030421?draftShareId=a24212f5-a2ca-4fad-810e-db4458bd8132" id="1244">
-          <title>Add Page - Draft - DIY Editing - Security Report - Abhishek Gowda - Confluence</title>
-        </bookmark>
-        <bookmark href="https://app.snyk.io/org/dom-0170/issues?v=1&amp;context[page]=issues&amp;issue_status=%255B%2522Open%2522%255D&amp;issues_table_issues_detail_cols=SCORE%257CASSET%2520%2526%2520SOURCE%2520CODE%257CEXPLOIT%2520MATURITY%257CTARGET%2520%2526%2520PROJECT%257CPROJECT%2520ORIGIN%257CSNYK%2520PRODUCT&amp;issues_table_issues_detail_rows=10&amp;issues_table_issues_detail_sort=ISSUE_SEVERITY_RANK%2520DESC" id="1245">
-          <title>Organization Issues | Snyk</title>
-        </bookmark>
-        <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4623959127/FY25+EU+Accessibility+Audit+-+DIY+Design+Editing" id="1246">
-          <title>FY25 EU Accessibility Audit - DIY Design Editing - DIY Design Editing - Confluence</title>
-        </bookmark>
-      </folder>
-    </folder>
-    <folder id="1240">
-      <title>Follow ups</title>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5375983863/React+Rules+Violations+Learnings" id="1241">
-        <title>React Rules Violations Learnings - DIY Design Editing - Confluence</title>
-      </bookmark>
-      <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/TM1/pages/5222138150/Upload+Go+Current+experience+issues+proposed+solutions" id="1242">
-        <title>Upload &amp; Go: Current experience issues &amp; proposed solutions - Team: Matching - Confluence</title>
-      </bookmark>
-    </folder>
   </folder>
   <folder id="169">
     <title>FF - PC - Local Servers</title>
@@ -1666,6 +1621,48 @@
           <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/NTEO/pages/4747069089/Agenda+2025.05.14+-+Understanding+Aria+from+Level+Access" id="811">
             <title>Agenda 2025.05.14 - Understanding Aria from Level Access - Developer Resource Center - Confluence</title>
           </bookmark>
+          <bookmark href="http://192.168.0.117:5006/reports/d85513a9-042a-4782-95f2-6f0a654b2b7e" id="1249">
+            <title>Actual</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/vistaprint-org/design-technology/studio/studio/-/merge_requests/?sort=created_date&amp;state=closed&amp;author_username=Abhishek.Gowda&amp;first_page_size=100" id="1271">
+            <title>Studio - My MRs</title>
+          </bookmark>
+          <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/VS/pages/5674074275/User+Stories+for+Consolidated+Key+Rotation+Dashboard" id="1295">
+            <title>User Stories for Consolidated Key Rotation Dashboard - Vista Security (VSec) - Confluence</title>
+          </bookmark>
+          <folder id="1237">
+            <title>FY-26</title>
+            <folder id="1238">
+              <title>Security</title>
+              <bookmark href="https://app.snyk.io/org/dom-0170/dashboard" id="1236">
+                <title>Dashboard | Snyk</title>
+              </bookmark>
+              <bookmark href="https://arethetypeswrong.github.io/" id="1239">
+                <title>Are The Types Wrong? - Tool for analyzing TypeScript types of npm packages</title>
+              </bookmark>
+              <bookmark href="https://app.getcortexapp.com/admin/service/en2d140cd7a38bb7b6/code-and-security" id="1243">
+                <title>Albelli Integration Layer Entity Details</title>
+              </bookmark>
+              <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/~6422bb1657f0c028e2f71de5/pages/edit-v2/5352030421?draftShareId=a24212f5-a2ca-4fad-810e-db4458bd8132" id="1244">
+                <title>Add Page - Draft - DIY Editing - Security Report - Abhishek Gowda - Confluence</title>
+              </bookmark>
+              <bookmark href="https://app.snyk.io/org/dom-0170/issues?v=1&amp;context[page]=issues&amp;issue_status=%255B%2522Open%2522%255D&amp;issues_table_issues_detail_cols=SCORE%257CASSET%2520%2526%2520SOURCE%2520CODE%257CEXPLOIT%2520MATURITY%257CTARGET%2520%2526%2520PROJECT%257CPROJECT%2520ORIGIN%257CSNYK%2520PRODUCT&amp;issues_table_issues_detail_rows=10&amp;issues_table_issues_detail_sort=ISSUE_SEVERITY_RANK%2520DESC" id="1245">
+                <title>Organization Issues | Snyk</title>
+              </bookmark>
+              <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/4623959127/FY25+EU+Accessibility+Audit+-+DIY+Design+Editing" id="1246">
+                <title>FY25 EU Accessibility Audit - DIY Design Editing - DIY Design Editing - Confluence</title>
+              </bookmark>
+            </folder>
+          </folder>
+          <folder id="1240">
+            <title>Follow ups</title>
+            <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/AE/pages/5375983863/React+Rules+Violations+Learnings" id="1241">
+              <title>React Rules Violations Learnings - DIY Design Editing - Confluence</title>
+            </bookmark>
+            <bookmark href="https://vistaprint.atlassian.net/wiki/spaces/TM1/pages/5222138150/Upload+Go+Current+experience+issues+proposed+solutions" id="1242">
+              <title>Upload &amp; Go: Current experience issues &amp; proposed solutions - Team: Matching - Confluence</title>
+            </bookmark>
+          </folder>
         </folder>
         <bookmark href="https://www.youtube.com/watch?v=SOTamWNgDKc" id="803">
           <title>AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! - YouTube</title>
@@ -2757,6 +2754,9 @@
     </bookmark>
     <bookmark href="https://ezprompt.net/" id="379">
       <title>Easy Bash Prompt Generator</title>
+    </bookmark>
+    <bookmark href="https://excalidraw.com/#room=ec4b4cca46b2409c42b0,GTKpjoP-4mGNJtiN8kr4Kg" id="777">
+      <title>Sharable Link</title>
     </bookmark>
   </folder>
   <bookmark href="https://cloud.umami.is/analytics/eu/websites" id="1266">
