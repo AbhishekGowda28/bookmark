@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :19: for Floccus bookmark sync browser extension -->
+<!--- highestId :20: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
@@ -49,6 +49,9 @@
   </bookmark>
   <bookmark href="moz-extension://0243d554-7f73-4aa9-8336-4723d97ee690/dist/html/options.html#/" id="19">
     <title>Floccus bookmark sync</title>
+  </bookmark>
+  <bookmark href="https://github.com/settings/tokens/5657069258" id="20">
+    <title>Edit Personal Access Token (Classic)</title>
   </bookmark>
 </folder>
 </xbel>
