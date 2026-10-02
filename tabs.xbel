@@ -5,17 +5,8 @@
 
 <folder id="1">
   <title>Window 0</title>
-  <bookmark href="https://dev.to/abhishekgowda28/how-i-keep-my-bookmarks-in-sync-without-yet-another-bookmarking-app-47on/edit" id="3">
-    <title>Edit Post - DEV Community</title>
-  </bookmark>
   <bookmark href="https://alexn.org/blog/2025/03/15/firefox-extensions/?ref=dailydev" id="4">
     <title>My Favorite Firefox Extensions - Alexandru Nedelcu</title>
-  </bookmark>
-  <bookmark href="https://alexn.org/blog/2025/03/03/use-firefox/" id="5">
-    <title>Use Firefox in 2025 - Alexandru Nedelcu</title>
-  </bookmark>
-  <bookmark href="https://alexn.org/" id="6">
-    <title>Alexandru Nedelcu - On programming and personal projects</title>
   </bookmark>
   <bookmark href="https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers" id="7">
     <title>7 simple habits of the best engineers I know</title>
@@ -41,17 +32,11 @@
   <bookmark href="https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc" id="16">
     <title>Best LLM for Coding and Developers in 2025 - DEV Community</title>
   </bookmark>
-  <bookmark href="about:newtab" id="17">
-    <title>New Tab</title>
-  </bookmark>
   <bookmark href="moz-extension://0243d554-7f73-4aa9-8336-4723d97ee690/dist/html/options.html#/options/17595628951600.4965151951248402" id="18">
     <title>Floccus bookmark sync</title>
   </bookmark>
   <bookmark href="moz-extension://0243d554-7f73-4aa9-8336-4723d97ee690/dist/html/options.html#/" id="19">
     <title>Floccus bookmark sync</title>
-  </bookmark>
-  <bookmark href="https://github.com/settings/tokens/5657069258" id="20">
-    <title>Edit Personal Access Token (Classic)</title>
   </bookmark>
 </folder>
 </xbel>
